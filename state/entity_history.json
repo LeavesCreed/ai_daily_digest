@@ -1,0 +1,28 @@
+{
+  "entities": {
+    "Google": {
+      "mentions": 3,
+      "last_date": "2026-05-20"
+    },
+    "Dell": {
+      "mentions": 1,
+      "last_date": "2026-05-20"
+    },
+    "NVIDIA": {
+      "mentions": 1,
+      "last_date": "2026-05-20"
+    },
+    "SandboxAQ": {
+      "mentions": 1,
+      "last_date": "2026-05-20"
+    },
+    "Anthropic": {
+      "mentions": 1,
+      "last_date": "2026-05-20"
+    },
+    "OpenHands": {
+      "mentions": 1,
+      "last_date": "2026-05-20"
+    }
+  }
+}

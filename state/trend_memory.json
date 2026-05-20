@@ -1,0 +1,20 @@
+{
+  "trends": {
+    "agentic_ai_infrastructure": {
+      "first_observed": "2026-05-20",
+      "strength": "strong",
+      "related_events": [
+        "Dell AI Factory",
+        "Gemini 3.5 Flash agent optimization"
+      ]
+    },
+    "model_efficiency": {
+      "first_observed": "2026-05-20",
+      "strength": "strong",
+      "related_events": [
+        "Gemini 3.5 Flash 300 tok/s",
+        "320x token growth"
+      ]
+    }
+  }
+}

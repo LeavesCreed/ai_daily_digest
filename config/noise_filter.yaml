@@ -1,0 +1,22 @@
+blocked_topics:
+  - AI crypto
+  - meme AI apps
+  - AI girlfriend products
+  - face-swap entertainment
+  - shallow wrappers
+  - funding-only announcements
+  - hype-only launches
+  - clickbait
+  - low-information PR
+  - influencer drama
+  - speculative AGI claims without technical substance
+  - ai crypto
+  - ai girlfriend
+  - face swap
+  - meme ai
+  - prompt marketplace spam
+
+blocked_patterns:
+  - "revolutionary ai"
+  - "changes everything"
+  - "next trillion dollar"

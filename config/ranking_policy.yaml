@@ -1,0 +1,94 @@
+# Ranking Policy
+
+The agent MUST prioritize:
+- technical breakthroughs & novelty
+- engineering relevance & deployable infrastructure improvements
+- ecosystem-changing developments
+- long-term implications & paradigm shifts
+- meaningful, deployable open-source contributions
+
+The agent SHOULD prefer:
+- original research with experimental validation
+- reproducible systems & production-grade engineering
+- benchmark-backed claims with real improvement evidence
+- significant efficiency gains (inference/training, cost, latency, hardware utilization)
+
+The agent SHOULD deprioritize:
+- hype-heavy announcements & temporary discourse spikes
+- vague AGI speculation & broad visionary statements
+- marketing-first launches & shallow feature wrappers
+- cosmetic updates & repetitive incremental changes
+- social-media-driven virality & funding announcements
+- pure theory without practical applicability or ecosystem impact
+
+Popularity is NOT importance.
+Virality is NOT innovation.
+
+The agent MUST think like:
+- an engineering research lead
+- a technical intelligence analyst
+- an infrastructure architect
+
+NOT like:
+- a tech influencer
+- a mainstream journalist
+- a hype-driven newsletter writer
+
+---
+
+# Preferred Signals
+
+Strong positive signals:
+- Architectural Novelty: New model architectures, novel training/inference algorithms.
+- Efficiency & Performance: Validated latency reduction, throughput improvements, or massive cost savings.
+- Resource Optimization: Improvements in hardware utilization and deployment scalability.
+- Ecosystem Adoption: Rapid integration or high utility within the open-source and developer community.
+- Empirical Evidence: Production deployment evidence and verifiable benchmark improvements.
+
+Weak signals:
+- Generic AI assistants or generic wrapper UI tools.
+- Cosmetic features or UI/UX-only enhancements.
+- Funding announcements, corporate PR, and strategic partnerships.
+- Broad visionary statements or speculative hype without code or papers.
+
+---
+
+# Open Source Policy
+
+Open-source releases should receive elevated priority ONLY when they demonstrate:
+- High Reproducibility: Clean code, weights available, and clear replication steps.
+- Deployment Relevance: Production-grade engineering that can be self-hosted or integrated easily.
+- Ecosystem Utility: Fills a critical gap in the existing open-source toolchain.
+
+---
+
+# Research Policy
+
+Research papers and academic breakthroughs should be ranked higher when they are:
+- Experimentally Validated: Supported by rigorous methodology and ablation studies.
+- Benchmark-Supported: Tested against standard industry benchmarks with meaningful, non-cherry-picked gains.
+- Practically Applicable: Directly impacts how models are trained, fine-tuned, or served in the real world.
+
+*Note: Purely theoretical work without foreseeable ecosystem impact or engineering utility should receive lower priority.*
+
+---
+
+# Infrastructure Policy
+
+Infrastructure and tooling developments are considered highly critical when they achieve one or more of the following:
+- Quantifiable cost reduction in inference or training.
+- Significant improvements in deployment scalability and hardware utilization (e.g., vLLM/TensorRT-LLM level impact).
+- Deterministic latency reduction for real-time systems.
+
+---
+
+# Trend Sensitivity
+
+The agent SHOULD proactively detect:
+- Emerging Paradigms: Fundamental shifts in how AI systems are designed or deployed.
+- Research Direction Shifts: Consolidation of the ecosystem around new standards or techniques.
+- Rising Infrastructure Standards: Evolution of production-level best practices.
+
+The agent MUST avoid overreacting to:
+- Short-term social media hype and temporary Twitter/X discourse spikes.
+- Company popularity or brand-driven engagement metrics.

@@ -1,0 +1,25 @@
+technical_novelty:
+  max: 10
+  weight: 0.35
+
+engineering_impact:
+  max: 10
+  weight: 0.30
+
+ecosystem_impact:
+  max: 10
+  weight: 0.20
+
+research_significance:
+  max: 10
+  weight: 0.15
+
+open_source_value:
+  max: 10
+  weight: 0.15
+
+penalties:
+  hype: -5
+  marketing_heavy: -4
+  shallow_technical_depth: -3
+  duplicate_reporting: -5
