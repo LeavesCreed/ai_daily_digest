@@ -1,8 +1,8 @@
 {
   "entities": {
     "Google": {
-      "mentions": 3,
-      "last_date": "2026-05-20"
+      "mentions": 5,
+      "last_date": "2026-05-21"
     },
     "Dell": {
       "mentions": 1,
@@ -17,12 +17,32 @@
       "last_date": "2026-05-20"
     },
     "Anthropic": {
-      "mentions": 1,
-      "last_date": "2026-05-20"
+      "mentions": 2,
+      "last_date": "2026-05-21"
     },
     "OpenHands": {
       "mentions": 1,
       "last_date": "2026-05-20"
+    },
+    "OpenAI": {
+      "mentions": 2,
+      "last_date": "2026-05-21"
+    },
+    "arXiv": {
+      "mentions": 1,
+      "last_date": "2026-05-21"
+    },
+    "Andrej Karpathy": {
+      "mentions": 1,
+      "last_date": "2026-05-21"
+    },
+    "Cursor": {
+      "mentions": 1,
+      "last_date": "2026-05-21"
+    },
+    "SpaceX": {
+      "mentions": 1,
+      "last_date": "2026-05-21"
     }
   }
 }

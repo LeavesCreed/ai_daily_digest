@@ -5,7 +5,8 @@
       "strength": "strong",
       "related_events": [
         "Dell AI Factory",
-        "Gemini 3.5 Flash agent optimization"
+        "Gemini 3.5 Flash agent optimization",
+        "Antigravity 2.0 agent-first platform"
       ]
     },
     "model_efficiency": {
@@ -13,7 +14,33 @@
       "strength": "strong",
       "related_events": [
         "Gemini 3.5 Flash 300 tok/s",
-        "320x token growth"
+        "320x token growth",
+        "Karpathy joining Anthropic for pretraining acceleration"
+      ]
+    },
+    "agentic_coding_platforms": {
+      "first_observed": "2026-05-21",
+      "strength": "strong",
+      "related_events": [
+        "Antigravity 2.0 launch",
+        "AI coding tools stack convergence",
+        "$1K OS build demo"
+      ]
+    },
+    "ai_research_integrity": {
+      "first_observed": "2026-05-21",
+      "strength": "medium",
+      "related_events": [
+        "arXiv one-year ban for AI slop",
+        "OpenAI AI solves Erdos problem"
+      ]
+    },
+    "ai_mathematical_discovery": {
+      "first_observed": "2026-05-21",
+      "strength": "strong",
+      "related_events": [
+        "OpenAI solves Erdos Unit Distance Problem",
+        "ERA system for scientific software (Nature)"
       ]
     }
   }
