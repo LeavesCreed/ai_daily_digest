@@ -9,24 +9,24 @@
       "last_date": "2026-05-20"
     },
     "NVIDIA": {
-      "mentions": 1,
-      "last_date": "2026-05-20"
+      "mentions": 3,
+      "last_date": "2026-05-22"
     },
     "SandboxAQ": {
       "mentions": 1,
       "last_date": "2026-05-20"
     },
     "Anthropic": {
-      "mentions": 2,
-      "last_date": "2026-05-21"
+      "mentions": 5,
+      "last_date": "2026-05-22"
     },
     "OpenHands": {
       "mentions": 1,
       "last_date": "2026-05-20"
     },
     "OpenAI": {
-      "mentions": 2,
-      "last_date": "2026-05-21"
+      "mentions": 4,
+      "last_date": "2026-05-22"
     },
     "arXiv": {
       "mentions": 1,
@@ -41,8 +41,24 @@
       "last_date": "2026-05-21"
     },
     "SpaceX": {
+      "mentions": 3,
+      "last_date": "2026-05-22"
+    },
+    "GitHub": {
       "mentions": 1,
-      "last_date": "2026-05-21"
+      "last_date": "2026-05-22"
+    },
+    "TeamPCP": {
+      "mentions": 1,
+      "last_date": "2026-05-22"
+    },
+    "anomalyco": {
+      "mentions": 1,
+      "last_date": "2026-05-22"
+    },
+    "DeepMind": {
+      "mentions": 1,
+      "last_date": "2026-05-22"
     }
   }
 }

@@ -6,7 +6,10 @@
       "related_events": [
         "Dell AI Factory",
         "Gemini 3.5 Flash agent optimization",
-        "Antigravity 2.0 agent-first platform"
+        "Antigravity 2.0 agent-first platform",
+        "Anthropic $1.25B/mo SpaceX compute deal",
+        "NVIDIA Vera CPU agentic AI",
+        "Agentic AI compute economy inflection"
       ]
     },
     "model_efficiency": {
@@ -41,6 +44,32 @@
       "related_events": [
         "OpenAI solves Erdos Unit Distance Problem",
         "ERA system for scientific software (Nature)"
+      ]
+    },
+    "compute_as_strategic_asset": {
+      "first_observed": "2026-05-22",
+      "strength": "strong",
+      "related_events": [
+        "Anthropic $1.25B/mo SpaceX deal",
+        "NVIDIA Vera $200B TAM",
+        "OpenAI IPO filing",
+        "SpaceX IPO filing"
+      ]
+    },
+    "supply_chain_security": {
+      "first_observed": "2026-05-22",
+      "strength": "medium",
+      "related_events": [
+        "GitHub 3,800 repos breached via Nx Console",
+        "TeamPCP supply chain attack campaign"
+      ]
+    },
+    "content_provenance": {
+      "first_observed": "2026-05-22",
+      "strength": "medium",
+      "related_events": [
+        "OpenAI C2PA + SynthID adoption",
+        "Verify public tool launch"
       ]
     }
   }
