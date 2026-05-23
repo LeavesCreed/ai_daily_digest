@@ -71,6 +71,24 @@
         "OpenAI C2PA + SynthID adoption",
         "Verify public tool launch"
       ]
+    },
+    "agent_infrastructure_security": {
+      "first_observed": "2026-05-23",
+      "strength": "emerging",
+      "related_events": [
+        "NanoClaw $12M seed for sandboxed agents",
+        "Corsair entry into AI workstation market",
+        "Enterprise agent security requirements"
+      ]
+    },
+    "ai_market_multipolarity": {
+      "first_observed": "2026-05-23",
+      "strength": "emerging",
+      "related_events": [
+        "Gemini user growth surpasses ChatGPT",
+        "ChatGPT first-ever contraction",
+        "Multi-provider AI market structure"
+      ]
     }
   }
 }

@@ -1,8 +1,8 @@
 {
   "entities": {
     "Google": {
-      "mentions": 5,
-      "last_date": "2026-05-21"
+      "mentions": 11,
+      "last_date": "2026-05-23"
     },
     "Dell": {
       "mentions": 1,
@@ -17,8 +17,8 @@
       "last_date": "2026-05-20"
     },
     "Anthropic": {
-      "mentions": 5,
-      "last_date": "2026-05-22"
+      "mentions": 11,
+      "last_date": "2026-05-23"
     },
     "OpenHands": {
       "mentions": 1,
@@ -29,8 +29,8 @@
       "last_date": "2026-05-22"
     },
     "arXiv": {
-      "mentions": 1,
-      "last_date": "2026-05-21"
+      "mentions": 3,
+      "last_date": "2026-05-23"
     },
     "Andrej Karpathy": {
       "mentions": 1,
@@ -59,6 +59,26 @@
     "DeepMind": {
       "mentions": 1,
       "last_date": "2026-05-22"
+    },
+    "NanoCo": {
+      "mentions": 1,
+      "last_date": "2026-05-23"
+    },
+    "NanoClaw": {
+      "mentions": 1,
+      "last_date": "2026-05-23"
+    },
+    "Jack Clark": {
+      "mentions": 1,
+      "last_date": "2026-05-23"
+    },
+    "Corsair": {
+      "mentions": 1,
+      "last_date": "2026-05-23"
+    },
+    "ChatGPT": {
+      "mentions": 1,
+      "last_date": "2026-05-23"
     }
   }
 }
