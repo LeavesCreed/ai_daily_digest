@@ -89,6 +89,42 @@
         "ChatGPT first-ever contraction",
         "Multi-provider AI market structure"
       ]
+    },
+    "ai_vulnerability_discovery_race": {
+      "first_observed": "2026-05-24",
+      "strength": "emerging",
+      "related_events": [
+        "Claude Mythos 10,000+ 0-days in Project Glasswing",
+        "Oracle monthly patch cycle shift",
+        "AI discovery speed exceeds human patch capacity"
+      ]
+    },
+    "agentic_retrieval_paradigm_shift": {
+      "first_observed": "2026-05-24",
+      "strength": "emerging",
+      "related_events": [
+        "DCI replaces vector DB with shell commands",
+        "RAG limitations for agentic workflows exposed",
+        "Hybrid retrieval patterns emerging"
+      ]
+    },
+    "recursive_self_improvement_preparation": {
+      "first_observed": "2026-05-24",
+      "strength": "emerging",
+      "related_events": [
+        "OpenAI $445K recursive self-improvement role",
+        "Altman: automated AI researcher by March 2028",
+        "METR task capability doubling every 7 months"
+      ]
+    },
+    "open_weight_government_adoption": {
+      "first_observed": "2026-05-24",
+      "strength": "emerging",
+      "related_events": [
+        "Reflection AI DOE Genesis Mission partnership",
+        "Open-weight models for scientific research",
+        "Compute-for-models government exchange model"
+      ]
     }
   }
 }

@@ -17,16 +17,16 @@
       "last_date": "2026-05-20"
     },
     "Anthropic": {
-      "mentions": 11,
-      "last_date": "2026-05-23"
+      "mentions": 12,
+      "last_date": "2026-05-24"
     },
     "OpenHands": {
       "mentions": 1,
       "last_date": "2026-05-20"
     },
     "OpenAI": {
-      "mentions": 4,
-      "last_date": "2026-05-22"
+      "mentions": 5,
+      "last_date": "2026-05-24"
     },
     "arXiv": {
       "mentions": 3,
@@ -79,6 +79,22 @@
     "ChatGPT": {
       "mentions": 1,
       "last_date": "2026-05-23"
+    },
+    "Reflection AI": {
+      "mentions": 1,
+      "last_date": "2026-05-24"
+    },
+    "DOE": {
+      "mentions": 1,
+      "last_date": "2026-05-24"
+    },
+    "Apple": {
+      "mentions": 1,
+      "last_date": "2026-05-24"
+    },
+    "Mozilla": {
+      "mentions": 1,
+      "last_date": "2026-05-24"
     }
   }
 }
