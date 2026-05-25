@@ -2,7 +2,7 @@
   "entities": {
     "Google": {
       "mentions": 11,
-      "last_date": "2026-05-23"
+      "last_date": "2026-05-25"
     },
     "Dell": {
       "mentions": 1,
@@ -18,7 +18,7 @@
     },
     "Anthropic": {
       "mentions": 12,
-      "last_date": "2026-05-24"
+      "last_date": "2026-05-25"
     },
     "OpenHands": {
       "mentions": 1,
@@ -95,6 +95,46 @@
     "Mozilla": {
       "mentions": 1,
       "last_date": "2026-05-24"
+    },
+    "Columbia University": {
+      "mentions": 1,
+      "last_date": "2026-05-25"
+    },
+    "The Lancet": {
+      "mentions": 1,
+      "last_date": "2026-05-25"
+    },
+    "MiniMax": {
+      "mentions": 1,
+      "last_date": "2026-05-25"
+    },
+    "Disney": {
+      "mentions": 1,
+      "last_date": "2026-05-25"
+    },
+    "Universal": {
+      "mentions": 1,
+      "last_date": "2026-05-25"
+    },
+    "Warner Bros": {
+      "mentions": 1,
+      "last_date": "2026-05-25"
+    },
+    "Epic Games": {
+      "mentions": 1,
+      "last_date": "2026-05-25"
+    },
+    "AOMedia": {
+      "mentions": 1,
+      "last_date": "2026-05-25"
+    },
+    "OpenClaw": {
+      "mentions": 1,
+      "last_date": "2026-05-25"
+    },
+    "VideoLAN": {
+      "mentions": 1,
+      "last_date": "2026-05-25"
     }
   }
 }

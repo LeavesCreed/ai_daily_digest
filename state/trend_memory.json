@@ -125,6 +125,15 @@
         "Open-weight models for scientific research",
         "Compute-for-models government exchange model"
       ]
+    },
+    "ai_generated_content_integrity_crisis": {
+      "first_observed": "2026-05-25",
+      "strength": "emerging",
+      "related_events": [
+        "Lancet study: 4,000+ fabricated references in biomedical papers",
+        "Hailuo AI copyright ruling against Disney/Universal/Warner Bros",
+        "12x growth in AI-hallucinated citations 2023-2025"
+      ]
     }
   }
 }
