@@ -17,8 +17,8 @@
       "last_date": "2026-05-20"
     },
     "Anthropic": {
-      "mentions": 12,
-      "last_date": "2026-05-25"
+      "mentions": 13,
+      "last_date": "2026-05-26"
     },
     "OpenHands": {
       "mentions": 1,
@@ -53,8 +53,8 @@
       "last_date": "2026-05-22"
     },
     "anomalyco": {
-      "mentions": 1,
-      "last_date": "2026-05-22"
+      "mentions": 2,
+      "last_date": "2026-05-26"
     },
     "DeepMind": {
       "mentions": 1,
@@ -135,6 +135,34 @@
     "VideoLAN": {
       "mentions": 1,
       "last_date": "2026-05-25"
+    },
+    "Huawei": {
+      "mentions": 1,
+      "last_date": "2026-05-26"
+    },
+    "HiSilicon": {
+      "mentions": 1,
+      "last_date": "2026-05-26"
+    },
+    "Fujitsu": {
+      "mentions": 1,
+      "last_date": "2026-05-26"
+    },
+    "Meta": {
+      "mentions": 1,
+      "last_date": "2026-05-26"
+    },
+    "Reality Labs": {
+      "mentions": 1,
+      "last_date": "2026-05-26"
+    },
+    "Pope Leo XIV": {
+      "mentions": 1,
+      "last_date": "2026-05-26"
+    },
+    "Vatican": {
+      "mentions": 1,
+      "last_date": "2026-05-26"
     }
   }
 }

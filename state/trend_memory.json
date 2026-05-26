@@ -92,11 +92,12 @@
     },
     "ai_vulnerability_discovery_race": {
       "first_observed": "2026-05-24",
-      "strength": "emerging",
+      "strength": "medium",
       "related_events": [
         "Claude Mythos 10,000+ 0-days in Project Glasswing",
         "Oracle monthly patch cycle shift",
-        "AI discovery speed exceeds human patch capacity"
+        "AI discovery speed exceeds human patch capacity",
+        "Anthropic plans public Mythos-class model release"
       ]
     },
     "agentic_retrieval_paradigm_shift": {
@@ -133,6 +134,35 @@
         "Lancet study: 4,000+ fabricated references in biomedical papers",
         "Hailuo AI copyright ruling against Disney/Universal/Warner Bros",
         "12x growth in AI-hallucinated citations 2023-2025"
+      ]
+    },
+    "chip_architecture_divergence": {
+      "first_observed": "2026-05-26",
+      "strength": "emerging",
+      "related_events": [
+        "Huawei Tau Scaling Law replaces Moore's Law with temporal scaling",
+        "LogicFolding architecture bypasses EUV restrictions",
+        "381 chips secretly mass-produced over 6 years",
+        "Parallel semiconductor ecosystems emerging (geometric vs temporal scaling)"
+      ]
+    },
+    "ai_workforce_reallocation": {
+      "first_observed": "2026-05-26",
+      "strength": "emerging",
+      "related_events": [
+        "Meta shifts 7,000 employees to AI units",
+        "20% workforce reallocation to AI tooling",
+        "Reality Labs ~10% job cuts",
+        "AI-native team redesign across major tech firms"
+      ]
+    },
+    "ai_self_adaptation": {
+      "first_observed": "2026-05-26",
+      "strength": "emerging",
+      "related_events": [
+        "Fujitsu self-evolving multi-AI agent technology",
+        "Autonomous adaptation to policy and specification changes",
+        "Eliminates expert maintenance burden for AI agent deployments"
       ]
     }
   }
