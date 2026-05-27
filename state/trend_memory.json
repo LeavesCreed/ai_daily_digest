@@ -164,6 +164,21 @@
         "Autonomous adaptation to policy and specification changes",
         "Eliminates expert maintenance burden for AI agent deployments"
       ]
+    },
+    "ai_infrastructure_security_crisis": {
+      "first_observed": "2026-05-27",
+      "strength": "strong",
+      "description": "Convergence of BadHost vuln, GitHub supply chain attack, and MCP security concerns signal AI infra security as dominant theme"
+    },
+    "formal_verification_standard": {
+      "first_observed": "2026-05-27",
+      "strength": "emerging",
+      "description": "Apple's formally verified quantum-resistant crypto sets new bar for critical AI infrastructure components"
+    },
+    "ai_governance_institutionalization": {
+      "first_observed": "2026-05-27",
+      "strength": "emerging",
+      "description": "Papal encyclical on AI from Vatican represents highest-level institutional governance intervention"
     }
   }
 }

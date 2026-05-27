@@ -17,8 +17,8 @@
       "last_date": "2026-05-20"
     },
     "Anthropic": {
-      "mentions": 13,
-      "last_date": "2026-05-26"
+      "mentions": 14,
+      "last_date": "2026-05-27"
     },
     "OpenHands": {
       "mentions": 1,
@@ -45,20 +45,20 @@
       "last_date": "2026-05-22"
     },
     "GitHub": {
-      "mentions": 1,
-      "last_date": "2026-05-22"
+      "mentions": 2,
+      "last_date": "2026-05-27"
     },
     "TeamPCP": {
-      "mentions": 1,
-      "last_date": "2026-05-22"
+      "mentions": 2,
+      "last_date": "2026-05-27"
     },
     "anomalyco": {
       "mentions": 2,
       "last_date": "2026-05-26"
     },
     "DeepMind": {
-      "mentions": 1,
-      "last_date": "2026-05-22"
+      "mentions": 2,
+      "last_date": "2026-05-27"
     },
     "NanoCo": {
       "mentions": 1,
@@ -89,8 +89,8 @@
       "last_date": "2026-05-24"
     },
     "Apple": {
-      "mentions": 1,
-      "last_date": "2026-05-24"
+      "mentions": 2,
+      "last_date": "2026-05-27"
     },
     "Mozilla": {
       "mentions": 1,
@@ -157,12 +157,44 @@
       "last_date": "2026-05-26"
     },
     "Pope Leo XIV": {
-      "mentions": 1,
-      "last_date": "2026-05-26"
+      "mentions": 2,
+      "last_date": "2026-05-27"
     },
     "Vatican": {
+      "mentions": 2,
+      "last_date": "2026-05-27"
+    },
+    "Starlette": {
       "mentions": 1,
-      "last_date": "2026-05-26"
+      "last_date": "2026-05-27"
+    },
+    "FastAPI": {
+      "mentions": 1,
+      "last_date": "2026-05-27"
+    },
+    "Christopher Olah": {
+      "mentions": 1,
+      "last_date": "2026-05-27"
+    },
+    "Demis Hassabis": {
+      "mentions": 1,
+      "last_date": "2026-05-27"
+    },
+    "Perplexity AI": {
+      "mentions": 1,
+      "last_date": "2026-05-27"
+    },
+    "X41 D-Sec": {
+      "mentions": 1,
+      "last_date": "2026-05-27"
+    },
+    "Secwest": {
+      "mentions": 1,
+      "last_date": "2026-05-27"
+    },
+    "MCP": {
+      "mentions": 1,
+      "last_date": "2026-05-27"
     }
   }
 }
