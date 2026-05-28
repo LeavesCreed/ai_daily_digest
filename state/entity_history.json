@@ -9,8 +9,8 @@
       "last_date": "2026-05-20"
     },
     "NVIDIA": {
-      "mentions": 3,
-      "last_date": "2026-05-22"
+      "mentions": 4,
+      "last_date": "2026-05-28"
     },
     "SandboxAQ": {
       "mentions": 1,
@@ -25,8 +25,8 @@
       "last_date": "2026-05-20"
     },
     "OpenAI": {
-      "mentions": 5,
-      "last_date": "2026-05-24"
+      "mentions": 6,
+      "last_date": "2026-05-28"
     },
     "arXiv": {
       "mentions": 3,
@@ -195,6 +195,22 @@
     "MCP": {
       "mentions": 1,
       "last_date": "2026-05-27"
+    },
+    "CZI Biohub": {
+      "mentions": 1,
+      "last_date": "2026-05-28"
+    },
+    "Robinhood": {
+      "mentions": 1,
+      "last_date": "2026-05-28"
+    },
+    "Uber": {
+      "mentions": 1,
+      "last_date": "2026-05-28"
+    },
+    "evolutionaryscale": {
+      "mentions": 1,
+      "last_date": "2026-05-28"
     }
   }
 }

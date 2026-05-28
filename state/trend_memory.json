@@ -179,6 +179,28 @@
       "first_observed": "2026-05-27",
       "strength": "emerging",
       "description": "Papal encyclical on AI from Vatican represents highest-level institutional governance intervention"
+    },
+    "open_source_biology_infrastructure": {
+      "first_observed": "2026-05-28",
+      "strength": "emerging",
+      "related_events": [
+        "ESMFold2 1.1B protein atlas open source surpasses AlphaFold3"
+      ]
+    },
+    "enterprise_ai_roi_reckoning": {
+      "first_observed": "2026-05-28",
+      "strength": "emerging",
+      "related_events": [
+        "Uber burned through 2026 AI coding budget in 4 months",
+        "DeepSWE benchmark exposes SWE-Bench contamination"
+      ]
+    },
+    "agentic_finance": {
+      "first_observed": "2026-05-28",
+      "strength": "emerging",
+      "related_events": [
+        "Robinhood opens trading and payments to AI agents for retail investors"
+      ]
     }
   }
 }
