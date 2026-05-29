@@ -212,5 +212,45 @@
       "mentions": 1,
       "last_date": "2026-05-28"
     }
+  },
+  "Anthropic": {
+    "role": "AI startup",
+    "valuation": "900B",
+    "last_seen": "2026-05-29"
+  },
+  "IBM": {
+    "role": "tech company",
+    "project": "Lightwell",
+    "last_seen": "2026-05-29"
+  },
+  "Red Hat": {
+    "role": "open source company",
+    "project": "Lightwell",
+    "last_seen": "2026-05-29"
+  },
+  "Microsoft": {
+    "role": "tech company",
+    "event": "Build 2026 coding model",
+    "last_seen": "2026-05-29"
+  },
+  "Verizon": {
+    "role": "telecom",
+    "report": "DBIR 2026",
+    "last_seen": "2026-05-29"
+  },
+  "Andrej Karpathy": {
+    "role": "AI researcher",
+    "project": "Auto-Research RSI",
+    "last_seen": "2026-05-29"
+  },
+  "Green Oaks Capital": {
+    "role": "investor",
+    "deal": "Anthropic 65B",
+    "last_seen": "2026-05-29"
+  },
+  "Sequoia Capital": {
+    "role": "investor",
+    "deal": "Anthropic 65B",
+    "last_seen": "2026-05-29"
   }
 }

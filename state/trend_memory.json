@@ -202,5 +202,38 @@
         "Robinhood opens trading and payments to AI agents for retail investors"
       ]
     }
+  },
+  "coding_ai_land_grab": {
+    "status": "accelerating",
+    "signals": [
+      "Anthropic 900B",
+      "MS Build model",
+      "IBM Lightwell"
+    ],
+    "last_updated": "2026-05-29"
+  },
+  "rsi_paradigm_shift": {
+    "status": "emerging",
+    "signals": [
+      "AutoScientists paper",
+      "Karpathy Auto-Research"
+    ],
+    "last_updated": "2026-05-29"
+  },
+  "open_source_security_arms_race": {
+    "status": "critical",
+    "signals": [
+      "Project Lightwell",
+      "DBIR VoidLink"
+    ],
+    "last_updated": "2026-05-29"
+  },
+  "ai_attack_acceleration": {
+    "status": "worsening",
+    "signals": [
+      "VoidLink 6 days",
+      "PromptLock ransomware"
+    ],
+    "last_updated": "2026-05-29"
   }
 }
