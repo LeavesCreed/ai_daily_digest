@@ -111,11 +111,12 @@
     },
     "recursive_self_improvement_preparation": {
       "first_observed": "2026-05-24",
-      "strength": "emerging",
+      "strength": "medium",
       "related_events": [
         "OpenAI $445K recursive self-improvement role",
         "Altman: automated AI researcher by March 2028",
-        "METR task capability doubling every 7 months"
+        "METR task capability doubling every 7 months",
+        "SIA open-source self-improving framework"
       ]
     },
     "open_weight_government_adoption": {
@@ -189,10 +190,13 @@
     },
     "enterprise_ai_roi_reckoning": {
       "first_observed": "2026-05-28",
-      "strength": "emerging",
+      "strength": "strong",
       "related_events": [
         "Uber burned through 2026 AI coding budget in 4 months",
-        "DeepSWE benchmark exposes SWE-Bench contamination"
+        "DeepSWE benchmark exposes SWE-Bench contamination",
+        "Amazon Kirorank shutdown",
+        "METR recruitment failure",
+        "CEOs bargain hunting"
       ]
     },
     "agentic_finance": {
@@ -200,6 +204,43 @@
       "strength": "emerging",
       "related_events": [
         "Robinhood opens trading and payments to AI agents for retail investors"
+      ]
+    },
+    "ai_productivity_paradox": {
+      "first_observed": "2026-05-30",
+      "strength": "strong",
+      "description": "Tokenmaxxing collapse, Amazon Kirorank shutdown, Uber budget blowout, METR recruitment failure converge on enterprise AI ROI crisis",
+      "related_events": [
+        "Amazon Kirorank shutdown",
+        "Uber 4-month budget exhaustion",
+        "METR AI-free dev recruitment failure"
+      ]
+    },
+    "self_improving_ai_frameworks": {
+      "first_observed": "2026-05-30",
+      "strength": "emerging",
+      "description": "SIA is the first framework to jointly optimize agent scaffold and weights. Moves recursive self-improvement from theory to implementation.",
+      "related_events": [
+        "SIA open-source release",
+        "SIA 70.1% LawBench"
+      ]
+    },
+    "ai_model_cost_arbitrage": {
+      "first_observed": "2026-05-30",
+      "strength": "emerging",
+      "description": "Enterprise CEOs actively switching from premium frontier models to cheaper alternatives, threatening AI lab pre-IPO revenue models",
+      "related_events": [
+        "CEOs bargain hunting Axios report",
+        "Model-agnostic routing adoption"
+      ]
+    },
+    "ai_biodefense_institutionalization": {
+      "first_observed": "2026-05-30",
+      "strength": "emerging",
+      "description": "OpenAI Rosalind Biodefense Program with White House briefing formalizes AI-for-biosecurity channel",
+      "related_events": [
+        "OpenAI Rosalind Biodefense launch",
+        "White House briefing"
       ]
     }
   },
