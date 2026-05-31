@@ -196,7 +196,8 @@
         "DeepSWE benchmark exposes SWE-Bench contamination",
         "Amazon Kirorank shutdown",
         "METR recruitment failure",
-        "CEOs bargain hunting"
+        "CEOs bargain hunting",
+        "GitHub Copilot token billing backlash"
       ]
     },
     "agentic_finance": {
@@ -241,6 +242,46 @@
       "related_events": [
         "OpenAI Rosalind Biodefense launch",
         "White House briefing"
+      ]
+    },
+    "ai_coding_economics_recalibration": {
+      "first_observed": "2026-05-31",
+      "strength": "strong",
+      "description": "Copilot billing change, Zig AI ban, Uber budget blowout, and CEO bargain hunting all converge on fundamental reassessment of AI coding ROI",
+      "related_events": [
+        "GitHub Copilot token-based billing",
+        "Zig bans AI code contributions",
+        "Uber 4-month AI coding budget exhaustion",
+        "CEOs bargain hunting for cheaper models"
+      ]
+    },
+    "monolithic_3d_silicon_integration": {
+      "first_observed": "2026-05-31",
+      "strength": "emerging",
+      "description": "UIUC achieves first monolithic 3D integration with standard single-crystalline silicon, extending Moore's Law pathway for AI hardware",
+      "related_events": [
+        "UIUC monolithic 3D chip breakthrough",
+        "Silicon Motion SM2524XT AI-optimized SSD controller",
+        "Huawei Tau Scaling Law and LogicFolding architecture"
+      ]
+    },
+    "ai_data_centre_geopolitics": {
+      "first_observed": "2026-05-31",
+      "strength": "strong",
+      "description": "SoftBank €45B France commitment follows NVIDIA $150B Taiwan pledge — AI data centre investment is now a sovereign priority",
+      "related_events": [
+        "SoftBank €45B France investment",
+        "NVIDIA $150B Taiwan commitment",
+        "EU sovereign AI infrastructure push"
+      ]
+    },
+    "near_memory_compute_architecture": {
+      "first_observed": "2026-05-31",
+      "strength": "emerging",
+      "description": "XCENA's CXL-based near-memory compute chip represents a third architectural paradigm distinct from traditional accelerators and in-memory computing",
+      "related_events": [
+        "XCENA $135M funding at $570M valuation",
+        "CXL-based MX1 chip"
       ]
     }
   },
