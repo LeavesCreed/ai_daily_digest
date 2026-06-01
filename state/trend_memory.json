@@ -268,9 +268,9 @@
     "ai_data_centre_geopolitics": {
       "first_observed": "2026-05-31",
       "strength": "strong",
-      "description": "SoftBank €45B France commitment follows NVIDIA $150B Taiwan pledge — AI data centre investment is now a sovereign priority",
+      "description": "SoftBank \u20ac45B France commitment follows NVIDIA $150B Taiwan pledge \u2014 AI data centre investment is now a sovereign priority",
       "related_events": [
-        "SoftBank €45B France investment",
+        "SoftBank \u20ac45B France investment",
         "NVIDIA $150B Taiwan commitment",
         "EU sovereign AI infrastructure push"
       ]
@@ -282,6 +282,38 @@
       "related_events": [
         "XCENA $135M funding at $570M valuation",
         "CXL-based MX1 chip"
+      ]
+    },
+    "agent_skills_infrastructure": {
+      "first_observed": "2026-06-01",
+      "strength": "strong",
+      "description": "Agent skills crystallizing as atomic unit of AI engineering: SkillOpt treats skills as trainable parameters, harness generates agent team designs, CodexOpt wraps optimization for Codex users. Pattern mirrors npm/Docker era for agents.",
+      "related_events": [
+        "Microsoft SkillOpt release (3.1k stars)",
+        "revfactory/harness meta-skill framework",
+        "CodexOpt 0.2.0 community wrapper",
+        "openhuman personal AI superintelligence",
+        "supermemory memory layer for agents"
+      ]
+    },
+    "ai_wearables_ambient_computing": {
+      "first_observed": "2026-06-01",
+      "strength": "emerging",
+      "description": "Meta AI pendant, OpenAI/io hardware, Apple wearable trio \u2014 ambient screenless AI interfaces becoming serious product category distinct from smart glasses",
+      "related_events": [
+        "Meta developing AI pendant based on Limitless tech",
+        "OpenAI/io Jony Ive hardware project",
+        "Apple rumored three AI wearable devices"
+      ]
+    },
+    "agentic_desktop_control": {
+      "first_observed": "2026-06-01",
+      "strength": "emerging",
+      "description": "Codex Computer Use on Windows 11 represents AI agents moving from code generation to direct desktop manipulation for testing, bug hunting, and document review",
+      "related_events": [
+        "Codex Computer Use on macOS (April 2026)",
+        "Codex Computer Use on Windows 11 (May 2026)",
+        "Mobile ChatGPT app task monitoring"
       ]
     }
   },

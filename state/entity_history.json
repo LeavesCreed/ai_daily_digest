@@ -17,16 +17,16 @@
       "last_date": "2026-05-20"
     },
     "Anthropic": {
-      "mentions": 17,
-      "last_date": "2026-05-30"
+      "mentions": 18,
+      "last_date": "2026-06-01"
     },
     "OpenHands": {
       "mentions": 1,
       "last_date": "2026-05-20"
     },
     "OpenAI": {
-      "mentions": 8,
-      "last_date": "2026-05-30"
+      "mentions": 9,
+      "last_date": "2026-06-01"
     },
     "arXiv": {
       "mentions": 3,
@@ -149,12 +149,12 @@
       "last_date": "2026-05-26"
     },
     "Meta": {
-      "mentions": 1,
-      "last_date": "2026-05-26"
+      "mentions": 2,
+      "last_date": "2026-06-01"
     },
     "Reality Labs": {
-      "mentions": 1,
-      "last_date": "2026-05-26"
+      "mentions": 2,
+      "last_date": "2026-06-01"
     },
     "Pope Leo XIV": {
       "mentions": 2,
@@ -281,8 +281,8 @@
       "last_date": "2026-05-31"
     },
     "Microsoft": {
-      "mentions": 1,
-      "last_date": "2026-05-31"
+      "mentions": 2,
+      "last_date": "2026-06-01"
     },
     "Snowflake": {
       "mentions": 1,
@@ -291,6 +291,42 @@
     "CXL": {
       "mentions": 1,
       "last_date": "2026-05-31"
+    },
+    "Microsoft Research": {
+      "mentions": 1,
+      "last_date": "2026-06-01"
+    },
+    "SkillOpt": {
+      "mentions": 1,
+      "last_date": "2026-06-01"
+    },
+    "CodexOpt": {
+      "mentions": 1,
+      "last_date": "2026-06-01"
+    },
+    "Limitless": {
+      "mentions": 1,
+      "last_date": "2026-06-01"
+    },
+    "Jony Ive": {
+      "mentions": 1,
+      "last_date": "2026-06-01"
+    },
+    "Autopilot": {
+      "mentions": 1,
+      "last_date": "2026-06-01"
+    },
+    "revfactory": {
+      "mentions": 1,
+      "last_date": "2026-06-01"
+    },
+    "supermemory": {
+      "mentions": 1,
+      "last_date": "2026-06-01"
+    },
+    "openhuman": {
+      "mentions": 1,
+      "last_date": "2026-06-01"
     }
   },
   "Anthropic": {
