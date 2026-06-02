@@ -9,24 +9,24 @@
       "last_date": "2026-05-20"
     },
     "NVIDIA": {
-      "mentions": 4,
-      "last_date": "2026-05-28"
+      "mentions": 9,
+      "last_date": "2026-06-02"
     },
     "SandboxAQ": {
       "mentions": 1,
       "last_date": "2026-05-20"
     },
     "Anthropic": {
-      "mentions": 18,
-      "last_date": "2026-06-01"
+      "mentions": 19,
+      "last_date": "2026-06-02"
     },
     "OpenHands": {
       "mentions": 1,
       "last_date": "2026-05-20"
     },
     "OpenAI": {
-      "mentions": 9,
-      "last_date": "2026-06-01"
+      "mentions": 10,
+      "last_date": "2026-06-02"
     },
     "arXiv": {
       "mentions": 3,
@@ -41,8 +41,8 @@
       "last_date": "2026-05-21"
     },
     "SpaceX": {
-      "mentions": 3,
-      "last_date": "2026-05-22"
+      "mentions": 4,
+      "last_date": "2026-06-02"
     },
     "GitHub": {
       "mentions": 2,
@@ -129,8 +129,8 @@
       "last_date": "2026-05-25"
     },
     "OpenClaw": {
-      "mentions": 1,
-      "last_date": "2026-05-25"
+      "mentions": 2,
+      "last_date": "2026-06-02"
     },
     "VideoLAN": {
       "mentions": 1,
@@ -281,8 +281,8 @@
       "last_date": "2026-05-31"
     },
     "Microsoft": {
-      "mentions": 2,
-      "last_date": "2026-06-01"
+      "mentions": 3,
+      "last_date": "2026-06-02"
     },
     "Snowflake": {
       "mentions": 1,
@@ -327,6 +327,62 @@
     "openhuman": {
       "mentions": 1,
       "last_date": "2026-06-01"
+    },
+    "CoreWeave": {
+      "mentions": 1,
+      "last_date": "2026-06-02"
+    },
+    "MediaTek": {
+      "mentions": 1,
+      "last_date": "2026-06-02"
+    },
+    "Black Forest Labs": {
+      "mentions": 1,
+      "last_date": "2026-06-02"
+    },
+    "Runway": {
+      "mentions": 1,
+      "last_date": "2026-06-02"
+    },
+    "Skild AI": {
+      "mentions": 1,
+      "last_date": "2026-06-02"
+    },
+    "Agile Robots": {
+      "mentions": 1,
+      "last_date": "2026-06-02"
+    },
+    "Generalist": {
+      "mentions": 1,
+      "last_date": "2026-06-02"
+    },
+    "LTX": {
+      "mentions": 1,
+      "last_date": "2026-06-02"
+    },
+    "Unitree": {
+      "mentions": 1,
+      "last_date": "2026-06-02"
+    },
+    "Nous Research": {
+      "mentions": 1,
+      "last_date": "2026-06-02"
+    },
+    "Hermes Agent": {
+      "mentions": 1,
+      "last_date": "2026-06-02"
+    },
+    "Adobe": {
+      "mentions": 1,
+      "last_date": "2026-06-02"
+    },
+    "Jensen Huang": {
+      "mentions": 2,
+      "last_date": "2026-06-02"
+    },
+    "Satya Nadella": {
+      "mentions": 1,
+      "last_date": "2026-06-02"
     }
   },
   "Anthropic": {
