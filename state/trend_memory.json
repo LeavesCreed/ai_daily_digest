@@ -315,6 +315,17 @@
         "Codex Computer Use on Windows 11 (May 2026)",
         "Mobile ChatGPT app task monitoring"
       ]
+    },
+    "platform_independence_model_diversification": {
+      "first_observed": "2026-06-03",
+      "strength": "strong",
+      "description": "Microsoft Build 2026 MAI-Thinking-1, Majorana 2, and full model suite signal strategic decoupling from single-provider dependencies. Major tech firms building capability independently.",
+      "related_events": [
+        "MAI-Thinking-1 trained from scratch without distillation",
+        "Majorana 2 AI-driven materials discovery",
+        "Trump AI vetting executive order",
+        "Leiden Declaration mathematics self-regulation"
+      ]
     }
   },
   "coding_ai_land_grab": {
