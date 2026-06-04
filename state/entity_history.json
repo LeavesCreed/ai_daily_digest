@@ -1,7 +1,7 @@
 {
   "entities": {
     "Google": {
-      "mentions": 12,
+      "mentions": 13,
       "last_date": "2026-06-04"
     },
     "Dell": {
@@ -17,7 +17,7 @@
       "last_date": "2026-05-20"
     },
     "Anthropic": {
-      "mentions": 20,
+      "mentions": 21,
       "last_date": "2026-06-04"
     },
     "OpenHands": {
@@ -25,7 +25,7 @@
       "last_date": "2026-05-20"
     },
     "OpenAI": {
-      "mentions": 12,
+      "mentions": 13,
       "last_date": "2026-06-04"
     },
     "arXiv": {
@@ -281,8 +281,8 @@
       "last_date": "2026-05-31"
     },
     "Microsoft": {
-      "mentions": 6,
-      "last_date": "2026-06-03"
+      "mentions": 7,
+      "last_date": "2026-06-04"
     },
     "Snowflake": {
       "mentions": 1,
@@ -405,7 +405,7 @@
       "last_date": "2026-06-04"
     },
     "Sam Altman": {
-      "mentions": 1,
+      "mentions": 3,
       "last_date": "2026-06-04"
     },
     "White House": {
@@ -425,6 +425,70 @@
       "last_date": "2026-06-04"
     },
     "OpenVINO": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "Berkshire Hathaway": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "Broadcom": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "Alphabet": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "Qwant": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "EU Parliament": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "Samsung": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "SK Hynix": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "ENISA": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "Okta": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "Emmanuel Macron": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "Hock Tan": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "NATO": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "Project Glasswing": {
+      "mentions": 3,
+      "last_date": "2026-06-04"
+    },
+    "Claude Mythos": {
+      "mentions": 3,
+      "last_date": "2026-06-04"
+    },
+    "Mike Johnson": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "Hakeem Jeffries": {
       "mentions": 1,
       "last_date": "2026-06-04"
     }
