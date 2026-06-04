@@ -92,12 +92,13 @@
     },
     "ai_vulnerability_discovery_race": {
       "first_observed": "2026-05-24",
-      "strength": "medium",
+      "strength": "strong",
       "related_events": [
         "Claude Mythos 10,000+ 0-days in Project Glasswing",
         "Oracle monthly patch cycle shift",
         "AI discovery speed exceeds human patch capacity",
-        "Anthropic plans public Mythos-class model release"
+        "Anthropic plans public Mythos-class model release",
+        "Glasswing expansion to 150+ orgs, 10,000+ vulns found"
       ]
     },
     "agentic_retrieval_paradigm_shift": {
@@ -326,81 +327,101 @@
         "Trump AI vetting executive order",
         "Leiden Declaration mathematics self-regulation"
       ]
+    },
+    "coding_ai_land_grab": {
+      "status": "accelerating",
+      "signals": [
+        "Anthropic 900B",
+        "MS Build model",
+        "IBM Lightwell"
+      ],
+      "last_updated": "2026-05-29"
+    },
+    "rsi_paradigm_shift": {
+      "status": "emerging",
+      "signals": [
+        "AutoScientists paper",
+        "Karpathy Auto-Research"
+      ],
+      "last_updated": "2026-05-29"
+    },
+    "open_source_security_arms_race": {
+      "status": "critical",
+      "signals": [
+        "Project Lightwell",
+        "DBIR VoidLink"
+      ],
+      "last_updated": "2026-05-29"
+    },
+    "ai_attack_acceleration": {
+      "status": "worsening",
+      "signals": [
+        "VoidLink 6 days",
+        "PromptLock ransomware"
+      ],
+      "last_updated": "2026-05-29"
+    },
+    "nvidia_full_stack_platform": {
+      "first_observed": "2026-06-02",
+      "strength": "strong",
+      "description": "NVIDIA transitions from chip supplier to full-stack AI platform company spanning consumer PCs (RTX Spark), physical AI (Cosmos 3), data centers (Vera Rubin), and robotics (GR00T) \u2014 defining the entire AI compute stack from edge to cloud",
+      "related_events": [
+        "RTX Spark consumer PC chip launch",
+        "Cosmos 3 open omnimodel for physical AI",
+        "Vera Rubin full production",
+        "GR00T humanoid robot reference platform",
+        "DGX Station for Windows"
+      ]
+    },
+    "ai_ipo_floodgates_2026": {
+      "first_observed": "2026-06-02",
+      "strength": "strong",
+      "description": "Anthropic S-1 filing, pending OpenAI S-1, and SpaceX roadshow create unprecedented concentration of trillion-dollar AI IPOs in 2026, marking shift from private to public AI capital markets",
+      "related_events": [
+        "Anthropic confidential S-1 filing",
+        "OpenAI preparing S-1",
+        "SpaceX IPO roadshow"
+      ]
+    },
+    "local_ai_agent_pc": {
+      "first_observed": "2026-06-02",
+      "strength": "strong",
+      "description": "RTX Spark defines new PC category purpose-built for on-device AI agents with hardware security primitives, challenging Intel/AMD/Apple with integrated CPU+GPU+AI stack",
+      "related_events": [
+        "RTX Spark 1 petaflop superchip",
+        "NVIDIA OpenShell agent security",
+        "Microsoft Windows agent security primitives",
+        "Hermes Agent, OpenClaw Windows native apps"
+      ]
+    },
+    "open_world_models_coalition": {
+      "first_observed": "2026-06-02",
+      "strength": "emerging",
+      "description": "Cosmos Coalition model of open collaborative physical AI development with shared infrastructure (DGX Cloud) mirrors Linux Foundation for world models",
+      "related_events": [
+        "Cosmos Coalition founding members",
+        "Open omnimodel model weights release"
+      ]
+    },
+    "local_ai_infrastructure_divergence": {
+      "first_observed": "2026-06-04",
+      "strength": "strong",
+      "description": "Three simultaneous developments signal structural shift toward local/edge AI: Google Gemma 4 12B (open local model for 16GB laptops), Intel Computex offensive (Core Ultra 3 + Perplexity Computer for private inference), and Anthropic Glasswing expansion (AI discovery outpacing cloud remediation). Pendulum swinging from cloud-only toward hybrid local-cloud deployment.",
+      "related_events": [
+        "Google Gemma 4 12B open model for consumer laptops",
+        "Intel Core Ultra 3 18A + Perplexity Computer local inference",
+        "Anthropic Project Glasswing expansion to 150 orgs"
+      ]
+    },
+    "ai_safety_governance_split": {
+      "first_observed": "2026-06-04",
+      "strength": "emerging",
+      "description": "Trump voluntary EO vs OpenAI Altman's push for mandatory safety testing creates first visible split between administration and leading AI lab on governance approach. CAISI vs NSA-led framework marks competing institutional paths.",
+      "related_events": [
+        "Trump EO voluntary frontier model review",
+        "Altman White House meeting advocating mandatory CAISI testing",
+        "OpenAI public divergence from White House safety framework"
+      ]
     }
-  },
-  "coding_ai_land_grab": {
-    "status": "accelerating",
-    "signals": [
-      "Anthropic 900B",
-      "MS Build model",
-      "IBM Lightwell"
-    ],
-    "last_updated": "2026-05-29"
-  },
-  "rsi_paradigm_shift": {
-    "status": "emerging",
-    "signals": [
-      "AutoScientists paper",
-      "Karpathy Auto-Research"
-    ],
-    "last_updated": "2026-05-29"
-  },
-  "open_source_security_arms_race": {
-    "status": "critical",
-    "signals": [
-      "Project Lightwell",
-      "DBIR VoidLink"
-    ],
-    "last_updated": "2026-05-29"
-  },
-  "ai_attack_acceleration": {
-    "status": "worsening",
-    "signals": [
-      "VoidLink 6 days",
-      "PromptLock ransomware"
-    ],
-    "last_updated": "2026-05-29"
-  },
-  "nvidia_full_stack_platform": {
-    "first_observed": "2026-06-02",
-    "strength": "strong",
-    "description": "NVIDIA transitions from chip supplier to full-stack AI platform company spanning consumer PCs (RTX Spark), physical AI (Cosmos 3), data centers (Vera Rubin), and robotics (GR00T) \u2014 defining the entire AI compute stack from edge to cloud",
-    "related_events": [
-      "RTX Spark consumer PC chip launch",
-      "Cosmos 3 open omnimodel for physical AI",
-      "Vera Rubin full production",
-      "GR00T humanoid robot reference platform",
-      "DGX Station for Windows"
-    ]
-  },
-  "ai_ipo_floodgates_2026": {
-    "first_observed": "2026-06-02",
-    "strength": "strong",
-    "description": "Anthropic S-1 filing, pending OpenAI S-1, and SpaceX roadshow create unprecedented concentration of trillion-dollar AI IPOs in 2026, marking shift from private to public AI capital markets",
-    "related_events": [
-      "Anthropic confidential S-1 filing",
-      "OpenAI preparing S-1",
-      "SpaceX IPO roadshow"
-    ]
-  },
-  "local_ai_agent_pc": {
-    "first_observed": "2026-06-02",
-    "strength": "strong",
-    "description": "RTX Spark defines new PC category purpose-built for on-device AI agents with hardware security primitives, challenging Intel/AMD/Apple with integrated CPU+GPU+AI stack",
-    "related_events": [
-      "RTX Spark 1 petaflop superchip",
-      "NVIDIA OpenShell agent security",
-      "Microsoft Windows agent security primitives",
-      "Hermes Agent, OpenClaw Windows native apps"
-    ]
-  },
-  "open_world_models_coalition": {
-    "first_observed": "2026-06-02",
-    "strength": "emerging",
-    "description": "Cosmos Coalition model of open collaborative physical AI development with shared infrastructure (DGX Cloud) mirrors Linux Foundation for world models",
-    "related_events": [
-      "Cosmos Coalition founding members",
-      "Open omnimodel model weights release"
-    ]
   }
 }

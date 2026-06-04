@@ -1,8 +1,8 @@
 {
   "entities": {
     "Google": {
-      "mentions": 11,
-      "last_date": "2026-05-25"
+      "mentions": 12,
+      "last_date": "2026-06-04"
     },
     "Dell": {
       "mentions": 1,
@@ -17,16 +17,16 @@
       "last_date": "2026-05-20"
     },
     "Anthropic": {
-      "mentions": 19,
-      "last_date": "2026-06-02"
+      "mentions": 20,
+      "last_date": "2026-06-04"
     },
     "OpenHands": {
       "mentions": 1,
       "last_date": "2026-05-20"
     },
     "OpenAI": {
-      "mentions": 11,
-      "last_date": "2026-06-03"
+      "mentions": 12,
+      "last_date": "2026-06-04"
     },
     "arXiv": {
       "mentions": 3,
@@ -181,8 +181,8 @@
       "last_date": "2026-05-27"
     },
     "Perplexity AI": {
-      "mentions": 1,
-      "last_date": "2026-05-27"
+      "mentions": 2,
+      "last_date": "2026-06-04"
     },
     "X41 D-Sec": {
       "mentions": 1,
@@ -385,8 +385,8 @@
       "last_date": "2026-06-02"
     },
     "Trump": {
-      "mentions": 1,
-      "last_date": "2026-06-03"
+      "mentions": 2,
+      "last_date": "2026-06-04"
     },
     "Sensor Tower": {
       "mentions": 1,
@@ -395,6 +395,38 @@
     "Lorentz Center": {
       "mentions": 1,
       "last_date": "2026-06-03"
+    },
+    "Intel": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "Lip-Bu Tan": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "Sam Altman": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "White House": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "NSA": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "CISA": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "NIST": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
+    },
+    "OpenVINO": {
+      "mentions": 1,
+      "last_date": "2026-06-04"
     }
   },
   "Anthropic": {
@@ -436,5 +468,15 @@
     "role": "investor",
     "deal": "Anthropic 65B",
     "last_seen": "2026-05-29"
+  },
+  "Intel": {
+    "role": "chip manufacturer",
+    "event": "Computex 2026 Core Ultra 3 18A",
+    "last_seen": "2026-06-04"
+  },
+  "Perplexity AI": {
+    "role": "AI search",
+    "project": "Perplexity Computer",
+    "last_seen": "2026-06-04"
   }
 }
