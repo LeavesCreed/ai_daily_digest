@@ -542,5 +542,41 @@
     "role": "AI search",
     "project": "Perplexity Computer",
     "last_seen": "2026-06-04"
+  },
+  "Meta": {
+    "mentions": 1,
+    "last_date": "2026-06-05"
+  },
+  "Muse Spark": {
+    "mentions": 1,
+    "last_date": "2026-06-05"
+  },
+  "Alexandr Wang": {
+    "mentions": 1,
+    "last_date": "2026-06-05"
+  },
+  "Scale AI": {
+    "mentions": 1,
+    "last_date": "2026-06-05"
+  },
+  "MCP": {
+    "mentions": 1,
+    "last_date": "2026-06-05"
+  },
+  "DeepMind": {
+    "mentions": 1,
+    "last_date": "2026-06-05"
+  },
+  "CISA": {
+    "mentions": 1,
+    "last_date": "2026-06-05"
+  },
+  "GitHub Copilot": {
+    "mentions": 1,
+    "last_date": "2026-06-05"
+  },
+  "OpenClaw": {
+    "mentions": 1,
+    "last_date": "2026-06-05"
   }
 }
