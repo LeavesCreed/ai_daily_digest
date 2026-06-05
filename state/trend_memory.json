@@ -454,6 +454,31 @@
         "DeepMind solipsistic superintelligence paper",
         "Congressional AI security hearing"
       ]
+    },
+    "recursive_self_improvement_governance": {
+      "first_observed": "2026-06-04",
+      "strength": "strong",
+      "related_events": [
+        "Anthropic RSI pause call",
+        "DeepMind solipsistic superintelligence paper",
+        "80% AI-generated code at Anthropic"
+      ]
+    },
+    "open_weight_security_threat": {
+      "first_observed": "2026-06-04",
+      "strength": "strong",
+      "related_events": [
+        "UofT open-weight worm on single GPU",
+        "self-propagating enterprise network compromise"
+      ]
+    },
+    "china_ai_chip_independence": {
+      "first_observed": "2026-06-05",
+      "strength": "medium",
+      "related_events": [
+        "Huawei Ascend 910C DeepSeek-V4-Pro full-parameter post-training",
+        "1.6T params on domestic chips"
+      ]
     }
   }
 }

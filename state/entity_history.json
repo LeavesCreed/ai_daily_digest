@@ -17,8 +17,8 @@
       "last_date": "2026-05-20"
     },
     "Anthropic": {
-      "mentions": 21,
-      "last_date": "2026-06-04"
+      "mentions": 23,
+      "last_date": "2026-06-06"
     },
     "OpenHands": {
       "mentions": 1,
@@ -57,8 +57,8 @@
       "last_date": "2026-05-26"
     },
     "DeepMind": {
-      "mentions": 2,
-      "last_date": "2026-05-27"
+      "mentions": 3,
+      "last_date": "2026-06-06"
     },
     "NanoCo": {
       "mentions": 1,
@@ -89,8 +89,8 @@
       "last_date": "2026-05-24"
     },
     "Apple": {
-      "mentions": 2,
-      "last_date": "2026-05-27"
+      "mentions": 3,
+      "last_date": "2026-06-06"
     },
     "Mozilla": {
       "mentions": 1,
@@ -137,8 +137,8 @@
       "last_date": "2026-05-25"
     },
     "Huawei": {
-      "mentions": 1,
-      "last_date": "2026-05-26"
+      "mentions": 2,
+      "last_date": "2026-06-06"
     },
     "HiSilicon": {
       "mentions": 1,
@@ -491,6 +491,34 @@
     "Hakeem Jeffries": {
       "mentions": 1,
       "last_date": "2026-06-04"
+    },
+    "Chai Discovery": {
+      "mentions": 1,
+      "last_date": "2026-06-06"
+    },
+    "University of Toronto": {
+      "mentions": 1,
+      "last_date": "2026-06-06"
+    },
+    "DeepSeek": {
+      "mentions": 1,
+      "last_date": "2026-06-06"
+    },
+    "OpenCode": {
+      "mentions": 1,
+      "last_date": "2026-06-06"
+    },
+    "Pfizer": {
+      "mentions": 1,
+      "last_date": "2026-06-06"
+    },
+    "Eli Lilly": {
+      "mentions": 1,
+      "last_date": "2026-06-06"
+    },
+    "Nicolas Papernot": {
+      "mentions": 1,
+      "last_date": "2026-06-06"
     }
   },
   "Anthropic": {
