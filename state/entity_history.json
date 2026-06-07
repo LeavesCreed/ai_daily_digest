@@ -524,7 +524,8 @@
   "Anthropic": {
     "role": "AI startup",
     "valuation": "900B",
-    "last_seen": "2026-05-29"
+    "last_seen": "2026-05-29",
+    "mention_count": 1
   },
   "IBM": {
     "role": "tech company",
@@ -589,7 +590,8 @@
   },
   "MCP": {
     "mentions": 1,
-    "last_date": "2026-06-05"
+    "last_date": "2026-06-05",
+    "mention_count": 1
   },
   "DeepMind": {
     "mentions": 1,
@@ -606,5 +608,55 @@
   "OpenClaw": {
     "mentions": 1,
     "last_date": "2026-06-05"
+  },
+  "Google": {
+    "first_seen": "2026-06-07",
+    "mention_count": 1,
+    "category": "organization"
+  },
+  "SpaceX": {
+    "first_seen": "2026-06-07",
+    "mention_count": 1,
+    "category": "organization"
+  },
+  "NVIDIA": {
+    "first_seen": "2026-06-07",
+    "mention_count": 1,
+    "category": "organization"
+  },
+  "Apple": {
+    "first_seen": "2026-06-07",
+    "mention_count": 1,
+    "category": "organization"
+  },
+  "University of Toronto": {
+    "first_seen": "2026-06-07",
+    "mention_count": 1,
+    "category": "organization"
+  },
+  "Nicolas Papernot": {
+    "first_seen": "2026-06-07",
+    "mention_count": 1,
+    "category": "person"
+  },
+  "Jack Clark": {
+    "first_seen": "2026-06-07",
+    "mention_count": 1,
+    "category": "person"
+  },
+  "Marina Favaro": {
+    "first_seen": "2026-06-07",
+    "mention_count": 1,
+    "category": "person"
+  },
+  "FFmpeg": {
+    "first_seen": "2026-06-07",
+    "mention_count": 1,
+    "category": "project"
+  },
+  "Gemini Enterprise": {
+    "first_seen": "2026-06-07",
+    "mention_count": 1,
+    "category": "project"
   }
 }

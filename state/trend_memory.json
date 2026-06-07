@@ -480,5 +480,45 @@
         "1.6T params on domestic chips"
       ]
     }
+  },
+  "recursive_self_improvement_realization": {
+    "status": "emerging",
+    "first_detected": "2026-06-07",
+    "evidence": [
+      "Anthropic quantifies Claude writing 80%+ production code",
+      "Industry call for coordinated slowdown"
+    ]
+  },
+  "ai_compute_economics": {
+    "status": "escalating",
+    "first_detected": "2026-06-07",
+    "evidence": [
+      "Google-SpaceX $920M/month GPU deal",
+      "Total $30B+ compute commitment"
+    ]
+  },
+  "ai_agent_platform_consumerization": {
+    "status": "emerging",
+    "first_detected": "2026-06-07",
+    "evidence": [
+      "Apple WWDC Siri overhaul with standalone app",
+      "AI agent app store"
+    ]
+  },
+  "open_weight_security_threat": {
+    "status": "confirmed",
+    "first_detected": "2026-06-07",
+    "evidence": [
+      "Open-weight model powers self-spreading worm",
+      "Single GPU offensive capability"
+    ]
+  },
+  "ai_vulnerability_discovery_automation": {
+    "status": "accelerating",
+    "first_detected": "2026-06-07",
+    "evidence": [
+      "Autonomous AI agent finds 21 zero-days in FFmpeg",
+      "Record 429 Chrome patches"
+    ]
   }
 }
