@@ -479,6 +479,26 @@
         "Huawei Ascend 910C DeepSeek-V4-Pro full-parameter post-training",
         "1.6T params on domestic chips"
       ]
+    },
+    "recursive_self_improvement_investment": {
+      "signal": "RSI becoming venture-scale investment thesis",
+      "strength": "strong",
+      "first_observed": "2026-06-08"
+    },
+    "ai_platform_consolidation": {
+      "signal": "ChatGPT superapp signals platform bundling strategy",
+      "strength": "strong",
+      "first_observed": "2026-06-08"
+    },
+    "ai_cybersecurity_geopolitical_timeline": {
+      "signal": "6-12 month US lead window before China parity",
+      "strength": "strong",
+      "first_observed": "2026-06-08"
+    },
+    "embodied_ai_evaluation_maturation": {
+      "signal": "Shift from simulation to real-robot benchmarks",
+      "strength": "medium",
+      "first_observed": "2026-06-08"
     }
   },
   "recursive_self_improvement_realization": {
