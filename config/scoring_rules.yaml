@@ -1,22 +1,37 @@
 technical_novelty:
   max: 10
-  weight: 0.35
+  weight: 0.25
 
 engineering_impact:
   max: 10
-  weight: 0.30
+  weight: 0.25
 
 ecosystem_impact:
   max: 10
-  weight: 0.20
+  weight: 0.15
 
 research_significance:
   max: 10
-  weight: 0.15
+  weight: 0.10
 
 open_source_value:
   max: 10
-  weight: 0.15
+  weight: 0.10
+
+ai_safety_relevance:
+  max: 10
+  weight: 0.30
+
+ai_safety_signals:
+  alignment_research: 10
+  safety_governance: 9
+  interpretability: 9
+  red_teaming: 8
+  robustness: 8
+  bias_fairness: 7
+  ai_control: 9
+  ai_governance_policy: 7
+  existential_safety: 10
 
 penalties:
   hype: -5
