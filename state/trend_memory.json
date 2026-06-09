@@ -269,9 +269,9 @@
     "ai_data_centre_geopolitics": {
       "first_observed": "2026-05-31",
       "strength": "strong",
-      "description": "SoftBank \u20ac45B France commitment follows NVIDIA $150B Taiwan pledge \u2014 AI data centre investment is now a sovereign priority",
+      "description": "SoftBank €45B France commitment follows NVIDIA $150B Taiwan pledge — AI data centre investment is now a sovereign priority",
       "related_events": [
-        "SoftBank \u20ac45B France investment",
+        "SoftBank €45B France investment",
         "NVIDIA $150B Taiwan commitment",
         "EU sovereign AI infrastructure push",
         "EU Parliament switches from Google to Qwant"
@@ -301,7 +301,7 @@
     "ai_wearables_ambient_computing": {
       "first_observed": "2026-06-01",
       "strength": "emerging",
-      "description": "Meta AI pendant, OpenAI/io hardware, Apple wearable trio \u2014 ambient screenless AI interfaces becoming serious product category distinct from smart glasses",
+      "description": "Meta AI pendant, OpenAI/io hardware, Apple wearable trio — ambient screenless AI interfaces becoming serious product category distinct from smart glasses",
       "related_events": [
         "Meta developing AI pendant based on Limitless tech",
         "OpenAI/io Jony Ive hardware project",
@@ -365,7 +365,7 @@
     "nvidia_full_stack_platform": {
       "first_observed": "2026-06-02",
       "strength": "strong",
-      "description": "NVIDIA transitions from chip supplier to full-stack AI platform company spanning consumer PCs (RTX Spark), physical AI (Cosmos 3), data centers (Vera Rubin), and robotics (GR00T) \u2014 defining the entire AI compute stack from edge to cloud",
+      "description": "NVIDIA transitions from chip supplier to full-stack AI platform company spanning consumer PCs (RTX Spark), physical AI (Cosmos 3), data centers (Vera Rubin), and robotics (GR00T) — defining the entire AI compute stack from edge to cloud",
       "related_events": [
         "RTX Spark consumer PC chip launch",
         "Cosmos 3 open omnimodel for physical AI",
@@ -448,7 +448,7 @@
     "ai_cybersecurity_institutionalization": {
       "first_observed": "2026-06-05",
       "strength": "medium",
-      "description": "CISA developing defensive AI platform, Congressional AI security hearings, DeepMind safety paper \u2014 AI safety and cybersecurity converging into formal government/commercial practice",
+      "description": "CISA developing defensive AI platform, Congressional AI security hearings, DeepMind safety paper — AI safety and cybersecurity converging into formal government/commercial practice",
       "related_events": [
         "CISA cyber AI directive",
         "DeepMind solipsistic superintelligence paper",
@@ -502,11 +502,12 @@
     }
   },
   "recursive_self_improvement_realization": {
-    "status": "emerging",
+    "status": "confirmed",
     "first_detected": "2026-06-07",
     "evidence": [
       "Anthropic quantifies Claude writing 80%+ production code",
-      "Industry call for coordinated slowdown"
+      "Industry call for coordinated slowdown",
+      "Anthropic RSI report internal data quantified"
     ]
   },
   "ai_compute_economics": {
@@ -539,6 +540,16 @@
     "evidence": [
       "Autonomous AI agent finds 21 zero-days in FFmpeg",
       "Record 429 Chrome patches"
+    ]
+  },
+  "ai_safety_governance_inflection": {
+    "first_observed": "2026-06-09",
+    "strength": "strong",
+    "description": "Three simultaneous safety governance events: Anthropic pause proposal, Florida lawsuit, White House cybersecurity EO. AI safety moving from academic discussion to institutional action.",
+    "related_events": [
+      "Anthropic RSI report and global pause proposal",
+      "Florida v. OpenAI safety lawsuit",
+      "Trump AI cybersecurity clearinghouse EO"
     ]
   }
 }

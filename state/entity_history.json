@@ -17,16 +17,17 @@
       "last_date": "2026-05-20"
     },
     "Anthropic": {
-      "mentions": 23,
-      "last_date": "2026-06-06"
+      "date": "2026-06-09",
+      "event": "RSI report with global pause proposal",
+      "significance": "high"
     },
     "OpenHands": {
       "mentions": 1,
       "last_date": "2026-05-20"
     },
     "OpenAI": {
-      "source": "superapp overhaul",
-      "date": "2026-06-08",
+      "date": "2026-06-09",
+      "event": "Confidentially files for IPO",
       "significance": "high"
     },
     "arXiv": {
@@ -90,8 +91,9 @@
       "last_date": "2026-05-24"
     },
     "Apple": {
-      "mentions": 3,
-      "last_date": "2026-06-06"
+      "date": "2026-06-09",
+      "event": "Siri AI with Google Gemini at WWDC 2026",
+      "significance": "high"
     },
     "Mozilla": {
       "mentions": 1,
@@ -406,12 +408,14 @@
       "last_date": "2026-06-04"
     },
     "Sam Altman": {
-      "mentions": 3,
-      "last_date": "2026-06-04"
+      "date": "2026-06-09",
+      "event": "Personally named in Florida lawsuit",
+      "significance": "high"
     },
     "White House": {
-      "mentions": 1,
-      "last_date": "2026-06-04"
+      "date": "2026-06-09",
+      "event": "AI cybersecurity clearinghouse executive order",
+      "significance": "high"
     },
     "NSA": {
       "mentions": 1,
@@ -539,6 +543,31 @@
     "xAI": {
       "source": "Claude distillation",
       "date": "2026-06-08",
+      "significance": "medium"
+    },
+    "Florida": {
+      "date": "2026-06-09",
+      "event": "Sues OpenAI over safety lapses",
+      "significance": "high"
+    },
+    "Tim Cook": {
+      "date": "2026-06-09",
+      "event": "Last WWDC as Apple CEO before John Ternus succession",
+      "significance": "high"
+    },
+    "John Ternus": {
+      "date": "2026-06-09",
+      "event": "Named Apple CEO successor (September 2026)",
+      "significance": "medium"
+    },
+    "London Institute for Mathematical Sciences": {
+      "date": "2026-06-09",
+      "event": "Nature paper on AI in math and physics discovery",
+      "significance": "medium"
+    },
+    "XMUDeepLIT": {
+      "date": "2026-06-09",
+      "event": "Awesome-Self-Evolving-Agents survey repository",
       "significance": "medium"
     }
   },
