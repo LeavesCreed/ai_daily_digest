@@ -1,8 +1,8 @@
 {
   "entities": {
     "Google": {
-      "mentions": 13,
-      "last_date": "2026-06-04"
+      "mentions": 14,
+      "last_date": "2026-06-10"
     },
     "Dell": {
       "mentions": 1,
@@ -19,7 +19,9 @@
     "Anthropic": {
       "date": "2026-06-09",
       "event": "RSI report with global pause proposal",
-      "significance": "high"
+      "significance": "high",
+      "mentions": 1,
+      "last_date": "2026-06-10"
     },
     "OpenHands": {
       "mentions": 1,
@@ -28,7 +30,9 @@
     "OpenAI": {
       "date": "2026-06-09",
       "event": "Confidentially files for IPO",
-      "significance": "high"
+      "significance": "high",
+      "mentions": 1,
+      "last_date": "2026-06-10"
     },
     "arXiv": {
       "mentions": 3,
@@ -47,8 +51,8 @@
       "last_date": "2026-06-02"
     },
     "GitHub": {
-      "mentions": 2,
-      "last_date": "2026-05-27"
+      "mentions": 3,
+      "last_date": "2026-06-10"
     },
     "TeamPCP": {
       "mentions": 2,
@@ -93,7 +97,9 @@
     "Apple": {
       "date": "2026-06-09",
       "event": "Siri AI with Google Gemini at WWDC 2026",
-      "significance": "high"
+      "significance": "high",
+      "mentions": 1,
+      "last_date": "2026-06-10"
     },
     "Mozilla": {
       "mentions": 1,
@@ -284,8 +290,8 @@
       "last_date": "2026-05-31"
     },
     "Microsoft": {
-      "mentions": 7,
-      "last_date": "2026-06-04"
+      "mentions": 8,
+      "last_date": "2026-06-10"
     },
     "Snowflake": {
       "mentions": 1,
@@ -569,6 +575,18 @@
       "date": "2026-06-09",
       "event": "Awesome-Self-Evolving-Agents survey repository",
       "significance": "medium"
+    },
+    "StepSecurity": {
+      "mentions": 1,
+      "last_date": "2026-06-10"
+    },
+    "Goldman Sachs": {
+      "mentions": 1,
+      "last_date": "2026-06-10"
+    },
+    "Morgan Stanley": {
+      "mentions": 1,
+      "last_date": "2026-06-10"
     }
   },
   "Anthropic": {
