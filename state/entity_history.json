@@ -17,8 +17,8 @@
       "last_date": "2026-05-20"
     },
     "Anthropic": {
-      "date": "2026-06-09",
-      "event": "RSI report with global pause proposal",
+      "date": "2026-06-11",
+      "event": "Backs mandatory testing for frontier AI models, $200M economic research",
       "significance": "high",
       "mentions": 1,
       "last_date": "2026-06-10"
@@ -508,8 +508,11 @@
       "last_date": "2026-06-06"
     },
     "University of Toronto": {
+      "date": "2026-06-11",
+      "event": "Self-replicating AI worm using open-weight LLM",
+      "significance": "high",
       "mentions": 1,
-      "last_date": "2026-06-06"
+      "last_date": "2026-06-11"
     },
     "DeepSeek": {
       "mentions": 1,
@@ -528,8 +531,11 @@
       "last_date": "2026-06-06"
     },
     "Nicolas Papernot": {
+      "date": "2026-06-11",
+      "event": "CleverHans Lab self-replicating AI worm paper",
+      "significance": "high",
       "mentions": 1,
-      "last_date": "2026-06-06"
+      "last_date": "2026-06-11"
     },
     "Recursive Superintelligence": {
       "source": "Tian Yuandong",
@@ -585,8 +591,46 @@
       "last_date": "2026-06-10"
     },
     "Morgan Stanley": {
+      "date": "2026-06-11",
+      "event": "Forecasts $570B AI debt issuance in 2026",
+      "significance": "medium",
       "mentions": 1,
-      "last_date": "2026-06-10"
+      "last_date": "2026-06-11"
+    },
+    "Dario Amodei": {
+      "date": "2026-06-11",
+      "event": "Proposes universal capital accounts, mandatory FAA-style testing",
+      "significance": "high",
+      "mentions": 1,
+      "last_date": "2026-06-11"
+    },
+    "Alex Karp": {
+      "date": "2026-06-11",
+      "event": "Enterprises unhappy with frontier labs, tokenmaxxing critique",
+      "significance": "high",
+      "mentions": 1,
+      "last_date": "2026-06-11"
+    },
+    "Palantir": {
+      "date": "2026-06-11",
+      "event": "CEO says Anthropic public projects run on Palantir",
+      "significance": "medium",
+      "mentions": 1,
+      "last_date": "2026-06-11"
+    },
+    "Cloudsmith": {
+      "date": "2026-06-11",
+      "event": "Identified Miasma supply chain attack on Microsoft repos",
+      "significance": "medium",
+      "mentions": 1,
+      "last_date": "2026-06-11"
+    },
+    "addyosmani": {
+      "date": "2026-06-11",
+      "event": "agent-skills trending #1 on GitHub",
+      "significance": "medium",
+      "mentions": 1,
+      "last_date": "2026-06-11"
     }
   },
   "Anthropic": {

@@ -519,9 +519,39 @@
     },
     "ai_supply_chain_attack_surface": {
       "first_observed": "2026-06-10",
-      "strength": "emerging",
+      "strength": "strong",
+      "description": "Miasma attack on 70+ Microsoft GitHub repos targeting AI developers using Claude Code, Gemini CLI, and VS Code. Password-stealing malware injected into source.",
       "related_events": [
-        "Miasma worm targets AI coding environments"
+        "Miasma worm targets AI coding environments",
+        "70+ Microsoft Azure/AI repos compromised"
+      ]
+    },
+    "ai_safety_mandatory_testing": {
+      "first_observed": "2026-06-11",
+      "strength": "strong",
+      "description": "Anthropic proposes mandatory FAA-style testing for frontier AI models with government authority to block. $200M economic research fund. Universal capital accounts proposed.",
+      "related_events": [
+        "Anthropic mandatory testing framework",
+        "Amodei universal capital accounts",
+        "$200M AI economic impact research"
+      ]
+    },
+    "open_weight_offensive_capability": {
+      "first_observed": "2026-06-11",
+      "strength": "strong",
+      "description": "UofT self-replicating AI worm using open-weight LLM on single GPU confirms open-weight offensive threats are real and imminent. Autonomous 62% network infection over 7 days.",
+      "related_events": [
+        "UofT CleverHans Lab self-replicating worm (arXiv:2606.03811)",
+        "62% autonomous infection across 33 hosts"
+      ]
+    },
+    "ai_enterprise_backlash": {
+      "first_observed": "2026-06-11",
+      "strength": "emerging",
+      "description": "Palantir CEO Karp says every enterprise customer is unhappy with frontier labs over tokenmaxxing culture. Implementation over models. Threatens IPO revenue models.",
+      "related_events": [
+        "Palantir Karp: enterprises unhappy with frontier labs",
+        "Morgan Stanley $570B AI debt issuance forecast"
       ]
     }
   },
