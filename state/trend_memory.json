@@ -527,13 +527,13 @@
       ]
     },
     "ai_safety_mandatory_testing": {
-      "first_observed": "2026-06-11",
+      "first_observed": "2026-06-10",
       "strength": "strong",
-      "description": "Anthropic proposes mandatory FAA-style testing for frontier AI models with government authority to block. $200M economic research fund. Universal capital accounts proposed.",
+      "description": "Anthropic proposes mandatory FAA-style testing for frontier AI models with government authority to block. Great American AI Act provides legislative parallel.",
       "related_events": [
         "Anthropic mandatory testing framework",
-        "Amodei universal capital accounts",
-        "$200M AI economic impact research"
+        "Great American AI Act discussion draft",
+        "Claude Fable 5 dual-release with safety guardrails"
       ]
     },
     "open_weight_offensive_capability": {
@@ -552,6 +552,23 @@
       "related_events": [
         "Palantir Karp: enterprises unhappy with frontier labs",
         "Morgan Stanley $570B AI debt issuance forecast"
+      ]
+    },
+    "physical_ai_investment": {
+      "first_observed": "2026-06-12",
+      "strength": "strong",
+      "description": "Prometheus $41B valuation confirms physical AI as the next frontier. Bezos' artificial general engineer thesis challenges pure-software AI narrative.",
+      "related_events": [
+        "Prometheus $12B raise at $41B valuation",
+        "Bezos artificial general engineer vision"
+      ]
+    },
+    "telecom_agentic_ai": {
+      "first_observed": "2026-06-12",
+      "strength": "emerging",
+      "description": "Nokia's agentic AI for IP networks shows carrier-grade infrastructure adopting agent paradigm with trust and explainability requirements.",
+      "related_events": [
+        "Nokia NSP agentic AI framework"
       ]
     }
   },

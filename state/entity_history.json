@@ -20,8 +20,8 @@
       "date": "2026-06-11",
       "event": "Backs mandatory testing for frontier AI models, $200M economic research",
       "significance": "high",
-      "mentions": 1,
-      "last_date": "2026-06-10"
+      "mentions": 2,
+      "last_date": "2026-06-12"
     },
     "OpenHands": {
       "mentions": 1,
@@ -631,6 +631,56 @@
       "significance": "medium",
       "mentions": 1,
       "last_date": "2026-06-11"
+    },
+    "Prometheus": {
+      "date": "2026-06-12",
+      "event": "Raised $12B at $41B valuation for artificial general engineer",
+      "significance": "high"
+    },
+    "Jeff Bezos": {
+      "date": "2026-06-12",
+      "event": "Prometheus co-CEO, $12B raise for physical AI",
+      "significance": "high"
+    },
+    "Vik Bajaj": {
+      "date": "2026-06-12",
+      "event": "Prometheus co-CEO, former Verily executive",
+      "significance": "medium"
+    },
+    "Nokia": {
+      "date": "2026-06-12",
+      "event": "Agentic AI framework for IP network operations",
+      "significance": "medium"
+    },
+    "Jay Obernolte": {
+      "date": "2026-06-12",
+      "event": "Co-sponsor Great American AI Act discussion draft",
+      "significance": "high"
+    },
+    "Lori Trahan": {
+      "date": "2026-06-12",
+      "event": "Co-sponsor Great American AI Act discussion draft",
+      "significance": "high"
+    },
+    "JPMorgan Chase": {
+      "date": "2026-06-12",
+      "event": "Invested in Prometheus $12B round",
+      "significance": "medium"
+    },
+    "BlackRock": {
+      "date": "2026-06-12",
+      "event": "Invested in Prometheus $12B round",
+      "significance": "medium"
+    },
+    "openclaw": {
+      "date": "2026-06-12",
+      "event": "Open-source personal AI agent trending",
+      "significance": "medium"
+    },
+    "CAISI": {
+      "date": "2026-06-12",
+      "event": "Proposed Center for AI Standards and Innovation",
+      "significance": "medium"
     }
   },
   "Anthropic": {
