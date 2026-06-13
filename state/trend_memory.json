@@ -613,14 +613,8 @@
       "Record 429 Chrome patches"
     ]
   },
-  "ai_safety_governance_inflection": {
-    "first_observed": "2026-06-09",
-    "strength": "strong",
-    "description": "Three simultaneous safety governance events: Anthropic pause proposal, Florida lawsuit, White House cybersecurity EO. AI safety moving from academic discussion to institutional action.",
-    "related_events": [
-      "Anthropic RSI report and global pause proposal",
-      "Florida v. OpenAI safety lawsuit",
-      "Trump AI cybersecurity clearinghouse EO"
-    ]
-  }
+  "ai_safety_governance_inflection": "strong",
+  "ai_inference_economics_collapse": "emerging",
+  "capability_limitation_guardrails": "emerging",
+  "ai_regulatory_paradox": "strong"
 }

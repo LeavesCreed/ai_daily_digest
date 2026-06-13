@@ -17,10 +17,10 @@
       "last_date": "2026-05-20"
     },
     "Anthropic": {
-      "date": "2026-06-11",
-      "event": "Backs mandatory testing for frontier AI models, $200M economic research",
+      "date": "2026-06-13",
+      "event": "Mandatory testing proposal + Fable 5 silent downgrade backlash",
       "significance": "high",
-      "mentions": 2,
+      "mentions": 3,
       "last_date": "2026-06-12"
     },
     "OpenHands": {
@@ -28,10 +28,10 @@
       "last_date": "2026-05-20"
     },
     "OpenAI": {
-      "date": "2026-06-09",
-      "event": "Confidentially files for IPO",
-      "significance": "high",
-      "mentions": 1,
+      "date": "2026-06-13",
+      "event": "Warning about AI speed + GPT-5.5 release",
+      "significance": "medium",
+      "mentions": 2,
       "last_date": "2026-06-10"
     },
     "arXiv": {
@@ -414,13 +414,13 @@
       "last_date": "2026-06-04"
     },
     "Sam Altman": {
-      "date": "2026-06-09",
-      "event": "Personally named in Florida lawsuit",
-      "significance": "high"
+      "date": "2026-06-13",
+      "event": "Warned about AI development speed while pushing GPT-5.5",
+      "significance": "medium"
     },
     "White House": {
-      "date": "2026-06-09",
-      "event": "AI cybersecurity clearinghouse executive order",
+      "date": "2026-06-13",
+      "event": "Signed AI Security Order requiring 30-day frontier model review",
       "significance": "high"
     },
     "NSA": {
@@ -598,11 +598,9 @@
       "last_date": "2026-06-11"
     },
     "Dario Amodei": {
-      "date": "2026-06-11",
-      "event": "Proposes universal capital accounts, mandatory FAA-style testing",
-      "significance": "high",
-      "mentions": 1,
-      "last_date": "2026-06-11"
+      "date": "2026-06-13",
+      "event": "Published Policy on the AI Exponential, calls for mandatory AI testing",
+      "significance": "high"
     },
     "Alex Karp": {
       "date": "2026-06-11",
@@ -681,6 +679,16 @@
       "date": "2026-06-12",
       "event": "Proposed Center for AI Standards and Innovation",
       "significance": "medium"
+    },
+    "All-Hands-AI": {
+      "date": "2026-06-13",
+      "event": "OpenHands 76.2k stars, open-source AI coding agent",
+      "significance": "medium"
+    },
+    "Jeremy Howard": {
+      "date": "2026-06-13",
+      "event": "Criticized Anthropic Fable 5 silent downgrade",
+      "significance": "low"
     }
   },
   "Anthropic": {
