@@ -570,6 +570,21 @@
       "related_events": [
         "Nokia NSP agentic AI framework"
       ]
+    },
+    "ai_safety_regulatory_inflection": {
+      "first_observed": "2026-06-14",
+      "strength": "strong",
+      "description": "Convergence of state AG investigations, frontier lab self-regulation proposals, and IPO market pressures creating unprecedented safety governance velocity"
+    },
+    "ai_corporate_social_responsibility": {
+      "first_observed": "2026-06-14",
+      "strength": "emerging",
+      "description": "Anthropic Claude Corps $150M nonprofit fellowship sets new standard for AI CSR programs"
+    },
+    "ai_credibility_crisis": {
+      "first_observed": "2026-06-14",
+      "strength": "emerging",
+      "description": "KPMG AI hallucination incident adds to growing enterprise AI trust deficit"
     }
   },
   "recursive_self_improvement_realization": {

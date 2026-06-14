@@ -598,9 +598,10 @@
       "last_date": "2026-06-11"
     },
     "Dario Amodei": {
-      "date": "2026-06-13",
-      "event": "Published Policy on the AI Exponential, calls for mandatory AI testing",
-      "significance": "high"
+      "date": "2026-06-14",
+      "event": "Published Policy on the AI Exponential calling for mandatory AI testing",
+      "significance": "high",
+      "last_date": "2026-06-14"
     },
     "Alex Karp": {
       "date": "2026-06-11",
@@ -689,6 +690,31 @@
       "date": "2026-06-13",
       "event": "Criticized Anthropic Fable 5 silent downgrade",
       "significance": "low"
+    },
+    "Waymo": {
+      "date": "2026-06-14",
+      "event": "Nature Communications paper on active inference collision avoidance framework",
+      "significance": "high"
+    },
+    "TU Delft": {
+      "date": "2026-06-14",
+      "event": "Collaboration with Waymo on Nature Communications paper",
+      "significance": "medium"
+    },
+    "KPMG": {
+      "date": "2026-06-14",
+      "event": "Published AI-hallucinated case studies in report about AI benefits",
+      "significance": "medium"
+    },
+    "Daniela Amodei": {
+      "date": "2026-06-14",
+      "event": "Announced Claude Corps $150M nonprofit AI fellowship",
+      "significance": "high"
+    },
+    "Claude Corps": {
+      "date": "2026-06-14",
+      "event": "Anthropic $150M fellowship for nonprofit AI adoption",
+      "significance": "medium"
     }
   },
   "Anthropic": {
