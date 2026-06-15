@@ -631,5 +631,15 @@
   "ai_safety_governance_inflection": "strong",
   "ai_inference_economics_collapse": "emerging",
   "capability_limitation_guardrails": "emerging",
-  "ai_regulatory_paradox": "strong"
+  "ai_regulatory_paradox": "strong",
+  "ai_governance_enforcement_phase": {
+    "first_observed": "2026-06-15",
+    "strength": "strong",
+    "description": "Three simultaneous events mark structural shift: Trump export control order on Anthropic Mythos, state AG probe into OpenAI, and SpaceX IPO creating public market pressure on AI compute economics. AI governance transitions from policy proposals to enforcement actions."
+  },
+  "frontier_model_export_controls": {
+    "first_observed": "2026-06-15",
+    "strength": "emerging",
+    "description": "US government sets precedent by ordering Anthropic to restrict foreign national access to frontier AI models over national security concerns."
+  }
 }

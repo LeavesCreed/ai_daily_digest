@@ -47,8 +47,8 @@
       "last_date": "2026-05-21"
     },
     "SpaceX": {
-      "mentions": 4,
-      "last_date": "2026-06-02"
+      "mentions": 1,
+      "last_date": "2026-06-15"
     },
     "GitHub": {
       "mentions": 3,
@@ -598,8 +598,8 @@
       "last_date": "2026-06-11"
     },
     "Dario Amodei": {
-      "date": "2026-06-14",
-      "event": "Published Policy on the AI Exponential calling for mandatory AI testing",
+      "date": "2026-06-15",
+      "event": "Mythos warnings become self-fulfilling as US gov shuts down models",
       "significance": "high",
       "last_date": "2026-06-14"
     },
@@ -715,6 +715,41 @@
       "date": "2026-06-14",
       "event": "Anthropic $150M fellowship for nonprofit AI adoption",
       "significance": "medium"
+    },
+    "Trump administration": {
+      "date": "2026-06-15",
+      "event": "Export control order on Anthropic Mythos/Fable 5 models",
+      "significance": "high"
+    },
+    "Elon Musk": {
+      "date": "2026-06-15",
+      "event": "First trillionaire after SpaceX $75B IPO",
+      "significance": "high"
+    },
+    "Mark Carney": {
+      "date": "2026-06-15",
+      "event": "Warns G7 about US AI provider dependence after Anthropic order",
+      "significance": "high"
+    },
+    "Yann LeCun": {
+      "date": "2026-06-15",
+      "event": "Blamed Amodei fear mongering for triggering Mythos crackdown",
+      "significance": "medium"
+    },
+    "New York Attorney General": {
+      "date": "2026-06-15",
+      "event": "Leads multi-state OpenAI investigation",
+      "significance": "high"
+    },
+    "Alexandr Wang": {
+      "date": "2026-06-15",
+      "event": "One year at Meta: Muse Spark shipped, challenges remain",
+      "significance": "medium"
+    },
+    "Apple Siri AI": {
+      "date": "2026-06-15",
+      "event": "iOS 27 Siri standalone app with screen awareness and third-party model integration",
+      "significance": "high"
     }
   },
   "Anthropic": {
