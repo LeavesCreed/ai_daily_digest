@@ -756,7 +756,9 @@
     "role": "AI startup",
     "valuation": "900B",
     "last_seen": "2026-05-29",
-    "mention_count": 1
+    "mention_count": 1,
+    "last_date": "2026-06-16",
+    "mentions": 1
   },
   "IBM": {
     "role": "tech company",
@@ -771,7 +773,9 @@
   "Microsoft": {
     "role": "tech company",
     "event": "Build 2026 coding model",
-    "last_seen": "2026-05-29"
+    "last_seen": "2026-05-29",
+    "last_date": "2026-06-16",
+    "mentions": 1
   },
   "Verizon": {
     "role": "telecom",
@@ -889,5 +893,29 @@
     "first_seen": "2026-06-07",
     "mention_count": 1,
     "category": "project"
+  },
+  "Loft Orbital": {
+    "mentions": 1,
+    "last_date": "2026-06-16"
+  },
+  "NASA JPL": {
+    "mentions": 1,
+    "last_date": "2026-06-16"
+  },
+  "Fin": {
+    "mentions": 1,
+    "last_date": "2026-06-16"
+  },
+  "Eoghan McCabe": {
+    "mentions": 1,
+    "last_date": "2026-06-16"
+  },
+  "Paul Lasserre": {
+    "mentions": 1,
+    "last_date": "2026-06-16"
+  },
+  "Juan Delfa Victoria": {
+    "mentions": 1,
+    "last_date": "2026-06-16"
   }
 }

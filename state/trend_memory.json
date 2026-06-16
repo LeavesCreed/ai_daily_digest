@@ -633,13 +633,28 @@
   "capability_limitation_guardrails": "emerging",
   "ai_regulatory_paradox": "strong",
   "ai_governance_enforcement_phase": {
-    "first_observed": "2026-06-15",
+    "first_observed": "2026-06-16",
     "strength": "strong",
-    "description": "Three simultaneous events mark structural shift: Trump export control order on Anthropic Mythos, state AG probe into OpenAI, and SpaceX IPO creating public market pressure on AI compute economics. AI governance transitions from policy proposals to enforcement actions."
+    "description": "Anthropic Fable 5 export control order marks structural shift: AI governance has transitioned from policy proposals to direct enforcement actions. US export controls on frontier models, state AG probes into OpenAI, G7-level AI sovereignty debates confirm enforcement phase."
   },
   "frontier_model_export_controls": {
     "first_observed": "2026-06-15",
     "strength": "emerging",
     "description": "US government sets precedent by ordering Anthropic to restrict foreign national access to frontier AI models over national security concerns."
+  },
+  "ai_edge_inference_space": {
+    "first_observed": "2026-06-16",
+    "strength": "emerging",
+    "description": "First VLM deployed in orbit (Gemma 3 on YAM-9 satellite) opens new frontier for edge AI in space-based sensing, with satellite constellations capable of real-time autonomous data triage."
+  },
+  "enterprise_ai_consolidation": {
+    "first_observed": "2026-06-16",
+    "strength": "strong",
+    "description": "Salesforce $3.6B acquisition of Fin signals consolidation phase of enterprise AI market, as major SaaS platforms acquire rather than build AI agent capabilities."
+  },
+  "ai_economics_warning": {
+    "first_observed": "2026-06-16",
+    "strength": "medium",
+    "description": "Microsoft CEO Nadella warns of AI economic bubble dynamics, suggesting AI infrastructure buildout may be outpacing actual enterprise demand."
   }
 }
