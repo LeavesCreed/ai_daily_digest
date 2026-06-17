@@ -15,8 +15,18 @@ blocked_topics:
   - face swap
   - meme ai
   - prompt marketplace spam
+  - preview release older than 30 days
+  - deprecated API migration notice
+  - minor version patch update without benchmark gains
 
 blocked_patterns:
   - "revolutionary ai"
   - "changes everything"
   - "next trillion dollar"
+
+# 时效性规则：发布日期超过14天的非重大事件、预览版发布超过30天的旧闻，应被标记为低优先级
+stale_content_rules:
+  max_days_for_preview: 14
+  max_days_for_blog: 7
+  max_days_for_funding: 7
+  max_days_for_opinion: 3
