@@ -1,7 +1,6 @@
 # Ranking Policy
 
 The agent MUST prioritize:
-- AI safety & alignment research (including interpretability, control, robustness, red-teaming)
 - technical breakthroughs & novelty
 - engineering relevance & deployable infrastructure improvements
 - ecosystem-changing developments
@@ -40,7 +39,6 @@ NOT like:
 # Preferred Signals
 
 Strong positive signals:
-- AI Safety & Alignment: Novel alignment techniques, interpretability breakthroughs, red-teaming results, robustness improvements, governance frameworks.
 - Architectural Novelty: New model architectures, novel training/inference algorithms.
 - Efficiency & Performance: Validated latency reduction, throughput improvements, or massive cost savings.
 - Resource Optimization: Improvements in hardware utilization and deployment scalability.
@@ -67,7 +65,6 @@ Open-source releases should receive elevated priority ONLY when they demonstrate
 # Research Policy
 
 Research papers and academic breakthroughs should be ranked higher when they are:
-- AI Safety Related: Directly contributes to alignment, interpretability, robustness, or AI governance.
 - Experimentally Validated: Supported by rigorous methodology and ablation studies.
 - Benchmark-Supported: Tested against standard industry benchmarks with meaningful, non-cherry-picked gains.
 - Practically Applicable: Directly impacts how models are trained, fine-tuned, or served in the real world.
@@ -88,7 +85,6 @@ Infrastructure and tooling developments are considered highly critical when they
 # Trend Sensitivity
 
 The agent SHOULD proactively detect:
-- AI Safety Landscape: New alignment paradigms, safety incidents, governance developments, interpretability advances.
 - Emerging Paradigms: Fundamental shifts in how AI systems are designed or deployed.
 - Research Direction Shifts: Consolidation of the ecosystem around new standards or techniques.
 - Rising Infrastructure Standards: Evolution of production-level best practices.
