@@ -758,7 +758,7 @@
     "last_seen": "2026-05-29",
     "mention_count": 1,
     "last_date": "2026-06-16",
-    "mentions": 1
+    "mentions": 2
   },
   "IBM": {
     "role": "tech company",
@@ -895,11 +895,11 @@
     "category": "project"
   },
   "Loft Orbital": {
-    "mentions": 1,
+    "mentions": 2,
     "last_date": "2026-06-16"
   },
   "NASA JPL": {
-    "mentions": 1,
+    "mentions": 2,
     "last_date": "2026-06-16"
   },
   "Fin": {
@@ -917,5 +917,97 @@
   "Juan Delfa Victoria": {
     "mentions": 1,
     "last_date": "2026-06-16"
+  },
+  "Trump Administration": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "Howard Lutnick": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "Dario Amodei": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "David Sacks": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "Satya Nadella": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "Mark Carney": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "Jay Obernolte": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "Lori Trahan": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "CAISI": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "Chainguard": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "JPMorganChase": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "BNY": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "Cisco": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "Cloudflare": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "Google DeepMind": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "Gemma 3": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "Zhipu": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "MiniMax": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "DeepSeek": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "All-Hands-AI": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "OpenHands": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "Ynetnews": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
+  },
+  "The Atlantic": {
+    "first_seen": "2026-06-17",
+    "mentions": 1
   }
 }
