@@ -43,12 +43,18 @@
       "last_date": "2026-05-21"
     },
     "Cursor": {
-      "mentions": 1,
-      "last_date": "2026-05-21"
+      "mentions": 2,
+      "last_date": "2026-05-21",
+      "date": "2026-06-18",
+      "event": "Acquired by SpaceX for 0B",
+      "significance": "high"
     },
     "SpaceX": {
-      "mentions": 1,
-      "last_date": "2026-06-15"
+      "mentions": 2,
+      "last_date": "2026-06-15",
+      "date": "2026-06-18",
+      "event": "Acquired Cursor for 0B",
+      "significance": "high"
     },
     "GitHub": {
       "mentions": 3,
@@ -234,8 +240,11 @@
       "last_date": "2026-05-30"
     },
     "Amazon": {
-      "mentions": 1,
-      "last_date": "2026-05-30"
+      "mentions": 2,
+      "last_date": "2026-05-30",
+      "date": "2026-06-18",
+      "event": "Admits Nova models lag behind frontier",
+      "significance": "high"
     },
     "METR": {
       "mentions": 2,
@@ -290,8 +299,11 @@
       "last_date": "2026-05-31"
     },
     "Microsoft": {
-      "mentions": 8,
-      "last_date": "2026-06-10"
+      "mentions": 9,
+      "last_date": "2026-06-10",
+      "date": "2026-06-18",
+      "event": "Exploring DeepSeek V4 for Copilot Cowork",
+      "significance": "high"
     },
     "Snowflake": {
       "mentions": 1,
@@ -515,8 +527,11 @@
       "last_date": "2026-06-11"
     },
     "DeepSeek": {
-      "mentions": 1,
-      "last_date": "2026-06-06"
+      "mentions": 2,
+      "last_date": "2026-06-06",
+      "date": "2026-06-18",
+      "event": ".4B+ raise at 0B+ valuation",
+      "significance": "high"
     },
     "OpenCode": {
       "mentions": 1,
@@ -750,6 +765,26 @@
       "date": "2026-06-15",
       "event": "iOS 27 Siri standalone app with screen awareness and third-party model integration",
       "significance": "high"
+    },
+    "Anysphere": {
+      "date": "2026-06-18",
+      "event": "Cursor developer acquired by SpaceX",
+      "significance": "high"
+    },
+    "Peter DeSantis": {
+      "date": "2026-06-18",
+      "event": "Amazon AI chief admits model gap",
+      "significance": "medium"
+    },
+    "Probably": {
+      "date": "2026-06-18",
+      "event": "M seed for AI validation infrastructure",
+      "significance": "medium"
+    },
+    "X Square Robot": {
+      "date": "2026-06-18",
+      "event": "XRZero-G0 embodied AI framework",
+      "significance": "medium"
     }
   },
   "Anthropic": {
