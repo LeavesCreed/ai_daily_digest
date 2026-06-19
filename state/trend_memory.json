@@ -600,6 +600,43 @@
       "status": "strong",
       "description": "Convergence of Anthropic export ban, Microsoft evaluating DeepSeek, and Chinese model filling gaps signal multi-polar AI supply chain emerging",
       "updated": "2026-06-18"
+    },
+    "ai_agent_optimization_framework": {
+      "first_observed": "2026-06-19",
+      "strength": "strong",
+      "description": "Arbor framework demonstrates structured memory and hypothesis management are critical for autonomous optimization - not just more compute. HTR architecture with coordinator/executor separation sets new paradigm for AI self-improvement.",
+      "related_events": [
+        "Arbor 2.5x over Claude Code/Codex",
+        "Microsoft Research + Renmin University collaboration"
+      ]
+    },
+    "ai_inference_infrastructure_gold_rush": {
+      "first_observed": "2026-06-19",
+      "strength": "strong",
+      "description": "Baseten's $1.5B raise at $13B valuation (160% increase in 5 months) confirms inference infrastructure as dominant capital sink. Split-priced round reveals tension between frothy valuations and investor skepticism.",
+      "related_events": [
+        "Baseten $1.5B at $13B",
+        "JPMorgan $5.5T AI capex forecast"
+      ]
+    },
+    "ai_governance_standardization": {
+      "first_observed": "2026-06-19",
+      "strength": "strong",
+      "description": "White House-Anthropic shift from export controls to security evaluation standards marks structural change in AI governance. Framework being developed could set precedent for all frontier model evaluation.",
+      "related_events": [
+        "White House-Anthropic security framework",
+        "G7 support for standardized evaluation"
+      ]
+    },
+    "agentic_web_era": {
+      "first_observed": "2026-06-19",
+      "strength": "emerging",
+      "description": "AI bot traffic surpassing human traffic (57.4% vs 42.6%) marks fundamental internet structure shift. 80% websites blocking agents creates tension between access and discovery.",
+      "related_events": [
+        "Cloudflare AI traffic milestone",
+        "Microsoft Web IQ for agentic search",
+        "Microsoft MCP server support"
+      ]
     }
   },
   "recursive_self_improvement_realization": {

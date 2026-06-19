@@ -785,6 +785,48 @@
       "date": "2026-06-18",
       "event": "XRZero-G0 embodied AI framework",
       "significance": "medium"
+    },
+    "Renmin University": {
+      "date": "2026-06-19",
+      "event": "Arbor HTR framework for autonomous optimization",
+      "significance": "high",
+      "last_date": "2026-06-19"
+    },
+    "Baseten": {
+      "date": "2026-06-19",
+      "event": "$1.5B raise at $13B valuation, split-priced round",
+      "significance": "high",
+      "last_date": "2026-06-19"
+    },
+    "Pramaana Labs": {
+      "date": "2026-06-19",
+      "event": "$27M seed for formal verification in AI",
+      "significance": "medium",
+      "last_date": "2026-06-19"
+    },
+    "Cloudflare": {
+      "date": "2026-06-19",
+      "event": "AI bot traffic surpassed human traffic (57.4% vs 42.6%)",
+      "significance": "high",
+      "last_date": "2026-06-19"
+    },
+    "Tom Brown": {
+      "date": "2026-06-19",
+      "event": "Leading White House-Anthropic negotiations on AI security framework",
+      "significance": "high",
+      "last_date": "2026-06-19"
+    },
+    "Sarah Heck": {
+      "date": "2026-06-19",
+      "event": "Anthropic public policy head leading White House negotiations",
+      "significance": "medium",
+      "last_date": "2026-06-19"
+    },
+    "Howard Lutnick": {
+      "date": "2026-06-19",
+      "event": "Commerce Secretary receiving Anthropic proposal to lift export ban",
+      "significance": "high",
+      "last_date": "2026-06-19"
     }
   },
   "Anthropic": {
