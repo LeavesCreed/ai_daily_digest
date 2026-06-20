@@ -637,6 +637,21 @@
         "Microsoft Web IQ for agentic search",
         "Microsoft MCP server support"
       ]
+    },
+    "ai_talent_exodus_big_tech": {
+      "first_observed": "2026-06-20",
+      "strength": "strong",
+      "description": "Back-to-back exits of Jumper and Shazeer signal structural shift in AI talent from Big Tech to startups"
+    },
+    "orbital_ai_compute": {
+      "first_observed": "2026-06-20",
+      "strength": "emerging",
+      "description": "SpaceX AI1 concept brings orbital data center closer to reality with detailed 120kW specs"
+    },
+    "ai_chip_market_multipolarization": {
+      "first_observed": "2026-06-20",
+      "strength": "strong",
+      "description": "Amazon Trainium external sales exploration challenges NVIDIA monopoly"
     }
   },
   "recursive_self_improvement_realization": {

@@ -21,7 +21,7 @@
       "event": "Mandatory testing proposal + Fable 5 silent downgrade backlash",
       "significance": "high",
       "mentions": 3,
-      "last_date": "2026-06-12"
+      "last_date": "2026-06-20"
     },
     "OpenHands": {
       "mentions": 1,
@@ -51,7 +51,7 @@
     },
     "SpaceX": {
       "mentions": 2,
-      "last_date": "2026-06-15",
+      "last_date": "2026-06-20",
       "date": "2026-06-18",
       "event": "Acquired Cursor for 0B",
       "significance": "high"
@@ -241,7 +241,7 @@
     },
     "Amazon": {
       "mentions": 2,
-      "last_date": "2026-05-30",
+      "last_date": "2026-06-20",
       "date": "2026-06-18",
       "event": "Admits Nova models lag behind frontier",
       "significance": "high"
@@ -480,8 +480,9 @@
       "last_date": "2026-06-04"
     },
     "ENISA": {
-      "mentions": 1,
-      "last_date": "2026-06-04"
+      "date": "2026-06-20",
+      "event": "Denied Mythos access despite prior invite",
+      "significance": "medium"
     },
     "Okta": {
       "mentions": 1,
@@ -501,7 +502,7 @@
     },
     "Project Glasswing": {
       "mentions": 3,
-      "last_date": "2026-06-04"
+      "last_date": "2026-06-20"
     },
     "Claude Mythos": {
       "mentions": 3,
@@ -827,6 +828,26 @@
       "event": "Commerce Secretary receiving Anthropic proposal to lift export ban",
       "significance": "high",
       "last_date": "2026-06-19"
+    },
+    "John Jumper": {
+      "date": "2026-06-20",
+      "event": "Leaves DeepMind for Anthropic",
+      "significance": "high"
+    },
+    "Google DeepMind": {
+      "date": "2026-06-20",
+      "event": "John Jumper departs",
+      "significance": "high"
+    },
+    "Cisco": {
+      "date": "2026-06-20",
+      "event": "Confirmed Mythos access retained",
+      "significance": "medium"
+    },
+    "Dragos": {
+      "date": "2026-06-20",
+      "event": "Confirmed Mythos access retained",
+      "significance": "medium"
     }
   },
   "Anthropic": {
