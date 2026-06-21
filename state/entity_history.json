@@ -20,8 +20,8 @@
       "date": "2026-06-13",
       "event": "Mandatory testing proposal + Fable 5 silent downgrade backlash",
       "significance": "high",
-      "mentions": 3,
-      "last_date": "2026-06-20"
+      "mentions": 4,
+      "last_date": "2026-06-21"
     },
     "OpenHands": {
       "mentions": 1,
@@ -832,7 +832,9 @@
     "John Jumper": {
       "date": "2026-06-20",
       "event": "Leaves DeepMind for Anthropic",
-      "significance": "high"
+      "significance": "high",
+      "mentions": 1,
+      "last_date": "2026-06-21"
     },
     "Google DeepMind": {
       "date": "2026-06-20",
@@ -848,6 +850,14 @@
       "date": "2026-06-20",
       "event": "Confirmed Mythos access retained",
       "significance": "medium"
+    },
+    "IREN Limited": {
+      "mentions": 1,
+      "last_date": "2026-06-21"
+    },
+    "DeusData": {
+      "mentions": 1,
+      "last_date": "2026-06-21"
     }
   },
   "Anthropic": {

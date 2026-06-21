@@ -652,6 +652,23 @@
       "first_observed": "2026-06-20",
       "strength": "strong",
       "description": "Amazon Trainium external sales exploration challenges NVIDIA monopoly"
+    },
+    "ai_talent_exodus_frontier_labs": {
+      "first_observed": "2026-06-21",
+      "strength": "emerging",
+      "related_events": [
+        "John Jumper DeepMind to Anthropic",
+        "Noam Shazeer DeepMind to OpenAI"
+      ]
+    },
+    "ai_infrastructure_debt_financing": {
+      "first_observed": "2026-06-21",
+      "strength": "emerging",
+      "related_events": [
+        "$570B AI debt projection",
+        "NVIDIA $25B bond",
+        "Fed rate hike impact"
+      ]
     }
   },
   "recursive_self_improvement_realization": {
