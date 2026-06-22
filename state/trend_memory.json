@@ -669,6 +669,26 @@
         "NVIDIA $25B bond",
         "Fed rate hike impact"
       ]
+    },
+    "open_source_ai_commoditization": {
+      "first_observed": "2026-06-22",
+      "strength": "strong",
+      "description": "GLM-5.2 MIT-licensed model matching frontier benchmarks at 1/6 cost signals rapid commoditization of AI coding intelligence, threatening proprietary lab business models"
+    },
+    "ai_regulatory_ad_hoc": {
+      "first_observed": "2026-06-22",
+      "strength": "strong",
+      "description": "Pentagon blacklist + export ban on Anthropic with no legislative framework demonstrates AI governance by executive action, creating precedent for ad hoc regulation"
+    },
+    "ai_autonomy_code_generation": {
+      "first_observed": "2026-06-22",
+      "strength": "strong",
+      "description": "GM 90% AI-generated autonomy code validates AI-written safety-critical software at industrial scale"
+    },
+    "ai_power_bottleneck": {
+      "first_observed": "2026-06-22",
+      "strength": "emerging",
+      "description": "US data center power demand projected to double by 2030, making energy the next structural constraint on AI scaling after chips"
     }
   },
   "recursive_self_improvement_realization": {

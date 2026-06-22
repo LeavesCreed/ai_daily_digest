@@ -858,6 +858,69 @@
     "DeusData": {
       "mentions": 1,
       "last_date": "2026-06-21"
+    },
+    "Z.ai": {
+      "mentions": 1,
+      "last_date": "2026-06-22",
+      "category": "organization",
+      "event": "GLM-5.2 open-source release",
+      "significance": "high"
+    },
+    "GLM-5.2": {
+      "mentions": 1,
+      "last_date": "2026-06-22",
+      "category": "model",
+      "event": "MIT-licensed open-source coding model",
+      "significance": "high"
+    },
+    "Guillermo Rauch": {
+      "mentions": 1,
+      "last_date": "2026-06-22",
+      "category": "person",
+      "event": "Vercel CEO endorses GLM-5.2",
+      "significance": "medium"
+    },
+    "Matt Velloso": {
+      "mentions": 1,
+      "last_date": "2026-06-22",
+      "category": "person",
+      "event": "Former Meta/DeepMind VP endorses GLM-5.2",
+      "significance": "medium"
+    },
+    "General Motors": {
+      "mentions": 1,
+      "last_date": "2026-06-22",
+      "category": "organization",
+      "event": "90% autonomy code AI-generated",
+      "significance": "high"
+    },
+    "Mary Barra": {
+      "mentions": 1,
+      "last_date": "2026-06-22",
+      "category": "person",
+      "event": "GM CEO reveals AI coding milestone",
+      "significance": "high"
+    },
+    "Suncorp": {
+      "mentions": 1,
+      "last_date": "2026-06-22",
+      "category": "organization",
+      "event": "AI agents in insurance claims",
+      "significance": "medium"
+    },
+    "Pentagon": {
+      "mentions": 1,
+      "last_date": "2026-06-22",
+      "category": "organization",
+      "event": "Blacklists Anthropic as supply chain risk",
+      "significance": "high"
+    },
+    "UC Berkeley": {
+      "mentions": 1,
+      "last_date": "2026-06-22",
+      "category": "organization",
+      "event": "Professor publishes Atlantic essay on AI and cancer",
+      "significance": "medium"
     }
   },
   "Anthropic": {
