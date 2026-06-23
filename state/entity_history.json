@@ -20,8 +20,8 @@
       "date": "2026-06-13",
       "event": "Mandatory testing proposal + Fable 5 silent downgrade backlash",
       "significance": "high",
-      "mentions": 4,
-      "last_date": "2026-06-21"
+      "mentions": 5,
+      "last_date": "2026-06-23"
     },
     "OpenHands": {
       "mentions": 1,
@@ -50,8 +50,8 @@
       "significance": "high"
     },
     "SpaceX": {
-      "mentions": 2,
-      "last_date": "2026-06-20",
+      "mentions": 6,
+      "last_date": "2026-06-23",
       "date": "2026-06-18",
       "event": "Acquired Cursor for 0B",
       "significance": "high"
@@ -93,8 +93,11 @@
       "last_date": "2026-05-23"
     },
     "Reflection AI": {
-      "mentions": 1,
-      "last_date": "2026-05-24"
+      "mentions": 2,
+      "last_date": "2026-06-23",
+      "event": "$6.3B compute deal with SpaceX",
+      "date": "2026-06-23",
+      "significance": "high"
     },
     "DOE": {
       "mentions": 1,
@@ -921,6 +924,40 @@
       "category": "organization",
       "event": "Professor publishes Atlantic essay on AI and cancer",
       "significance": "medium"
+    },
+    "Trail of Bits": {
+      "mentions": 1,
+      "last_date": "2026-06-23"
+    },
+    "HackerOne": {
+      "mentions": 1,
+      "last_date": "2026-06-23"
+    },
+    "Micron": {
+      "mentions": 1,
+      "last_date": "2026-06-23",
+      "date": "2026-06-23",
+      "event": "Strategic AI infrastructure deal with Anthropic",
+      "significance": "high"
+    },
+    "Groq": {
+      "mentions": 1,
+      "last_date": "2026-06-23",
+      "date": "2026-06-23",
+      "event": "$650M raise after Nvidia $20B IP deal",
+      "significance": "medium"
+    },
+    "Sakana AI": {
+      "mentions": 1,
+      "last_date": "2026-06-23"
+    },
+    "Llion Jones": {
+      "mentions": 1,
+      "last_date": "2026-06-23"
+    },
+    "Five Eyes": {
+      "mentions": 1,
+      "last_date": "2026-06-23"
     }
   },
   "Anthropic": {

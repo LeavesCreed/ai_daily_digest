@@ -447,12 +447,15 @@
     },
     "ai_cybersecurity_institutionalization": {
       "first_observed": "2026-06-05",
-      "strength": "medium",
+      "strength": "strong",
       "description": "CISA developing defensive AI platform, Congressional AI security hearings, DeepMind safety paper \u2014 AI safety and cybersecurity converging into formal government/commercial practice",
       "related_events": [
         "CISA cyber AI directive",
         "DeepMind solipsistic superintelligence paper",
-        "Congressional AI security hearing"
+        "Congressional AI security hearing",
+        "Five Eyes joint warning on AI hacking capabilities",
+        "OpenAI GPT-5.5-Cyber and Patch the Planet",
+        "CISA/NSA coordinated statement"
       ]
     },
     "recursive_self_improvement_governance": {
@@ -689,6 +692,22 @@
       "first_observed": "2026-06-22",
       "strength": "emerging",
       "description": "US data center power demand projected to double by 2030, making energy the next structural constraint on AI scaling after chips"
+    },
+    "open_source_ai_compute_inflection": {
+      "first_observed": "2026-06-23",
+      "strength": "strong",
+      "related_events": [
+        "Reflection AI $6.3B SpaceX compute deal",
+        "OpenAI Patch the Planet open-source security",
+        "Groq inference cloud pivot"
+      ]
+    },
+    "ai_memory_infrastructure_bottleneck": {
+      "first_observed": "2026-06-23",
+      "strength": "medium",
+      "related_events": [
+        "Micron-Anthropic strategic memory architecture deal"
+      ]
     }
   },
   "recursive_self_improvement_realization": {
