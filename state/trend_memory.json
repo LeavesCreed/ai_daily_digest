@@ -708,6 +708,31 @@
       "related_events": [
         "Micron-Anthropic strategic memory architecture deal"
       ]
+    },
+    "ai_infrastructure_financing_crisis": {
+      "first_observed": "2026-06-24",
+      "strength": "strong",
+      "related_events": [
+        "SpaceX $86B IPO + $20B bond",
+        "Oracle $1.8B AI restructuring",
+        "Hyperscaler $720B CapEx",
+        "AI stock selloff"
+      ]
+    },
+    "ai_cybersecurity_threat_timeline": {
+      "first_observed": "2026-06-24",
+      "strength": "strong",
+      "related_events": [
+        "Five Eyes warning AI months away",
+        "IBM $5B Project Lightwell"
+      ]
+    },
+    "ai_workforce_displacement": {
+      "first_observed": "2026-06-24",
+      "strength": "high",
+      "related_events": [
+        "Oracle cuts 21,000 jobs citing AI"
+      ]
     }
   },
   "recursive_self_improvement_realization": {

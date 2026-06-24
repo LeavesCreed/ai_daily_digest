@@ -50,10 +50,10 @@
       "significance": "high"
     },
     "SpaceX": {
-      "mentions": 6,
-      "last_date": "2026-06-23",
-      "date": "2026-06-18",
-      "event": "Acquired Cursor for 0B",
+      "mentions": 7,
+      "last_date": "2026-06-24",
+      "date": "2026-06-24",
+      "event": "$20B bond after $86B IPO",
       "significance": "high"
     },
     "GitHub": {
@@ -956,8 +956,37 @@
       "last_date": "2026-06-23"
     },
     "Five Eyes": {
+      "mentions": 3,
+      "last_date": "2026-06-24",
+      "event": "AI cyberattacks months away warning",
+      "date": "2026-06-24",
+      "significance": "high"
+    },
+    "IBM": {
+      "mentions": 2,
+      "last_date": "2026-06-24",
+      "date": "2026-06-24",
+      "event": "Joins OpenAI Daybreak, $5B Project Lightwell",
+      "significance": "high"
+    },
+    "Oracle": {
+      "mentions": 2,
+      "last_date": "2026-06-24",
+      "date": "2026-06-24",
+      "event": "Cuts 21,000 jobs, blames AI deployment",
+      "significance": "high"
+    },
+    "Marvell": {
       "mentions": 1,
-      "last_date": "2026-06-23"
+      "last_date": "2026-06-24"
+    },
+    "Sandisk": {
+      "mentions": 1,
+      "last_date": "2026-06-24"
+    },
+    "JPMorgan": {
+      "mentions": 1,
+      "last_date": "2026-06-24"
     }
   },
   "Anthropic": {
