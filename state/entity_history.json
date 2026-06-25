@@ -1,8 +1,10 @@
 {
   "entities": {
     "Google": {
-      "mentions": 14,
-      "last_date": "2026-06-10"
+      "mentions": 1,
+      "last_date": "2026-06-24",
+      "event": "Gemini 3.5 Pro delayed to July",
+      "significance": "medium"
     },
     "Dell": {
       "mentions": 1,
@@ -18,10 +20,10 @@
     },
     "Anthropic": {
       "date": "2026-06-13",
-      "event": "Mandatory testing proposal + Fable 5 silent downgrade backlash",
+      "event": "Accuses Alibaba of model extraction",
       "significance": "high",
-      "mentions": 5,
-      "last_date": "2026-06-23"
+      "mentions": 1,
+      "last_date": "2026-06-24"
     },
     "OpenHands": {
       "mentions": 1,
@@ -29,10 +31,10 @@
     },
     "OpenAI": {
       "date": "2026-06-13",
-      "event": "Warning about AI speed + GPT-5.5 release",
-      "significance": "medium",
-      "mentions": 2,
-      "last_date": "2026-06-10"
+      "event": "Jalapeno custom AI chip with Broadcom",
+      "significance": "high",
+      "mentions": 1,
+      "last_date": "2026-06-24"
     },
     "arXiv": {
       "mentions": 3,
@@ -167,8 +169,10 @@
       "last_date": "2026-05-26"
     },
     "Meta": {
-      "mentions": 2,
-      "last_date": "2026-06-01"
+      "mentions": 1,
+      "last_date": "2026-06-24",
+      "event": "First customer for Qualcomm Dragonfly C1000",
+      "significance": "high"
     },
     "Reality Labs": {
       "mentions": 2,
@@ -460,7 +464,9 @@
     },
     "Broadcom": {
       "mentions": 1,
-      "last_date": "2026-06-04"
+      "last_date": "2026-06-24",
+      "event": "Jalapeno chip partnership with OpenAI",
+      "significance": "high"
     },
     "Alphabet": {
       "mentions": 1,
@@ -935,10 +941,10 @@
     },
     "Micron": {
       "mentions": 1,
-      "last_date": "2026-06-23",
+      "last_date": "2026-06-24",
       "date": "2026-06-23",
-      "event": "Strategic AI infrastructure deal with Anthropic",
-      "significance": "high"
+      "event": "Strong earnings on memory chip demand surge",
+      "significance": "medium"
     },
     "Groq": {
       "mentions": 1,
@@ -987,6 +993,30 @@
     "JPMorgan": {
       "mentions": 1,
       "last_date": "2026-06-24"
+    },
+    "Qualcomm": {
+      "last_date": "2026-06-24",
+      "mentions": 1,
+      "event": "Dragonfly C1000 CPU + Modular B acquisition",
+      "significance": "high"
+    },
+    "Modular": {
+      "last_date": "2026-06-24",
+      "mentions": 1,
+      "event": "Acquired by Qualcomm for B",
+      "significance": "high"
+    },
+    "Alibaba": {
+      "last_date": "2026-06-24",
+      "mentions": 1,
+      "event": "Accused of extracting Claude capabilities",
+      "significance": "high"
+    },
+    "United Nations": {
+      "last_date": "2026-06-24",
+      "mentions": 1,
+      "event": "First global autonomous vehicle regulations",
+      "significance": "high"
     }
   },
   "Anthropic": {

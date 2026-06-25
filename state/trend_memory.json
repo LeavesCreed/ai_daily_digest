@@ -733,6 +733,26 @@
       "related_events": [
         "Oracle cuts 21,000 jobs citing AI"
       ]
+    },
+    "ai_chip_architecture_divergence": {
+      "first_observed": "2026-06-24",
+      "strength": "strong",
+      "description": "Three simultaneous chip architecture announcements (OpenAI Jalapeno, Qualcomm Dragonfly+Modular, Broadcom ASIC model) mark end of Nvidia undisputed dominance and beginning of multi-architecture era"
+    },
+    "ai_cpu_resurgence": {
+      "first_observed": "2026-06-24",
+      "strength": "strong",
+      "description": "Qualcomm Dragonfly C1000 + Meta commitment signals CPU-based agentic compute as legitimate alternative to GPU-only inference"
+    },
+    "ai_model_extraction_geopolitics": {
+      "first_observed": "2026-06-24",
+      "strength": "strong",
+      "description": "Anthropic accuses Alibaba of model extraction following US export ban, accelerating AI geopolitical decoupling"
+    },
+    "autonomous_vehicle_regulation": {
+      "first_observed": "2026-06-24",
+      "strength": "strong",
+      "description": "UN adopts first global L4/L5 autonomous driving regulations, removing key barrier to global deployment"
     }
   },
   "recursive_self_improvement_realization": {
