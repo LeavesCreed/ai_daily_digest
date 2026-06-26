@@ -747,12 +747,35 @@
     "ai_model_extraction_geopolitics": {
       "first_observed": "2026-06-24",
       "strength": "strong",
-      "description": "Anthropic accuses Alibaba of model extraction following US export ban, accelerating AI geopolitical decoupling"
+      "description": "Anthropic accuses Alibaba of model extraction following US export ban, accelerating AI geopolitical decoupling",
+      "related_events": [
+        "Anthropic accuses Alibaba of 28.8M Claude extraction exchanges",
+        "China cybersecurity founder calls for domestic Mythos-like model",
+        "Alibaba sues US over military designation"
+      ]
     },
     "autonomous_vehicle_regulation": {
       "first_observed": "2026-06-24",
       "strength": "strong",
       "description": "UN adopts first global L4/L5 autonomous driving regulations, removing key barrier to global deployment"
+    },
+    "ai_governance_coercion": {
+      "first_observed": "2026-06-26",
+      "strength": "strong",
+      "related_events": [
+        "White House asks OpenAI to limit GPT 5.6",
+        "Export control order on Anthropic Mythos",
+        "Trump executive order on voluntary AI oversight"
+      ]
+    },
+    "agent_safety_evaluation_infrastructure": {
+      "first_observed": "2026-06-26",
+      "strength": "medium",
+      "related_events": [
+        "Patronus AI raises $50M for agent stress-testing digital worlds",
+        "OpenAI deployment simulation technique",
+        "Codex agent adoption accelerates to 17% of organizations"
+      ]
     }
   },
   "recursive_self_improvement_realization": {
