@@ -1,13 +1,70 @@
 {
-  "OpenAI": {"last_seen": "2026-06-27", "count": 3},
-  "Anthropic": {"last_seen": "2026-06-27", "count": 1},
-  "Broadcom": {"last_seen": "2026-06-27", "count": 1},
-  "Trump administration": {"last_seen": "2026-06-27", "count": 2},
-  "GPT-5.6": {"last_seen": "2026-06-27", "count": 1},
-  "Jalapeño": {"last_seen": "2026-06-27", "count": 1},
-  "Mythos 5": {"last_seen": "2026-06-27", "count": 1},
-  "Fable 5": {"last_seen": "2026-06-27", "count": 1},
-  "RBC Capital Markets": {"last_seen": "2026-06-27", "count": 1},
-  "Airwallex": {"last_seen": "2026-06-27", "count": 1},
-  "SpaceX": {"last_seen": "2026-06-27", "count": 1}
+  "OpenAI": {
+    "last_seen": "2026-06-27",
+    "count": 3
+  },
+  "Anthropic": {
+    "last_seen": "2026-06-28",
+    "count": 2
+  },
+  "Broadcom": {
+    "last_seen": "2026-06-27",
+    "count": 1
+  },
+  "Trump administration": {
+    "last_seen": "2026-06-28",
+    "count": 3
+  },
+  "GPT-5.6": {
+    "last_seen": "2026-06-27",
+    "count": 1
+  },
+  "Jalape\u00f1o": {
+    "last_seen": "2026-06-27",
+    "count": 1
+  },
+  "Mythos 5": {
+    "last_seen": "2026-06-28",
+    "count": 2
+  },
+  "Fable 5": {
+    "last_seen": "2026-06-28",
+    "count": 2
+  },
+  "RBC Capital Markets": {
+    "last_seen": "2026-06-27",
+    "count": 1
+  },
+  "Airwallex": {
+    "last_seen": "2026-06-27",
+    "count": 1
+  },
+  "SpaceX": {
+    "last_seen": "2026-06-27",
+    "count": 1
+  },
+  "Sakana AI": {
+    "last_seen": "2026-06-28",
+    "count": 1
+  },
+  "360": {
+    "last_seen": "2026-06-28",
+    "count": 1
+  },
+  "Stanford Digital Economy Lab": {
+    "last_seen": "2026-06-28",
+    "count": 1
+  },
+  "Erik Brynjolfsson": {
+    "last_seen": "2026-06-28",
+    "count": 1
+  },
+  "Google TPU": {
+    "last_seen": "2026-06-28",
+    "count": 1
+  },
+  "Fugu": {
+    "last_seen": "2026-06-28",
+    "count": 1
+  }
 }

@@ -1,9 +1,9 @@
 {
   "trends": {
     "ai_governance_enforcement_phase": {
-      "last_updated": "2026-06-27",
+      "last_updated": "2026-06-28",
       "strength": "strong",
-      "description": "US government transitioning from advisory oversight to active enforcement in frontier AI model distribution"
+      "description": "US government transitioning from advisory oversight to active enforcement in frontier AI model distribution, with partial restoration indicating tiered access model emerging"
     },
     "ai_custom_silicon_momentum": {
       "last_updated": "2026-06-27",
@@ -19,6 +19,16 @@
       "last_updated": "2026-06-27",
       "strength": "strong",
       "description": "Government export controls on frontier AI models creating two-tier access system"
+    },
+    "ai_ecosystem_fragmentation": {
+      "last_updated": "2026-06-28",
+      "strength": "emerging",
+      "description": "US export controls accelerating non-US AI ecosystem development as Asian startups launch competitive alternatives within weeks"
+    },
+    "ai_entry_level_job_displacement": {
+      "last_updated": "2026-06-28",
+      "strength": "strong",
+      "description": "Empirical evidence confirms generative AI structurally displacing entry-level workers at accelerating rate (3.8% annual decline for ages 22-25)"
     }
   }
 }
