@@ -29,6 +29,21 @@
       "last_updated": "2026-06-28",
       "strength": "strong",
       "description": "Empirical evidence confirms generative AI structurally displacing entry-level workers at accelerating rate (3.8% annual decline for ages 22-25)"
+    },
+    "recursive_self_improvement_engineering": {
+      "last_updated": "2026-06-29",
+      "strength": "strong",
+      "description": "RSI transitioning from theoretical concept to engineering practice, with NVIDIA/Cambridge RQGM paper and Karpathy CLAUDE.md rules both addressing AI self-monitoring from different angles"
+    },
+    "ai_infrastructure_financing_crisis": {
+      "last_updated": "2026-06-29",
+      "strength": "emerging",
+      "description": "Massive capital deployment ($70B Firmus-NVIDIA deal) signals AI infrastructure investment moving beyond hyperscalers to second-tier providers targeting mid-market AI companies"
+    },
+    "embodied_ai_production_milestone": {
+      "last_updated": "2026-06-29",
+      "strength": "strong",
+      "description": "AGIBOT's rapid scaling to 15,000 units confirms embodied AI is transitioning from lab to industrial-scale production"
     }
   }
 }
