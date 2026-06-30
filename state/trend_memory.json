@@ -24,6 +24,16 @@
       "last_updated": "2026-06-30",
       "strength": "emerging",
       "description": "Pro-AI movement splintering over national security vs innovation priorities; internal administration debate over pace of regulation"
+    },
+    "ai_platform_strategy_divergence": {
+      "last_updated": "2026-07-01",
+      "strength": "emerging",
+      "description": "AI companies diverging between model-capability competition and vertical workflow platform strategy; Anthropic Claude Science and Claude Code exemplify the operating-layer approach"
+    },
+    "ai_investment_overextension_signals": {
+      "last_updated": "2026-07-01",
+      "strength": "emerging",
+      "description": "BIS warning, Michael Burry shorts, and chip stocks at dot-com-era valuations signal growing institutional concern about AI infrastructure overinvestment"
     }
   }
 }

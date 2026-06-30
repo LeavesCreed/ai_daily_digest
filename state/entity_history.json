@@ -4,8 +4,8 @@
     "count": 4
   },
   "Anthropic": {
-    "last_seen": "2026-06-30",
-    "count": 3
+    "last_seen": "2026-07-01",
+    "count": 5
   },
   "Broadcom": {
     "last_seen": "2026-06-27",
@@ -61,6 +61,34 @@
   },
   "Jensen Huang": {
     "last_seen": "2026-06-30",
+    "count": 1
+  },
+  "Etched": {
+    "last_seen": "2026-07-01",
+    "count": 1
+  },
+  "Gavin Uberti": {
+    "last_seen": "2026-07-01",
+    "count": 1
+  },
+  "Vinod Khosla": {
+    "last_seen": "2026-07-01",
+    "count": 1
+  },
+  "BIS": {
+    "last_seen": "2026-07-01",
+    "count": 1
+  },
+  "Michael Burry": {
+    "last_seen": "2026-07-01",
+    "count": 1
+  },
+  "Claude Science": {
+    "last_seen": "2026-07-01",
+    "count": 1
+  },
+  "Khosla Ventures": {
+    "last_seen": "2026-07-01",
     "count": 1
   }
 }
