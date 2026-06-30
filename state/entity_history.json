@@ -1,102 +1,66 @@
 {
   "OpenAI": {
-    "last_seen": "2026-06-27",
-    "count": 3
+    "last_seen": "2026-06-30",
+    "count": 4
   },
   "Anthropic": {
-    "last_seen": "2026-06-28",
-    "count": 2
+    "last_seen": "2026-06-30",
+    "count": 3
   },
   "Broadcom": {
     "last_seen": "2026-06-27",
     "count": 1
   },
   "Trump administration": {
-    "last_seen": "2026-06-28",
-    "count": 3
+    "last_seen": "2026-06-30",
+    "count": 4
   },
   "GPT-5.6": {
-    "last_seen": "2026-06-27",
-    "count": 1
+    "last_seen": "2026-06-30",
+    "count": 2
   },
-  "Jalape\u00f1o": {
-    "last_seen": "2026-06-27",
+  "Sol": {
+    "last_seen": "2026-06-30",
     "count": 1
   },
   "Mythos 5": {
-    "last_seen": "2026-06-28",
-    "count": 2
+    "last_seen": "2026-06-30",
+    "count": 3
   },
   "Fable 5": {
-    "last_seen": "2026-06-28",
-    "count": 2
+    "last_seen": "2026-06-30",
+    "count": 3
   },
-  "RBC Capital Markets": {
-    "last_seen": "2026-06-27",
+  "Samsung": {
+    "last_seen": "2026-06-30",
     "count": 1
   },
-  "Airwallex": {
-    "last_seen": "2026-06-27",
-    "count": 1
-  },
-  "SpaceX": {
-    "last_seen": "2026-06-27",
-    "count": 1
-  },
-  "Sakana AI": {
-    "last_seen": "2026-06-28",
-    "count": 1
-  },
-  "360": {
-    "last_seen": "2026-06-28",
-    "count": 1
-  },
-  "Stanford Digital Economy Lab": {
-    "last_seen": "2026-06-28",
-    "count": 1
-  },
-  "Erik Brynjolfsson": {
-    "last_seen": "2026-06-28",
-    "count": 1
-  },
-  "Google TPU": {
-    "last_seen": "2026-06-28",
-    "count": 1
-  },
-  "Fugu": {
-    "last_seen": "2026-06-28",
+  "SK Hynix": {
+    "last_seen": "2026-06-30",
     "count": 1
   },
   "NVIDIA": {
-    "last_seen": "2026-06-29",
+    "last_seen": "2026-06-30",
+    "count": 2
+  },
+  "Huawei": {
+    "last_seen": "2026-06-30",
     "count": 1
   },
-  "University of Cambridge": {
-    "last_seen": "2026-06-29",
+  "David Sacks": {
+    "last_seen": "2026-06-30",
     "count": 1
   },
-  "Andrej Karpathy": {
-    "last_seen": "2026-06-29",
+  "South Korea": {
+    "last_seen": "2026-06-30",
     "count": 1
   },
-  "Firmus Technologies": {
-    "last_seen": "2026-06-29",
+  "DeepSeek": {
+    "last_seen": "2026-06-30",
     "count": 1
   },
-  "AGIBOT": {
-    "last_seen": "2026-06-29",
-    "count": 1
-  },
-  "Matt Pocock": {
-    "last_seen": "2026-06-29",
-    "count": 1
-  },
-  "Palantir": {
-    "last_seen": "2026-06-29",
-    "count": 1
-  },
-  "Jack Clark": {
-    "last_seen": "2026-06-29",
+  "Jensen Huang": {
+    "last_seen": "2026-06-30",
     "count": 1
   }
 }
