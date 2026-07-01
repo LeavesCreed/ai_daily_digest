@@ -1,39 +1,44 @@
 {
   "trends": {
     "ai_governance_enforcement_phase": {
-      "last_updated": "2026-06-30",
+      "last_updated": "2026-07-02",
       "strength": "strong",
-      "description": "US government transitioning from advisory oversight to active enforcement in frontier AI model distribution, with partial restoration indicating tiered access model emerging"
+      "description": "US government transitioning from advisory oversight to active enforcement in frontier AI model distribution; FTC now signaling federal preemption against state AI laws"
+    },
+    "ai_infrastructure_compute_marketization": {
+      "last_updated": "2026-07-02",
+      "strength": "emerging",
+      "description": "Major tech companies monetizing excess AI compute capacity as standalone business lines; Meta Compute and SpaceX capacity sales signal new market dynamic"
+    },
+    "ai_sovereign_capital_inflow": {
+      "last_updated": "2026-07-02",
+      "strength": "emerging",
+      "description": "Sovereign wealth funds entering AI at unprecedented scale; MGX $49B fund and $416.6B YTD total AI funding signaling AI as strategic national asset class"
     },
     "government_gated_ai_deployment": {
       "last_updated": "2026-06-30",
       "strength": "emerging",
-      "description": "Frontier AI models now treated as dual-use technologies subject to national security review before public release; 30-day voluntary review framework becoming effectively mandatory"
+      "description": "Frontier AI models now treated as dual-use technologies subject to national security review before public release"
     },
     "ai_chip_geopolitical_shift": {
       "last_updated": "2026-06-30",
       "strength": "strong",
-      "description": "US export controls accelerating domestic chip industries in competing nations; South Korea $576B investment and Huawei overtaking NVIDIA in China signal multipolar AI chip market"
+      "description": "US export controls accelerating domestic chip industries in competing nations; multipolar AI chip market emerging"
     },
     "frontier_model_export_controls": {
       "last_updated": "2026-06-30",
       "strength": "strong",
-      "description": "Government export controls on frontier AI models creating two-tier access system; Fable 5 saga demonstrating enforcement capability"
-    },
-    "ai_policy_internal_conflict": {
-      "last_updated": "2026-06-30",
-      "strength": "emerging",
-      "description": "Pro-AI movement splintering over national security vs innovation priorities; internal administration debate over pace of regulation"
+      "description": "Government export controls on frontier AI models creating two-tier access system"
     },
     "ai_platform_strategy_divergence": {
       "last_updated": "2026-07-01",
       "strength": "emerging",
-      "description": "AI companies diverging between model-capability competition and vertical workflow platform strategy; Anthropic Claude Science and Claude Code exemplify the operating-layer approach"
+      "description": "AI companies diverging between model-capability competition and vertical workflow platform strategy"
     },
     "ai_investment_overextension_signals": {
       "last_updated": "2026-07-01",
       "strength": "emerging",
-      "description": "BIS warning, Michael Burry shorts, and chip stocks at dot-com-era valuations signal growing institutional concern about AI infrastructure overinvestment"
+      "description": "Growing institutional concern about AI infrastructure overinvestment at dot-com-era valuation levels"
     }
   }
 }

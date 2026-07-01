@@ -1,11 +1,35 @@
 {
   "OpenAI": {
-    "last_seen": "2026-06-30",
+    "last_seen": "2026-07-02",
     "count": 4
   },
   "Anthropic": {
-    "last_seen": "2026-07-01",
+    "last_seen": "2026-07-02",
     "count": 5
+  },
+  "Meta": {
+    "last_seen": "2026-07-02",
+    "count": 1
+  },
+  "Together AI": {
+    "last_seen": "2026-07-02",
+    "count": 1
+  },
+  "MGX": {
+    "last_seen": "2026-07-02",
+    "count": 1
+  },
+  "UN": {
+    "last_seen": "2026-07-02",
+    "count": 1
+  },
+  "FTC": {
+    "last_seen": "2026-07-02",
+    "count": 1
+  },
+  "Yoshua Bengio": {
+    "last_seen": "2026-07-02",
+    "count": 1
   },
   "Broadcom": {
     "last_seen": "2026-06-27",
@@ -18,18 +42,6 @@
   "GPT-5.6": {
     "last_seen": "2026-06-30",
     "count": 2
-  },
-  "Sol": {
-    "last_seen": "2026-06-30",
-    "count": 1
-  },
-  "Mythos 5": {
-    "last_seen": "2026-06-30",
-    "count": 3
-  },
-  "Fable 5": {
-    "last_seen": "2026-06-30",
-    "count": 3
   },
   "Samsung": {
     "last_seen": "2026-06-30",
@@ -47,10 +59,6 @@
     "last_seen": "2026-06-30",
     "count": 1
   },
-  "David Sacks": {
-    "last_seen": "2026-06-30",
-    "count": 1
-  },
   "South Korea": {
     "last_seen": "2026-06-30",
     "count": 1
@@ -59,15 +67,7 @@
     "last_seen": "2026-06-30",
     "count": 1
   },
-  "Jensen Huang": {
-    "last_seen": "2026-06-30",
-    "count": 1
-  },
   "Etched": {
-    "last_seen": "2026-07-01",
-    "count": 1
-  },
-  "Gavin Uberti": {
     "last_seen": "2026-07-01",
     "count": 1
   },
@@ -83,12 +83,8 @@
     "last_seen": "2026-07-01",
     "count": 1
   },
-  "Claude Science": {
-    "last_seen": "2026-07-01",
-    "count": 1
-  },
-  "Khosla Ventures": {
-    "last_seen": "2026-07-01",
+  "Claude Code": {
+    "last_seen": "2026-07-02",
     "count": 1
   }
 }
