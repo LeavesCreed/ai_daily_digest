@@ -1,15 +1,15 @@
 {
   "OpenAI": {
-    "last_seen": "2026-07-02",
-    "count": 4
-  },
-  "Anthropic": {
-    "last_seen": "2026-07-02",
+    "last_seen": "2026-07-03",
     "count": 5
   },
+  "Anthropic": {
+    "last_seen": "2026-07-03",
+    "count": 6
+  },
   "Meta": {
-    "last_seen": "2026-07-02",
-    "count": 1
+    "last_seen": "2026-07-03",
+    "count": 2
   },
   "Together AI": {
     "last_seen": "2026-07-02",
@@ -24,8 +24,8 @@
     "count": 1
   },
   "FTC": {
-    "last_seen": "2026-07-02",
-    "count": 1
+    "last_seen": "2026-07-03",
+    "count": 2
   },
   "Yoshua Bengio": {
     "last_seen": "2026-07-02",
@@ -36,16 +36,16 @@
     "count": 1
   },
   "Trump administration": {
-    "last_seen": "2026-06-30",
-    "count": 4
+    "last_seen": "2026-07-03",
+    "count": 5
   },
   "GPT-5.6": {
     "last_seen": "2026-06-30",
     "count": 2
   },
   "Samsung": {
-    "last_seen": "2026-06-30",
-    "count": 1
+    "last_seen": "2026-07-03",
+    "count": 2
   },
   "SK Hynix": {
     "last_seen": "2026-06-30",
@@ -85,6 +85,22 @@
   },
   "Claude Code": {
     "last_seen": "2026-07-02",
+    "count": 1
+  },
+  "Jeff Bezos": {
+    "last_seen": "2026-07-03",
+    "count": 1
+  },
+  "Prometheus": {
+    "last_seen": "2026-07-03",
+    "count": 1
+  },
+  "Supreme Court": {
+    "last_seen": "2026-07-03",
+    "count": 1
+  },
+  "arXiv": {
+    "last_seen": "2026-07-03",
     "count": 1
   }
 }

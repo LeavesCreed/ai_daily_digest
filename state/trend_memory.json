@@ -1,44 +1,39 @@
 {
   "trends": {
     "ai_governance_enforcement_phase": {
-      "last_updated": "2026-07-02",
+      "last_updated": "2026-07-03",
       "strength": "strong",
-      "description": "US government transitioning from advisory oversight to active enforcement in frontier AI model distribution; FTC now signaling federal preemption against state AI laws"
+      "description": "US government transitioning from advisory oversight to active enforcement in frontier AI model distribution; Supreme Court ruling enables direct presidential FTC control; OpenAI offers government equity stake"
     },
     "ai_infrastructure_compute_marketization": {
-      "last_updated": "2026-07-02",
-      "strength": "emerging",
-      "description": "Major tech companies monetizing excess AI compute capacity as standalone business lines; Meta Compute and SpaceX capacity sales signal new market dynamic"
+      "last_updated": "2026-07-03",
+      "strength": "strong",
+      "description": "Major tech companies monetizing excess AI compute capacity as standalone business lines; Meta enters cloud business to sell AI compute power"
     },
     "ai_sovereign_capital_inflow": {
       "last_updated": "2026-07-02",
       "strength": "emerging",
-      "description": "Sovereign wealth funds entering AI at unprecedented scale; MGX $49B fund and $416.6B YTD total AI funding signaling AI as strategic national asset class"
+      "description": "Sovereign wealth funds entering AI at unprecedented scale; MGX $49B fund signals AI as strategic national asset class"
     },
     "government_gated_ai_deployment": {
       "last_updated": "2026-06-30",
       "strength": "emerging",
       "description": "Frontier AI models now treated as dual-use technologies subject to national security review before public release"
     },
-    "ai_chip_geopolitical_shift": {
-      "last_updated": "2026-06-30",
+    "ai_custom_silicon_momentum": {
+      "last_updated": "2026-07-03",
       "strength": "strong",
-      "description": "US export controls accelerating domestic chip industries in competing nations; multipolar AI chip market emerging"
-    },
-    "frontier_model_export_controls": {
-      "last_updated": "2026-06-30",
-      "strength": "strong",
-      "description": "Government export controls on frontier AI models creating two-tier access system"
-    },
-    "ai_platform_strategy_divergence": {
-      "last_updated": "2026-07-01",
-      "strength": "emerging",
-      "description": "AI companies diverging between model-capability competition and vertical workflow platform strategy"
+      "description": "Major AI labs pursuing custom AI chips: OpenAI/Broadcom Jalapeño, Anthropic/Samsung discussions, joining Google TPU and Amazon Trainium"
     },
     "ai_investment_overextension_signals": {
       "last_updated": "2026-07-01",
       "strength": "emerging",
       "description": "Growing institutional concern about AI infrastructure overinvestment at dot-com-era valuation levels"
+    },
+    "ai_government_equity_integration": {
+      "last_updated": "2026-07-03",
+      "strength": "emerging",
+      "description": "Government taking direct equity stakes in AI companies; OpenAI 5% stake proposal parallels existing government positions in chip companies"
     }
   }
 }
