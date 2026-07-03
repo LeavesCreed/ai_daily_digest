@@ -1,9 +1,9 @@
 {
   "trends": {
     "ai_governance_enforcement_phase": {
-      "last_updated": "2026-07-03",
+      "last_updated": "2026-07-04",
       "strength": "strong",
-      "description": "US government transitioning from advisory oversight to active enforcement in frontier AI model distribution; Supreme Court ruling enables direct presidential FTC control; OpenAI offers government equity stake"
+      "description": "UN convenes first intergovernmental AI governance summit; scientific panel finds no technical guarantees for AI control; European regulators propose kill-switch mechanisms for agentic AI in markets"
     },
     "ai_infrastructure_compute_marketization": {
       "last_updated": "2026-07-03",
@@ -23,7 +23,7 @@
     "ai_custom_silicon_momentum": {
       "last_updated": "2026-07-03",
       "strength": "strong",
-      "description": "Major AI labs pursuing custom AI chips: OpenAI/Broadcom Jalapeño, Anthropic/Samsung discussions, joining Google TPU and Amazon Trainium"
+      "description": "Major AI labs pursuing custom AI chips: OpenAI/Broadcom Jalape\u00f1o, Anthropic/Samsung discussions, joining Google TPU and Amazon Trainium"
     },
     "ai_investment_overextension_signals": {
       "last_updated": "2026-07-01",
@@ -34,6 +34,16 @@
       "last_updated": "2026-07-03",
       "strength": "emerging",
       "description": "Government taking direct equity stakes in AI companies; OpenAI 5% stake proposal parallels existing government positions in chip companies"
+    },
+    "ai_agent_drift_monitoring": {
+      "last_updated": "2026-07-04",
+      "strength": "emerging",
+      "description": "PagerDuty warns AI agent drift as new failure mode - gradual accuracy degradation harder to detect than crashes; need for agent-level telemetry and human override paths"
+    },
+    "open_source_ai_policy_response": {
+      "last_updated": "2026-07-04",
+      "strength": "emerging",
+      "description": "Godot Foundation bans autonomous AI code contributions; strongest OSS response to AI slop PR crisis; sets precedent for other projects"
     }
   }
 }
