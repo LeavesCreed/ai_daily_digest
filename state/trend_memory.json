@@ -23,7 +23,7 @@
     "ai_custom_silicon_momentum": {
       "last_updated": "2026-07-03",
       "strength": "strong",
-      "description": "Major AI labs pursuing custom AI chips: OpenAI/Broadcom Jalape\u00f1o, Anthropic/Samsung discussions, joining Google TPU and Amazon Trainium"
+      "description": "Major AI labs pursuing custom AI chips: OpenAI/Broadcom Jalapeño, Anthropic/Samsung discussions, joining Google TPU and Amazon Trainium"
     },
     "ai_investment_overextension_signals": {
       "last_updated": "2026-07-01",
@@ -44,6 +44,16 @@
       "last_updated": "2026-07-04",
       "strength": "emerging",
       "description": "Godot Foundation bans autonomous AI code contributions; strongest OSS response to AI slop PR crisis; sets precedent for other projects"
+    },
+    "ai_infrastructure_grid_crisis": {
+      "last_updated": "2026-07-05",
+      "strength": "strong",
+      "description": "Third federal grid emergency in six months forces AI data centers onto diesel generators; war-era law now standard practice for managing AI infrastructure load"
+    },
+    "ai_economics_skepticism": {
+      "last_updated": "2026-07-05",
+      "strength": "emerging",
+      "description": "Credible critics including operators, auditors, and SEC filings question frontier AI economics; OpenAI $21B loss revealed in audited financials"
     }
   }
 }
