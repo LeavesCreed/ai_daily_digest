@@ -23,7 +23,7 @@
     "ai_custom_silicon_momentum": {
       "last_updated": "2026-07-03",
       "strength": "strong",
-      "description": "Major AI labs pursuing custom AI chips: OpenAI/Broadcom Jalapeño, Anthropic/Samsung discussions, joining Google TPU and Amazon Trainium"
+      "description": "Major AI labs pursuing custom AI chips: OpenAI/Broadcom Jalape\u00f1o, Anthropic/Samsung discussions, joining Google TPU and Amazon Trainium"
     },
     "ai_investment_overextension_signals": {
       "last_updated": "2026-07-01",
@@ -55,5 +55,20 @@
       "strength": "emerging",
       "description": "Credible critics including operators, auditors, and SEC filings question frontier AI economics; OpenAI $21B loss revealed in audited financials"
     }
+  },
+  "ai_governance_enforcement_phase": {
+    "status": "strong",
+    "last_updated": "2026-07-06",
+    "description": "Anthropic Fable 5 export control precedent - government demonstrated power to pull deployed models"
+  },
+  "ai_chip_geopolitical_shift": {
+    "status": "strong",
+    "last_updated": "2026-07-06",
+    "description": "Coordinated Korean chip investments (80B + 9B IPO + 15GW DC) shifting compute geography to Asia"
+  },
+  "ai_workforce_reallocation": {
+    "status": "medium",
+    "last_updated": "2026-07-06",
+    "description": "Microsoft layoffs and capital reallocation to AI infrastructure - structural shift"
   }
 }

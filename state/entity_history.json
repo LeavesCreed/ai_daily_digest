@@ -5,7 +5,8 @@
   },
   "Anthropic": {
     "last_seen": "2026-07-03",
-    "count": 6
+    "count": 6,
+    "mention_count": 1
   },
   "Meta": {
     "last_seen": "2026-07-03",
@@ -45,11 +46,13 @@
   },
   "Samsung": {
     "last_seen": "2026-07-03",
-    "count": 2
+    "count": 2,
+    "mention_count": 1
   },
   "SK Hynix": {
     "last_seen": "2026-06-30",
-    "count": 1
+    "count": 1,
+    "mention_count": 1
   },
   "NVIDIA": {
     "last_seen": "2026-06-30",
@@ -125,7 +128,8 @@
   },
   "Godot Foundation": {
     "last_seen": "2026-07-04",
-    "count": 1
+    "count": 1,
+    "mention_count": 1
   },
   "FCA": {
     "last_seen": "2026-07-04",
@@ -182,5 +186,45 @@
   "Oracle Stargate": {
     "last_seen": "2026-07-05",
     "count": 1
+  },
+  "SK Telecom": {
+    "first_seen": "2026-07-06",
+    "mention_count": 1
+  },
+  "Microsoft": {
+    "first_seen": "2026-07-06",
+    "mention_count": 1
+  },
+  "Amazon": {
+    "first_seen": "2026-07-06",
+    "mention_count": 1
+  },
+  "Google": {
+    "first_seen": "2026-07-06",
+    "mention_count": 1
+  },
+  "Commerce Department": {
+    "first_seen": "2026-07-06",
+    "mention_count": 1
+  },
+  "Howard Lutnick": {
+    "first_seen": "2026-07-06",
+    "mention_count": 1
+  },
+  "Glasswing": {
+    "first_seen": "2026-07-06",
+    "mention_count": 1
+  },
+  "Nous Research": {
+    "first_seen": "2026-07-06",
+    "mention_count": 1
+  },
+  "HBM": {
+    "first_seen": "2026-07-06",
+    "mention_count": 1
+  },
+  "Micron": {
+    "first_seen": "2026-07-06",
+    "mention_count": 1
   }
 }
