@@ -50,8 +50,8 @@
     "mention_count": 1
   },
   "SK Hynix": {
-    "last_seen": "2026-06-30",
-    "count": 1,
+    "last_seen": "2026-07-07",
+    "count": 2,
     "mention_count": 1
   },
   "NVIDIA": {
@@ -226,5 +226,57 @@
   "Micron": {
     "first_seen": "2026-07-06",
     "mention_count": 1
+  },
+  "Illinois": {
+    "last_seen": "2026-07-07",
+    "count": 1
+  },
+  "JB Pritzker": {
+    "last_seen": "2026-07-07",
+    "count": 1
+  },
+  "Sam Altman": {
+    "last_seen": "2026-07-07",
+    "count": 1
+  },
+  "SemiAnalysis": {
+    "last_seen": "2026-07-07",
+    "count": 1
+  },
+  "SK Group": {
+    "last_seen": "2026-07-07",
+    "count": 1
+  },
+  "Sysdig": {
+    "last_seen": "2026-07-07",
+    "count": 1
+  },
+  "JadePuffer": {
+    "last_seen": "2026-07-07",
+    "count": 1
+  },
+  "NVIDIA Research": {
+    "last_seen": "2026-07-07",
+    "count": 1
+  },
+  "ASPIRE": {
+    "last_seen": "2026-07-07",
+    "count": 1
+  },
+  "NousResearch": {
+    "last_seen": "2026-07-07",
+    "count": 1
+  },
+  "Hermes Agent": {
+    "last_seen": "2026-07-07",
+    "count": 1
+  },
+  "Kyber NVL144": {
+    "last_seen": "2026-07-07",
+    "count": 1
+  },
+  "Rubin Ultra": {
+    "last_seen": "2026-07-07",
+    "count": 1
   }
 }

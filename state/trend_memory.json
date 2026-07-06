@@ -1,9 +1,9 @@
 {
   "trends": {
     "ai_governance_enforcement_phase": {
-      "last_updated": "2026-07-04",
+      "last_updated": "2026-07-07",
       "strength": "strong",
-      "description": "UN convenes first intergovernmental AI governance summit; scientific panel finds no technical guarantees for AI control; European regulators propose kill-switch mechanisms for agentic AI in markets"
+      "description": "Illinois signs strongest state-level frontier AI safety law with mandatory third-party audits; Sam Altman proposes IAEA-style global AI regulator; OpenAI discusses 5% US gov equity stake"
     },
     "ai_infrastructure_compute_marketization": {
       "last_updated": "2026-07-03",
@@ -21,9 +21,9 @@
       "description": "Frontier AI models now treated as dual-use technologies subject to national security review before public release"
     },
     "ai_custom_silicon_momentum": {
-      "last_updated": "2026-07-03",
+      "last_updated": "2026-07-07",
       "strength": "strong",
-      "description": "Major AI labs pursuing custom AI chips: OpenAI/Broadcom Jalape\u00f1o, Anthropic/Samsung discussions, joining Google TPU and Amazon Trainium"
+      "description": "SK Group $1.36T investment in AI memory chips; SK Hynix $28B US IPO; South Korea positions as AI memory manufacturing hub"
     },
     "ai_investment_overextension_signals": {
       "last_updated": "2026-07-01",
@@ -54,6 +54,16 @@
       "last_updated": "2026-07-05",
       "strength": "emerging",
       "description": "Credible critics including operators, auditors, and SEC filings question frontier AI economics; OpenAI $21B loss revealed in audited financials"
+    },
+    "ai_cybersecurity_threat_timeline": {
+      "last_updated": "2026-07-07",
+      "strength": "strong",
+      "description": "First documented agentic ransomware attack (JadePuffer) shows AI agents autonomously managing end-to-end extortion with 31-second error recovery"
+    },
+    "ai_infrastructure_delay_risks": {
+      "last_updated": "2026-07-07",
+      "strength": "medium",
+      "description": "Nvidia Kyber NVL144 delayed to 2028 due to PCB midplane manufacturability; gives AMD and Google custom silicon technical opening"
     }
   },
   "ai_governance_enforcement_phase": {
