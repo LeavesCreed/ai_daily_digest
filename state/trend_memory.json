@@ -64,6 +64,16 @@
       "last_updated": "2026-07-07",
       "strength": "medium",
       "description": "Nvidia Kyber NVL144 delayed to 2028 due to PCB midplane manufacturability; gives AMD and Google custom silicon technical opening"
+    },
+    "ai_supply_chain_realignment": {
+      "last_updated": "2026-07-08",
+      "strength": "strong",
+      "description": "Microsoft replacing OpenAI/Anthropic with own MAI models; Meta entering image generation with in-house Muse Image - platform companies building strategic AI independence"
+    },
+    "ai_governance_acceleration": {
+      "last_updated": "2026-07-08",
+      "strength": "strong",
+      "description": "EU Cybersecurity and AI Action Plan published; UN inaugural Global Dialogue on AI Governance; multiple concurrent international governance initiatives"
     }
   },
   "ai_governance_enforcement_phase": {
