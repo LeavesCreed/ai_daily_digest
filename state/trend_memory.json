@@ -74,6 +74,21 @@
       "last_updated": "2026-07-08",
       "strength": "strong",
       "description": "EU Cybersecurity and AI Action Plan published; UN inaugural Global Dialogue on AI Governance; multiple concurrent international governance initiatives"
+    },
+    "ai_frontier_model_price_war": {
+      "last_updated": "2026-07-09",
+      "strength": "strong",
+      "description": "SpaceXAI Grok 4.5 at $2/$6 vs Opus $5/$25 vs GPT-5.6 Sol $5/$30 - frontier model pricing entering aggressive competition phase with 60-80% cost reduction"
+    },
+    "ai_inference_infrastructure_banking": {
+      "last_updated": "2026-07-09",
+      "strength": "strong",
+      "description": "JPMorgan selects SambaNova for on-premises inference - major financial institutions building private AI infrastructure to reduce cloud dependency"
+    },
+    "ai_enterprise_agent_platform": {
+      "last_updated": "2026-07-09",
+      "strength": "emerging",
+      "description": "Prime Intellect $1B valuation validates enterprise demand for AI agent building platforms independent of frontier labs"
     }
   },
   "ai_governance_enforcement_phase": {
