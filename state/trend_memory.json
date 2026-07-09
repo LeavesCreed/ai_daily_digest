@@ -1,7 +1,7 @@
 {
   "trends": {
     "ai_governance_enforcement_phase": {
-      "last_updated": "2026-07-07",
+      "last_updated": "2026-07-10",
       "strength": "strong",
       "description": "Illinois signs strongest state-level frontier AI safety law with mandatory third-party audits; Sam Altman proposes IAEA-style global AI regulator; OpenAI discusses 5% US gov equity stake"
     },
@@ -21,8 +21,8 @@
       "description": "Frontier AI models now treated as dual-use technologies subject to national security review before public release"
     },
     "ai_custom_silicon_momentum": {
-      "last_updated": "2026-07-07",
-      "strength": "strong",
+      "last_updated": "2026-07-10",
+      "strength": "medium",
       "description": "SK Group $1.36T investment in AI memory chips; SK Hynix $28B US IPO; South Korea positions as AI memory manufacturing hub"
     },
     "ai_investment_overextension_signals": {
@@ -89,6 +89,16 @@
       "last_updated": "2026-07-09",
       "strength": "emerging",
       "description": "Prime Intellect $1B valuation validates enterprise demand for AI agent building platforms independent of frontier labs"
+    },
+    "ai_capital_concentration": {
+      "last_updated": "2026-07-10",
+      "strength": "strong",
+      "description": "86% of VC dollars flowing to AI; Anthropic/OpenAI/SpaceX exits > all VC exits since 2000"
+    },
+    "ai_training_data_consent_crisis": {
+      "last_updated": "2026-07-10",
+      "strength": "medium",
+      "description": "Muse Image backlash highlights growing tension between AI training and public data rights"
     }
   },
   "ai_governance_enforcement_phase": {
