@@ -1,16 +1,19 @@
 {
   "OpenAI": {
     "last_seen": "2026-07-10",
-    "count": 7
+    "count": 7,
+    "appearances": 1
   },
   "Anthropic": {
     "last_seen": "2026-07-10",
     "count": 7,
-    "mention_count": 1
+    "mention_count": 1,
+    "appearances": 1
   },
   "Meta": {
     "last_seen": "2026-07-10",
-    "count": 5
+    "count": 5,
+    "appearances": 1
   },
   "Together AI": {
     "last_seen": "2026-07-02",
@@ -34,7 +37,8 @@
   },
   "Broadcom": {
     "last_seen": "2026-06-27",
-    "count": 1
+    "count": 1,
+    "appearances": 1
   },
   "Trump administration": {
     "last_seen": "2026-07-09",
@@ -52,7 +56,8 @@
   "SK Hynix": {
     "last_seen": "2026-07-07",
     "count": 2,
-    "mention_count": 1
+    "mention_count": 1,
+    "appearances": 1
   },
   "NVIDIA": {
     "last_seen": "2026-06-30",
@@ -366,5 +371,49 @@
   "CAA": {
     "last_seen": "2026-07-10",
     "count": 1
+  },
+  "TSMC": {
+    "first_seen": "2026-07-11",
+    "appearances": 1
+  },
+  "Qualcomm": {
+    "first_seen": "2026-07-11",
+    "appearances": 1
+  },
+  "Modular": {
+    "first_seen": "2026-07-11",
+    "appearances": 1
+  },
+  "Hugging Face": {
+    "first_seen": "2026-07-11",
+    "appearances": 1
+  },
+  "Ed Markey": {
+    "first_seen": "2026-07-11",
+    "appearances": 1
+  },
+  "Fidji Simo": {
+    "first_seen": "2026-07-11",
+    "appearances": 1
+  },
+  "Kwak Noh-jung": {
+    "first_seen": "2026-07-11",
+    "appearances": 1
+  },
+  "Durga Malladi": {
+    "first_seen": "2026-07-11",
+    "appearances": 1
+  },
+  "TeraWulf": {
+    "first_seen": "2026-07-11",
+    "appearances": 1
+  },
+  "Nature Biomedical Engineering": {
+    "first_seen": "2026-07-11",
+    "appearances": 1
+  },
+  "BofA Securities": {
+    "first_seen": "2026-07-11",
+    "appearances": 1
   }
 }

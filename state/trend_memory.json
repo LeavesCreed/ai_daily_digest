@@ -115,5 +115,23 @@
     "status": "medium",
     "last_updated": "2026-07-06",
     "description": "Microsoft layoffs and capital reallocation to AI infrastructure - structural shift"
+  },
+  "ai_infrastructure_financialization": {
+    "status": "emerging",
+    "first_detected": "2026-07-11",
+    "description": "AI compute transitioning from experimental CAPEX to institutional asset class with mature financing vehicles (SK Hynix IPO, TeraWulf debt raise)",
+    "signal_strength": "strong"
+  },
+  "ai_model_pricing_war": {
+    "status": "accelerating",
+    "first_detected": "2026-07-11",
+    "description": "OpenAI GPT-5.6 priced at 1/3 of Claude Fable 5 at comparable performance, intensifying pricing pressure on frontier labs",
+    "signal_strength": "strong"
+  },
+  "ai_agent_infrastructure_routing": {
+    "status": "emerging",
+    "first_detected": "2026-07-11",
+    "description": "Qualcomm envisions AI agents autonomously routing compute between cloud and edge, changing infrastructure architecture",
+    "signal_strength": "medium"
   }
 }
