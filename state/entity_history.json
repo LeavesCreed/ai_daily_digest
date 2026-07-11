@@ -36,8 +36,8 @@
     "count": 2
   },
   "Broadcom": {
-    "last_seen": "2026-06-27",
-    "count": 1,
+    "last_seen": "2026-07-12",
+    "count": 2,
     "appearances": 1
   },
   "Trump administration": {
@@ -54,8 +54,8 @@
     "mention_count": 1
   },
   "SK Hynix": {
-    "last_seen": "2026-07-07",
-    "count": 2,
+    "last_seen": "2026-07-12",
+    "count": 3,
     "mention_count": 1,
     "appearances": 1
   },
@@ -213,8 +213,8 @@
   "Commerce Department": {
     "first_seen": "2026-07-06",
     "mention_count": 1,
-    "last_seen": "2026-07-09",
-    "count": 1
+    "last_seen": "2026-07-12",
+    "count": 2
   },
   "Howard Lutnick": {
     "first_seen": "2026-07-06",
@@ -415,5 +415,13 @@
   "BofA Securities": {
     "first_seen": "2026-07-11",
     "appearances": 1
+  },
+  "Meta (Muse Image)": {
+    "last_seen": "2026-07-12",
+    "count": 1
+  },
+  "Apple": {
+    "last_seen": "2026-07-12",
+    "count": 1
   }
 }

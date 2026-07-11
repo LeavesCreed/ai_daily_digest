@@ -99,6 +99,21 @@
       "last_updated": "2026-07-10",
       "strength": "medium",
       "description": "Muse Image backlash highlights growing tension between AI training and public data rights"
+    },
+    "ai_platform_consumerization": {
+      "last_updated": "2026-07-12",
+      "strength": "strong",
+      "description": "AI platforms reaching mainstream adoption barriers: OpenAI pivots to families for growth, Meta faces privacy backlash over training data practices"
+    },
+    "ai_infrastructure_financialization": {
+      "last_updated": "2026-07-12",
+      "strength": "strong",
+      "description": "SK Hynix $26.5B IPO and Broadcom $30B Apple deal signal AI infrastructure becoming institutional asset class"
+    },
+    "ai_export_geopolitics": {
+      "last_updated": "2026-07-12",
+      "strength": "medium",
+      "description": "Trump AI export program struggles with credibility; TSMC-driven Taiwan overtakes China in US imports for first time"
     }
   },
   "ai_governance_enforcement_phase": {
