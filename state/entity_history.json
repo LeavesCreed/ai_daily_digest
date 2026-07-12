@@ -49,13 +49,13 @@
     "count": 3
   },
   "Samsung": {
-    "last_seen": "2026-07-03",
-    "count": 2,
+    "last_seen": "2026-07-13",
+    "count": 3,
     "mention_count": 1
   },
   "SK Hynix": {
-    "last_seen": "2026-07-12",
-    "count": 3,
+    "last_seen": "2026-07-13",
+    "count": 4,
     "mention_count": 1,
     "appearances": 1
   },
@@ -406,7 +406,9 @@
   },
   "TeraWulf": {
     "first_seen": "2026-07-11",
-    "appearances": 1
+    "appearances": 1,
+    "last_seen": "2026-07-13",
+    "count": 1
   },
   "Nature Biomedical Engineering": {
     "first_seen": "2026-07-11",
@@ -421,7 +423,72 @@
     "count": 1
   },
   "Apple": {
-    "last_seen": "2026-07-12",
+    "last_seen": "2026-07-13",
+    "count": 2
+  },
+  "Zhipu AI": {
+    "last_seen": "2026-07-13",
+    "count": 1,
+    "appearances": 1
+  },
+  "Goldman Sachs": {
+    "last_seen": "2026-07-13",
+    "count": 1
+  },
+  "GLM-5.2": {
+    "last_seen": "2026-07-13",
+    "count": 1
+  },
+  "ByteDance": {
+    "last_seen": "2026-07-13",
+    "count": 1
+  },
+  "Morgan Stanley": {
+    "last_seen": "2026-07-13",
+    "count": 1
+  },
+  "Chang Liu": {
+    "last_seen": "2026-07-13",
+    "count": 1
+  },
+  "Tang Yew Tan": {
+    "last_seen": "2026-07-13",
+    "count": 1
+  },
+  "SAG-AFTRA": {
+    "last_seen": "2026-07-13",
+    "count": 1
+  },
+  "Hannah Einbinder": {
+    "last_seen": "2026-07-13",
+    "count": 1
+  },
+  "Meta Superintelligence Labs": {
+    "last_seen": "2026-07-13",
+    "count": 1
+  },
+  "Anima Anandkumar": {
+    "last_seen": "2026-07-13",
+    "count": 1
+  },
+  "Nature Machine Intelligence": {
+    "last_seen": "2026-07-13",
+    "count": 1
+  },
+  "Neural Operator": {
+    "last_seen": "2026-07-13",
+    "count": 1
+  },
+  "Thomas Dohmke": {
+    "last_seen": "2026-07-13",
+    "count": 1
+  },
+  "Entire": {
+    "last_seen": "2026-07-13",
+    "count": 1
+  },
+  "Madrona": {
+    "last_seen": "2026-07-13",
     "count": 1
   }
 }

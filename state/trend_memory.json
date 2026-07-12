@@ -66,9 +66,9 @@
       "description": "Nvidia Kyber NVL144 delayed to 2028 due to PCB midplane manufacturability; gives AMD and Google custom silicon technical opening"
     },
     "ai_supply_chain_realignment": {
-      "last_updated": "2026-07-08",
+      "last_updated": "2026-07-13",
       "strength": "strong",
-      "description": "Microsoft replacing OpenAI/Anthropic with own MAI models; Meta entering image generation with in-house Muse Image - platform companies building strategic AI independence"
+      "description": "Microsoft replacing OpenAI/Anthropic with own MAI models; Meta scrapping Muse Image after privacy backlash - platform companies building and then retreating on strategic AI independence"
     },
     "ai_governance_acceleration": {
       "last_updated": "2026-07-08",
@@ -101,9 +101,9 @@
       "description": "Muse Image backlash highlights growing tension between AI training and public data rights"
     },
     "ai_platform_consumerization": {
-      "last_updated": "2026-07-12",
+      "last_updated": "2026-07-13",
       "strength": "strong",
-      "description": "AI platforms reaching mainstream adoption barriers: OpenAI pivots to families for growth, Meta faces privacy backlash over training data practices"
+      "description": "Meta scraps Muse Image after 5 days - AI product deployment reversals now happening at unprecedented speed due to privacy backlash"
     },
     "ai_infrastructure_financialization": {
       "last_updated": "2026-07-12",
@@ -114,6 +114,16 @@
       "last_updated": "2026-07-12",
       "strength": "medium",
       "description": "Trump AI export program struggles with credibility; TSMC-driven Taiwan overtakes China in US imports for first time"
+    },
+    "ai_legal_liability_acceleration": {
+      "last_updated": "2026-07-13",
+      "strength": "emerging",
+      "description": "Apple sues OpenAI for trade secret theft; first major AI talent mobility lawsuit sets precedent for hardware competition IP battles"
+    },
+    "ai_memory_infrastructure_bottleneck": {
+      "last_updated": "2026-07-13",
+      "strength": "strong",
+      "description": "Samsung/SK Hynix $518B joint investment confirms HBM/DRAM as primary AI compute bottleneck; memory supply constraint now limiting training and inference scaling"
     }
   },
   "ai_governance_enforcement_phase": {
