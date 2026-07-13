@@ -124,6 +124,16 @@
       "last_updated": "2026-07-13",
       "strength": "strong",
       "description": "Samsung/SK Hynix $518B joint investment confirms HBM/DRAM as primary AI compute bottleneck; memory supply constraint now limiting training and inference scaling"
+    },
+    "ai_infrastructure_inflation_macro": {
+      "last_updated": "2026-07-14",
+      "strength": "strong",
+      "description": "AI data center buildout driving 400% memory chip price increases, 15-25% consumer electronics inflation, 5.9% electricity price hikes - Fed now factoring AI into rate decisions"
+    },
+    "chinese_ai_agent_efficiency_strategy": {
+      "last_updated": "2026-07-14",
+      "strength": "medium",
+      "description": "Tencent Hy3 confirms Chinese AI strategy prioritizing deployment efficiency and product integration over benchmark scale - MoE models at 10x cost advantage"
     }
   },
   "ai_governance_enforcement_phase": {
