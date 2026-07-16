@@ -374,7 +374,9 @@
   },
   "TSMC": {
     "first_seen": "2026-07-11",
-    "appearances": 1
+    "appearances": 1,
+    "last_seen": "2026-07-17",
+    "count": 1
   },
   "Qualcomm": {
     "first_seen": "2026-07-11",
@@ -517,6 +519,38 @@
   },
   "JP Morgan": {
     "last_seen": "2026-07-14",
+    "count": 1
+  },
+  "Demis Hassabis": {
+    "last_seen": "2026-07-17",
+    "count": 1
+  },
+  "Dario Amodei": {
+    "last_seen": "2026-07-17",
+    "count": 1
+  },
+  "GPT-Red": {
+    "last_seen": "2026-07-17",
+    "count": 1
+  },
+  "Google DeepMind": {
+    "last_seen": "2026-07-17",
+    "count": 1
+  },
+  "Alphabet": {
+    "last_seen": "2026-07-17",
+    "count": 1
+  },
+  "UC Berkeley": {
+    "last_seen": "2026-07-17",
+    "count": 1
+  },
+  "Innovative Genomics Institute": {
+    "last_seen": "2026-07-17",
+    "count": 1
+  },
+  "Nutlope": {
+    "last_seen": "2026-07-17",
     "count": 1
   }
 }

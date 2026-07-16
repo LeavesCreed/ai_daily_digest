@@ -1,9 +1,9 @@
 {
   "trends": {
     "ai_governance_enforcement_phase": {
-      "last_updated": "2026-07-10",
+      "last_updated": "2026-07-17",
       "strength": "strong",
-      "description": "Illinois signs strongest state-level frontier AI safety law with mandatory third-party audits; Sam Altman proposes IAEA-style global AI regulator; OpenAI discusses 5% US gov equity stake"
+      "description": "Hassabis/Altman/Amodei converge on regulation proposals; DeepMind launches biosecurity program; OpenAI GPT-Red - industry building governance infrastructure before regulations written"
     },
     "ai_infrastructure_compute_marketization": {
       "last_updated": "2026-07-03",
