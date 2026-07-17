@@ -321,8 +321,8 @@
     "count": 1
   },
   "SambaNova": {
-    "last_seen": "2026-07-09",
-    "count": 1
+    "last_seen": "2026-07-18",
+    "count": 2
   },
   "Prime Intellect": {
     "last_seen": "2026-07-09",
@@ -551,6 +551,51 @@
   },
   "Nutlope": {
     "last_seen": "2026-07-17",
+    "count": 1
+  },
+  "Moonshot AI": {
+    "last_seen": "2026-07-18",
+    "count": 1
+  },
+  "Kimi K3": {
+    "last_seen": "2026-07-18",
+    "count": 1,
+    "description": "2.8T parameter open-weight model"
+  },
+  "Yang Zhilin": {
+    "last_seen": "2026-07-18",
+    "count": 1
+  },
+  "General Compute": {
+    "last_seen": "2026-07-18",
+    "count": 1
+  },
+  "Upper90": {
+    "last_seen": "2026-07-18",
+    "count": 1
+  },
+  "Finn Puklowski": {
+    "last_seen": "2026-07-18",
+    "count": 1
+  },
+  "Billy Libby": {
+    "last_seen": "2026-07-18",
+    "count": 1
+  },
+  "Politico AI Safety Factions": {
+    "last_seen": "2026-07-18",
+    "count": 1
+  },
+  "Nate Soares": {
+    "last_seen": "2026-07-18",
+    "count": 1
+  },
+  "Dean Ball": {
+    "last_seen": "2026-07-18",
+    "count": 1
+  },
+  "Xi Jinping": {
+    "last_seen": "2026-07-18",
     "count": 1
   }
 }
