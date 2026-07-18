@@ -136,9 +136,9 @@
       "description": "Tencent Hy3 confirms Chinese AI strategy prioritizing deployment efficiency and product integration over benchmark scale - MoE models at 10x cost advantage"
     },
     "open_weight_commoditization": {
-      "last_updated": "2026-07-18",
+      "last_updated": "2026-07-19",
       "strength": "strong",
-      "description": "Moonshot Kimi K3 + General Compute inference financing + TSMC expansion - structural shift from expensive frontier models to commodity open-weight models on cheap inference hardware"
+      "description": "Kimi K3 confirms open-weight models reaching competitive parity with closed frontier labs - 95% of enterprise queries projected to shift to open-weight tier"
     },
     "ai_debt_financing_opacity": {
       "last_updated": "2026-07-18",
@@ -149,6 +149,11 @@
       "last_updated": "2026-07-18",
       "strength": "medium",
       "description": "7 distinct political factions identified in AI safety debate, with no clear consensus on regulation path - increasing likelihood of state-level patchwork laws"
+    },
+    "ai_middleware_consolidation": {
+      "last_updated": "2026-07-19",
+      "strength": "emerging",
+      "description": "OpenRouter acquisition interest signals middleware layer becoming key strategic battleground in AI stack"
     }
   },
   "ai_governance_enforcement_phase": {
