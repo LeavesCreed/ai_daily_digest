@@ -106,7 +106,7 @@
       "description": "Meta scraps Muse Image after 5 days - AI product deployment reversals now happening at unprecedented speed due to privacy backlash"
     },
     "ai_infrastructure_financialization": {
-      "last_updated": "2026-07-12",
+      "last_updated": "2026-07-20",
       "strength": "strong",
       "description": "SK Hynix $26.5B IPO and Broadcom $30B Apple deal signal AI infrastructure becoming institutional asset class"
     },
@@ -154,6 +154,16 @@
       "last_updated": "2026-07-19",
       "strength": "emerging",
       "description": "OpenRouter acquisition interest signals middleware layer becoming key strategic battleground in AI stack"
+    },
+    "chinese_ai_ipo_wave": {
+      "last_updated": "2026-07-20",
+      "strength": "medium",
+      "description": "Moonshot AI planning $30B+ HK IPO after Kimi K3 - Chinese AI labs entering public markets"
+    },
+    "sovereign_physical_ai": {
+      "last_updated": "2026-07-20",
+      "strength": "emerging",
+      "description": "Japan Noetra project $6.2B sovereign AI push for factories and robots; NVIDIA embedded as hardware foundation"
     }
   },
   "ai_governance_enforcement_phase": {

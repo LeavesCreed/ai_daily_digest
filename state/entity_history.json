@@ -5,15 +5,15 @@
     "appearances": 1
   },
   "Anthropic": {
-    "last_seen": "2026-07-10",
-    "count": 7,
+    "last_seen": "2026-07-20",
+    "count": 8,
     "mention_count": 1,
-    "appearances": 1
+    "appearances": 2
   },
   "Meta": {
-    "last_seen": "2026-07-10",
-    "count": 5,
-    "appearances": 1
+    "last_seen": "2026-07-20",
+    "count": 6,
+    "appearances": 2
   },
   "Together AI": {
     "last_seen": "2026-07-02",
@@ -60,8 +60,8 @@
     "appearances": 1
   },
   "NVIDIA": {
-    "last_seen": "2026-06-30",
-    "count": 2
+    "last_seen": "2026-07-20",
+    "count": 3
   },
   "Huawei": {
     "last_seen": "2026-06-30",
@@ -349,12 +349,12 @@
     "count": 1
   },
   "mattpocock/skills": {
-    "last_seen": "2026-07-09",
-    "count": 1
+    "last_seen": "2026-07-20",
+    "count": 2
   },
   "SpaceX": {
-    "last_seen": "2026-07-10",
-    "count": 1
+    "last_seen": "2026-07-20",
+    "count": 2
   },
   "Ollama": {
     "last_seen": "2026-07-10",
@@ -408,9 +408,9 @@
   },
   "TeraWulf": {
     "first_seen": "2026-07-11",
-    "appearances": 1,
-    "last_seen": "2026-07-13",
-    "count": 1
+    "appearances": 2,
+    "last_seen": "2026-07-20",
+    "count": 2
   },
   "Nature Biomedical Engineering": {
     "first_seen": "2026-07-11",
@@ -554,12 +554,12 @@
     "count": 1
   },
   "Moonshot AI": {
-    "last_seen": "2026-07-19",
-    "count": 2
+    "last_seen": "2026-07-20",
+    "count": 3
   },
   "Kimi K3": {
-    "last_seen": "2026-07-19",
-    "count": 2,
+    "last_seen": "2026-07-20",
+    "count": 3,
     "description": "2.8T parameter open-weight model"
   },
   "Yang Zhilin": {
@@ -621,5 +621,51 @@
   "He Xiaopeng": {
     "last_seen": "2026-07-19",
     "count": 1
+  },
+  "xAI": {
+    "last_seen": "2026-07-20",
+    "count": 1,
+    "description": "$1.25B/month Colossus compute to Anthropic"
+  },
+  "Fluidstack": {
+    "last_seen": "2026-07-20",
+    "count": 1,
+    "description": "$50B custom AI facilities"
+  },
+  "Netflix": {
+    "last_seen": "2026-07-20",
+    "count": 1,
+    "description": "Acquired InterPositive for $587M"
+  },
+  "InterPositive": {
+    "last_seen": "2026-07-20",
+    "count": 1,
+    "description": "Ben Affleck AI filmmaking startup"
+  },
+  "Noetra": {
+    "last_seen": "2026-07-20",
+    "count": 1,
+    "description": "Japan national AI factory, 44 companies"
+  },
+  "SoftBank": {
+    "last_seen": "2026-07-20",
+    "count": 1
+  },
+  "Sony": {
+    "last_seen": "2026-07-20",
+    "count": 1
+  },
+  "Honda": {
+    "last_seen": "2026-07-20",
+    "count": 1
+  },
+  "NEC": {
+    "last_seen": "2026-07-20",
+    "count": 1
+  },
+  "Hemispheric": {
+    "last_seen": "2026-07-20",
+    "count": 1,
+    "description": "Brain activity decoding AI, $52M raised"
   }
 }
