@@ -46,9 +46,9 @@
       "description": "Godot Foundation bans autonomous AI code contributions; strongest OSS response to AI slop PR crisis; sets precedent for other projects"
     },
     "ai_infrastructure_grid_crisis": {
-      "last_updated": "2026-07-05",
+      "last_updated": "2026-07-21",
       "strength": "strong",
-      "description": "Third federal grid emergency in six months forces AI data centers onto diesel generators; war-era law now standard practice for managing AI infrastructure load"
+      "description": "50% US data centers delayed due to power infra; transformer shortages extend to 3-5 year lead times"
     },
     "ai_economics_skepticism": {
       "last_updated": "2026-07-05",
@@ -156,14 +156,19 @@
       "description": "OpenRouter acquisition interest signals middleware layer becoming key strategic battleground in AI stack"
     },
     "chinese_ai_ipo_wave": {
-      "last_updated": "2026-07-20",
-      "strength": "medium",
-      "description": "Moonshot AI planning $30B+ HK IPO after Kimi K3 - Chinese AI labs entering public markets"
+      "last_updated": "2026-07-21",
+      "strength": "strong",
+      "description": "Moonshot 0B IPO + 01.ai 2027 IPO - Chinese AI labs entering public markets in force"
     },
     "sovereign_physical_ai": {
       "last_updated": "2026-07-20",
       "strength": "emerging",
       "description": "Japan Noetra project $6.2B sovereign AI push for factories and robots; NVIDIA embedded as hardware foundation"
+    },
+    "bitcoin_miner_ai_pivot": {
+      "last_updated": "2026-07-21",
+      "strength": "strong",
+      "description": "Hut 8 .8B lease confirms miners becoming major AI infrastructure providers"
     }
   },
   "ai_governance_enforcement_phase": {

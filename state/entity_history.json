@@ -157,8 +157,8 @@
     "count": 1
   },
   "PJM Interconnection": {
-    "last_seen": "2026-07-05",
-    "count": 1
+    "last_seen": "2026-07-21",
+    "count": 2
   },
   "Department of Energy": {
     "last_seen": "2026-07-05",
@@ -554,13 +554,14 @@
     "count": 1
   },
   "Moonshot AI": {
-    "last_seen": "2026-07-20",
-    "count": 3
+    "last_seen": "2026-07-21",
+    "count": 4,
+    "description": "Kimi K3 launched, 0B IPO"
   },
   "Kimi K3": {
-    "last_seen": "2026-07-20",
-    "count": 3,
-    "description": "2.8T parameter open-weight model"
+    "last_seen": "2026-07-21",
+    "count": 1,
+    "description": "2.8T open-weight model, demand crush"
   },
   "Yang Zhilin": {
     "last_seen": "2026-07-18",
@@ -667,5 +668,28 @@
     "last_seen": "2026-07-20",
     "count": 1,
     "description": "Brain activity decoding AI, $52M raised"
+  },
+  "Hut 8": {
+    "last_seen": "2026-07-21",
+    "count": 1,
+    "description": "Bitcoin miner turned AI infra"
+  },
+  "01.ai": {
+    "last_seen": "2026-07-21",
+    "count": 1,
+    "description": "Kai-Fu Lee AI startup, 2027 IPO"
+  },
+  "Kai-Fu Lee": {
+    "last_seen": "2026-07-21",
+    "count": 1
+  },
+  "Sergey Stavisky": {
+    "last_seen": "2026-07-21",
+    "count": 1,
+    "description": "BCI speech restoration prize"
+  },
+  "Sightline Climate": {
+    "last_seen": "2026-07-21",
+    "count": 1
   }
 }
