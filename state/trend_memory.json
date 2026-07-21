@@ -173,8 +173,9 @@
   },
   "ai_governance_enforcement_phase": {
     "status": "strong",
-    "last_updated": "2026-07-06",
-    "description": "Anthropic Fable 5 export control precedent - government demonstrated power to pull deployed models"
+    "first_seen": "2026-06-15",
+    "last_updated": "2026-07-22",
+    "description": "State-level AI regulation entering active enforcement phase"
   },
   "ai_chip_geopolitical_shift": {
     "status": "strong",
@@ -187,10 +188,10 @@
     "description": "Microsoft layoffs and capital reallocation to AI infrastructure - structural shift"
   },
   "ai_infrastructure_financialization": {
-    "status": "emerging",
-    "first_detected": "2026-07-11",
-    "description": "AI compute transitioning from experimental CAPEX to institutional asset class with mature financing vehicles (SK Hynix IPO, TeraWulf debt raise)",
-    "signal_strength": "strong"
+    "status": "strong",
+    "first_seen": "2026-06-28",
+    "last_updated": "2026-07-22",
+    "description": "AI infrastructure spending shifting from VC to capital markets"
   },
   "ai_model_pricing_war": {
     "status": "accelerating",
@@ -203,5 +204,11 @@
     "first_detected": "2026-07-11",
     "description": "Qualcomm envisions AI agents autonomously routing compute between cloud and edge, changing infrastructure architecture",
     "signal_strength": "medium"
+  },
+  "ai_cpu_resurgence": {
+    "status": "emerging",
+    "first_seen": "2026-07-22",
+    "last_updated": "2026-07-22",
+    "description": "Agentic AI workloads driving renewed CPU importance and new architectures"
   }
 }
