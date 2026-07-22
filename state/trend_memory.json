@@ -1,9 +1,9 @@
 {
   "trends": {
     "ai_governance_enforcement_phase": {
-      "last_updated": "2026-07-17",
+      "last_updated": "2026-07-23",
       "strength": "strong",
-      "description": "Hassabis/Altman/Amodei converge on regulation proposals; DeepMind launches biosecurity program; OpenAI GPT-Red - industry building governance infrastructure before regulations written"
+      "description": "Secure AI Development Act mandates NSA prerelease testing; OpenAI Hugging Face hack provides real-world evidence"
     },
     "ai_infrastructure_compute_marketization": {
       "last_updated": "2026-07-03",
@@ -169,6 +169,16 @@
       "last_updated": "2026-07-21",
       "strength": "strong",
       "description": "Hut 8 .8B lease confirms miners becoming major AI infrastructure providers"
+    },
+    "open_weight_geopolitics": {
+      "last_updated": "2026-07-23",
+      "strength": "strong",
+      "description": "Moonshot K3 distillation accusations signal escalating US-China IP enforcement over open-weight models"
+    },
+    "ai_infrastructure_investment_validation": {
+      "last_updated": "2026-07-23",
+      "strength": "strong",
+      "description": "Alphabet 195B annual capex and 82% cloud growth validate enterprise AI demand is real and accelerating"
     }
   },
   "ai_governance_enforcement_phase": {

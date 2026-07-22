@@ -1,12 +1,12 @@
 {
   "OpenAI": {
-    "last_seen": "2026-07-10",
-    "count": 7,
+    "last_seen": "2026-07-23",
+    "count": 8,
     "appearances": 1
   },
   "Anthropic": {
-    "last_seen": "2026-07-20",
-    "count": 8,
+    "last_seen": "2026-07-23",
+    "count": 9,
     "mention_count": 1,
     "appearances": 2
   },
@@ -41,8 +41,8 @@
     "appearances": 1
   },
   "Trump administration": {
-    "last_seen": "2026-07-09",
-    "count": 6
+    "last_seen": "2026-07-23",
+    "count": 7
   },
   "GPT-5.6": {
     "last_seen": "2026-07-09",
@@ -388,7 +388,9 @@
   },
   "Hugging Face": {
     "first_seen": "2026-07-11",
-    "appearances": 1
+    "appearances": 1,
+    "last_seen": "2026-07-23",
+    "count": 1
   },
   "Ed Markey": {
     "first_seen": "2026-07-11",
@@ -538,8 +540,8 @@
     "count": 1
   },
   "Alphabet": {
-    "last_seen": "2026-07-17",
-    "count": 1
+    "last_seen": "2026-07-23",
+    "count": 2
   },
   "UC Berkeley": {
     "last_seen": "2026-07-17",
@@ -554,13 +556,13 @@
     "count": 1
   },
   "Moonshot AI": {
-    "last_seen": "2026-07-21",
-    "count": 4,
+    "last_seen": "2026-07-23",
+    "count": 5,
     "description": "Kimi K3 launched, 0B IPO"
   },
   "Kimi K3": {
-    "last_seen": "2026-07-21",
-    "count": 1,
+    "last_seen": "2026-07-23",
+    "count": 2,
     "description": "2.8T open-weight model, demand crush"
   },
   "Yang Zhilin": {
@@ -697,5 +699,25 @@
     "AMD Helios",
     "Jack Dorsey",
     "Buzz"
-  ]
+  ],
+  "Google Cloud": {
+    "last_seen": "2026-07-23",
+    "count": 1,
+    "appearances": 1
+  },
+  "NSA": {
+    "last_seen": "2026-07-23",
+    "count": 1,
+    "appearances": 1
+  },
+  "NIST": {
+    "last_seen": "2026-07-23",
+    "count": 1,
+    "appearances": 1
+  },
+  "Senator Mark Warner": {
+    "last_seen": "2026-07-23",
+    "count": 1,
+    "appearances": 1
+  }
 }
