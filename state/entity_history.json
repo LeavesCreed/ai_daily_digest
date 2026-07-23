@@ -389,8 +389,8 @@
   "Hugging Face": {
     "first_seen": "2026-07-11",
     "appearances": 1,
-    "last_seen": "2026-07-23",
-    "count": 1
+    "last_seen": "2026-07-24",
+    "count": 2
   },
   "Ed Markey": {
     "first_seen": "2026-07-11",
@@ -556,8 +556,8 @@
     "count": 1
   },
   "Moonshot AI": {
-    "last_seen": "2026-07-23",
-    "count": 5,
+    "last_seen": "2026-07-24",
+    "count": 6,
     "description": "Kimi K3 launched, 0B IPO"
   },
   "Kimi K3": {
@@ -719,5 +719,22 @@
     "last_seen": "2026-07-23",
     "count": 1,
     "appearances": 1
+  },
+  "AMD": {
+    "last_seen": "2026-07-24",
+    "count": 3,
+    "appearances": 1
+  },
+  "Michael Kratsios": {
+    "last_seen": "2026-07-24",
+    "count": 1
+  },
+  "Dmitry Rybin": {
+    "last_seen": "2026-07-24",
+    "count": 1
+  },
+  "Autokernel": {
+    "last_seen": "2026-07-24",
+    "count": 1
   }
 }
