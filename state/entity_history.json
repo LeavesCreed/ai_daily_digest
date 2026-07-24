@@ -1,12 +1,12 @@
 {
   "OpenAI": {
-    "last_seen": "2026-07-23",
-    "count": 8,
+    "last_seen": "2026-07-25",
+    "count": 9,
     "appearances": 1
   },
   "Anthropic": {
-    "last_seen": "2026-07-23",
-    "count": 9,
+    "last_seen": "2026-07-25",
+    "count": 10,
     "mention_count": 1,
     "appearances": 2
   },
@@ -389,8 +389,8 @@
   "Hugging Face": {
     "first_seen": "2026-07-11",
     "appearances": 1,
-    "last_seen": "2026-07-24",
-    "count": 2
+    "last_seen": "2026-07-25",
+    "count": 3
   },
   "Ed Markey": {
     "first_seen": "2026-07-11",
@@ -508,8 +508,8 @@
     "count": 1
   },
   "Intel": {
-    "last_seen": "2026-07-14",
-    "count": 1
+    "last_seen": "2026-07-25",
+    "count": 2
   },
   "University of Illinois": {
     "last_seen": "2026-07-14",
@@ -556,13 +556,13 @@
     "count": 1
   },
   "Moonshot AI": {
-    "last_seen": "2026-07-24",
-    "count": 6,
+    "last_seen": "2026-07-25",
+    "count": 7,
     "description": "Kimi K3 launched, 0B IPO"
   },
   "Kimi K3": {
-    "last_seen": "2026-07-23",
-    "count": 2,
+    "last_seen": "2026-07-25",
+    "count": 3,
     "description": "2.8T open-weight model, demand crush"
   },
   "Yang Zhilin": {
@@ -735,6 +735,30 @@
   },
   "Autokernel": {
     "last_seen": "2026-07-24",
+    "count": 1
+  },
+  "Claude Opus 5": {
+    "last_seen": "2026-07-25",
+    "count": 1
+  },
+  "Runway": {
+    "last_seen": "2026-07-25",
+    "count": 1
+  },
+  "Lip-Bu Tan": {
+    "last_seen": "2026-07-25",
+    "count": 1
+  },
+  "Scott Bessent": {
+    "last_seen": "2026-07-25",
+    "count": 1
+  },
+  "Marius Hobbhahn": {
+    "last_seen": "2026-07-25",
+    "count": 1
+  },
+  "Apollo Research": {
+    "last_seen": "2026-07-25",
     "count": 1
   }
 }
