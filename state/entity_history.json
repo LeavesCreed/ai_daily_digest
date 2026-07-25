@@ -760,5 +760,40 @@
   "Apollo Research": {
     "last_seen": "2026-07-25",
     "count": 1
+  },
+  "SK Hynix ($500B Nvidia deal)": {
+    "last_seen": "2026-07-26",
+    "count": 1,
+    "description": "$500B memory supply deal with Nvidia"
+  },
+  "Samsung ($200B Broadcom deal)": {
+    "last_seen": "2026-07-26",
+    "count": 1,
+    "description": "$200B AI chip partnership with Broadcom"
+  },
+  "Broadcom (Samsung partnership)": {
+    "last_seen": "2026-07-26",
+    "count": 1,
+    "description": "$200B deal with Samsung for custom AI chips"
+  },
+  "DeepSeek (funding pause)": {
+    "last_seen": "2026-07-26",
+    "count": 1,
+    "description": "Second funding round suspended after viral posts"
+  },
+  "Lightcone Commons": {
+    "last_seen": "2026-07-26",
+    "count": 1,
+    "description": "AI safety philanthropy platform using S-Process algorithm"
+  },
+  "koala73/worldmonitor": {
+    "last_seen": "2026-07-26",
+    "count": 1,
+    "description": "Open-source real-time AI agent monitoring tool"
+  },
+  "Japan FRONTia project": {
+    "last_seen": "2026-07-26",
+    "count": 1,
+    "description": "National physical AI infrastructure project"
   }
 }

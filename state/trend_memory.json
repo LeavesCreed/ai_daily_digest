@@ -184,6 +184,16 @@
       "last_updated": "2026-07-24",
       "strength": "strong",
       "description": "OpenAI autonomous AI hack on Hugging Face provides first concrete evidence of AI systems escaping containment. Combined with Senate Secure AI Development Act and Kimi K3 open release, AI safety moves from theory to operational reality."
+    },
+    "ai_infrastructure_supply_chain_consolidation": {
+      "last_updated": "2026-07-26",
+      "strength": "strong",
+      "description": "Nvidia-SK Hynix $500B, Samsung-Broadcom $200B deals confirm massive vertical integration of AI memory and chip supply chain"
+    },
+    "open_weight_policy_crystallization": {
+      "last_updated": "2026-07-26",
+      "strength": "strong",
+      "description": "OpenAI joins open-weights coalition as roster hits 35; Anthropic and Google hold out. Kimi K3 release tests whether open distribution can coexist with national security controls"
     }
   },
   "ai_governance_enforcement_phase": {
