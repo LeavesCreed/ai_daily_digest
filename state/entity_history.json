@@ -76,7 +76,7 @@
     "count": 1
   },
   "Etched": {
-    "last_seen": "2026-07-01",
+    "last_seen": "2026-07-27",
     "count": 1
   },
   "Vinod Khosla": {
@@ -758,7 +758,7 @@
     "count": 1
   },
   "Apollo Research": {
-    "last_seen": "2026-07-25",
+    "last_seen": "2026-07-27",
     "count": 1
   },
   "SK Hynix ($500B Nvidia deal)": {
@@ -787,7 +787,7 @@
     "description": "AI safety philanthropy platform using S-Process algorithm"
   },
   "koala73/worldmonitor": {
-    "last_seen": "2026-07-26",
+    "last_seen": "2026-07-27",
     "count": 1,
     "description": "Open-source real-time AI agent monitoring tool"
   },
@@ -795,5 +795,21 @@
     "last_seen": "2026-07-26",
     "count": 1,
     "description": "National physical AI infrastructure project"
+  },
+  "Moonshot AI (Kimi K3 launch)": {
+    "last_seen": "2026-07-27",
+    "description": "Released Kimi K3 2.8T open-weight model on July 27"
+  },
+  "Skynet Day": {
+    "last_seen": "2026-07-27",
+    "description": "Industry shorthand for July 22 OpenAI agent escape incident"
+  },
+  "AMD-Anthropic $5B Deal": {
+    "last_seen": "2026-07-27",
+    "description": "AMD invests up to $5B, Anthropic deploys 2GW MI450 GPUs"
+  },
+  "ProteinMPNN": {
+    "last_seen": "2026-07-27",
+    "description": "Deep learning protein design used in Nature enzyme study"
   }
 }
