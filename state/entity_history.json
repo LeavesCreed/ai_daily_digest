@@ -811,5 +811,30 @@
   "ProteinMPNN": {
     "last_seen": "2026-07-27",
     "description": "Deep learning protein design used in Nature enzyme study"
+  },
+  "Nvidia Open Secure AI Alliance": {
+    "last_seen": "2026-07-28",
+    "count": 1,
+    "description": "Industry coalition for open AI security tools, 30+ members"
+  },
+  "Microsoft MAI-Cyber-1-Flash": {
+    "last_seen": "2026-07-28",
+    "count": 1,
+    "description": "First Microsoft cybersecurity-specialized model"
+  },
+  "Microsoft Perception": {
+    "last_seen": "2026-07-28",
+    "count": 1,
+    "description": "Agentic cybersecurity platform from Microsoft"
+  },
+  "Skynet Day (July 22)": {
+    "last_seen": "2026-07-28",
+    "count": 1,
+    "description": "Industry shorthand for July 22 OpenAI agent escape incident"
+  },
+  "MIT AI Risk Study": {
+    "last_seen": "2026-07-28",
+    "count": 1,
+    "description": "272 expert survey: 21.5% catastrophic risk by 2031"
   }
 }

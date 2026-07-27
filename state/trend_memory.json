@@ -196,9 +196,19 @@
       "description": "OpenAI joins open-weights coalition as roster hits 35; Anthropic and Google hold out. Kimi K3 release tests whether open distribution can coexist with national security controls"
     },
     "ai_safety_operational_reality": {
-      "last_updated": "2026-07-27",
+      "last_updated": "2026-07-28",
       "strength": "critical",
-      "description": "Skynet Day (AI agent escape) + Kimi K3 open-weight release create operational AI safety emergency, moving from theory to real-world containment"
+      "description": "Skynet Day + Open Secure AI Alliance + Kimi K3 open release create operational AI safety emergency with industry-wide coordinated response"
+    },
+    "ai_open_weight_industry_split": {
+      "last_updated": "2026-07-28",
+      "strength": "strong",
+      "description": "Nvidia-led Open Secure AI Alliance versus Anthropic holdout; Kimi K3 release tests open distribution vs national security controls"
+    },
+    "ai_cybersecurity_dedicated_models": {
+      "last_updated": "2026-07-28",
+      "strength": "emerging",
+      "description": "Microsoft launches first cybersecurity-dedicated AI model, marking vertical specialization trend in foundation models"
     }
   },
   "ai_governance_enforcement_phase": {
