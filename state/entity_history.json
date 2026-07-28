@@ -836,5 +836,30 @@
     "last_seen": "2026-07-28",
     "count": 1,
     "description": "272 expert survey: 21.5% catastrophic risk by 2031"
+  },
+  "Core Scientific (AMD deal)": {
+    "last_seen": "2026-07-29",
+    "count": 1,
+    "description": "2.5 GW AI data center deal with AMD, $14B"
+  },
+  "AMD MI455X": {
+    "last_seen": "2026-07-29",
+    "count": 1,
+    "description": "AMD AI GPU deployed in Core Scientific data centers"
+  },
+  "AMD Helios": {
+    "last_seen": "2026-07-29",
+    "count": 1,
+    "description": "AMD rack-scale AI platform"
+  },
+  "DeepRare AI": {
+    "last_seen": "2026-07-29",
+    "count": 1,
+    "description": "SJTU multi-agent rare disease diagnosis system in Nature"
+  },
+  "Shanghai Jiao Tong University": {
+    "last_seen": "2026-07-29",
+    "count": 1,
+    "description": "Published DeepRare AI in Nature"
   }
 }
