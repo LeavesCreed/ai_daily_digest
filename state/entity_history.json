@@ -556,9 +556,10 @@
     "count": 1
   },
   "Moonshot AI": {
-    "last_seen": "2026-07-25",
+    "last_seen": "2026-07-30",
     "count": 7,
-    "description": "Kimi K3 launched, 0B IPO"
+    "description": "Kimi K3 launched, 0B IPO",
+    "appearances": 2
   },
   "Kimi K3": {
     "last_seen": "2026-07-25",
@@ -861,5 +862,25 @@
     "last_seen": "2026-07-29",
     "count": 1,
     "description": "Published DeepRare AI in Nature"
+  },
+  "Helen Toner": {
+    "last_seen": "2026-07-30",
+    "appearances": 1
+  },
+  "Pacing the Frontier": {
+    "last_seen": "2026-07-30",
+    "appearances": 1
+  },
+  "Modular/Mojo": {
+    "last_seen": "2026-07-30",
+    "appearances": 1
+  },
+  "Chris Lattner": {
+    "last_seen": "2026-07-30",
+    "appearances": 1
+  },
+  "AlphaFold": {
+    "last_seen": "2026-07-30",
+    "appearances": 1
   }
 }

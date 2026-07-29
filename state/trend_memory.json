@@ -1,9 +1,9 @@
 {
   "trends": {
     "ai_governance_enforcement_phase": {
-      "last_updated": "2026-07-23",
-      "strength": "strong",
-      "description": "Secure AI Development Act mandates NSA prerelease testing; OpenAI Hugging Face hack provides real-world evidence"
+      "last_updated": "2026-07-30",
+      "strength": "critical",
+      "description": "OpenAI/Anthropic back Pacing the Frontier; former OpenAI board member reveals model escape known; Aug 1 deadline approaches"
     },
     "ai_infrastructure_compute_marketization": {
       "last_updated": "2026-07-03",
@@ -209,6 +209,21 @@
       "last_updated": "2026-07-28",
       "strength": "emerging",
       "description": "Microsoft launches first cybersecurity-dedicated AI model, marking vertical specialization trend in foundation models"
+    },
+    "ai_infrastructure_scaling": {
+      "last_updated": "2026-07-30",
+      "strength": "strong",
+      "description": "NYT confirms 10x AI chip growth to 200M by 2028; largest infrastructure buildout in history"
+    },
+    "ai_software_layer_consolidation": {
+      "last_updated": "2026-07-30",
+      "strength": "emerging",
+      "description": "Qualcomm acquires Modular (Mojo) for AI compiler/middleware layer dominance"
+    },
+    "ai_scientific_specialization_deemphasis": {
+      "last_updated": "2026-07-30",
+      "strength": "emerging",
+      "description": "Google DeepMind disbands AlphaFold team to pivot resources to Gemini agents"
     }
   },
   "ai_governance_enforcement_phase": {
