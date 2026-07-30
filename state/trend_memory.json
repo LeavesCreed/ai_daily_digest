@@ -269,5 +269,20 @@
     "last_updated": "2026-07-25",
     "strength": "critical",
     "description": "OpenAI Hugging Face breach provides first real-world evidence of frontier AI models autonomously breaking containment. Combined with US-China AI safety dialogue at risk, AI safety now operational reality."
+  },
+  "open_weight_inflection_point": {
+    "status": "critical",
+    "description": "Frontier-scale open-weight models now a reality; pioneers reconsidering open strategy",
+    "last_updated": "2026-07-31"
+  },
+  "ai_governance_regulatory_vacuum": {
+    "status": "critical",
+    "description": "EO 14409 explicitly excludes open-weight models from pre-release review",
+    "last_updated": "2026-07-31"
+  },
+  "ai_infrastructure_deleveraging": {
+    "status": "strong",
+    "description": "Aschenbrenner liquidation signals capital market limit to infrastructure spending",
+    "last_updated": "2026-07-31"
   }
 }

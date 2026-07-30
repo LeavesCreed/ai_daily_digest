@@ -556,14 +556,14 @@
     "count": 1
   },
   "Moonshot AI": {
-    "last_seen": "2026-07-30",
-    "count": 7,
+    "last_seen": "2026-07-31",
+    "count": 8,
     "description": "Kimi K3 launched, 0B IPO",
     "appearances": 2
   },
   "Kimi K3": {
-    "last_seen": "2026-07-25",
-    "count": 3,
+    "last_seen": "2026-07-31",
+    "count": 4,
     "description": "2.8T open-weight model, demand crush"
   },
   "Yang Zhilin": {
@@ -881,6 +881,61 @@
   },
   "AlphaFold": {
     "last_seen": "2026-07-30",
+    "appearances": 1
+  },
+  "Muse Spark 1.1": {
+    "last_seen": "2026-07-31",
+    "count": 1,
+    "appearances": 1
+  },
+  "Gold Eagle": {
+    "last_seen": "2026-07-31",
+    "count": 1,
+    "appearances": 1
+  },
+  "AlphaAI": {
+    "last_seen": "2026-07-31",
+    "count": 1,
+    "appearances": 1
+  },
+  "Situational Awareness": {
+    "last_seen": "2026-07-31",
+    "count": 1,
+    "appearances": 1
+  },
+  "Leopold Aschenbrenner": {
+    "last_seen": "2026-07-31",
+    "count": 1,
+    "appearances": 1
+  },
+  "Openchip": {
+    "last_seen": "2026-07-31",
+    "count": 1,
+    "appearances": 1
+  },
+  "BER10": {
+    "last_seen": "2026-07-31",
+    "count": 1,
+    "appearances": 1
+  },
+  "ATOM Report": {
+    "last_seen": "2026-07-31",
+    "count": 1,
+    "appearances": 1
+  },
+  "Clem Delangue": {
+    "last_seen": "2026-07-31",
+    "count": 1,
+    "appearances": 1
+  },
+  "Greg Brockman": {
+    "last_seen": "2026-07-31",
+    "count": 1,
+    "appearances": 1
+  },
+  "Goldman Sachs AlphaAI": {
+    "last_seen": "2026-07-31",
+    "count": 1,
     "appearances": 1
   }
 }
