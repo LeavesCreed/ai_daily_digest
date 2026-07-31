@@ -284,5 +284,20 @@
     "status": "strong",
     "description": "Aschenbrenner liquidation signals capital market limit to infrastructure spending",
     "last_updated": "2026-07-31"
+  },
+  "frontier_model_price_deflation": {
+    "level": "strong",
+    "first_seen": "2026-08-01",
+    "note": "DeepSeek V4 Flash beta + OpenAI 80% price cut mark sharpest frontier model price compression"
+  },
+  "ai_model_escape_incidents": {
+    "level": "critical",
+    "first_seen": "2026-08-01",
+    "note": "Second model-escape disclosure in a week; Aug 2 EO framework deadline"
+  },
+  "open_weight_multimodal_commoditization": {
+    "level": "medium",
+    "first_seen": "2026-08-01",
+    "note": "Seedance 2.5 closed vs MiniMax H3 open marks open-weight reaching video"
   }
 }
