@@ -11,9 +11,10 @@
     "appearances": 2
   },
   "Meta": {
-    "last_seen": "2026-07-20",
+    "last_seen": "2026-08-02",
     "count": 6,
-    "appearances": 2
+    "appearances": 2,
+    "mentions": 1
   },
   "Together AI": {
     "last_seen": "2026-07-02",
@@ -389,8 +390,9 @@
   "Hugging Face": {
     "first_seen": "2026-07-11",
     "appearances": 1,
-    "last_seen": "2026-07-25",
-    "count": 3
+    "last_seen": "2026-08-02",
+    "count": 3,
+    "mentions": 1
   },
   "Ed Markey": {
     "first_seen": "2026-07-11",
@@ -940,7 +942,9 @@
   },
   "DeepSeek V4 Flash": {
     "first_seen": "2026-08-01",
-    "count": 1
+    "count": 1,
+    "mentions": 1,
+    "last_seen": "2026-08-02"
   },
   "MiniMax H3": {
     "first_seen": "2026-08-01",
@@ -957,5 +961,45 @@
   "codex-security": {
     "first_seen": "2026-08-01",
     "count": 1
+  },
+  "Arena.ai": {
+    "first_seen": "2026-08-02",
+    "mentions": 1,
+    "last_seen": "2026-08-02"
+  },
+  "Claude Opus 4.8": {
+    "first_seen": "2026-08-02",
+    "mentions": 1,
+    "last_seen": "2026-08-02"
+  },
+  "AMD MI450": {
+    "first_seen": "2026-08-02",
+    "mentions": 1,
+    "last_seen": "2026-08-02"
+  },
+  "Nano Banana 2": {
+    "first_seen": "2026-08-02",
+    "mentions": 1,
+    "last_seen": "2026-08-02"
+  },
+  "Google Earth": {
+    "first_seen": "2026-08-02",
+    "mentions": 1,
+    "last_seen": "2026-08-02"
+  },
+  "Jennifer Doudna": {
+    "first_seen": "2026-08-02",
+    "mentions": 1,
+    "last_seen": "2026-08-02"
+  },
+  "OpenHands": {
+    "first_seen": "2026-08-02",
+    "mentions": 1,
+    "last_seen": "2026-08-02"
+  },
+  "Monday.com": {
+    "first_seen": "2026-08-02",
+    "mentions": 1,
+    "last_seen": "2026-08-02"
   }
 }

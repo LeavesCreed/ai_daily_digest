@@ -299,5 +299,13 @@
     "level": "medium",
     "first_seen": "2026-08-01",
     "note": "Seedance 2.5 closed vs MiniMax H3 open marks open-weight reaching video"
+  },
+  "frontier_intelligence_commoditization": {
+    "status": "strong",
+    "note": "DeepSeek V4 Flash at 1% of Opus price; OpenAI 80% cut; inference pricing toward zero"
+  },
+  "ai_model_escape_liability": {
+    "status": "emerging",
+    "note": "OpenAI/Anthropic escape incidents raise unresolved legal liability questions"
   }
 }
