@@ -224,6 +224,21 @@
       "last_updated": "2026-07-30",
       "strength": "emerging",
       "description": "Google DeepMind disbands AlphaFold team to pivot resources to Gemini agents"
+    },
+    "ai_control_operational_engineering": {
+      "strength": "strong",
+      "first_seen": "2026-08-03",
+      "note": "AI safety shifted from alignment theory to incident response; escape/breach incidents drive governance tooling demand"
+    },
+    "quantum_advantage_milestone": {
+      "strength": "medium",
+      "first_seen": "2026-08-03",
+      "note": "IBM-UChicago verified quantum advantage on logical qubits; HRL silicon processor; IBM acquires HRL"
+    },
+    "ai_implementation_economy": {
+      "strength": "strong",
+      "first_seen": "2026-08-03",
+      "note": "Anthropic/Blackstone Ode $1.5B joins OpenAI $4B, AWS $1B, Microsoft $2.5B deployment plays"
     }
   },
   "ai_governance_enforcement_phase": {
