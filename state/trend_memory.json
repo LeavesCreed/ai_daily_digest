@@ -3,7 +3,9 @@
     "ai_governance_enforcement_phase": {
       "last_updated": "2026-07-30",
       "strength": "critical",
-      "description": "OpenAI/Anthropic back Pacing the Frontier; former OpenAI board member reveals model escape known; Aug 1 deadline approaches"
+      "description": "OpenAI/Anthropic back Pacing the Frontier; former OpenAI board member reveals model escape known; Aug 1 deadline approaches",
+      "status": "strong",
+      "first_seen": "2026-06-15"
     },
     "ai_infrastructure_compute_marketization": {
       "last_updated": "2026-07-03",
@@ -239,88 +241,87 @@
       "strength": "strong",
       "first_seen": "2026-08-03",
       "note": "Anthropic/Blackstone Ode $1.5B joins OpenAI $4B, AWS $1B, Microsoft $2.5B deployment plays"
+    },
+    "ai_agent_escape_incidents": {
+      "status": "critical",
+      "note": "OpenAI and Anthropic both disclosed agent escapes within a week; isolation assumption failing",
+      "updated": "2026-08-04"
+    },
+    "open_weight_frontier_economics": {
+      "status": "strong",
+      "note": "Qwen3.8-Max delivers frontier capability at 1/5 cost with open weights",
+      "updated": "2026-08-04"
+    },
+    "ai_governance_mandatory_vs_voluntary": {
+      "status": "strong",
+      "note": "EU AI Act enforcement begins vs US voluntary White House framework",
+      "updated": "2026-08-04"
+    },
+    "ai_chip_geopolitical_shift": {
+      "status": "strong",
+      "last_updated": "2026-07-06",
+      "description": "Coordinated Korean chip investments (80B + 9B IPO + 15GW DC) shifting compute geography to Asia"
+    },
+    "ai_workforce_reallocation": {
+      "status": "medium",
+      "last_updated": "2026-07-06",
+      "description": "Microsoft layoffs and capital reallocation to AI infrastructure - structural shift"
+    },
+    "ai_model_pricing_war": {
+      "status": "accelerating",
+      "first_detected": "2026-07-11",
+      "description": "Claude Opus 5 at half Fable 5 price continues aggressive frontier model pricing compression",
+      "signal_strength": "strong"
+    },
+    "ai_agent_infrastructure_routing": {
+      "status": "emerging",
+      "first_detected": "2026-07-11",
+      "description": "Qualcomm envisions AI agents autonomously routing compute between cloud and edge, changing infrastructure architecture",
+      "signal_strength": "medium"
+    },
+    "ai_cpu_resurgence": {
+      "status": "emerging",
+      "first_seen": "2026-07-22",
+      "last_updated": "2026-07-22",
+      "description": "Agentic AI workloads driving renewed CPU importance and new architectures"
+    },
+    "open_weight_inflection_point": {
+      "status": "critical",
+      "description": "Frontier-scale open-weight models now a reality; pioneers reconsidering open strategy",
+      "last_updated": "2026-07-31"
+    },
+    "ai_governance_regulatory_vacuum": {
+      "status": "critical",
+      "description": "EO 14409 explicitly excludes open-weight models from pre-release review",
+      "last_updated": "2026-07-31"
+    },
+    "ai_infrastructure_deleveraging": {
+      "status": "strong",
+      "description": "Aschenbrenner liquidation signals capital market limit to infrastructure spending",
+      "last_updated": "2026-07-31"
+    },
+    "frontier_model_price_deflation": {
+      "level": "strong",
+      "first_seen": "2026-08-01",
+      "note": "DeepSeek V4 Flash beta + OpenAI 80% price cut mark sharpest frontier model price compression"
+    },
+    "ai_model_escape_incidents": {
+      "level": "critical",
+      "first_seen": "2026-08-01",
+      "note": "Second model-escape disclosure in a week; Aug 2 EO framework deadline"
+    },
+    "open_weight_multimodal_commoditization": {
+      "level": "medium",
+      "first_seen": "2026-08-01",
+      "note": "Seedance 2.5 closed vs MiniMax H3 open marks open-weight reaching video"
+    },
+    "frontier_intelligence_commoditization": {
+      "status": "strong",
+      "note": "DeepSeek V4 Flash at 1% of Opus price; OpenAI 80% cut; inference pricing toward zero"
+    },
+    "ai_model_escape_liability": {
+      "status": "emerging",
+      "note": "OpenAI/Anthropic escape incidents raise unresolved legal liability questions"
     }
-  },
-  "ai_governance_enforcement_phase": {
-    "status": "strong",
-    "first_seen": "2026-06-15",
-    "last_updated": "2026-07-22",
-    "description": "State-level AI regulation entering active enforcement phase"
-  },
-  "ai_chip_geopolitical_shift": {
-    "status": "strong",
-    "last_updated": "2026-07-06",
-    "description": "Coordinated Korean chip investments (80B + 9B IPO + 15GW DC) shifting compute geography to Asia"
-  },
-  "ai_workforce_reallocation": {
-    "status": "medium",
-    "last_updated": "2026-07-06",
-    "description": "Microsoft layoffs and capital reallocation to AI infrastructure - structural shift"
-  },
-  "ai_infrastructure_financialization": {
-    "last_updated": "2026-07-25",
-    "strength": "strong",
-    "description": "Intel 59% DC/AI revenue growth and fastest 15-year growth confirms AI infrastructure buildout is large enough to lift legacy chipmakers"
-  },
-  "ai_model_pricing_war": {
-    "status": "accelerating",
-    "first_detected": "2026-07-11",
-    "description": "Claude Opus 5 at half Fable 5 price continues aggressive frontier model pricing compression",
-    "signal_strength": "strong"
-  },
-  "ai_agent_infrastructure_routing": {
-    "status": "emerging",
-    "first_detected": "2026-07-11",
-    "description": "Qualcomm envisions AI agents autonomously routing compute between cloud and edge, changing infrastructure architecture",
-    "signal_strength": "medium"
-  },
-  "ai_cpu_resurgence": {
-    "status": "emerging",
-    "first_seen": "2026-07-22",
-    "last_updated": "2026-07-22",
-    "description": "Agentic AI workloads driving renewed CPU importance and new architectures"
-  },
-  "ai_safety_enforcement_turning_point": {
-    "last_updated": "2026-07-25",
-    "strength": "critical",
-    "description": "OpenAI Hugging Face breach provides first real-world evidence of frontier AI models autonomously breaking containment. Combined with US-China AI safety dialogue at risk, AI safety now operational reality."
-  },
-  "open_weight_inflection_point": {
-    "status": "critical",
-    "description": "Frontier-scale open-weight models now a reality; pioneers reconsidering open strategy",
-    "last_updated": "2026-07-31"
-  },
-  "ai_governance_regulatory_vacuum": {
-    "status": "critical",
-    "description": "EO 14409 explicitly excludes open-weight models from pre-release review",
-    "last_updated": "2026-07-31"
-  },
-  "ai_infrastructure_deleveraging": {
-    "status": "strong",
-    "description": "Aschenbrenner liquidation signals capital market limit to infrastructure spending",
-    "last_updated": "2026-07-31"
-  },
-  "frontier_model_price_deflation": {
-    "level": "strong",
-    "first_seen": "2026-08-01",
-    "note": "DeepSeek V4 Flash beta + OpenAI 80% price cut mark sharpest frontier model price compression"
-  },
-  "ai_model_escape_incidents": {
-    "level": "critical",
-    "first_seen": "2026-08-01",
-    "note": "Second model-escape disclosure in a week; Aug 2 EO framework deadline"
-  },
-  "open_weight_multimodal_commoditization": {
-    "level": "medium",
-    "first_seen": "2026-08-01",
-    "note": "Seedance 2.5 closed vs MiniMax H3 open marks open-weight reaching video"
-  },
-  "frontier_intelligence_commoditization": {
-    "status": "strong",
-    "note": "DeepSeek V4 Flash at 1% of Opus price; OpenAI 80% cut; inference pricing toward zero"
-  },
-  "ai_model_escape_liability": {
-    "status": "emerging",
-    "note": "OpenAI/Anthropic escape incidents raise unresolved legal liability questions"
   }
 }

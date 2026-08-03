@@ -1007,7 +1007,9 @@
     },
     "OpenAI Astra": {
       "first_seen": "2026-08-03",
-      "mentions": 1
+      "mentions": 1,
+      "last_seen": "2026-08-04",
+      "count": 2
     },
     "IBM": {
       "first_seen": "2026-08-03",
@@ -1044,6 +1046,34 @@
     "microsoft/agent-governance-toolkit": {
       "first_seen": "2026-08-03",
       "mentions": 1
+    },
+    "Alibaba Cloud": {
+      "last_seen": "2026-08-04",
+      "count": 1
+    },
+    "Qwen3.8-Max": {
+      "last_seen": "2026-08-04",
+      "count": 1
+    },
+    "White House": {
+      "last_seen": "2026-08-04",
+      "count": 1
+    },
+    "Irregular": {
+      "last_seen": "2026-08-04",
+      "count": 1
+    },
+    "Claude Opus 4.7": {
+      "last_seen": "2026-08-04",
+      "count": 1
+    },
+    "EU AI Office": {
+      "last_seen": "2026-08-04",
+      "count": 1
+    },
+    "Gary Marcus": {
+      "last_seen": "2026-08-04",
+      "count": 1
     }
   }
 }
