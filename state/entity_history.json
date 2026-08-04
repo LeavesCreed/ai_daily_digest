@@ -1,14 +1,15 @@
 {
   "entities": {
     "OpenAI": {
-      "last_seen": "2026-08-01",
+      "last_seen": "2026-08-05",
       "count": 10,
-      "appearances": 1
+      "appearances": 1,
+      "mention_count": 2
     },
     "Anthropic": {
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-08-05",
       "count": 11,
-      "mention_count": 1,
+      "mention_count": 2,
       "appearances": 2,
       "mentions": 1
     },
@@ -63,9 +64,10 @@
       "appearances": 1
     },
     "NVIDIA": {
-      "last_seen": "2026-08-03",
+      "last_seen": "2026-08-05",
       "count": 3,
-      "mentions": 1
+      "mentions": 1,
+      "mention_count": 2
     },
     "Huawei": {
       "last_seen": "2026-06-30",
@@ -212,7 +214,8 @@
     },
     "Google": {
       "first_seen": "2026-07-06",
-      "mention_count": 1
+      "mention_count": 2,
+      "last_seen": "2026-08-05"
     },
     "Commerce Department": {
       "first_seen": "2026-07-06",
@@ -357,8 +360,9 @@
       "count": 2
     },
     "SpaceX": {
-      "last_seen": "2026-07-20",
-      "count": 2
+      "last_seen": "2026-08-05",
+      "count": 2,
+      "mention_count": 2
     },
     "Ollama": {
       "last_seen": "2026-07-10",
@@ -1056,8 +1060,9 @@
       "count": 1
     },
     "White House": {
-      "last_seen": "2026-08-04",
-      "count": 1
+      "last_seen": "2026-08-05",
+      "count": 1,
+      "mention_count": 2
     },
     "Irregular": {
       "last_seen": "2026-08-04",
@@ -1074,6 +1079,56 @@
     "Gary Marcus": {
       "last_seen": "2026-08-04",
       "count": 1
+    },
+    "Volta Infra": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Bitdeer": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Red Hat": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "asago": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Ironwood": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Vera Rubin": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Starmind": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Alpamayo 2 Super": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Jefferies": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Financial Times": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
     }
   }
 }

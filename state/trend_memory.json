@@ -110,7 +110,8 @@
     "ai_infrastructure_financialization": {
       "last_updated": "2026-07-20",
       "strength": "strong",
-      "description": "SK Hynix $26.5B IPO and Broadcom $30B Apple deal signal AI infrastructure becoming institutional asset class"
+      "description": "SK Hynix $26.5B IPO and Broadcom $30B Apple deal signal AI infrastructure becoming institutional asset class",
+      "last_seen": "2026-08-05"
     },
     "ai_export_geopolitics": {
       "last_updated": "2026-07-12",
@@ -322,6 +323,26 @@
     "ai_model_escape_liability": {
       "status": "emerging",
       "note": "OpenAI/Anthropic escape incidents raise unresolved legal liability questions"
+    },
+    "orbital_ai_compute": {
+      "strength": "emerging",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05"
+    },
+    "ai_power_bottleneck": {
+      "strength": "strong",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05"
+    },
+    "open_weight_regulatory_exemption": {
+      "strength": "emerging",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05"
+    },
+    "ai_compute_procurement_arms_race": {
+      "strength": "medium",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05"
     }
   }
 }
