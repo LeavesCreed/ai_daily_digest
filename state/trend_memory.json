@@ -343,6 +343,16 @@
       "strength": "medium",
       "first_seen": "2026-08-05",
       "last_seen": "2026-08-05"
-    }
+    },
+    "ai_coding_agent_multipolarity": "strong",
+    "ai_safety_enforcement_criminalization": "medium",
+    "custom_silicon_fullstack_race": "strong"
+  },
+  "last_updated": {
+    "2026-08-06": [
+      "ai_coding_agent_multipolarity",
+      "ai_safety_enforcement_criminalization",
+      "custom_silicon_fullstack_race"
+    ]
   }
 }
