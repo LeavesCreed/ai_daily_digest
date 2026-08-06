@@ -346,7 +346,17 @@
     },
     "ai_coding_agent_multipolarity": "strong",
     "ai_safety_enforcement_criminalization": "medium",
-    "custom_silicon_fullstack_race": "strong"
+    "custom_silicon_fullstack_race": "strong",
+    "ai_math_science_production": {
+      "last_updated": "2026-08-07",
+      "strength": "strong",
+      "description": "Claude Fable 5 disproves Jacobian conjecture; OpenAI Astra solves 10 open problems; WeatherNext Nature paper"
+    },
+    "arm_infrastructure_overtake": {
+      "last_updated": "2026-08-07",
+      "strength": "strong",
+      "description": "Arm accelerated server spending surpasses x86; NVIDIA Vera in full production"
+    }
   },
   "last_updated": {
     "2026-08-06": [

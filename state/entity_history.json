@@ -78,8 +78,8 @@
       "count": 1
     },
     "DeepSeek": {
-      "last_seen": "2026-06-30",
-      "count": 1
+      "last_seen": "2026-08-07",
+      "count": 2
     },
     "Etched": {
       "last_seen": "2026-07-27",
@@ -545,8 +545,8 @@
       "count": 1
     },
     "Google DeepMind": {
-      "last_seen": "2026-07-17",
-      "count": 1
+      "last_seen": "2026-08-07",
+      "count": 2
     },
     "Alphabet": {
       "last_seen": "2026-07-23",
@@ -1012,8 +1012,8 @@
     "OpenAI Astra": {
       "first_seen": "2026-08-03",
       "mentions": 1,
-      "last_seen": "2026-08-04",
-      "count": 2
+      "last_seen": "2026-08-07",
+      "count": 3
     },
     "IBM": {
       "first_seen": "2026-08-03",
@@ -1144,6 +1144,42 @@
       "Italy",
       "EU AI Act",
       "OpenAI"
-    ]
+    ],
+    "Claude Fable 5": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "WeatherNext": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "Arm": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "NVIDIA Vera": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "Unitree": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "Montage Technology": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "CXL": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "Voicebox": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "Levent Alpöge": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    }
   }
 }
