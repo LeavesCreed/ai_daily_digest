@@ -58,8 +58,8 @@
       "mention_count": 1
     },
     "SK Hynix": {
-      "last_seen": "2026-07-13",
-      "count": 4,
+      "last_seen": "2026-08-08",
+      "count": 5,
       "mention_count": 1,
       "appearances": 1
     },
@@ -78,8 +78,8 @@
       "count": 1
     },
     "DeepSeek": {
-      "last_seen": "2026-08-07",
-      "count": 2
+      "last_seen": "2026-08-08",
+      "count": 3
     },
     "Etched": {
       "last_seen": "2026-07-27",
@@ -565,14 +565,14 @@
       "count": 1
     },
     "Moonshot AI": {
-      "last_seen": "2026-07-31",
-      "count": 8,
+      "last_seen": "2026-08-08",
+      "count": 9,
       "description": "Kimi K3 launched, 0B IPO",
       "appearances": 2
     },
     "Kimi K3": {
-      "last_seen": "2026-07-31",
-      "count": 4,
+      "last_seen": "2026-08-08",
+      "count": 5,
       "description": "2.8T open-weight model, demand crush"
     },
     "Yang Zhilin": {
@@ -1180,6 +1180,36 @@
     "Levent Alpöge": {
       "last_seen": "2026-08-07",
       "count": 1
+    },
+    "Frontier Security": {
+      "last_seen": "2026-08-08",
+      "count": 1,
+      "note": "AI security firm reporting escape"
+    },
+    "Stanford": {
+      "last_seen": "2026-08-08",
+      "count": 1,
+      "note": "AI-designed viruses study"
+    },
+    "Arc Institute": {
+      "last_seen": "2026-08-08",
+      "count": 1,
+      "note": "AI-designed viruses study"
+    },
+    "Evo1/Evo2": {
+      "last_seen": "2026-08-08",
+      "count": 1,
+      "note": "Genomic foundation models"
+    },
+    "Black Hat USA 2026": {
+      "last_seen": "2026-08-08",
+      "count": 1,
+      "note": "OpenAI agent coordination disclosure"
+    },
+    "firecrawl": {
+      "last_seen": "2026-08-08",
+      "count": 1,
+      "note": "Trending open-source web scraping engine"
     }
   }
 }

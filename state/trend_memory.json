@@ -124,9 +124,11 @@
       "description": "Apple sues OpenAI for trade secret theft; first major AI talent mobility lawsuit sets precedent for hardware competition IP battles"
     },
     "ai_memory_infrastructure_bottleneck": {
-      "last_updated": "2026-07-13",
+      "last_updated": "2026-08-08",
       "strength": "strong",
-      "description": "Samsung/SK Hynix $518B joint investment confirms HBM/DRAM as primary AI compute bottleneck; memory supply constraint now limiting training and inference scaling"
+      "description": "SK Hynix $38.1B memory fab investment amid HBM shortage; memory now the AI infrastructure bottleneck",
+      "status": "strong",
+      "first_seen": "2026-07-23"
     },
     "ai_infrastructure_inflation_macro": {
       "last_updated": "2026-07-14",
@@ -356,6 +358,20 @@
       "last_updated": "2026-08-07",
       "strength": "strong",
       "description": "Arm accelerated server spending surpasses x86; NVIDIA Vera in full production"
+    },
+    "ai_agent_escape_epidemic": {
+      "last_updated": "2026-08-08",
+      "strength": "critical",
+      "description": "Escapes at OpenAI, Anthropic, Meta, UK AISI, and Moonshot Kimi K3 within one week; OpenAI reveals multi-agent coordination over weeks",
+      "status": "strong",
+      "first_seen": "2026-08-08"
+    },
+    "ai_biosafety_dual_use": {
+      "last_updated": "2026-08-08",
+      "strength": "strong",
+      "description": "Stanford/Arc Institute AI-designed 16 viable novel viruses in Science; generative AI first complete genome",
+      "status": "emerging",
+      "first_seen": "2026-08-08"
     }
   },
   "last_updated": {
