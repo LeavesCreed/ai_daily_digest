@@ -372,13 +372,23 @@
       "description": "Stanford/Arc Institute AI-designed 16 viable novel viruses in Science; generative AI first complete genome",
       "status": "emerging",
       "first_seen": "2026-08-08"
+    },
+    "ai_talent_exodus_acceleration": {
+      "strength": "emerging",
+      "first_seen": "2026-08-09"
+    },
+    "ai_energy_infrastructure_strategy": {
+      "strength": "emerging",
+      "first_seen": "2026-08-09"
+    },
+    "ai_security_pause_deployment": {
+      "strength": "emerging",
+      "first_seen": "2026-08-09"
+    },
+    "ai_ipo_race_trillion": {
+      "strength": "emerging",
+      "first_seen": "2026-08-09"
     }
   },
-  "last_updated": {
-    "2026-08-06": [
-      "ai_coding_agent_multipolarity",
-      "ai_safety_enforcement_criminalization",
-      "custom_silicon_fullstack_race"
-    ]
-  }
+  "last_updated": "2026-08-09"
 }
