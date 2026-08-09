@@ -108,10 +108,8 @@
       "description": "Meta scraps Muse Image after 5 days - AI product deployment reversals now happening at unprecedented speed due to privacy backlash"
     },
     "ai_infrastructure_financialization": {
-      "last_updated": "2026-07-20",
-      "strength": "strong",
-      "description": "SK Hynix $26.5B IPO and Broadcom $30B Apple deal signal AI infrastructure becoming institutional asset class",
-      "last_seen": "2026-08-05"
+      "level": "strong",
+      "note": "NVIDIA-Brookfield-Naver $10B alliance; chip vendors integrating capital and power"
     },
     "ai_export_geopolitics": {
       "last_updated": "2026-07-12",
@@ -388,7 +386,19 @@
     "ai_ipo_race_trillion": {
       "strength": "emerging",
       "first_seen": "2026-08-09"
+    },
+    "ai_agent_autonomy_risk": {
+      "level": "strong",
+      "note": "Personal AI agent autonomous task duration doubling every 7 months; first autonomous cyberattack in Australia"
+    },
+    "ai_chip_asic_divergence": {
+      "level": "strong",
+      "note": "Broadcom custom ASIC demand outpacing Nvidia; hyperscaler in-house silicon accelerating"
+    },
+    "ai_governance_coercion": {
+      "level": "strong",
+      "note": "AI Kill Switch Act and White House 30-day pre-review framework advancing"
     }
   },
-  "last_updated": "2026-08-09"
+  "last_updated": "2026-08-10"
 }

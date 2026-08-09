@@ -40,8 +40,8 @@
       "count": 2
     },
     "Broadcom": {
-      "last_seen": "2026-07-12",
-      "count": 2,
+      "last_seen": "2026-08-10",
+      "count": 3,
       "appearances": 1
     },
     "Trump administration": {
@@ -908,8 +908,8 @@
       "appearances": 1
     },
     "Situational Awareness": {
-      "last_seen": "2026-07-31",
-      "count": 1,
+      "last_seen": "2026-08-10",
+      "count": 2,
       "appearances": 1
     },
     "Leopold Aschenbrenner": {
@@ -1238,6 +1238,36 @@
     "Buzz": {
       "first_seen": "2026-08-09",
       "count": 1
+    },
+    "OpenClaw": {
+      "count": 3,
+      "last_seen": "2026-08-10",
+      "category": "open_source_agent"
+    },
+    "Naver": {
+      "count": 1,
+      "last_seen": "2026-08-10",
+      "category": "cloud"
+    },
+    "Brookfield": {
+      "count": 1,
+      "last_seen": "2026-08-10",
+      "category": "infrastructure_finance"
+    },
+    "Source Foundry": {
+      "count": 1,
+      "last_seen": "2026-08-10",
+      "category": "chip_startup"
+    },
+    "DHS": {
+      "count": 1,
+      "last_seen": "2026-08-10",
+      "category": "government"
+    },
+    "alibaba": {
+      "count": 2,
+      "last_seen": "2026-08-10",
+      "category": "open_source"
     }
   },
   "2026-08-09": [
@@ -1251,5 +1281,15 @@
     "D-Wave",
     "Koray Kavukcuoglu",
     "Buzz"
+  ],
+  "2026-08-10": [
+    "OpenClaw",
+    "Broadcom",
+    "Naver",
+    "Brookfield",
+    "Situational Awareness",
+    "Source Foundry",
+    "DHS",
+    "alibaba"
   ]
 }
