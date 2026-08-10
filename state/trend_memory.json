@@ -398,7 +398,27 @@
     "ai_governance_coercion": {
       "level": "strong",
       "note": "AI Kill Switch Act and White House 30-day pre-review framework advancing"
+    },
+    "agent_economy_industrialization": {
+      "last_updated": "2026-08-11",
+      "strength": "strong",
+      "description": "Agent autonomy default + agent-native browser + compute financing mark industrialization of agent economy"
+    },
+    "ai_compute_financialization": {
+      "last_updated": "2026-08-11",
+      "strength": "strong",
+      "description": "NVIDIA $500B Wall Street financing platforms treat AI compute as investable asset class"
+    },
+    "open_weight_reopening": {
+      "last_updated": "2026-08-11",
+      "strength": "medium",
+      "description": "Meta Muse Glimmer + Zuckerberg manifesto reopen open-weight front amid regulation debate"
+    },
+    "multi_agent_governance_gap": {
+      "last_updated": "2026-08-11",
+      "strength": "medium",
+      "description": "Australia AISI maps governance blind spot: all frameworks assume single agent owner"
     }
   },
-  "last_updated": "2026-08-10"
+  "last_updated": "2026-08-11"
 }
