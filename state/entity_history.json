@@ -7,15 +7,15 @@
       "mention_count": 2
     },
     "Anthropic": {
-      "last_seen": "2026-08-05",
-      "count": 11,
+      "last_seen": "2026-08-12",
+      "count": 12,
       "mention_count": 2,
       "appearances": 2,
       "mentions": 1
     },
     "Meta": {
-      "last_seen": "2026-08-02",
-      "count": 6,
+      "last_seen": "2026-08-12",
+      "count": 7,
       "appearances": 2,
       "mentions": 1
     },
@@ -64,8 +64,8 @@
       "appearances": 1
     },
     "NVIDIA": {
-      "last_seen": "2026-08-05",
-      "count": 3,
+      "last_seen": "2026-08-12",
+      "count": 4,
       "mentions": 1,
       "mention_count": 2
     },
@@ -205,8 +205,8 @@
     "Microsoft": {
       "first_seen": "2026-07-06",
       "mention_count": 1,
-      "last_seen": "2026-07-08",
-      "count": 1
+      "last_seen": "2026-08-12",
+      "count": 2
     },
     "Amazon": {
       "first_seen": "2026-07-06",
@@ -383,8 +383,8 @@
     "TSMC": {
       "first_seen": "2026-07-11",
       "appearances": 1,
-      "last_seen": "2026-07-17",
-      "count": 1
+      "last_seen": "2026-08-12",
+      "count": 2
     },
     "Qualcomm": {
       "first_seen": "2026-07-11",
@@ -1295,6 +1295,61 @@
     },
     "TCAI": {
       "last_seen": "2026-08-11",
+      "count": 1
+    },
+    "Nemotron 3.5 Lightning": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "NeMo Switchyard": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "Maia 300": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "Riot Platforms": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "Anthropic IPO": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "Manus": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "NDRC": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "OpenWALDO": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "Gregory Kurtzer": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "EU AI Act": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "Claude watermark": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
       "count": 1
     }
   },
