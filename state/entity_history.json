@@ -1374,5 +1374,30 @@
     "Source Foundry",
     "DHS",
     "alibaba"
-  ]
+  ],
+  "2026-08-13": {
+    "entities": [
+      "xAI",
+      "Grok 4.6",
+      "SpaceXAI",
+      "OpenAI",
+      "GPT-5.6-Cyber",
+      "CVE-2026-15903",
+      "PitchBook",
+      "Cognition",
+      "Devin",
+      "Lovable",
+      "River AI",
+      "Suno",
+      "BMG",
+      "Warner Music",
+      "NVIDIA",
+      "800 VDC",
+      "Eaton",
+      "Wood Mackenzie",
+      "PrimeIntellect",
+      "prime-agent"
+    ],
+    "source_count": 10
+  }
 }

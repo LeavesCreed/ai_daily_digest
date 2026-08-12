@@ -429,7 +429,27 @@
     "ai_agent_geopolitical_control": {
       "status": "emerging",
       "last_updated": "2026-08-12"
+    },
+    "frontier_price_intelligence_pareto": {
+      "level": "strong",
+      "note": "Grok 4.6 matches GPT-5.6 Sol at 1/5 price; price wars continue after DeepSeek V4 Flash"
+    },
+    "vertical_specialized_security_models": {
+      "level": "emerging",
+      "note": "GPT-5.6-Cyber finds real zero-days pre-release; AI cyber moves from analysis to autonomous hunting"
+    },
+    "ai_capital_extreme_concentration": {
+      "level": "strong",
+      "note": "87.5% of Q2 US venture to AI; Cognition at $40B; application layer squeezed"
+    },
+    "ai_music_copyright_framework": {
+      "level": "emerging",
+      "note": "Suno-BMG opt-in licensing deal may become industry template"
+    },
+    "ai_power_architecture_standardization": {
+      "level": "emerging",
+      "note": "NVIDIA 800 VDC power architecture; power joins capital as infrastructure gate"
     }
   },
-  "last_updated": "2026-08-11"
+  "last_updated": "2026-08-13"
 }
