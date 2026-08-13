@@ -449,6 +449,26 @@
     "ai_power_architecture_standardization": {
       "level": "emerging",
       "note": "NVIDIA 800 VDC power architecture; power joins capital as infrastructure gate"
+    },
+    "compute_efficiency_m_and_a": {
+      "last_updated": "2026-08-14",
+      "strength": "strong",
+      "description": "Anthropic $6B Decart acquisition for inference efficiency before IPO"
+    },
+    "power_grid_bottleneck": {
+      "last_updated": "2026-08-14",
+      "strength": "strong",
+      "description": "NVIDIA-IREN 5GW shows power replacing financing as constraint"
+    },
+    "india_ai_infrastructure_rise": {
+      "last_updated": "2026-08-14",
+      "strength": "medium",
+      "description": "L&T 10K B300 cluster for Together AI marks India leap"
+    },
+    "model_price_war_acceleration": {
+      "last_updated": "2026-08-14",
+      "strength": "strong",
+      "description": "Gemini 3.7 Flash $0.75 promo, DeepSeek V4-Pro GA with price hike"
     }
   },
   "last_updated": "2026-08-13"

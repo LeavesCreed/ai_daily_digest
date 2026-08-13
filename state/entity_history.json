@@ -7,9 +7,9 @@
       "mention_count": 2
     },
     "Anthropic": {
-      "last_seen": "2026-08-12",
-      "count": 12,
-      "mention_count": 2,
+      "last_seen": "2026-08-14",
+      "count": 13,
+      "mention_count": 3,
       "appearances": 2,
       "mentions": 1
     },
@@ -20,8 +20,9 @@
       "mentions": 1
     },
     "Together AI": {
-      "last_seen": "2026-07-02",
-      "count": 1
+      "last_seen": "2026-08-14",
+      "count": 2,
+      "mention_count": 1
     },
     "MGX": {
       "last_seen": "2026-07-02",
@@ -64,10 +65,10 @@
       "appearances": 1
     },
     "NVIDIA": {
-      "last_seen": "2026-08-12",
-      "count": 4,
+      "last_seen": "2026-08-14",
+      "count": 5,
       "mentions": 1,
-      "mention_count": 2
+      "mention_count": 3
     },
     "Huawei": {
       "last_seen": "2026-06-30",
@@ -78,8 +79,9 @@
       "count": 1
     },
     "DeepSeek": {
-      "last_seen": "2026-08-08",
-      "count": 3
+      "last_seen": "2026-08-14",
+      "count": 4,
+      "mention_count": 1
     },
     "Etched": {
       "last_seen": "2026-07-27",
@@ -214,8 +216,9 @@
     },
     "Google": {
       "first_seen": "2026-07-06",
-      "mention_count": 2,
-      "last_seen": "2026-08-05"
+      "mention_count": 3,
+      "last_seen": "2026-08-14",
+      "count": 1
     },
     "Commerce Department": {
       "first_seen": "2026-07-06",
@@ -517,8 +520,9 @@
       "count": 1
     },
     "Intel": {
-      "last_seen": "2026-07-25",
-      "count": 2
+      "last_seen": "2026-08-14",
+      "count": 3,
+      "mention_count": 1
     },
     "University of Illinois": {
       "last_seen": "2026-07-14",
@@ -1351,6 +1355,26 @@
       "first_seen": "2026-08-12",
       "last_seen": "2026-08-12",
       "count": 1
+    },
+    "Gemini": {
+      "last_seen": "2026-08-14",
+      "count": 1,
+      "mention_count": 1
+    },
+    "Decart AI": {
+      "last_seen": "2026-08-14",
+      "count": 1,
+      "mention_count": 1
+    },
+    "L&T": {
+      "last_seen": "2026-08-14",
+      "count": 1,
+      "mention_count": 1
+    },
+    "IREN": {
+      "last_seen": "2026-08-14",
+      "count": 1,
+      "mention_count": 1
     }
   },
   "2026-08-09": [
