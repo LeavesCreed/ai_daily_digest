@@ -469,7 +469,31 @@
       "last_updated": "2026-08-14",
       "strength": "strong",
       "description": "Gemini 3.7 Flash $0.75 promo, DeepSeek V4-Pro GA with price hike"
+    },
+    "open_weight_capability_dilemma": {
+      "status": "strong",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "description": "GLM-5.3首次因能力担忧自愿延迟开源；开源与安全兼容性受质疑"
+    },
+    "agent_memory_infrastructure_standardization": {
+      "status": "strong",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "description": "TencentDB Agent Memory 90天20k Star，记忆层标准化加速"
+    },
+    "ai_ipo_governance_tension": {
+      "status": "emerging",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "description": "OpenAI IPO前高管外流 vs Anthropic潜在2T估值"
+    },
+    "ai_infrastructure_hidden_obligations": {
+      "status": "emerging",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "description": "2.6T AI支出含1.65T隐性义务，铁路泡沫类比"
     }
   },
-  "last_updated": "2026-08-13"
+  "last_updated": "2026-08-15"
 }

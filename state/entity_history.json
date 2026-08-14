@@ -4,7 +4,7 @@
       "last_seen": "2026-08-05",
       "count": 10,
       "appearances": 1,
-      "mention_count": 2
+      "mention_count": 3
     },
     "Anthropic": {
       "last_seen": "2026-08-14",
@@ -440,7 +440,8 @@
     },
     "Apple": {
       "last_seen": "2026-07-13",
-      "count": 2
+      "count": 2,
+      "mention_count": 1
     },
     "Zhipu AI": {
       "last_seen": "2026-07-13",
@@ -1374,7 +1375,57 @@
     "IREN": {
       "last_seen": "2026-08-14",
       "count": 1,
-      "mention_count": 1
+      "mention_count": 2
+    },
+    "Z.ai": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable"
+    },
+    "GLM-5.3": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "rising"
+    },
+    "Alibaba": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable"
+    },
+    "Qwen": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable"
+    },
+    "Baidu": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable"
+    },
+    "Denise Dresser": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable"
+    },
+    "Kiteworks": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable"
+    },
+    "Light Society": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable"
+    },
+    "TencentDB Agent Memory": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "rising"
+    },
+    "UK AISI": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable"
     }
   },
   "2026-08-09": [
@@ -1423,5 +1474,20 @@
       "prime-agent"
     ],
     "source_count": 10
-  }
+  },
+  "2026-08-15": [
+    "Z.ai",
+    "GLM-5.3",
+    "Apple",
+    "Alibaba",
+    "Qwen",
+    "Baidu",
+    "OpenAI",
+    "Denise Dresser",
+    "Kiteworks",
+    "Light Society",
+    "TencentDB Agent Memory",
+    "IREN",
+    "UK AISI"
+  ]
 }
