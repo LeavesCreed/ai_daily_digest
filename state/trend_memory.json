@@ -493,6 +493,21 @@
       "first_seen": "2026-08-15",
       "last_seen": "2026-08-15",
       "description": "2.6T AI支出含1.65T隐性义务，铁路泡沫类比"
+    },
+    "ai_safety_voluntary_disclosure_wall": {
+      "strength": "medium",
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    "ai_infrastructure_financing_recalibration": {
+      "strength": "medium",
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    "ai_coding_vertical_integration": {
+      "strength": "medium",
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
     }
   },
   "last_updated": "2026-08-15"

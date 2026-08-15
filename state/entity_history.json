@@ -1489,5 +1489,45 @@
     "TencentDB Agent Memory",
     "IREN",
     "UK AISI"
-  ]
+  ],
+  "SpaceX": {
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
+  },
+  "Cursor": {
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
+  },
+  "Anthropic": {
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
+  },
+  "NVIDIA": {
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
+  },
+  "OpenAI": {
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
+  },
+  "Lovable": {
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
+  },
+  "MoS2": {
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
+  },
+  "Qwen": {
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
+  }
 }
