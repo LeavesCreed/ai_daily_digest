@@ -629,8 +629,8 @@
       "count": 1
     },
     "OpenRouter": {
-      "last_seen": "2026-07-19",
-      "count": 1
+      "last_seen": "2026-08-17",
+      "count": 2
     },
     "XPeng": {
       "last_seen": "2026-07-19",
@@ -651,8 +651,8 @@
       "description": "$50B custom AI facilities"
     },
     "Netflix": {
-      "last_seen": "2026-07-20",
-      "count": 1,
+      "last_seen": "2026-08-17",
+      "count": 2,
       "description": "Acquired InterPositive for $587M"
     },
     "InterPositive": {
@@ -1390,12 +1390,16 @@
     "Alibaba": {
       "first_seen": "2026-08-15",
       "mention_count": 1,
-      "trend": "stable"
+      "trend": "stable",
+      "count": 1,
+      "last_seen": "2026-08-17"
     },
     "Qwen": {
       "first_seen": "2026-08-15",
       "mention_count": 1,
-      "trend": "stable"
+      "trend": "stable",
+      "count": 1,
+      "last_seen": "2026-08-17"
     },
     "Baidu": {
       "first_seen": "2026-08-15",
@@ -1426,6 +1430,30 @@
       "first_seen": "2026-08-15",
       "mention_count": 1,
       "trend": "stable"
+    },
+    "Cerebras": {
+      "count": 1,
+      "last_seen": "2026-08-17"
+    },
+    "Stripe": {
+      "count": 1,
+      "last_seen": "2026-08-17"
+    },
+    "Seedance 2.5": {
+      "count": 1,
+      "last_seen": "2026-08-17"
+    },
+    "Tsinghua": {
+      "count": 1,
+      "last_seen": "2026-08-17"
+    },
+    "SAE Verbalizer": {
+      "count": 1,
+      "last_seen": "2026-08-17"
+    },
+    "Agent Skills": {
+      "count": 1,
+      "last_seen": "2026-08-17"
     }
   },
   "2026-08-09": [

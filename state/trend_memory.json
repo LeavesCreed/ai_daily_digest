@@ -156,7 +156,8 @@
     "ai_middleware_consolidation": {
       "last_updated": "2026-07-19",
       "strength": "emerging",
-      "description": "OpenRouter acquisition interest signals middleware layer becoming key strategic battleground in AI stack"
+      "description": "OpenRouter acquisition interest signals middleware layer becoming key strategic battleground in AI stack",
+      "last_seen": "2026-08-17"
     },
     "chinese_ai_ipo_wave": {
       "last_updated": "2026-07-21",
@@ -508,6 +509,18 @@
       "strength": "medium",
       "first_seen": "2026-08-16",
       "last_seen": "2026-08-16"
+    },
+    "inference_infrastructure_decoupling": {
+      "strength": "medium",
+      "first_seen": "2026-08-17"
+    },
+    "open_weight_download_geopolitics": {
+      "strength": "medium",
+      "first_seen": "2026-08-17"
+    },
+    "agent_skills_ecosystem": {
+      "strength": "medium",
+      "first_seen": "2026-08-17"
     }
   },
   "last_updated": "2026-08-15"
