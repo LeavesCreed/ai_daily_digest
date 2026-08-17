@@ -521,7 +521,18 @@
     "agent_skills_ecosystem": {
       "strength": "medium",
       "first_seen": "2026-08-17"
+    },
+    "open_weight_localization_war": {
+      "level": "strong",
+      "first_seen": "2026-08-18",
+      "note": "Alibaba Qwen3.8-27B vs Meta Muse Glimmer: laptop-class open models become strategic battleground"
+    },
+    "physical_ai_platform_alliance": {
+      "level": "medium",
+      "first_seen": "2026-08-18",
+      "note": "Nvidia x LG humanoid: AI platform + manufacturing alliance model"
     }
   },
-  "last_updated": "2026-08-15"
+  "last_updated": "2026-08-15",
+  "updated": "2026-08-18"
 }
