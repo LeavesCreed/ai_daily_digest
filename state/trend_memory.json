@@ -531,8 +531,28 @@
       "level": "medium",
       "first_seen": "2026-08-18",
       "note": "Nvidia x LG humanoid: AI platform + manufacturing alliance model"
+    },
+    "ai_safety_gating_product_decisions": {
+      "last_updated": "2026-08-19",
+      "strength": "strong",
+      "description": "OpenAI delays Astra over autonomous cyber-exploitation; safety findings now gate product decisions"
+    },
+    "open_weight_intelligence_parity": {
+      "last_updated": "2026-08-19",
+      "strength": "strong",
+      "description": "GLM-5.3 scores 60 AAII tying Kimi K3, 3 points behind Claude Opus 5"
+    },
+    "inference_economics_dominance": {
+      "last_updated": "2026-08-19",
+      "strength": "medium",
+      "description": "Gartner: agentic inference costs 5x by 2028; Snowflake dynamic routing; Etched $21B"
+    },
+    "custom_silicon_acceleration": {
+      "last_updated": "2026-08-19",
+      "strength": "medium",
+      "description": "Etched $700M at $21B valuation, first delivery to Jane Street"
     }
   },
-  "last_updated": "2026-08-15",
-  "updated": "2026-08-18"
+  "last_updated": "2026-08-19",
+  "updated": "2026-08-19"
 }
