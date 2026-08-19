@@ -215,10 +215,8 @@
       "mention_count": 1
     },
     "Google": {
-      "first_seen": "2026-07-06",
-      "mention_count": 3,
-      "last_seen": "2026-08-14",
-      "count": 1
+      "count": 2,
+      "last_seen": "2026-08-20"
     },
     "Commerce Department": {
       "first_seen": "2026-07-06",
@@ -363,9 +361,8 @@
       "count": 2
     },
     "SpaceX": {
-      "last_seen": "2026-08-05",
-      "count": 2,
-      "mention_count": 2
+      "count": 3,
+      "last_seen": "2026-08-20"
     },
     "Ollama": {
       "last_seen": "2026-07-10",
@@ -1159,8 +1156,8 @@
       "count": 1
     },
     "Arm": {
-      "last_seen": "2026-08-07",
-      "count": 1
+      "count": 2,
+      "last_seen": "2026-08-20"
     },
     "NVIDIA Vera": {
       "last_seen": "2026-08-07",
@@ -1436,8 +1433,8 @@
       "trend": "stable"
     },
     "Cerebras": {
-      "count": 1,
-      "last_seen": "2026-08-17"
+      "count": 2,
+      "last_seen": "2026-08-20"
     },
     "Stripe": {
       "count": 1,
@@ -1545,6 +1542,26 @@
     "github/spec-kit": {
       "last_seen": "2026-08-19",
       "count": 1
+    },
+    "Marvell": {
+      "count": 1,
+      "last_seen": "2026-08-20"
+    },
+    "Cognition": {
+      "count": 1,
+      "last_seen": "2026-08-20"
+    },
+    "Mercor": {
+      "count": 1,
+      "last_seen": "2026-08-20"
+    },
+    "TrueFoundry": {
+      "count": 1,
+      "last_seen": "2026-08-20"
+    },
+    "HydroGym": {
+      "count": 1,
+      "last_seen": "2026-08-20"
     }
   },
   "2026-08-09": [
@@ -1667,5 +1684,6 @@
     "Hugging Face",
     "Snowflake",
     "github/spec-kit"
-  ]
+  ],
+  "last_updated": "2026-08-20"
 }

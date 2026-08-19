@@ -551,8 +551,20 @@
       "last_updated": "2026-08-19",
       "strength": "medium",
       "description": "Etched $700M at $21B valuation, first delivery to Jane Street"
+    },
+    "custom_silicon_multi_front_war": {
+      "level": "strong",
+      "first_seen": "2026-08-20"
+    },
+    "ai_capital_stack_consolidation": {
+      "level": "strong",
+      "first_seen": "2026-08-20"
+    },
+    "agent_scale_economics": {
+      "level": "medium",
+      "first_seen": "2026-08-20"
     }
   },
-  "last_updated": "2026-08-19",
+  "last_updated": "2026-08-20",
   "updated": "2026-08-19"
 }
