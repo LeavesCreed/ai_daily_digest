@@ -1685,5 +1685,28 @@
     "Snowflake",
     "github/spec-kit"
   ],
-  "last_updated": "2026-08-20"
+  "last_updated": "2026-08-20",
+  "2026-08-21": [
+    "Anthropic Model 2",
+    "Mythos 5",
+    "AECI",
+    "FY2026 NDAA",
+    "CRS",
+    "JetBrains Developer Ecosystem Survey",
+    "Claude Code",
+    "Codex",
+    "GitHub Copilot",
+    "SK hynix",
+    "Co-Packaged Optics",
+    "Nature Electronics",
+    "University of Virginia",
+    "Ramp",
+    "Router.com",
+    "SpaceXAI",
+    "Grok",
+    "University of Essex",
+    "Intrabodies",
+    "OmniRoute",
+    "Nature Communications"
+  ]
 }
