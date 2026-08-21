@@ -326,9 +326,11 @@
       "note": "OpenAI/Anthropic escape incidents raise unresolved legal liability questions"
     },
     "orbital_ai_compute": {
-      "strength": "emerging",
-      "first_seen": "2026-08-05",
-      "last_seen": "2026-08-05"
+      "last_updated": "2026-08-22",
+      "strength": "medium",
+      "description": "Starcloud $250M for orbital data center constellation with NVIDIA Space-1 Vera Rubin (25x H100)",
+      "status": "growing",
+      "first_seen": "2026-08-22"
     },
     "ai_power_bottleneck": {
       "strength": "strong",
@@ -563,6 +565,20 @@
     "agent_scale_economics": {
       "level": "medium",
       "first_seen": "2026-08-20"
+    },
+    "harness_layer_differentiation": {
+      "last_updated": "2026-08-22",
+      "strength": "strong",
+      "description": "NVIDIA ARC-AGI-3 100% via custom harness + $7B Poolside Model Factory deal; orchestration stack becomes differentiator",
+      "status": "emerging",
+      "first_seen": "2026-08-22"
+    },
+    "multimodal_expansion_chinese_labs": {
+      "last_updated": "2026-08-22",
+      "strength": "medium",
+      "description": "DeepSeek-V4-Flash-Vision-Exp extends Chinese labs cost advantage into vision modality",
+      "status": "emerging",
+      "first_seen": "2026-08-22"
     }
   },
   "last_updated": "2026-08-21",

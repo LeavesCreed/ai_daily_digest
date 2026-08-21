@@ -65,8 +65,8 @@
       "appearances": 1
     },
     "NVIDIA": {
-      "last_seen": "2026-08-14",
-      "count": 5,
+      "last_seen": "2026-08-22",
+      "count": 6,
       "mentions": 1,
       "mention_count": 3
     },
@@ -79,8 +79,8 @@
       "count": 1
     },
     "DeepSeek": {
-      "last_seen": "2026-08-14",
-      "count": 4,
+      "last_seen": "2026-08-22",
+      "count": 5,
       "mention_count": 1
     },
     "Etched": {
@@ -1562,6 +1562,34 @@
     "HydroGym": {
       "count": 1,
       "last_seen": "2026-08-20"
+    },
+    "DeepSeek-V4-Flash-Vision-Exp": {
+      "last_seen": "2026-08-22",
+      "count": 1
+    },
+    "Poolside AI": {
+      "last_seen": "2026-08-22",
+      "count": 1
+    },
+    "Starcloud": {
+      "last_seen": "2026-08-22",
+      "count": 1
+    },
+    "NVIDIA Space-1": {
+      "last_seen": "2026-08-22",
+      "count": 1
+    },
+    "Cloverleaf Infrastructure": {
+      "last_seen": "2026-08-22",
+      "count": 1
+    },
+    "ARC-AGI-3": {
+      "last_seen": "2026-08-22",
+      "count": 1
+    },
+    "Anthropic Fellows Program": {
+      "last_seen": "2026-08-22",
+      "count": 1
     }
   },
   "2026-08-09": [
