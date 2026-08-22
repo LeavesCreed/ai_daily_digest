@@ -579,8 +579,24 @@
       "description": "DeepSeek-V4-Flash-Vision-Exp extends Chinese labs cost advantage into vision modality",
       "status": "emerging",
       "first_seen": "2026-08-22"
+    },
+    "anonymous_stealth_model_launches": {
+      "strength": "medium",
+      "first_seen": "2026-08-23"
+    },
+    "memory_chip_bottleneck": {
+      "strength": "strong",
+      "first_seen": "2026-08-23"
+    },
+    "reverse_federalism_ai_governance": {
+      "strength": "medium",
+      "first_seen": "2026-08-23"
+    },
+    "agent_harness_over_model_size": {
+      "strength": "medium",
+      "first_seen": "2026-08-23"
     }
   },
   "last_updated": "2026-08-21",
-  "updated": "2026-08-21"
+  "updated": "2026-08-23"
 }
