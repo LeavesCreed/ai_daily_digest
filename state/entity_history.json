@@ -7,8 +7,8 @@
       "mention_count": 3
     },
     "Anthropic": {
-      "last_seen": "2026-08-14",
-      "count": 13,
+      "last_seen": "2026-08-24",
+      "count": 14,
       "mention_count": 3,
       "appearances": 2,
       "mentions": 1
@@ -65,8 +65,8 @@
       "appearances": 1
     },
     "NVIDIA": {
-      "last_seen": "2026-08-22",
-      "count": 6,
+      "last_seen": "2026-08-24",
+      "count": 7,
       "mentions": 1,
       "mention_count": 3
     },
@@ -551,8 +551,8 @@
       "count": 3
     },
     "Alphabet": {
-      "last_seen": "2026-07-23",
-      "count": 2
+      "last_seen": "2026-08-24",
+      "count": 3
     },
     "UC Berkeley": {
       "last_seen": "2026-07-17",
@@ -1392,8 +1392,8 @@
       "first_seen": "2026-08-15",
       "mention_count": 1,
       "trend": "stable",
-      "count": 2,
-      "last_seen": "2026-08-17"
+      "count": 3,
+      "last_seen": "2026-08-24"
     },
     "Qwen": {
       "first_seen": "2026-08-15",
@@ -1621,6 +1621,51 @@
     },
     "Patrick Collison": {
       "first_seen": "2026-08-23",
+      "count": 1
+    },
+    "Rebellions": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "Aramco": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "Guangdong": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "d-Matrix": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "Snyk": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "Manoj Nair": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "FreeToken": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "Hot Chips 2026": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "Waymo": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
       "count": 1
     }
   },

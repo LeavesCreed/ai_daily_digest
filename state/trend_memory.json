@@ -595,6 +595,21 @@
     "agent_harness_over_model_size": {
       "strength": "medium",
       "first_seen": "2026-08-23"
+    },
+    "ai_hardware_consolidation": {
+      "status": "strong",
+      "first_seen": "2026-08-24",
+      "note": "NVIDIA收购Poolside+洽谈Rebellions+投资Mercor，算力全栈整合加速"
+    },
+    "ai_native_supply_chain_security": {
+      "status": "medium",
+      "first_seen": "2026-08-24",
+      "note": "Slopsquatting幻觉包投毒成为AI原生供应链新攻击面"
+    },
+    "inference_architecture_divergence": {
+      "status": "medium",
+      "first_seen": "2026-08-24",
+      "note": "d-Matrix 3D-DRAM内存带宽优先路线 vs 通用GPU路线分化"
     }
   },
   "last_updated": "2026-08-21",
