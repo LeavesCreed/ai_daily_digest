@@ -610,8 +610,28 @@
       "status": "medium",
       "first_seen": "2026-08-24",
       "note": "d-Matrix 3D-DRAM内存带宽优先路线 vs 通用GPU路线分化"
+    },
+    "ai_distribution_layer_financialization": {
+      "status": "strong",
+      "first_seen": "2026-08-25",
+      "note": "Hugging Face ~$13B sale exploration after Stripe-OpenRouter $8B"
+    },
+    "domain_specific_llm_economics": {
+      "status": "emerging",
+      "first_seen": "2026-08-25",
+      "note": "Thomson Reuters $40M legal LLM vs frontier billions"
+    },
+    "state_level_ai_enforcement": {
+      "status": "emerging",
+      "first_seen": "2026-08-25",
+      "note": "15 state AGs investigate OpenAI Hugging Face breach"
+    },
+    "on_device_ai_margin_strategy": {
+      "status": "emerging",
+      "first_seen": "2026-08-25",
+      "note": "Xiaomi Xring NPU shifts inference cost off-cloud"
     }
   },
   "last_updated": "2026-08-21",
-  "updated": "2026-08-23"
+  "updated": "2026-08-25"
 }
