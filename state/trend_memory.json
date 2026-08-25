@@ -630,6 +630,16 @@
       "status": "emerging",
       "first_seen": "2026-08-25",
       "note": "Xiaomi Xring NPU shifts inference cost off-cloud"
+    },
+    "local_ai_practicality_threshold": {
+      "level": "rising",
+      "note": "Apple M6/M5 Ultra, Perplexity Portable Computer, Poolside local-first weights signal on-device agentic AI crossing from hobbyist to production",
+      "last_updated": "2026-08-26"
+    },
+    "agent_governance_priced_in": {
+      "level": "rising",
+      "note": "UK AISI rogue-agent report + Anthropic naming AI backlash as IPO risk factor",
+      "last_updated": "2026-08-26"
     }
   },
   "last_updated": "2026-08-21",

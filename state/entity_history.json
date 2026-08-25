@@ -7,8 +7,8 @@
       "mention_count": 3
     },
     "Anthropic": {
-      "last_seen": "2026-08-24",
-      "count": 14,
+      "last_seen": "2026-08-26",
+      "count": 15,
       "mention_count": 3,
       "appearances": 2,
       "mentions": 1
@@ -436,8 +436,8 @@
       "count": 1
     },
     "Apple": {
-      "last_seen": "2026-07-13",
-      "count": 2,
+      "last_seen": "2026-08-26",
+      "count": 3,
       "mention_count": 1
     },
     "Zhipu AI": {
@@ -1109,8 +1109,9 @@
     },
     "Vera Rubin": {
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-05",
-      "mention_count": 1
+      "last_seen": "2026-08-26",
+      "mention_count": 1,
+      "count": 2
     },
     "Starmind": {
       "first_seen": "2026-08-05",
@@ -1219,7 +1220,8 @@
     },
     "Lancium": {
       "first_seen": "2026-08-09",
-      "count": 1
+      "count": 2,
+      "last_seen": "2026-08-26"
     },
     "Stargate": {
       "first_seen": "2026-08-09",
@@ -1430,7 +1432,9 @@
     "UK AISI": {
       "first_seen": "2026-08-15",
       "mention_count": 1,
-      "trend": "stable"
+      "trend": "stable",
+      "last_seen": "2026-08-26",
+      "count": 2
     },
     "Cerebras": {
       "count": 2,
@@ -1691,12 +1695,49 @@
     "Perplexity": {
       "first_seen": "2026-08-25",
       "mentions": 1,
-      "strength": "emerging"
+      "strength": "emerging",
+      "last_seen": "2026-08-26",
+      "count": 2
     },
     "Ray": {
       "first_seen": "2026-08-25",
       "mentions": 1,
       "strength": "emerging"
+    },
+    "M6": {
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "count": 1
+    },
+    "M5 Ultra": {
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "count": 1
+    },
+    "Henry de Zoete": {
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "count": 1
+    },
+    "Poolside": {
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "count": 1
+    },
+    "Laguna S 2.1": {
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "count": 1
+    },
+    "Portable Computer": {
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "count": 1
+    },
+    "AM Intelligence": {
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "count": 1
     }
   },
   "2026-08-09": [
