@@ -109,7 +109,9 @@
     },
     "ai_infrastructure_financialization": {
       "level": "strong",
-      "note": "NVIDIA-Brookfield-Naver $10B alliance; chip vendors integrating capital and power"
+      "note": "NVIDIA-Brookfield-Naver $10B alliance; chip vendors integrating capital and power",
+      "strength": "strong",
+      "last_updated": "2026-08-27"
     },
     "ai_export_geopolitics": {
       "last_updated": "2026-07-12",
@@ -640,8 +642,26 @@
       "level": "rising",
       "note": "UK AISI rogue-agent report + Anthropic naming AI backlash as IPO risk factor",
       "last_updated": "2026-08-26"
+    },
+    "compute_capital_as_new_moat": {
+      "first_seen": "2026-08-27",
+      "last_updated": "2026-08-27",
+      "strength": "strong",
+      "description": "Anthropic $45B Nscale deal plus $10B Volta/$5B AMD; NVIDIA balance-sheet-as-a-service ($36B agreements, 1-yr terms); frontier competition shifting from architecture to capital allocation and compute supply chains"
+    },
+    "open_weight_us_cloud_distribution": {
+      "first_seen": "2026-08-27",
+      "last_updated": "2026-08-27",
+      "strength": "medium",
+      "description": "Moonshot negotiating Kimi K3 revenue-sharing (up to 30%) with Azure/AWS/Google Cloud; Chinese open-weight models monetizing US cloud distribution ahead of IPO"
+    },
+    "ai_runtime_attestation_standard": {
+      "first_seen": "2026-08-27",
+      "last_updated": "2026-08-27",
+      "strength": "medium",
+      "description": "Linux Foundation TRACE open standard for hardware-attested AI agent governance records, backed by AMD/Intel/Microsoft; auditability of agentic workloads becoming infrastructure"
     }
   },
-  "last_updated": "2026-08-21",
-  "updated": "2026-08-25"
+  "last_updated": "2026-08-27",
+  "updated": "2026-08-27"
 }

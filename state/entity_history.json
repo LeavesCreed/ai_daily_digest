@@ -573,9 +573,10 @@
       "appearances": 2
     },
     "Kimi K3": {
-      "last_seen": "2026-08-19",
-      "count": 6,
-      "description": "2.8T open-weight model, demand crush"
+      "last_seen": "2026-08-27",
+      "count": 7,
+      "description": "2.8T open-weight model, demand crush",
+      "mention_count": 1
     },
     "Yang Zhilin": {
       "last_seen": "2026-07-18",
@@ -1109,9 +1110,9 @@
     },
     "Vera Rubin": {
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-26",
-      "mention_count": 1,
-      "count": 2
+      "last_seen": "2026-08-27",
+      "mention_count": 2,
+      "count": 3
     },
     "Starmind": {
       "first_seen": "2026-08-05",
@@ -1378,10 +1379,10 @@
     },
     "Z.ai": {
       "first_seen": "2026-08-15",
-      "mention_count": 1,
+      "mention_count": 2,
       "trend": "stable",
-      "count": 2,
-      "last_seen": "2026-08-19"
+      "count": 3,
+      "last_seen": "2026-08-27"
     },
     "GLM-5.3": {
       "first_seen": "2026-08-15",
@@ -1597,7 +1598,9 @@
     },
     "Ox Alpha": {
       "first_seen": "2026-08-23",
-      "count": 1
+      "count": 2,
+      "last_seen": "2026-08-27",
+      "mention_count": 1
     },
     "Guidelight": {
       "first_seen": "2026-08-23",
@@ -1738,6 +1741,36 @@
       "first_seen": "2026-08-26",
       "last_seen": "2026-08-26",
       "count": 1
+    },
+    "Nscale": {
+      "last_seen": "2026-08-27",
+      "count": 1,
+      "appearances": 1,
+      "mention_count": 1
+    },
+    "TRACE": {
+      "last_seen": "2026-08-27",
+      "count": 1,
+      "appearances": 1,
+      "mention_count": 1
+    },
+    "Linux Foundation": {
+      "last_seen": "2026-08-27",
+      "count": 1,
+      "appearances": 1,
+      "mention_count": 1
+    },
+    "Nature Human Behaviour": {
+      "last_seen": "2026-08-27",
+      "count": 1,
+      "appearances": 1,
+      "mention_count": 1
+    },
+    "Moonshot": {
+      "last_seen": "2026-08-27",
+      "count": 1,
+      "appearances": 1,
+      "mention_count": 1
     }
   },
   "2026-08-09": [
@@ -1842,7 +1875,7 @@
     "count": 1,
     "last_seen": "2026-08-16"
   },
-  "updated": "2026-08-23",
+  "updated": "2026-08-27",
   "2026-08-19": [
     "OpenAI",
     "Astra",
@@ -1861,7 +1894,7 @@
     "Snowflake",
     "github/spec-kit"
   ],
-  "last_updated": "2026-08-25",
+  "last_updated": "2026-08-27",
   "2026-08-21": [
     "Anthropic Model 2",
     "Mythos 5",
