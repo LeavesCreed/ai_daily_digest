@@ -660,6 +660,21 @@
       "last_updated": "2026-08-27",
       "strength": "medium",
       "description": "Linux Foundation TRACE open standard for hardware-attested AI agent governance records, backed by AMD/Intel/Microsoft; auditability of agentic workloads becoming infrastructure"
+    },
+    "ai_assisted_cybercrime": {
+      "level": "strong",
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "ai_infrastructure_capital_wave": {
+      "level": "strong",
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "flash_model_race_acceleration": {
+      "level": "medium",
+      "first_seen": "2026-08-28",
+      "count": 1
     }
   },
   "last_updated": "2026-08-27",

@@ -8,7 +8,7 @@
     },
     "Anthropic": {
       "last_seen": "2026-08-26",
-      "count": 15,
+      "count": 16,
       "mention_count": 3,
       "appearances": 2,
       "mentions": 1
@@ -66,7 +66,7 @@
     },
     "NVIDIA": {
       "last_seen": "2026-08-24",
-      "count": 7,
+      "count": 8,
       "mentions": 1,
       "mention_count": 3
     },
@@ -966,7 +966,7 @@
     },
     "Amazon AWS": {
       "first_seen": "2026-08-01",
-      "count": 1
+      "count": 2
     },
     "codex-security": {
       "first_seen": "2026-08-01",
@@ -1771,6 +1771,42 @@
       "count": 1,
       "appearances": 1,
       "mention_count": 1
+    },
+    "SpaceX Cursor": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "Gemini 3.8 Flash": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "Gambit Security": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "GM": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "HHMI Janelia": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "Zama": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "Umbra": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "Revolut": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "Instinct": {
+      "first_seen": "2026-08-28",
+      "count": 1
     }
   },
   "2026-08-09": [
