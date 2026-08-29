@@ -1,1992 +1,2054 @@
 {
- "entities": {
-  "OpenAI": {
-   "last_seen": "2026-08-19",
-   "count": 11,
-   "appearances": 1,
-   "mention_count": 3
+  "entities": {
+    "OpenAI": {
+      "last_seen": "2026-08-30",
+      "count": 12,
+      "appearances": 1,
+      "mention_count": 3
+    },
+    "Anthropic": {
+      "last_seen": "2026-08-30",
+      "count": 17,
+      "mention_count": 3,
+      "appearances": 2,
+      "mentions": 1
+    },
+    "Meta": {
+      "last_seen": "2026-08-12",
+      "count": 7,
+      "appearances": 2,
+      "mentions": 1
+    },
+    "Together AI": {
+      "last_seen": "2026-08-14",
+      "count": 2,
+      "mention_count": 1
+    },
+    "MGX": {
+      "last_seen": "2026-07-02",
+      "count": 1
+    },
+    "UN": {
+      "last_seen": "2026-07-08",
+      "count": 2
+    },
+    "FTC": {
+      "last_seen": "2026-07-03",
+      "count": 2
+    },
+    "Yoshua Bengio": {
+      "last_seen": "2026-07-04",
+      "count": 2
+    },
+    "Broadcom": {
+      "last_seen": "2026-08-10",
+      "count": 3,
+      "appearances": 1
+    },
+    "Trump administration": {
+      "last_seen": "2026-07-23",
+      "count": 7
+    },
+    "GPT-5.6": {
+      "last_seen": "2026-07-09",
+      "count": 3
+    },
+    "Samsung": {
+      "last_seen": "2026-08-01",
+      "count": 4,
+      "mention_count": 1
+    },
+    "SK Hynix": {
+      "last_seen": "2026-08-08",
+      "count": 5,
+      "mention_count": 1,
+      "appearances": 1
+    },
+    "NVIDIA": {
+      "last_seen": "2026-08-24",
+      "count": 8,
+      "mentions": 1,
+      "mention_count": 3
+    },
+    "Huawei": {
+      "last_seen": "2026-06-30",
+      "count": 1
+    },
+    "South Korea": {
+      "last_seen": "2026-06-30",
+      "count": 1
+    },
+    "DeepSeek": {
+      "last_seen": "2026-08-22",
+      "count": 5,
+      "mention_count": 1
+    },
+    "Etched": {
+      "last_seen": "2026-08-19",
+      "count": 2
+    },
+    "Vinod Khosla": {
+      "last_seen": "2026-07-01",
+      "count": 1
+    },
+    "BIS": {
+      "last_seen": "2026-07-01",
+      "count": 1
+    },
+    "Michael Burry": {
+      "last_seen": "2026-07-01",
+      "count": 1
+    },
+    "Claude Code": {
+      "last_seen": "2026-07-02",
+      "count": 1
+    },
+    "Jeff Bezos": {
+      "last_seen": "2026-07-03",
+      "count": 1
+    },
+    "Prometheus": {
+      "last_seen": "2026-07-03",
+      "count": 1
+    },
+    "Supreme Court": {
+      "last_seen": "2026-07-03",
+      "count": 1
+    },
+    "arXiv": {
+      "last_seen": "2026-07-03",
+      "count": 1
+    },
+    "Meta Watermelon": {
+      "last_seen": "2026-07-04",
+      "count": 1
+    },
+    "Alexandr Wang": {
+      "last_seen": "2026-07-08",
+      "count": 2
+    },
+    "UN AI Governance": {
+      "last_seen": "2026-07-04",
+      "count": 1
+    },
+    "PagerDuty": {
+      "last_seen": "2026-07-04",
+      "count": 1
+    },
+    "Jenn Tejada": {
+      "last_seen": "2026-07-04",
+      "count": 1
+    },
+    "Godot Foundation": {
+      "last_seen": "2026-07-04",
+      "count": 1,
+      "mention_count": 1
+    },
+    "FCA": {
+      "last_seen": "2026-07-04",
+      "count": 1
+    },
+    "ECB Lagarde": {
+      "last_seen": "2026-07-04",
+      "count": 1
+    },
+    "BoE Breeden": {
+      "last_seen": "2026-07-04",
+      "count": 1
+    },
+    "BNP Paribas": {
+      "last_seen": "2026-07-04",
+      "count": 1
+    },
+    "Maria Ressa": {
+      "last_seen": "2026-07-04",
+      "count": 1
+    },
+    "PJM Interconnection": {
+      "last_seen": "2026-07-21",
+      "count": 2
+    },
+    "Department of Energy": {
+      "last_seen": "2026-07-05",
+      "count": 1
+    },
+    "Alex Karp": {
+      "last_seen": "2026-07-05",
+      "count": 1
+    },
+    "Palantir": {
+      "last_seen": "2026-07-05",
+      "count": 1
+    },
+    "Foxconn": {
+      "last_seen": "2026-07-05",
+      "count": 1
+    },
+    "Hon Hai": {
+      "last_seen": "2026-07-05",
+      "count": 1
+    },
+    "NVIDIA ASPIRE": {
+      "last_seen": "2026-07-05",
+      "count": 1
+    },
+    "WebBrain": {
+      "last_seen": "2026-07-05",
+      "count": 1
+    },
+    "Oracle Stargate": {
+      "last_seen": "2026-07-05",
+      "count": 1
+    },
+    "SK Telecom": {
+      "first_seen": "2026-07-06",
+      "mention_count": 1
+    },
+    "Microsoft": {
+      "first_seen": "2026-07-06",
+      "mention_count": 1,
+      "last_seen": "2026-08-30",
+      "count": 3
+    },
+    "Amazon": {
+      "first_seen": "2026-07-06",
+      "mention_count": 1
+    },
+    "Google": {
+      "count": 2,
+      "last_seen": "2026-08-20"
+    },
+    "Commerce Department": {
+      "first_seen": "2026-07-06",
+      "mention_count": 1,
+      "last_seen": "2026-07-12",
+      "count": 2
+    },
+    "Howard Lutnick": {
+      "first_seen": "2026-07-06",
+      "mention_count": 1
+    },
+    "Glasswing": {
+      "first_seen": "2026-07-06",
+      "mention_count": 1
+    },
+    "Nous Research": {
+      "first_seen": "2026-07-06",
+      "mention_count": 1
+    },
+    "HBM": {
+      "first_seen": "2026-07-06",
+      "mention_count": 1
+    },
+    "Micron": {
+      "first_seen": "2026-07-06",
+      "mention_count": 1
+    },
+    "Illinois": {
+      "last_seen": "2026-07-07",
+      "count": 1
+    },
+    "JB Pritzker": {
+      "last_seen": "2026-07-07",
+      "count": 1
+    },
+    "Sam Altman": {
+      "last_seen": "2026-07-07",
+      "count": 1
+    },
+    "SemiAnalysis": {
+      "last_seen": "2026-07-07",
+      "count": 1
+    },
+    "SK Group": {
+      "last_seen": "2026-07-07",
+      "count": 1
+    },
+    "Sysdig": {
+      "last_seen": "2026-07-07",
+      "count": 1
+    },
+    "JadePuffer": {
+      "last_seen": "2026-07-07",
+      "count": 1
+    },
+    "NVIDIA Research": {
+      "last_seen": "2026-07-07",
+      "count": 1
+    },
+    "ASPIRE": {
+      "last_seen": "2026-07-07",
+      "count": 1
+    },
+    "NousResearch": {
+      "last_seen": "2026-07-07",
+      "count": 1
+    },
+    "Hermes Agent": {
+      "last_seen": "2026-07-07",
+      "count": 1
+    },
+    "Kyber NVL144": {
+      "last_seen": "2026-07-07",
+      "count": 1
+    },
+    "Rubin Ultra": {
+      "last_seen": "2026-07-07",
+      "count": 1
+    },
+    "Mustafa Suleyman": {
+      "last_seen": "2026-07-08",
+      "count": 1
+    },
+    "EU Commission": {
+      "last_seen": "2026-07-08",
+      "count": 1
+    },
+    "Future of Life Institute": {
+      "last_seen": "2026-07-08",
+      "count": 1
+    },
+    "Antonio Guterres": {
+      "last_seen": "2026-07-08",
+      "count": 1
+    },
+    "ICML": {
+      "last_seen": "2026-07-08",
+      "count": 1
+    },
+    "NVIDIA Nemotron": {
+      "last_seen": "2026-07-08",
+      "count": 1
+    },
+    "SpaceXAI": {
+      "last_seen": "2026-07-09",
+      "count": 1
+    },
+    "Grok 4.5": {
+      "last_seen": "2026-07-09",
+      "count": 1
+    },
+    "SambaNova": {
+      "last_seen": "2026-07-18",
+      "count": 2
+    },
+    "Prime Intellect": {
+      "last_seen": "2026-07-09",
+      "count": 1
+    },
+    "JPMorgan Chase": {
+      "last_seen": "2026-07-09",
+      "count": 1
+    },
+    "General Atlantic": {
+      "last_seen": "2026-07-09",
+      "count": 1
+    },
+    "Radical Ventures": {
+      "last_seen": "2026-07-09",
+      "count": 1
+    },
+    "Sturgeon County": {
+      "last_seen": "2026-07-09",
+      "count": 1
+    },
+    "Alberta": {
+      "last_seen": "2026-07-09",
+      "count": 1
+    },
+    "mattpocock/skills": {
+      "last_seen": "2026-07-20",
+      "count": 2
+    },
+    "SpaceX": {
+      "count": 4,
+      "last_seen": "2026-08-30"
+    },
+    "Ollama": {
+      "last_seen": "2026-07-10",
+      "count": 1
+    },
+    "PitchBook": {
+      "last_seen": "2026-07-10",
+      "count": 1
+    },
+    "Harvard": {
+      "last_seen": "2026-07-10",
+      "count": 1
+    },
+    "CAA": {
+      "last_seen": "2026-07-10",
+      "count": 1
+    },
+    "TSMC": {
+      "first_seen": "2026-07-11",
+      "appearances": 1,
+      "last_seen": "2026-08-12",
+      "count": 2
+    },
+    "Qualcomm": {
+      "first_seen": "2026-07-11",
+      "appearances": 1
+    },
+    "Modular": {
+      "first_seen": "2026-07-11",
+      "appearances": 1
+    },
+    "Hugging Face": {
+      "first_seen": "2026-07-11",
+      "appearances": 1,
+      "last_seen": "2026-08-30",
+      "count": 5,
+      "mentions": 1
+    },
+    "Ed Markey": {
+      "first_seen": "2026-07-11",
+      "appearances": 1
+    },
+    "Fidji Simo": {
+      "first_seen": "2026-07-11",
+      "appearances": 1
+    },
+    "Kwak Noh-jung": {
+      "first_seen": "2026-07-11",
+      "appearances": 1
+    },
+    "Durga Malladi": {
+      "first_seen": "2026-07-11",
+      "appearances": 1
+    },
+    "TeraWulf": {
+      "first_seen": "2026-07-11",
+      "appearances": 2,
+      "last_seen": "2026-07-20",
+      "count": 2
+    },
+    "Nature Biomedical Engineering": {
+      "first_seen": "2026-07-11",
+      "appearances": 1
+    },
+    "BofA Securities": {
+      "first_seen": "2026-07-11",
+      "appearances": 1
+    },
+    "Meta (Muse Image)": {
+      "last_seen": "2026-07-12",
+      "count": 1
+    },
+    "Apple": {
+      "last_seen": "2026-08-26",
+      "count": 3,
+      "mention_count": 1
+    },
+    "Zhipu AI": {
+      "last_seen": "2026-07-13",
+      "count": 1,
+      "appearances": 1
+    },
+    "Goldman Sachs": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "GLM-5.2": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "ByteDance": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "Morgan Stanley": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "Chang Liu": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "Tang Yew Tan": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "SAG-AFTRA": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "Hannah Einbinder": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "Meta Superintelligence Labs": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "Anima Anandkumar": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "Nature Machine Intelligence": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "Neural Operator": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "Thomas Dohmke": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "Entire": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "Madrona": {
+      "last_seen": "2026-07-13",
+      "count": 1
+    },
+    "Tencent": {
+      "last_seen": "2026-07-14",
+      "count": 1
+    },
+    "Hy3": {
+      "last_seen": "2026-07-14",
+      "count": 1
+    },
+    "Meta (Hyperion)": {
+      "last_seen": "2026-07-14",
+      "count": 1
+    },
+    "Intel": {
+      "last_seen": "2026-08-14",
+      "count": 3,
+      "mention_count": 1
+    },
+    "University of Illinois": {
+      "last_seen": "2026-07-14",
+      "count": 1
+    },
+    "Apple (MacBook pricing)": {
+      "last_seen": "2026-07-14",
+      "count": 1
+    },
+    "JP Morgan": {
+      "last_seen": "2026-07-14",
+      "count": 1
+    },
+    "Demis Hassabis": {
+      "last_seen": "2026-07-17",
+      "count": 2
+    },
+    "Dario Amodei": {
+      "last_seen": "2026-07-17",
+      "count": 1
+    },
+    "GPT-Red": {
+      "last_seen": "2026-07-17",
+      "count": 1
+    },
+    "Google DeepMind": {
+      "last_seen": "2026-08-07",
+      "count": 3
+    },
+    "Alphabet": {
+      "last_seen": "2026-08-24",
+      "count": 3
+    },
+    "UC Berkeley": {
+      "last_seen": "2026-07-17",
+      "count": 1
+    },
+    "Innovative Genomics Institute": {
+      "last_seen": "2026-07-17",
+      "count": 1
+    },
+    "Nutlope": {
+      "last_seen": "2026-07-17",
+      "count": 1
+    },
+    "Moonshot AI": {
+      "last_seen": "2026-08-19",
+      "count": 10,
+      "description": "Kimi K3 launched, 0B IPO",
+      "appearances": 2
+    },
+    "Kimi K3": {
+      "last_seen": "2026-08-27",
+      "count": 7,
+      "description": "2.8T open-weight model, demand crush",
+      "mention_count": 1
+    },
+    "Yang Zhilin": {
+      "last_seen": "2026-07-18",
+      "count": 1
+    },
+    "General Compute": {
+      "last_seen": "2026-07-18",
+      "count": 1
+    },
+    "Upper90": {
+      "last_seen": "2026-07-18",
+      "count": 1
+    },
+    "Finn Puklowski": {
+      "last_seen": "2026-07-18",
+      "count": 1
+    },
+    "Billy Libby": {
+      "last_seen": "2026-07-18",
+      "count": 1
+    },
+    "Politico AI Safety Factions": {
+      "last_seen": "2026-07-18",
+      "count": 1
+    },
+    "Nate Soares": {
+      "last_seen": "2026-07-18",
+      "count": 1
+    },
+    "Dean Ball": {
+      "last_seen": "2026-07-18",
+      "count": 1
+    },
+    "Xi Jinping": {
+      "last_seen": "2026-07-18",
+      "count": 1
+    },
+    "Anastasios Angelopoulos": {
+      "last_seen": "2026-07-19",
+      "count": 1
+    },
+    "David Sacks": {
+      "last_seen": "2026-07-19",
+      "count": 1
+    },
+    "Meta (Cloud)": {
+      "last_seen": "2026-07-19",
+      "count": 1
+    },
+    "OpenRouter": {
+      "last_seen": "2026-08-17",
+      "count": 3
+    },
+    "XPeng": {
+      "last_seen": "2026-07-19",
+      "count": 1
+    },
+    "He Xiaopeng": {
+      "last_seen": "2026-07-19",
+      "count": 1
+    },
+    "xAI": {
+      "last_seen": "2026-07-20",
+      "count": 1,
+      "description": "$1.25B/month Colossus compute to Anthropic"
+    },
+    "Fluidstack": {
+      "last_seen": "2026-07-20",
+      "count": 1,
+      "description": "$50B custom AI facilities"
+    },
+    "Netflix": {
+      "last_seen": "2026-08-17",
+      "count": 2,
+      "description": "Acquired InterPositive for $587M"
+    },
+    "InterPositive": {
+      "last_seen": "2026-07-20",
+      "count": 1,
+      "description": "Ben Affleck AI filmmaking startup"
+    },
+    "Noetra": {
+      "last_seen": "2026-07-20",
+      "count": 1,
+      "description": "Japan national AI factory, 44 companies"
+    },
+    "SoftBank": {
+      "last_seen": "2026-07-20",
+      "count": 1
+    },
+    "Sony": {
+      "last_seen": "2026-07-20",
+      "count": 1
+    },
+    "Honda": {
+      "last_seen": "2026-07-20",
+      "count": 1
+    },
+    "NEC": {
+      "last_seen": "2026-07-20",
+      "count": 1
+    },
+    "Hemispheric": {
+      "last_seen": "2026-07-20",
+      "count": 1,
+      "description": "Brain activity decoding AI, $52M raised"
+    },
+    "Hut 8": {
+      "last_seen": "2026-07-21",
+      "count": 1,
+      "description": "Bitcoin miner turned AI infra"
+    },
+    "01.ai": {
+      "last_seen": "2026-07-21",
+      "count": 1,
+      "description": "Kai-Fu Lee AI startup, 2027 IPO"
+    },
+    "Kai-Fu Lee": {
+      "last_seen": "2026-07-21",
+      "count": 1
+    },
+    "Sergey Stavisky": {
+      "last_seen": "2026-07-21",
+      "count": 1,
+      "description": "BCI speech restoration prize"
+    },
+    "Sightline Climate": {
+      "last_seen": "2026-07-21",
+      "count": 1
+    },
+    "2026-07-22": [
+      "Nvidia Vera",
+      "AMD Helios",
+      "Jack Dorsey",
+      "Buzz"
+    ],
+    "Google Cloud": {
+      "last_seen": "2026-07-23",
+      "count": 1,
+      "appearances": 1
+    },
+    "NSA": {
+      "last_seen": "2026-07-23",
+      "count": 1,
+      "appearances": 1
+    },
+    "NIST": {
+      "last_seen": "2026-07-23",
+      "count": 1,
+      "appearances": 1
+    },
+    "Senator Mark Warner": {
+      "last_seen": "2026-07-23",
+      "count": 1,
+      "appearances": 1
+    },
+    "AMD": {
+      "last_seen": "2026-07-24",
+      "count": 3,
+      "appearances": 1
+    },
+    "Michael Kratsios": {
+      "last_seen": "2026-07-24",
+      "count": 1
+    },
+    "Dmitry Rybin": {
+      "last_seen": "2026-07-24",
+      "count": 1
+    },
+    "Autokernel": {
+      "last_seen": "2026-07-24",
+      "count": 1
+    },
+    "Claude Opus 5": {
+      "last_seen": "2026-08-19",
+      "count": 2
+    },
+    "Runway": {
+      "last_seen": "2026-07-25",
+      "count": 1
+    },
+    "Lip-Bu Tan": {
+      "last_seen": "2026-07-25",
+      "count": 1
+    },
+    "Scott Bessent": {
+      "last_seen": "2026-07-25",
+      "count": 1
+    },
+    "Marius Hobbhahn": {
+      "last_seen": "2026-07-25",
+      "count": 1
+    },
+    "Apollo Research": {
+      "last_seen": "2026-07-27",
+      "count": 1
+    },
+    "SK Hynix ($500B Nvidia deal)": {
+      "last_seen": "2026-07-26",
+      "count": 1,
+      "description": "$500B memory supply deal with Nvidia"
+    },
+    "Samsung ($200B Broadcom deal)": {
+      "last_seen": "2026-07-26",
+      "count": 1,
+      "description": "$200B AI chip partnership with Broadcom"
+    },
+    "Broadcom (Samsung partnership)": {
+      "last_seen": "2026-07-26",
+      "count": 1,
+      "description": "$200B deal with Samsung for custom AI chips"
+    },
+    "DeepSeek (funding pause)": {
+      "last_seen": "2026-07-26",
+      "count": 1,
+      "description": "Second funding round suspended after viral posts"
+    },
+    "Lightcone Commons": {
+      "last_seen": "2026-07-26",
+      "count": 1,
+      "description": "AI safety philanthropy platform using S-Process algorithm"
+    },
+    "koala73/worldmonitor": {
+      "last_seen": "2026-07-27",
+      "count": 1,
+      "description": "Open-source real-time AI agent monitoring tool"
+    },
+    "Japan FRONTia project": {
+      "last_seen": "2026-07-26",
+      "count": 1,
+      "description": "National physical AI infrastructure project"
+    },
+    "Moonshot AI (Kimi K3 launch)": {
+      "last_seen": "2026-07-27",
+      "description": "Released Kimi K3 2.8T open-weight model on July 27"
+    },
+    "Skynet Day": {
+      "last_seen": "2026-07-27",
+      "description": "Industry shorthand for July 22 OpenAI agent escape incident"
+    },
+    "AMD-Anthropic $5B Deal": {
+      "last_seen": "2026-07-27",
+      "description": "AMD invests up to $5B, Anthropic deploys 2GW MI450 GPUs"
+    },
+    "ProteinMPNN": {
+      "last_seen": "2026-07-27",
+      "description": "Deep learning protein design used in Nature enzyme study"
+    },
+    "Nvidia Open Secure AI Alliance": {
+      "last_seen": "2026-07-28",
+      "count": 1,
+      "description": "Industry coalition for open AI security tools, 30+ members"
+    },
+    "Microsoft MAI-Cyber-1-Flash": {
+      "last_seen": "2026-07-28",
+      "count": 1,
+      "description": "First Microsoft cybersecurity-specialized model"
+    },
+    "Microsoft Perception": {
+      "last_seen": "2026-07-28",
+      "count": 1,
+      "description": "Agentic cybersecurity platform from Microsoft"
+    },
+    "Skynet Day (July 22)": {
+      "last_seen": "2026-07-28",
+      "count": 1,
+      "description": "Industry shorthand for July 22 OpenAI agent escape incident"
+    },
+    "MIT AI Risk Study": {
+      "last_seen": "2026-07-28",
+      "count": 1,
+      "description": "272 expert survey: 21.5% catastrophic risk by 2031"
+    },
+    "Core Scientific (AMD deal)": {
+      "last_seen": "2026-07-29",
+      "count": 1,
+      "description": "2.5 GW AI data center deal with AMD, $14B"
+    },
+    "AMD MI455X": {
+      "last_seen": "2026-07-29",
+      "count": 1,
+      "description": "AMD AI GPU deployed in Core Scientific data centers"
+    },
+    "AMD Helios": {
+      "last_seen": "2026-07-29",
+      "count": 1,
+      "description": "AMD rack-scale AI platform"
+    },
+    "DeepRare AI": {
+      "last_seen": "2026-07-29",
+      "count": 1,
+      "description": "SJTU multi-agent rare disease diagnosis system in Nature"
+    },
+    "Shanghai Jiao Tong University": {
+      "last_seen": "2026-07-29",
+      "count": 1,
+      "description": "Published DeepRare AI in Nature"
+    },
+    "Helen Toner": {
+      "last_seen": "2026-07-30",
+      "appearances": 1
+    },
+    "Pacing the Frontier": {
+      "last_seen": "2026-07-30",
+      "appearances": 1
+    },
+    "Modular/Mojo": {
+      "last_seen": "2026-07-30",
+      "appearances": 1
+    },
+    "Chris Lattner": {
+      "last_seen": "2026-07-30",
+      "appearances": 1
+    },
+    "AlphaFold": {
+      "last_seen": "2026-07-30",
+      "appearances": 1
+    },
+    "Muse Spark 1.1": {
+      "last_seen": "2026-07-31",
+      "count": 1,
+      "appearances": 1
+    },
+    "Gold Eagle": {
+      "last_seen": "2026-07-31",
+      "count": 1,
+      "appearances": 1
+    },
+    "AlphaAI": {
+      "last_seen": "2026-07-31",
+      "count": 1,
+      "appearances": 1
+    },
+    "Situational Awareness": {
+      "last_seen": "2026-08-10",
+      "count": 2,
+      "appearances": 1
+    },
+    "Leopold Aschenbrenner": {
+      "last_seen": "2026-07-31",
+      "count": 1,
+      "appearances": 1
+    },
+    "Openchip": {
+      "last_seen": "2026-07-31",
+      "count": 1,
+      "appearances": 1
+    },
+    "BER10": {
+      "last_seen": "2026-07-31",
+      "count": 1,
+      "appearances": 1
+    },
+    "ATOM Report": {
+      "last_seen": "2026-07-31",
+      "count": 1,
+      "appearances": 1
+    },
+    "Clem Delangue": {
+      "last_seen": "2026-07-31",
+      "count": 1,
+      "appearances": 1
+    },
+    "Greg Brockman": {
+      "last_seen": "2026-07-31",
+      "count": 1,
+      "appearances": 1
+    },
+    "Goldman Sachs AlphaAI": {
+      "last_seen": "2026-07-31",
+      "count": 1,
+      "appearances": 1
+    },
+    "DeepSeek V4 Flash": {
+      "first_seen": "2026-08-01",
+      "count": 1,
+      "mentions": 1,
+      "last_seen": "2026-08-02"
+    },
+    "MiniMax H3": {
+      "first_seen": "2026-08-01",
+      "count": 1
+    },
+    "ByteDance Seedance 2.5": {
+      "first_seen": "2026-08-01",
+      "count": 1
+    },
+    "Amazon AWS": {
+      "first_seen": "2026-08-01",
+      "count": 2
+    },
+    "codex-security": {
+      "first_seen": "2026-08-01",
+      "count": 1
+    },
+    "Arena.ai": {
+      "first_seen": "2026-08-02",
+      "mentions": 1,
+      "last_seen": "2026-08-02"
+    },
+    "Claude Opus 4.8": {
+      "first_seen": "2026-08-02",
+      "mentions": 1,
+      "last_seen": "2026-08-02"
+    },
+    "AMD MI450": {
+      "first_seen": "2026-08-02",
+      "mentions": 1,
+      "last_seen": "2026-08-02"
+    },
+    "Nano Banana 2": {
+      "first_seen": "2026-08-02",
+      "mentions": 1,
+      "last_seen": "2026-08-02"
+    },
+    "Google Earth": {
+      "first_seen": "2026-08-02",
+      "mentions": 1,
+      "last_seen": "2026-08-02"
+    },
+    "Jennifer Doudna": {
+      "first_seen": "2026-08-02",
+      "mentions": 1,
+      "last_seen": "2026-08-02"
+    },
+    "OpenHands": {
+      "first_seen": "2026-08-02",
+      "mentions": 1,
+      "last_seen": "2026-08-02"
+    },
+    "Monday.com": {
+      "first_seen": "2026-08-02",
+      "mentions": 1,
+      "last_seen": "2026-08-02"
+    },
+    "OpenAI Astra": {
+      "first_seen": "2026-08-03",
+      "mentions": 1,
+      "last_seen": "2026-08-07",
+      "count": 4
+    },
+    "IBM": {
+      "first_seen": "2026-08-03",
+      "mentions": 1
+    },
+    "University of Chicago": {
+      "first_seen": "2026-08-03",
+      "mentions": 1
+    },
+    "HRL Laboratories": {
+      "first_seen": "2026-08-03",
+      "mentions": 1
+    },
+    "Blackstone": {
+      "first_seen": "2026-08-03",
+      "mentions": 1
+    },
+    "Ode": {
+      "first_seen": "2026-08-03",
+      "mentions": 1
+    },
+    "Kawasaki Heavy Industries": {
+      "first_seen": "2026-08-03",
+      "mentions": 1
+    },
+    "METR": {
+      "first_seen": "2026-08-03",
+      "mentions": 1
+    },
+    "Lean Theorem Prover": {
+      "first_seen": "2026-08-03",
+      "mentions": 1
+    },
+    "microsoft/agent-governance-toolkit": {
+      "first_seen": "2026-08-03",
+      "mentions": 1
+    },
+    "Alibaba Cloud": {
+      "last_seen": "2026-08-04",
+      "count": 1
+    },
+    "Qwen3.8-Max": {
+      "last_seen": "2026-08-04",
+      "count": 2
+    },
+    "White House": {
+      "last_seen": "2026-08-05",
+      "count": 1,
+      "mention_count": 2
+    },
+    "Irregular": {
+      "last_seen": "2026-08-04",
+      "count": 1
+    },
+    "Claude Opus 4.7": {
+      "last_seen": "2026-08-04",
+      "count": 1
+    },
+    "EU AI Office": {
+      "last_seen": "2026-08-04",
+      "count": 1
+    },
+    "Gary Marcus": {
+      "last_seen": "2026-08-04",
+      "count": 1
+    },
+    "Volta Infra": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Bitdeer": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Red Hat": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "asago": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Ironwood": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Vera Rubin": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-27",
+      "mention_count": 2,
+      "count": 3
+    },
+    "Starmind": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Alpamayo 2 Super": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Jefferies": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "Financial Times": {
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05",
+      "mention_count": 1
+    },
+    "2026-08-06": [
+      "Meta",
+      "Muse Code",
+      "Muse Spark",
+      "Alexandr Wang",
+      "AISI",
+      "Mythos 5",
+      "GPT-5.6 Sol",
+      "Anthropic",
+      "Red Hat",
+      "asago",
+      "Italy",
+      "EU AI Act",
+      "OpenAI"
+    ],
+    "Claude Fable 5": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "WeatherNext": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "Arm": {
+      "count": 2,
+      "last_seen": "2026-08-20"
+    },
+    "NVIDIA Vera": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "Unitree": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "Montage Technology": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "CXL": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "Voicebox": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "Levent Alpöge": {
+      "last_seen": "2026-08-07",
+      "count": 1
+    },
+    "Frontier Security": {
+      "last_seen": "2026-08-08",
+      "count": 1,
+      "note": "AI security firm reporting escape"
+    },
+    "Stanford": {
+      "last_seen": "2026-08-08",
+      "count": 1,
+      "note": "AI-designed viruses study"
+    },
+    "Arc Institute": {
+      "last_seen": "2026-08-08",
+      "count": 1,
+      "note": "AI-designed viruses study"
+    },
+    "Evo1/Evo2": {
+      "last_seen": "2026-08-08",
+      "count": 1,
+      "note": "Genomic foundation models"
+    },
+    "Black Hat USA 2026": {
+      "last_seen": "2026-08-08",
+      "count": 1,
+      "note": "OpenAI agent coordination disclosure"
+    },
+    "firecrawl": {
+      "last_seen": "2026-08-08",
+      "count": 1,
+      "note": "Trending open-source web scraping engine"
+    },
+    "Jeff Dean": {
+      "first_seen": "2026-08-09",
+      "count": 1
+    },
+    "Lancium": {
+      "first_seen": "2026-08-09",
+      "count": 2,
+      "last_seen": "2026-08-26"
+    },
+    "Stargate": {
+      "first_seen": "2026-08-09",
+      "count": 1
+    },
+    "Firebird AI": {
+      "first_seen": "2026-08-09",
+      "count": 1
+    },
+    "D-Wave": {
+      "first_seen": "2026-08-09",
+      "count": 1
+    },
+    "Koray Kavukcuoglu": {
+      "first_seen": "2026-08-09",
+      "count": 1
+    },
+    "Buzz": {
+      "first_seen": "2026-08-09",
+      "count": 1
+    },
+    "OpenClaw": {
+      "count": 3,
+      "last_seen": "2026-08-10",
+      "category": "open_source_agent"
+    },
+    "Naver": {
+      "count": 1,
+      "last_seen": "2026-08-10",
+      "category": "cloud"
+    },
+    "Brookfield": {
+      "count": 1,
+      "last_seen": "2026-08-10",
+      "category": "infrastructure_finance"
+    },
+    "Source Foundry": {
+      "count": 1,
+      "last_seen": "2026-08-10",
+      "category": "chip_startup"
+    },
+    "DHS": {
+      "count": 1,
+      "last_seen": "2026-08-10",
+      "category": "government"
+    },
+    "alibaba": {
+      "count": 2,
+      "last_seen": "2026-08-10",
+      "category": "open_source"
+    },
+    "Meta Muse Glimmer": {
+      "last_seen": "2026-08-11",
+      "count": 1
+    },
+    "Zuckerberg": {
+      "last_seen": "2026-08-11",
+      "count": 1
+    },
+    "Jensen Huang": {
+      "last_seen": "2026-08-11",
+      "count": 1
+    },
+    "Australia AISI": {
+      "last_seen": "2026-08-11",
+      "count": 1
+    },
+    "Cloudflare Kitesurf": {
+      "last_seen": "2026-08-11",
+      "count": 1
+    },
+    "Obscura": {
+      "last_seen": "2026-08-11",
+      "count": 1
+    },
+    "TCAI": {
+      "last_seen": "2026-08-11",
+      "count": 1
+    },
+    "Nemotron 3.5 Lightning": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "NeMo Switchyard": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "Maia 300": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "Riot Platforms": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "Anthropic IPO": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "Manus": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "NDRC": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "OpenWALDO": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "Gregory Kurtzer": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "EU AI Act": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "Claude watermark": {
+      "first_seen": "2026-08-12",
+      "last_seen": "2026-08-12",
+      "count": 1
+    },
+    "Gemini": {
+      "last_seen": "2026-08-14",
+      "count": 1,
+      "mention_count": 1
+    },
+    "Decart AI": {
+      "last_seen": "2026-08-14",
+      "count": 1,
+      "mention_count": 1
+    },
+    "L&T": {
+      "last_seen": "2026-08-14",
+      "count": 1,
+      "mention_count": 1
+    },
+    "IREN": {
+      "last_seen": "2026-08-14",
+      "count": 1,
+      "mention_count": 2
+    },
+    "Z.ai": {
+      "first_seen": "2026-08-15",
+      "mention_count": 2,
+      "trend": "stable",
+      "count": 3,
+      "last_seen": "2026-08-27"
+    },
+    "GLM-5.3": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "rising",
+      "count": 2,
+      "last_seen": "2026-08-19"
+    },
+    "Alibaba": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable",
+      "count": 3,
+      "last_seen": "2026-08-24"
+    },
+    "Qwen": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable",
+      "count": 1,
+      "last_seen": "2026-08-17"
+    },
+    "Baidu": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable"
+    },
+    "Denise Dresser": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable"
+    },
+    "Kiteworks": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable"
+    },
+    "Light Society": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable"
+    },
+    "TencentDB Agent Memory": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "rising"
+    },
+    "UK AISI": {
+      "first_seen": "2026-08-15",
+      "mention_count": 1,
+      "trend": "stable",
+      "last_seen": "2026-08-30",
+      "count": 3
+    },
+    "Cerebras": {
+      "count": 2,
+      "last_seen": "2026-08-20"
+    },
+    "Stripe": {
+      "count": 1,
+      "last_seen": "2026-08-17"
+    },
+    "Seedance 2.5": {
+      "count": 1,
+      "last_seen": "2026-08-17"
+    },
+    "Tsinghua": {
+      "count": 1,
+      "last_seen": "2026-08-17"
+    },
+    "SAE Verbalizer": {
+      "count": 1,
+      "last_seen": "2026-08-17"
+    },
+    "Agent Skills": {
+      "count": 1,
+      "last_seen": "2026-08-17"
+    },
+    "Qwen3.8-27B": {
+      "first_seen": "2026-08-18",
+      "count": 1,
+      "trend": "rising"
+    },
+    "SB Energy": {
+      "first_seen": "2026-08-18",
+      "count": 1,
+      "trend": "rising"
+    },
+    "LG Electronics": {
+      "first_seen": "2026-08-18",
+      "count": 1,
+      "trend": "rising"
+    },
+    "LG Innotek": {
+      "first_seen": "2026-08-18",
+      "count": 1,
+      "trend": "rising"
+    },
+    "LG Energy Solution": {
+      "first_seen": "2026-08-18",
+      "count": 1,
+      "trend": "rising"
+    },
+    "Groq": {
+      "first_seen": "2026-08-18",
+      "count": 1,
+      "trend": "rising"
+    },
+    "Disruptive": {
+      "first_seen": "2026-08-18",
+      "count": 1,
+      "trend": "rising"
+    },
+    "Cisco": {
+      "first_seen": "2026-08-18",
+      "count": 1,
+      "trend": "rising"
+    },
+    "GeoPT": {
+      "first_seen": "2026-08-18",
+      "count": 1,
+      "trend": "rising"
+    },
+    "ToolHazard": {
+      "first_seen": "2026-08-18",
+      "count": 1,
+      "trend": "rising"
+    },
+    "Pike County": {
+      "first_seen": "2026-08-18",
+      "count": 1,
+      "trend": "rising"
+    },
+    "Astra": {
+      "last_seen": "2026-08-19",
+      "count": 1
+    },
+    "Jane Street": {
+      "last_seen": "2026-08-19",
+      "count": 1
+    },
+    "Gartner": {
+      "last_seen": "2026-08-19",
+      "count": 1
+    },
+    "MiniMax-Music3": {
+      "last_seen": "2026-08-19",
+      "count": 1
+    },
+    "MiniMax": {
+      "last_seen": "2026-08-19",
+      "count": 1
+    },
+    "Artificial Analysis": {
+      "last_seen": "2026-08-19",
+      "count": 1
+    },
+    "Snowflake": {
+      "last_seen": "2026-08-19",
+      "count": 1
+    },
+    "github/spec-kit": {
+      "last_seen": "2026-08-19",
+      "count": 1
+    },
+    "Marvell": {
+      "count": 1,
+      "last_seen": "2026-08-20"
+    },
+    "Cognition": {
+      "count": 1,
+      "last_seen": "2026-08-20"
+    },
+    "Mercor": {
+      "count": 1,
+      "last_seen": "2026-08-20"
+    },
+    "TrueFoundry": {
+      "count": 1,
+      "last_seen": "2026-08-20"
+    },
+    "HydroGym": {
+      "count": 1,
+      "last_seen": "2026-08-20"
+    },
+    "DeepSeek-V4-Flash-Vision-Exp": {
+      "last_seen": "2026-08-22",
+      "count": 1
+    },
+    "Poolside AI": {
+      "last_seen": "2026-08-22",
+      "count": 1
+    },
+    "Starcloud": {
+      "last_seen": "2026-08-22",
+      "count": 1
+    },
+    "NVIDIA Space-1": {
+      "last_seen": "2026-08-22",
+      "count": 1
+    },
+    "Cloverleaf Infrastructure": {
+      "last_seen": "2026-08-22",
+      "count": 1
+    },
+    "ARC-AGI-3": {
+      "last_seen": "2026-08-22",
+      "count": 1
+    },
+    "Anthropic Fellows Program": {
+      "last_seen": "2026-08-22",
+      "count": 1
+    },
+    "Ox Alpha": {
+      "first_seen": "2026-08-23",
+      "count": 2,
+      "last_seen": "2026-08-27",
+      "mention_count": 1
+    },
+    "Guidelight": {
+      "first_seen": "2026-08-23",
+      "count": 1
+    },
+    "Inherent": {
+      "first_seen": "2026-08-23",
+      "count": 1
+    },
+    "volcengine": {
+      "first_seen": "2026-08-23",
+      "count": 1
+    },
+    "OpenViking": {
+      "first_seen": "2026-08-23",
+      "count": 1
+    },
+    "VikingMem": {
+      "first_seen": "2026-08-23",
+      "count": 1
+    },
+    "SB 53": {
+      "first_seen": "2026-08-23",
+      "count": 1
+    },
+    "Patrick Collison": {
+      "first_seen": "2026-08-23",
+      "count": 1
+    },
+    "Rebellions": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "Aramco": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "Guangdong": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "d-Matrix": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "Snyk": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "Manoj Nair": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "FreeToken": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "Hot Chips 2026": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "Waymo": {
+      "first_seen": "2026-08-24",
+      "last_seen": "2026-08-24",
+      "count": 1
+    },
+    "Thomson Reuters": {
+      "first_seen": "2026-08-25",
+      "mentions": 1,
+      "strength": "emerging"
+    },
+    "Xiaomi": {
+      "first_seen": "2026-08-25",
+      "mentions": 1,
+      "strength": "emerging"
+    },
+    "Alabama AG": {
+      "first_seen": "2026-08-25",
+      "mentions": 1,
+      "strength": "emerging"
+    },
+    "Workiva": {
+      "first_seen": "2026-08-25",
+      "mentions": 1,
+      "strength": "emerging"
+    },
+    "Perplexity": {
+      "first_seen": "2026-08-25",
+      "mentions": 1,
+      "strength": "emerging",
+      "last_seen": "2026-08-26",
+      "count": 2
+    },
+    "Ray": {
+      "first_seen": "2026-08-25",
+      "mentions": 1,
+      "strength": "emerging"
+    },
+    "M6": {
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "count": 1
+    },
+    "M5 Ultra": {
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "count": 1
+    },
+    "Henry de Zoete": {
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "count": 1
+    },
+    "Poolside": {
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "count": 1
+    },
+    "Laguna S 2.1": {
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "count": 1
+    },
+    "Portable Computer": {
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "count": 1
+    },
+    "AM Intelligence": {
+      "first_seen": "2026-08-26",
+      "last_seen": "2026-08-26",
+      "count": 1
+    },
+    "Nscale": {
+      "last_seen": "2026-08-27",
+      "count": 1,
+      "appearances": 1,
+      "mention_count": 1
+    },
+    "TRACE": {
+      "last_seen": "2026-08-27",
+      "count": 1,
+      "appearances": 1,
+      "mention_count": 1
+    },
+    "Linux Foundation": {
+      "last_seen": "2026-08-27",
+      "count": 1,
+      "appearances": 1,
+      "mention_count": 1
+    },
+    "Nature Human Behaviour": {
+      "last_seen": "2026-08-27",
+      "count": 1,
+      "appearances": 1,
+      "mention_count": 1
+    },
+    "Moonshot": {
+      "last_seen": "2026-08-27",
+      "count": 1,
+      "appearances": 1,
+      "mention_count": 1
+    },
+    "SpaceX Cursor": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "Gemini 3.8 Flash": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "Gambit Security": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "GM": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "HHMI Janelia": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "Zama": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "Umbra": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "Revolut": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "Instinct": {
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "OpenAI GPT-6 Astra": {
+      "first_seen": "2026-08-30",
+      "count": 1,
+      "last_seen": "2026-08-30"
+    },
+    "Cursor": {
+      "first_seen": "2026-08-30",
+      "count": 1,
+      "last_seen": "2026-08-30"
+    },
+    "Anysphere": {
+      "first_seen": "2026-08-30",
+      "count": 1,
+      "last_seen": "2026-08-30"
+    },
+    "MatX": {
+      "first_seen": "2026-08-30",
+      "count": 1,
+      "last_seen": "2026-08-30"
+    },
+    "Guardian": {
+      "first_seen": "2026-08-30",
+      "count": 1,
+      "last_seen": "2026-08-30"
+    },
+    "Pathway": {
+      "first_seen": "2026-08-30",
+      "count": 1,
+      "last_seen": "2026-08-30"
+    },
+    "LobsterAI": {
+      "first_seen": "2026-08-30",
+      "count": 1,
+      "last_seen": "2026-08-30"
+    },
+    "GPT-5.6 Sol": {
+      "first_seen": "2026-08-30",
+      "count": 1,
+      "last_seen": "2026-08-30"
+    },
+    "Mythos 5": {
+      "first_seen": "2026-08-30",
+      "count": 1,
+      "last_seen": "2026-08-30"
+    }
+  },
+  "2026-08-09": [
+    "Google DeepMind",
+    "Jeff Dean",
+    "Demis Hassabis",
+    "OpenAI Astra",
+    "Lancium",
+    "Stargate",
+    "Firebird AI",
+    "D-Wave",
+    "Koray Kavukcuoglu",
+    "Buzz"
+  ],
+  "2026-08-10": [
+    "OpenClaw",
+    "Broadcom",
+    "Naver",
+    "Brookfield",
+    "Situational Awareness",
+    "Source Foundry",
+    "DHS",
+    "alibaba"
+  ],
+  "2026-08-13": {
+    "entities": [
+      "xAI",
+      "Grok 4.6",
+      "SpaceXAI",
+      "OpenAI",
+      "GPT-5.6-Cyber",
+      "CVE-2026-15903",
+      "PitchBook",
+      "Cognition",
+      "Devin",
+      "Lovable",
+      "River AI",
+      "Suno",
+      "BMG",
+      "Warner Music",
+      "NVIDIA",
+      "800 VDC",
+      "Eaton",
+      "Wood Mackenzie",
+      "PrimeIntellect",
+      "prime-agent"
+    ],
+    "source_count": 10
+  },
+  "2026-08-15": [
+    "Z.ai",
+    "GLM-5.3",
+    "Apple",
+    "Alibaba",
+    "Qwen",
+    "Baidu",
+    "OpenAI",
+    "Denise Dresser",
+    "Kiteworks",
+    "Light Society",
+    "TencentDB Agent Memory",
+    "IREN",
+    "UK AISI"
+  ],
+  "SpaceX": {
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
+  },
+  "Cursor": {
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
   },
   "Anthropic": {
-   "last_seen": "2026-08-26",
-   "count": 16,
-   "mention_count": 3,
-   "appearances": 2,
-   "mentions": 1
-  },
-  "Meta": {
-   "last_seen": "2026-08-12",
-   "count": 7,
-   "appearances": 2,
-   "mentions": 1
-  },
-  "Together AI": {
-   "last_seen": "2026-08-14",
-   "count": 2,
-   "mention_count": 1
-  },
-  "MGX": {
-   "last_seen": "2026-07-02",
-   "count": 1
-  },
-  "UN": {
-   "last_seen": "2026-07-08",
-   "count": 2
-  },
-  "FTC": {
-   "last_seen": "2026-07-03",
-   "count": 2
-  },
-  "Yoshua Bengio": {
-   "last_seen": "2026-07-04",
-   "count": 2
-  },
-  "Broadcom": {
-   "last_seen": "2026-08-10",
-   "count": 3,
-   "appearances": 1
-  },
-  "Trump administration": {
-   "last_seen": "2026-07-23",
-   "count": 7
-  },
-  "GPT-5.6": {
-   "last_seen": "2026-07-09",
-   "count": 3
-  },
-  "Samsung": {
-   "last_seen": "2026-08-01",
-   "count": 4,
-   "mention_count": 1
-  },
-  "SK Hynix": {
-   "last_seen": "2026-08-08",
-   "count": 5,
-   "mention_count": 1,
-   "appearances": 1
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
   },
   "NVIDIA": {
-   "last_seen": "2026-08-24",
-   "count": 8,
-   "mentions": 1,
-   "mention_count": 3
-  },
-  "Huawei": {
-   "last_seen": "2026-06-30",
-   "count": 1
-  },
-  "South Korea": {
-   "last_seen": "2026-06-30",
-   "count": 1
-  },
-  "DeepSeek": {
-   "last_seen": "2026-08-22",
-   "count": 5,
-   "mention_count": 1
-  },
-  "Etched": {
-   "last_seen": "2026-08-19",
-   "count": 2
-  },
-  "Vinod Khosla": {
-   "last_seen": "2026-07-01",
-   "count": 1
-  },
-  "BIS": {
-   "last_seen": "2026-07-01",
-   "count": 1
-  },
-  "Michael Burry": {
-   "last_seen": "2026-07-01",
-   "count": 1
-  },
-  "Claude Code": {
-   "last_seen": "2026-07-02",
-   "count": 1
-  },
-  "Jeff Bezos": {
-   "last_seen": "2026-07-03",
-   "count": 1
-  },
-  "Prometheus": {
-   "last_seen": "2026-07-03",
-   "count": 1
-  },
-  "Supreme Court": {
-   "last_seen": "2026-07-03",
-   "count": 1
-  },
-  "arXiv": {
-   "last_seen": "2026-07-03",
-   "count": 1
-  },
-  "Meta Watermelon": {
-   "last_seen": "2026-07-04",
-   "count": 1
-  },
-  "Alexandr Wang": {
-   "last_seen": "2026-07-08",
-   "count": 2
-  },
-  "UN AI Governance": {
-   "last_seen": "2026-07-04",
-   "count": 1
-  },
-  "PagerDuty": {
-   "last_seen": "2026-07-04",
-   "count": 1
-  },
-  "Jenn Tejada": {
-   "last_seen": "2026-07-04",
-   "count": 1
-  },
-  "Godot Foundation": {
-   "last_seen": "2026-07-04",
-   "count": 1,
-   "mention_count": 1
-  },
-  "FCA": {
-   "last_seen": "2026-07-04",
-   "count": 1
-  },
-  "ECB Lagarde": {
-   "last_seen": "2026-07-04",
-   "count": 1
-  },
-  "BoE Breeden": {
-   "last_seen": "2026-07-04",
-   "count": 1
-  },
-  "BNP Paribas": {
-   "last_seen": "2026-07-04",
-   "count": 1
-  },
-  "Maria Ressa": {
-   "last_seen": "2026-07-04",
-   "count": 1
-  },
-  "PJM Interconnection": {
-   "last_seen": "2026-07-21",
-   "count": 2
-  },
-  "Department of Energy": {
-   "last_seen": "2026-07-05",
-   "count": 1
-  },
-  "Alex Karp": {
-   "last_seen": "2026-07-05",
-   "count": 1
-  },
-  "Palantir": {
-   "last_seen": "2026-07-05",
-   "count": 1
-  },
-  "Foxconn": {
-   "last_seen": "2026-07-05",
-   "count": 1
-  },
-  "Hon Hai": {
-   "last_seen": "2026-07-05",
-   "count": 1
-  },
-  "NVIDIA ASPIRE": {
-   "last_seen": "2026-07-05",
-   "count": 1
-  },
-  "WebBrain": {
-   "last_seen": "2026-07-05",
-   "count": 1
-  },
-  "Oracle Stargate": {
-   "last_seen": "2026-07-05",
-   "count": 1
-  },
-  "SK Telecom": {
-   "first_seen": "2026-07-06",
-   "mention_count": 1
-  },
-  "Microsoft": {
-   "first_seen": "2026-07-06",
-   "mention_count": 1,
-   "last_seen": "2026-08-12",
-   "count": 2
-  },
-  "Amazon": {
-   "first_seen": "2026-07-06",
-   "mention_count": 1
-  },
-  "Google": {
-   "count": 2,
-   "last_seen": "2026-08-20"
-  },
-  "Commerce Department": {
-   "first_seen": "2026-07-06",
-   "mention_count": 1,
-   "last_seen": "2026-07-12",
-   "count": 2
-  },
-  "Howard Lutnick": {
-   "first_seen": "2026-07-06",
-   "mention_count": 1
-  },
-  "Glasswing": {
-   "first_seen": "2026-07-06",
-   "mention_count": 1
-  },
-  "Nous Research": {
-   "first_seen": "2026-07-06",
-   "mention_count": 1
-  },
-  "HBM": {
-   "first_seen": "2026-07-06",
-   "mention_count": 1
-  },
-  "Micron": {
-   "first_seen": "2026-07-06",
-   "mention_count": 1
-  },
-  "Illinois": {
-   "last_seen": "2026-07-07",
-   "count": 1
-  },
-  "JB Pritzker": {
-   "last_seen": "2026-07-07",
-   "count": 1
-  },
-  "Sam Altman": {
-   "last_seen": "2026-07-07",
-   "count": 1
-  },
-  "SemiAnalysis": {
-   "last_seen": "2026-07-07",
-   "count": 1
-  },
-  "SK Group": {
-   "last_seen": "2026-07-07",
-   "count": 1
-  },
-  "Sysdig": {
-   "last_seen": "2026-07-07",
-   "count": 1
-  },
-  "JadePuffer": {
-   "last_seen": "2026-07-07",
-   "count": 1
-  },
-  "NVIDIA Research": {
-   "last_seen": "2026-07-07",
-   "count": 1
-  },
-  "ASPIRE": {
-   "last_seen": "2026-07-07",
-   "count": 1
-  },
-  "NousResearch": {
-   "last_seen": "2026-07-07",
-   "count": 1
-  },
-  "Hermes Agent": {
-   "last_seen": "2026-07-07",
-   "count": 1
-  },
-  "Kyber NVL144": {
-   "last_seen": "2026-07-07",
-   "count": 1
-  },
-  "Rubin Ultra": {
-   "last_seen": "2026-07-07",
-   "count": 1
-  },
-  "Mustafa Suleyman": {
-   "last_seen": "2026-07-08",
-   "count": 1
-  },
-  "EU Commission": {
-   "last_seen": "2026-07-08",
-   "count": 1
-  },
-  "Future of Life Institute": {
-   "last_seen": "2026-07-08",
-   "count": 1
-  },
-  "Antonio Guterres": {
-   "last_seen": "2026-07-08",
-   "count": 1
-  },
-  "ICML": {
-   "last_seen": "2026-07-08",
-   "count": 1
-  },
-  "NVIDIA Nemotron": {
-   "last_seen": "2026-07-08",
-   "count": 1
-  },
-  "SpaceXAI": {
-   "last_seen": "2026-07-09",
-   "count": 1
-  },
-  "Grok 4.5": {
-   "last_seen": "2026-07-09",
-   "count": 1
-  },
-  "SambaNova": {
-   "last_seen": "2026-07-18",
-   "count": 2
-  },
-  "Prime Intellect": {
-   "last_seen": "2026-07-09",
-   "count": 1
-  },
-  "JPMorgan Chase": {
-   "last_seen": "2026-07-09",
-   "count": 1
-  },
-  "General Atlantic": {
-   "last_seen": "2026-07-09",
-   "count": 1
-  },
-  "Radical Ventures": {
-   "last_seen": "2026-07-09",
-   "count": 1
-  },
-  "Sturgeon County": {
-   "last_seen": "2026-07-09",
-   "count": 1
-  },
-  "Alberta": {
-   "last_seen": "2026-07-09",
-   "count": 1
-  },
-  "mattpocock/skills": {
-   "last_seen": "2026-07-20",
-   "count": 2
-  },
-  "SpaceX": {
-   "count": 3,
-   "last_seen": "2026-08-20"
-  },
-  "Ollama": {
-   "last_seen": "2026-07-10",
-   "count": 1
-  },
-  "PitchBook": {
-   "last_seen": "2026-07-10",
-   "count": 1
-  },
-  "Harvard": {
-   "last_seen": "2026-07-10",
-   "count": 1
-  },
-  "CAA": {
-   "last_seen": "2026-07-10",
-   "count": 1
-  },
-  "TSMC": {
-   "first_seen": "2026-07-11",
-   "appearances": 1,
-   "last_seen": "2026-08-12",
-   "count": 2
-  },
-  "Qualcomm": {
-   "first_seen": "2026-07-11",
-   "appearances": 1
-  },
-  "Modular": {
-   "first_seen": "2026-07-11",
-   "appearances": 1
-  },
-  "Hugging Face": {
-   "first_seen": "2026-07-11",
-   "appearances": 1,
-   "last_seen": "2026-08-19",
-   "count": 4,
-   "mentions": 1
-  },
-  "Ed Markey": {
-   "first_seen": "2026-07-11",
-   "appearances": 1
-  },
-  "Fidji Simo": {
-   "first_seen": "2026-07-11",
-   "appearances": 1
-  },
-  "Kwak Noh-jung": {
-   "first_seen": "2026-07-11",
-   "appearances": 1
-  },
-  "Durga Malladi": {
-   "first_seen": "2026-07-11",
-   "appearances": 1
-  },
-  "TeraWulf": {
-   "first_seen": "2026-07-11",
-   "appearances": 2,
-   "last_seen": "2026-07-20",
-   "count": 2
-  },
-  "Nature Biomedical Engineering": {
-   "first_seen": "2026-07-11",
-   "appearances": 1
-  },
-  "BofA Securities": {
-   "first_seen": "2026-07-11",
-   "appearances": 1
-  },
-  "Meta (Muse Image)": {
-   "last_seen": "2026-07-12",
-   "count": 1
-  },
-  "Apple": {
-   "last_seen": "2026-08-26",
-   "count": 3,
-   "mention_count": 1
-  },
-  "Zhipu AI": {
-   "last_seen": "2026-07-13",
-   "count": 1,
-   "appearances": 1
-  },
-  "Goldman Sachs": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "GLM-5.2": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "ByteDance": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "Morgan Stanley": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "Chang Liu": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "Tang Yew Tan": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "SAG-AFTRA": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "Hannah Einbinder": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "Meta Superintelligence Labs": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "Anima Anandkumar": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "Nature Machine Intelligence": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "Neural Operator": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "Thomas Dohmke": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "Entire": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "Madrona": {
-   "last_seen": "2026-07-13",
-   "count": 1
-  },
-  "Tencent": {
-   "last_seen": "2026-07-14",
-   "count": 1
-  },
-  "Hy3": {
-   "last_seen": "2026-07-14",
-   "count": 1
-  },
-  "Meta (Hyperion)": {
-   "last_seen": "2026-07-14",
-   "count": 1
-  },
-  "Intel": {
-   "last_seen": "2026-08-14",
-   "count": 3,
-   "mention_count": 1
-  },
-  "University of Illinois": {
-   "last_seen": "2026-07-14",
-   "count": 1
-  },
-  "Apple (MacBook pricing)": {
-   "last_seen": "2026-07-14",
-   "count": 1
-  },
-  "JP Morgan": {
-   "last_seen": "2026-07-14",
-   "count": 1
-  },
-  "Demis Hassabis": {
-   "last_seen": "2026-07-17",
-   "count": 2
-  },
-  "Dario Amodei": {
-   "last_seen": "2026-07-17",
-   "count": 1
-  },
-  "GPT-Red": {
-   "last_seen": "2026-07-17",
-   "count": 1
-  },
-  "Google DeepMind": {
-   "last_seen": "2026-08-07",
-   "count": 3
-  },
-  "Alphabet": {
-   "last_seen": "2026-08-24",
-   "count": 3
-  },
-  "UC Berkeley": {
-   "last_seen": "2026-07-17",
-   "count": 1
-  },
-  "Innovative Genomics Institute": {
-   "last_seen": "2026-07-17",
-   "count": 1
-  },
-  "Nutlope": {
-   "last_seen": "2026-07-17",
-   "count": 1
-  },
-  "Moonshot AI": {
-   "last_seen": "2026-08-19",
-   "count": 10,
-   "description": "Kimi K3 launched, 0B IPO",
-   "appearances": 2
-  },
-  "Kimi K3": {
-   "last_seen": "2026-08-27",
-   "count": 7,
-   "description": "2.8T open-weight model, demand crush",
-   "mention_count": 1
-  },
-  "Yang Zhilin": {
-   "last_seen": "2026-07-18",
-   "count": 1
-  },
-  "General Compute": {
-   "last_seen": "2026-07-18",
-   "count": 1
-  },
-  "Upper90": {
-   "last_seen": "2026-07-18",
-   "count": 1
-  },
-  "Finn Puklowski": {
-   "last_seen": "2026-07-18",
-   "count": 1
-  },
-  "Billy Libby": {
-   "last_seen": "2026-07-18",
-   "count": 1
-  },
-  "Politico AI Safety Factions": {
-   "last_seen": "2026-07-18",
-   "count": 1
-  },
-  "Nate Soares": {
-   "last_seen": "2026-07-18",
-   "count": 1
-  },
-  "Dean Ball": {
-   "last_seen": "2026-07-18",
-   "count": 1
-  },
-  "Xi Jinping": {
-   "last_seen": "2026-07-18",
-   "count": 1
-  },
-  "Anastasios Angelopoulos": {
-   "last_seen": "2026-07-19",
-   "count": 1
-  },
-  "David Sacks": {
-   "last_seen": "2026-07-19",
-   "count": 1
-  },
-  "Meta (Cloud)": {
-   "last_seen": "2026-07-19",
-   "count": 1
-  },
-  "OpenRouter": {
-   "last_seen": "2026-08-17",
-   "count": 3
-  },
-  "XPeng": {
-   "last_seen": "2026-07-19",
-   "count": 1
-  },
-  "He Xiaopeng": {
-   "last_seen": "2026-07-19",
-   "count": 1
-  },
-  "xAI": {
-   "last_seen": "2026-07-20",
-   "count": 1,
-   "description": "$1.25B/month Colossus compute to Anthropic"
-  },
-  "Fluidstack": {
-   "last_seen": "2026-07-20",
-   "count": 1,
-   "description": "$50B custom AI facilities"
-  },
-  "Netflix": {
-   "last_seen": "2026-08-17",
-   "count": 2,
-   "description": "Acquired InterPositive for $587M"
-  },
-  "InterPositive": {
-   "last_seen": "2026-07-20",
-   "count": 1,
-   "description": "Ben Affleck AI filmmaking startup"
-  },
-  "Noetra": {
-   "last_seen": "2026-07-20",
-   "count": 1,
-   "description": "Japan national AI factory, 44 companies"
-  },
-  "SoftBank": {
-   "last_seen": "2026-07-20",
-   "count": 1
-  },
-  "Sony": {
-   "last_seen": "2026-07-20",
-   "count": 1
-  },
-  "Honda": {
-   "last_seen": "2026-07-20",
-   "count": 1
-  },
-  "NEC": {
-   "last_seen": "2026-07-20",
-   "count": 1
-  },
-  "Hemispheric": {
-   "last_seen": "2026-07-20",
-   "count": 1,
-   "description": "Brain activity decoding AI, $52M raised"
-  },
-  "Hut 8": {
-   "last_seen": "2026-07-21",
-   "count": 1,
-   "description": "Bitcoin miner turned AI infra"
-  },
-  "01.ai": {
-   "last_seen": "2026-07-21",
-   "count": 1,
-   "description": "Kai-Fu Lee AI startup, 2027 IPO"
-  },
-  "Kai-Fu Lee": {
-   "last_seen": "2026-07-21",
-   "count": 1
-  },
-  "Sergey Stavisky": {
-   "last_seen": "2026-07-21",
-   "count": 1,
-   "description": "BCI speech restoration prize"
-  },
-  "Sightline Climate": {
-   "last_seen": "2026-07-21",
-   "count": 1
-  },
-  "2026-07-22": [
-   "Nvidia Vera",
-   "AMD Helios",
-   "Jack Dorsey",
-   "Buzz"
-  ],
-  "Google Cloud": {
-   "last_seen": "2026-07-23",
-   "count": 1,
-   "appearances": 1
-  },
-  "NSA": {
-   "last_seen": "2026-07-23",
-   "count": 1,
-   "appearances": 1
-  },
-  "NIST": {
-   "last_seen": "2026-07-23",
-   "count": 1,
-   "appearances": 1
-  },
-  "Senator Mark Warner": {
-   "last_seen": "2026-07-23",
-   "count": 1,
-   "appearances": 1
-  },
-  "AMD": {
-   "last_seen": "2026-07-24",
-   "count": 3,
-   "appearances": 1
-  },
-  "Michael Kratsios": {
-   "last_seen": "2026-07-24",
-   "count": 1
-  },
-  "Dmitry Rybin": {
-   "last_seen": "2026-07-24",
-   "count": 1
-  },
-  "Autokernel": {
-   "last_seen": "2026-07-24",
-   "count": 1
-  },
-  "Claude Opus 5": {
-   "last_seen": "2026-08-19",
-   "count": 2
-  },
-  "Runway": {
-   "last_seen": "2026-07-25",
-   "count": 1
-  },
-  "Lip-Bu Tan": {
-   "last_seen": "2026-07-25",
-   "count": 1
-  },
-  "Scott Bessent": {
-   "last_seen": "2026-07-25",
-   "count": 1
-  },
-  "Marius Hobbhahn": {
-   "last_seen": "2026-07-25",
-   "count": 1
-  },
-  "Apollo Research": {
-   "last_seen": "2026-07-27",
-   "count": 1
-  },
-  "SK Hynix ($500B Nvidia deal)": {
-   "last_seen": "2026-07-26",
-   "count": 1,
-   "description": "$500B memory supply deal with Nvidia"
-  },
-  "Samsung ($200B Broadcom deal)": {
-   "last_seen": "2026-07-26",
-   "count": 1,
-   "description": "$200B AI chip partnership with Broadcom"
-  },
-  "Broadcom (Samsung partnership)": {
-   "last_seen": "2026-07-26",
-   "count": 1,
-   "description": "$200B deal with Samsung for custom AI chips"
-  },
-  "DeepSeek (funding pause)": {
-   "last_seen": "2026-07-26",
-   "count": 1,
-   "description": "Second funding round suspended after viral posts"
-  },
-  "Lightcone Commons": {
-   "last_seen": "2026-07-26",
-   "count": 1,
-   "description": "AI safety philanthropy platform using S-Process algorithm"
-  },
-  "koala73/worldmonitor": {
-   "last_seen": "2026-07-27",
-   "count": 1,
-   "description": "Open-source real-time AI agent monitoring tool"
-  },
-  "Japan FRONTia project": {
-   "last_seen": "2026-07-26",
-   "count": 1,
-   "description": "National physical AI infrastructure project"
-  },
-  "Moonshot AI (Kimi K3 launch)": {
-   "last_seen": "2026-07-27",
-   "description": "Released Kimi K3 2.8T open-weight model on July 27"
-  },
-  "Skynet Day": {
-   "last_seen": "2026-07-27",
-   "description": "Industry shorthand for July 22 OpenAI agent escape incident"
-  },
-  "AMD-Anthropic $5B Deal": {
-   "last_seen": "2026-07-27",
-   "description": "AMD invests up to $5B, Anthropic deploys 2GW MI450 GPUs"
-  },
-  "ProteinMPNN": {
-   "last_seen": "2026-07-27",
-   "description": "Deep learning protein design used in Nature enzyme study"
-  },
-  "Nvidia Open Secure AI Alliance": {
-   "last_seen": "2026-07-28",
-   "count": 1,
-   "description": "Industry coalition for open AI security tools, 30+ members"
-  },
-  "Microsoft MAI-Cyber-1-Flash": {
-   "last_seen": "2026-07-28",
-   "count": 1,
-   "description": "First Microsoft cybersecurity-specialized model"
-  },
-  "Microsoft Perception": {
-   "last_seen": "2026-07-28",
-   "count": 1,
-   "description": "Agentic cybersecurity platform from Microsoft"
-  },
-  "Skynet Day (July 22)": {
-   "last_seen": "2026-07-28",
-   "count": 1,
-   "description": "Industry shorthand for July 22 OpenAI agent escape incident"
-  },
-  "MIT AI Risk Study": {
-   "last_seen": "2026-07-28",
-   "count": 1,
-   "description": "272 expert survey: 21.5% catastrophic risk by 2031"
-  },
-  "Core Scientific (AMD deal)": {
-   "last_seen": "2026-07-29",
-   "count": 1,
-   "description": "2.5 GW AI data center deal with AMD, $14B"
-  },
-  "AMD MI455X": {
-   "last_seen": "2026-07-29",
-   "count": 1,
-   "description": "AMD AI GPU deployed in Core Scientific data centers"
-  },
-  "AMD Helios": {
-   "last_seen": "2026-07-29",
-   "count": 1,
-   "description": "AMD rack-scale AI platform"
-  },
-  "DeepRare AI": {
-   "last_seen": "2026-07-29",
-   "count": 1,
-   "description": "SJTU multi-agent rare disease diagnosis system in Nature"
-  },
-  "Shanghai Jiao Tong University": {
-   "last_seen": "2026-07-29",
-   "count": 1,
-   "description": "Published DeepRare AI in Nature"
-  },
-  "Helen Toner": {
-   "last_seen": "2026-07-30",
-   "appearances": 1
-  },
-  "Pacing the Frontier": {
-   "last_seen": "2026-07-30",
-   "appearances": 1
-  },
-  "Modular/Mojo": {
-   "last_seen": "2026-07-30",
-   "appearances": 1
-  },
-  "Chris Lattner": {
-   "last_seen": "2026-07-30",
-   "appearances": 1
-  },
-  "AlphaFold": {
-   "last_seen": "2026-07-30",
-   "appearances": 1
-  },
-  "Muse Spark 1.1": {
-   "last_seen": "2026-07-31",
-   "count": 1,
-   "appearances": 1
-  },
-  "Gold Eagle": {
-   "last_seen": "2026-07-31",
-   "count": 1,
-   "appearances": 1
-  },
-  "AlphaAI": {
-   "last_seen": "2026-07-31",
-   "count": 1,
-   "appearances": 1
-  },
-  "Situational Awareness": {
-   "last_seen": "2026-08-10",
-   "count": 2,
-   "appearances": 1
-  },
-  "Leopold Aschenbrenner": {
-   "last_seen": "2026-07-31",
-   "count": 1,
-   "appearances": 1
-  },
-  "Openchip": {
-   "last_seen": "2026-07-31",
-   "count": 1,
-   "appearances": 1
-  },
-  "BER10": {
-   "last_seen": "2026-07-31",
-   "count": 1,
-   "appearances": 1
-  },
-  "ATOM Report": {
-   "last_seen": "2026-07-31",
-   "count": 1,
-   "appearances": 1
-  },
-  "Clem Delangue": {
-   "last_seen": "2026-07-31",
-   "count": 1,
-   "appearances": 1
-  },
-  "Greg Brockman": {
-   "last_seen": "2026-07-31",
-   "count": 1,
-   "appearances": 1
-  },
-  "Goldman Sachs AlphaAI": {
-   "last_seen": "2026-07-31",
-   "count": 1,
-   "appearances": 1
-  },
-  "DeepSeek V4 Flash": {
-   "first_seen": "2026-08-01",
-   "count": 1,
-   "mentions": 1,
-   "last_seen": "2026-08-02"
-  },
-  "MiniMax H3": {
-   "first_seen": "2026-08-01",
-   "count": 1
-  },
-  "ByteDance Seedance 2.5": {
-   "first_seen": "2026-08-01",
-   "count": 1
-  },
-  "Amazon AWS": {
-   "first_seen": "2026-08-01",
-   "count": 2
-  },
-  "codex-security": {
-   "first_seen": "2026-08-01",
-   "count": 1
-  },
-  "Arena.ai": {
-   "first_seen": "2026-08-02",
-   "mentions": 1,
-   "last_seen": "2026-08-02"
-  },
-  "Claude Opus 4.8": {
-   "first_seen": "2026-08-02",
-   "mentions": 1,
-   "last_seen": "2026-08-02"
-  },
-  "AMD MI450": {
-   "first_seen": "2026-08-02",
-   "mentions": 1,
-   "last_seen": "2026-08-02"
-  },
-  "Nano Banana 2": {
-   "first_seen": "2026-08-02",
-   "mentions": 1,
-   "last_seen": "2026-08-02"
-  },
-  "Google Earth": {
-   "first_seen": "2026-08-02",
-   "mentions": 1,
-   "last_seen": "2026-08-02"
-  },
-  "Jennifer Doudna": {
-   "first_seen": "2026-08-02",
-   "mentions": 1,
-   "last_seen": "2026-08-02"
-  },
-  "OpenHands": {
-   "first_seen": "2026-08-02",
-   "mentions": 1,
-   "last_seen": "2026-08-02"
-  },
-  "Monday.com": {
-   "first_seen": "2026-08-02",
-   "mentions": 1,
-   "last_seen": "2026-08-02"
-  },
-  "OpenAI Astra": {
-   "first_seen": "2026-08-03",
-   "mentions": 1,
-   "last_seen": "2026-08-07",
-   "count": 4
-  },
-  "IBM": {
-   "first_seen": "2026-08-03",
-   "mentions": 1
-  },
-  "University of Chicago": {
-   "first_seen": "2026-08-03",
-   "mentions": 1
-  },
-  "HRL Laboratories": {
-   "first_seen": "2026-08-03",
-   "mentions": 1
-  },
-  "Blackstone": {
-   "first_seen": "2026-08-03",
-   "mentions": 1
-  },
-  "Ode": {
-   "first_seen": "2026-08-03",
-   "mentions": 1
-  },
-  "Kawasaki Heavy Industries": {
-   "first_seen": "2026-08-03",
-   "mentions": 1
-  },
-  "METR": {
-   "first_seen": "2026-08-03",
-   "mentions": 1
-  },
-  "Lean Theorem Prover": {
-   "first_seen": "2026-08-03",
-   "mentions": 1
-  },
-  "microsoft/agent-governance-toolkit": {
-   "first_seen": "2026-08-03",
-   "mentions": 1
-  },
-  "Alibaba Cloud": {
-   "last_seen": "2026-08-04",
-   "count": 1
-  },
-  "Qwen3.8-Max": {
-   "last_seen": "2026-08-04",
-   "count": 2
-  },
-  "White House": {
-   "last_seen": "2026-08-05",
-   "count": 1,
-   "mention_count": 2
-  },
-  "Irregular": {
-   "last_seen": "2026-08-04",
-   "count": 1
-  },
-  "Claude Opus 4.7": {
-   "last_seen": "2026-08-04",
-   "count": 1
-  },
-  "EU AI Office": {
-   "last_seen": "2026-08-04",
-   "count": 1
-  },
-  "Gary Marcus": {
-   "last_seen": "2026-08-04",
-   "count": 1
-  },
-  "Volta Infra": {
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-08-05",
-   "mention_count": 1
-  },
-  "Bitdeer": {
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-08-05",
-   "mention_count": 1
-  },
-  "Red Hat": {
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-08-05",
-   "mention_count": 1
-  },
-  "asago": {
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-08-05",
-   "mention_count": 1
-  },
-  "Ironwood": {
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-08-05",
-   "mention_count": 1
-  },
-  "Vera Rubin": {
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-08-27",
-   "mention_count": 2,
-   "count": 3
-  },
-  "Starmind": {
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-08-05",
-   "mention_count": 1
-  },
-  "Alpamayo 2 Super": {
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-08-05",
-   "mention_count": 1
-  },
-  "Jefferies": {
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-08-05",
-   "mention_count": 1
-  },
-  "Financial Times": {
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-08-05",
-   "mention_count": 1
-  },
-  "2026-08-06": [
-   "Meta",
-   "Muse Code",
-   "Muse Spark",
-   "Alexandr Wang",
-   "AISI",
-   "Mythos 5",
-   "GPT-5.6 Sol",
-   "Anthropic",
-   "Red Hat",
-   "asago",
-   "Italy",
-   "EU AI Act",
-   "OpenAI"
-  ],
-  "Claude Fable 5": {
-   "last_seen": "2026-08-07",
-   "count": 1
-  },
-  "WeatherNext": {
-   "last_seen": "2026-08-07",
-   "count": 1
-  },
-  "Arm": {
-   "count": 2,
-   "last_seen": "2026-08-20"
-  },
-  "NVIDIA Vera": {
-   "last_seen": "2026-08-07",
-   "count": 1
-  },
-  "Unitree": {
-   "last_seen": "2026-08-07",
-   "count": 1
-  },
-  "Montage Technology": {
-   "last_seen": "2026-08-07",
-   "count": 1
-  },
-  "CXL": {
-   "last_seen": "2026-08-07",
-   "count": 1
-  },
-  "Voicebox": {
-   "last_seen": "2026-08-07",
-   "count": 1
-  },
-  "Levent Alpöge": {
-   "last_seen": "2026-08-07",
-   "count": 1
-  },
-  "Frontier Security": {
-   "last_seen": "2026-08-08",
-   "count": 1,
-   "note": "AI security firm reporting escape"
-  },
-  "Stanford": {
-   "last_seen": "2026-08-08",
-   "count": 1,
-   "note": "AI-designed viruses study"
-  },
-  "Arc Institute": {
-   "last_seen": "2026-08-08",
-   "count": 1,
-   "note": "AI-designed viruses study"
-  },
-  "Evo1/Evo2": {
-   "last_seen": "2026-08-08",
-   "count": 1,
-   "note": "Genomic foundation models"
-  },
-  "Black Hat USA 2026": {
-   "last_seen": "2026-08-08",
-   "count": 1,
-   "note": "OpenAI agent coordination disclosure"
-  },
-  "firecrawl": {
-   "last_seen": "2026-08-08",
-   "count": 1,
-   "note": "Trending open-source web scraping engine"
-  },
-  "Jeff Dean": {
-   "first_seen": "2026-08-09",
-   "count": 1
-  },
-  "Lancium": {
-   "first_seen": "2026-08-09",
-   "count": 2,
-   "last_seen": "2026-08-26"
-  },
-  "Stargate": {
-   "first_seen": "2026-08-09",
-   "count": 1
-  },
-  "Firebird AI": {
-   "first_seen": "2026-08-09",
-   "count": 1
-  },
-  "D-Wave": {
-   "first_seen": "2026-08-09",
-   "count": 1
-  },
-  "Koray Kavukcuoglu": {
-   "first_seen": "2026-08-09",
-   "count": 1
-  },
-  "Buzz": {
-   "first_seen": "2026-08-09",
-   "count": 1
-  },
-  "OpenClaw": {
-   "count": 3,
-   "last_seen": "2026-08-10",
-   "category": "open_source_agent"
-  },
-  "Naver": {
-   "count": 1,
-   "last_seen": "2026-08-10",
-   "category": "cloud"
-  },
-  "Brookfield": {
-   "count": 1,
-   "last_seen": "2026-08-10",
-   "category": "infrastructure_finance"
-  },
-  "Source Foundry": {
-   "count": 1,
-   "last_seen": "2026-08-10",
-   "category": "chip_startup"
-  },
-  "DHS": {
-   "count": 1,
-   "last_seen": "2026-08-10",
-   "category": "government"
-  },
-  "alibaba": {
-   "count": 2,
-   "last_seen": "2026-08-10",
-   "category": "open_source"
-  },
-  "Meta Muse Glimmer": {
-   "last_seen": "2026-08-11",
-   "count": 1
-  },
-  "Zuckerberg": {
-   "last_seen": "2026-08-11",
-   "count": 1
-  },
-  "Jensen Huang": {
-   "last_seen": "2026-08-11",
-   "count": 1
-  },
-  "Australia AISI": {
-   "last_seen": "2026-08-11",
-   "count": 1
-  },
-  "Cloudflare Kitesurf": {
-   "last_seen": "2026-08-11",
-   "count": 1
-  },
-  "Obscura": {
-   "last_seen": "2026-08-11",
-   "count": 1
-  },
-  "TCAI": {
-   "last_seen": "2026-08-11",
-   "count": 1
-  },
-  "Nemotron 3.5 Lightning": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-12",
-   "count": 1
-  },
-  "NeMo Switchyard": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-12",
-   "count": 1
-  },
-  "Maia 300": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-12",
-   "count": 1
-  },
-  "Riot Platforms": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-12",
-   "count": 1
-  },
-  "Anthropic IPO": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-12",
-   "count": 1
-  },
-  "Manus": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-12",
-   "count": 1
-  },
-  "NDRC": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-12",
-   "count": 1
-  },
-  "OpenWALDO": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-12",
-   "count": 1
-  },
-  "Gregory Kurtzer": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-12",
-   "count": 1
-  },
-  "EU AI Act": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-12",
-   "count": 1
-  },
-  "Claude watermark": {
-   "first_seen": "2026-08-12",
-   "last_seen": "2026-08-12",
-   "count": 1
-  },
-  "Gemini": {
-   "last_seen": "2026-08-14",
-   "count": 1,
-   "mention_count": 1
-  },
-  "Decart AI": {
-   "last_seen": "2026-08-14",
-   "count": 1,
-   "mention_count": 1
-  },
-  "L&T": {
-   "last_seen": "2026-08-14",
-   "count": 1,
-   "mention_count": 1
-  },
-  "IREN": {
-   "last_seen": "2026-08-14",
-   "count": 1,
-   "mention_count": 2
-  },
-  "Z.ai": {
-   "first_seen": "2026-08-15",
-   "mention_count": 2,
-   "trend": "stable",
-   "count": 3,
-   "last_seen": "2026-08-27"
-  },
-  "GLM-5.3": {
-   "first_seen": "2026-08-15",
-   "mention_count": 1,
-   "trend": "rising",
-   "count": 2,
-   "last_seen": "2026-08-19"
-  },
-  "Alibaba": {
-   "first_seen": "2026-08-15",
-   "mention_count": 1,
-   "trend": "stable",
-   "count": 3,
-   "last_seen": "2026-08-24"
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
+  },
+  "OpenAI": {
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
+  },
+  "Lovable": {
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
+  },
+  "MoS2": {
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
   },
   "Qwen": {
-   "first_seen": "2026-08-15",
-   "mention_count": 1,
-   "trend": "stable",
-   "count": 1,
-   "last_seen": "2026-08-17"
-  },
-  "Baidu": {
-   "first_seen": "2026-08-15",
-   "mention_count": 1,
-   "trend": "stable"
-  },
-  "Denise Dresser": {
-   "first_seen": "2026-08-15",
-   "mention_count": 1,
-   "trend": "stable"
-  },
-  "Kiteworks": {
-   "first_seen": "2026-08-15",
-   "mention_count": 1,
-   "trend": "stable"
-  },
-  "Light Society": {
-   "first_seen": "2026-08-15",
-   "mention_count": 1,
-   "trend": "stable"
-  },
-  "TencentDB Agent Memory": {
-   "first_seen": "2026-08-15",
-   "mention_count": 1,
-   "trend": "rising"
-  },
-  "UK AISI": {
-   "first_seen": "2026-08-15",
-   "mention_count": 1,
-   "trend": "stable",
-   "last_seen": "2026-08-26",
-   "count": 2
-  },
-  "Cerebras": {
-   "count": 2,
-   "last_seen": "2026-08-20"
-  },
-  "Stripe": {
-   "count": 1,
-   "last_seen": "2026-08-17"
-  },
-  "Seedance 2.5": {
-   "count": 1,
-   "last_seen": "2026-08-17"
-  },
-  "Tsinghua": {
-   "count": 1,
-   "last_seen": "2026-08-17"
-  },
-  "SAE Verbalizer": {
-   "count": 1,
-   "last_seen": "2026-08-17"
-  },
-  "Agent Skills": {
-   "count": 1,
-   "last_seen": "2026-08-17"
-  },
-  "Qwen3.8-27B": {
-   "first_seen": "2026-08-18",
-   "count": 1,
-   "trend": "rising"
-  },
-  "SB Energy": {
-   "first_seen": "2026-08-18",
-   "count": 1,
-   "trend": "rising"
-  },
-  "LG Electronics": {
-   "first_seen": "2026-08-18",
-   "count": 1,
-   "trend": "rising"
-  },
-  "LG Innotek": {
-   "first_seen": "2026-08-18",
-   "count": 1,
-   "trend": "rising"
-  },
-  "LG Energy Solution": {
-   "first_seen": "2026-08-18",
-   "count": 1,
-   "trend": "rising"
-  },
-  "Groq": {
-   "first_seen": "2026-08-18",
-   "count": 1,
-   "trend": "rising"
-  },
-  "Disruptive": {
-   "first_seen": "2026-08-18",
-   "count": 1,
-   "trend": "rising"
-  },
-  "Cisco": {
-   "first_seen": "2026-08-18",
-   "count": 1,
-   "trend": "rising"
-  },
-  "GeoPT": {
-   "first_seen": "2026-08-18",
-   "count": 1,
-   "trend": "rising"
-  },
-  "ToolHazard": {
-   "first_seen": "2026-08-18",
-   "count": 1,
-   "trend": "rising"
-  },
-  "Pike County": {
-   "first_seen": "2026-08-18",
-   "count": 1,
-   "trend": "rising"
-  },
-  "Astra": {
-   "last_seen": "2026-08-19",
-   "count": 1
-  },
-  "Jane Street": {
-   "last_seen": "2026-08-19",
-   "count": 1
-  },
-  "Gartner": {
-   "last_seen": "2026-08-19",
-   "count": 1
-  },
-  "MiniMax-Music3": {
-   "last_seen": "2026-08-19",
-   "count": 1
-  },
-  "MiniMax": {
-   "last_seen": "2026-08-19",
-   "count": 1
-  },
-  "Artificial Analysis": {
-   "last_seen": "2026-08-19",
-   "count": 1
-  },
-  "Snowflake": {
-   "last_seen": "2026-08-19",
-   "count": 1
-  },
-  "github/spec-kit": {
-   "last_seen": "2026-08-19",
-   "count": 1
-  },
-  "Marvell": {
-   "count": 1,
-   "last_seen": "2026-08-20"
-  },
-  "Cognition": {
-   "count": 1,
-   "last_seen": "2026-08-20"
-  },
-  "Mercor": {
-   "count": 1,
-   "last_seen": "2026-08-20"
-  },
-  "TrueFoundry": {
-   "count": 1,
-   "last_seen": "2026-08-20"
-  },
-  "HydroGym": {
-   "count": 1,
-   "last_seen": "2026-08-20"
-  },
-  "DeepSeek-V4-Flash-Vision-Exp": {
-   "last_seen": "2026-08-22",
-   "count": 1
-  },
-  "Poolside AI": {
-   "last_seen": "2026-08-22",
-   "count": 1
-  },
-  "Starcloud": {
-   "last_seen": "2026-08-22",
-   "count": 1
-  },
-  "NVIDIA Space-1": {
-   "last_seen": "2026-08-22",
-   "count": 1
-  },
-  "Cloverleaf Infrastructure": {
-   "last_seen": "2026-08-22",
-   "count": 1
-  },
-  "ARC-AGI-3": {
-   "last_seen": "2026-08-22",
-   "count": 1
-  },
-  "Anthropic Fellows Program": {
-   "last_seen": "2026-08-22",
-   "count": 1
-  },
-  "Ox Alpha": {
-   "first_seen": "2026-08-23",
-   "count": 2,
-   "last_seen": "2026-08-27",
-   "mention_count": 1
-  },
-  "Guidelight": {
-   "first_seen": "2026-08-23",
-   "count": 1
-  },
-  "Inherent": {
-   "first_seen": "2026-08-23",
-   "count": 1
-  },
-  "volcengine": {
-   "first_seen": "2026-08-23",
-   "count": 1
-  },
-  "OpenViking": {
-   "first_seen": "2026-08-23",
-   "count": 1
-  },
-  "VikingMem": {
-   "first_seen": "2026-08-23",
-   "count": 1
-  },
-  "SB 53": {
-   "first_seen": "2026-08-23",
-   "count": 1
-  },
-  "Patrick Collison": {
-   "first_seen": "2026-08-23",
-   "count": 1
-  },
-  "Rebellions": {
-   "first_seen": "2026-08-24",
-   "last_seen": "2026-08-24",
-   "count": 1
-  },
-  "Aramco": {
-   "first_seen": "2026-08-24",
-   "last_seen": "2026-08-24",
-   "count": 1
-  },
-  "Guangdong": {
-   "first_seen": "2026-08-24",
-   "last_seen": "2026-08-24",
-   "count": 1
-  },
-  "d-Matrix": {
-   "first_seen": "2026-08-24",
-   "last_seen": "2026-08-24",
-   "count": 1
-  },
-  "Snyk": {
-   "first_seen": "2026-08-24",
-   "last_seen": "2026-08-24",
-   "count": 1
-  },
-  "Manoj Nair": {
-   "first_seen": "2026-08-24",
-   "last_seen": "2026-08-24",
-   "count": 1
-  },
-  "FreeToken": {
-   "first_seen": "2026-08-24",
-   "last_seen": "2026-08-24",
-   "count": 1
-  },
-  "Hot Chips 2026": {
-   "first_seen": "2026-08-24",
-   "last_seen": "2026-08-24",
-   "count": 1
-  },
-  "Waymo": {
-   "first_seen": "2026-08-24",
-   "last_seen": "2026-08-24",
-   "count": 1
-  },
-  "Thomson Reuters": {
-   "first_seen": "2026-08-25",
-   "mentions": 1,
-   "strength": "emerging"
-  },
-  "Xiaomi": {
-   "first_seen": "2026-08-25",
-   "mentions": 1,
-   "strength": "emerging"
-  },
-  "Alabama AG": {
-   "first_seen": "2026-08-25",
-   "mentions": 1,
-   "strength": "emerging"
-  },
-  "Workiva": {
-   "first_seen": "2026-08-25",
-   "mentions": 1,
-   "strength": "emerging"
-  },
-  "Perplexity": {
-   "first_seen": "2026-08-25",
-   "mentions": 1,
-   "strength": "emerging",
-   "last_seen": "2026-08-26",
-   "count": 2
-  },
-  "Ray": {
-   "first_seen": "2026-08-25",
-   "mentions": 1,
-   "strength": "emerging"
-  },
-  "M6": {
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-08-26",
-   "count": 1
-  },
-  "M5 Ultra": {
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-08-26",
-   "count": 1
-  },
-  "Henry de Zoete": {
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-08-26",
-   "count": 1
-  },
-  "Poolside": {
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-08-26",
-   "count": 1
-  },
-  "Laguna S 2.1": {
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-08-26",
-   "count": 1
-  },
-  "Portable Computer": {
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-08-26",
-   "count": 1
-  },
-  "AM Intelligence": {
-   "first_seen": "2026-08-26",
-   "last_seen": "2026-08-26",
-   "count": 1
-  },
-  "Nscale": {
-   "last_seen": "2026-08-27",
-   "count": 1,
-   "appearances": 1,
-   "mention_count": 1
-  },
-  "TRACE": {
-   "last_seen": "2026-08-27",
-   "count": 1,
-   "appearances": 1,
-   "mention_count": 1
-  },
-  "Linux Foundation": {
-   "last_seen": "2026-08-27",
-   "count": 1,
-   "appearances": 1,
-   "mention_count": 1
-  },
-  "Nature Human Behaviour": {
-   "last_seen": "2026-08-27",
-   "count": 1,
-   "appearances": 1,
-   "mention_count": 1
-  },
-  "Moonshot": {
-   "last_seen": "2026-08-27",
-   "count": 1,
-   "appearances": 1,
-   "mention_count": 1
-  },
-  "SpaceX Cursor": {
-   "first_seen": "2026-08-28",
-   "count": 1
-  },
-  "Gemini 3.8 Flash": {
-   "first_seen": "2026-08-28",
-   "count": 1
-  },
-  "Gambit Security": {
-   "first_seen": "2026-08-28",
-   "count": 1
-  },
-  "GM": {
-   "first_seen": "2026-08-28",
-   "count": 1
-  },
-  "HHMI Janelia": {
-   "first_seen": "2026-08-28",
-   "count": 1
-  },
-  "Zama": {
-   "first_seen": "2026-08-28",
-   "count": 1
-  },
-  "Umbra": {
-   "first_seen": "2026-08-28",
-   "count": 1
-  },
-  "Revolut": {
-   "first_seen": "2026-08-28",
-   "count": 1
-  },
-  "Instinct": {
-   "first_seen": "2026-08-28",
-   "count": 1
-  }
- },
- "2026-08-09": [
-  "Google DeepMind",
-  "Jeff Dean",
-  "Demis Hassabis",
-  "OpenAI Astra",
-  "Lancium",
-  "Stargate",
-  "Firebird AI",
-  "D-Wave",
-  "Koray Kavukcuoglu",
-  "Buzz"
- ],
- "2026-08-10": [
-  "OpenClaw",
-  "Broadcom",
-  "Naver",
-  "Brookfield",
-  "Situational Awareness",
-  "Source Foundry",
-  "DHS",
-  "alibaba"
- ],
- "2026-08-13": {
-  "entities": [
-   "xAI",
-   "Grok 4.6",
-   "SpaceXAI",
-   "OpenAI",
-   "GPT-5.6-Cyber",
-   "CVE-2026-15903",
-   "PitchBook",
-   "Cognition",
-   "Devin",
-   "Lovable",
-   "River AI",
-   "Suno",
-   "BMG",
-   "Warner Music",
-   "NVIDIA",
-   "800 VDC",
-   "Eaton",
-   "Wood Mackenzie",
-   "PrimeIntellect",
-   "prime-agent"
+    "first_seen": "2026-08-16",
+    "count": 1,
+    "last_seen": "2026-08-16"
+  },
+  "updated": "2026-08-30",
+  "2026-08-19": [
+    "OpenAI",
+    "Astra",
+    "GLM-5.3",
+    "Z.ai",
+    "Kimi K3",
+    "Moonshot AI",
+    "Etched",
+    "Jane Street",
+    "Gartner",
+    "MiniMax-Music3",
+    "MiniMax",
+    "Claude Opus 5",
+    "Artificial Analysis",
+    "Hugging Face",
+    "Snowflake",
+    "github/spec-kit"
   ],
-  "source_count": 10
- },
- "2026-08-15": [
-  "Z.ai",
-  "GLM-5.3",
-  "Apple",
-  "Alibaba",
-  "Qwen",
-  "Baidu",
-  "OpenAI",
-  "Denise Dresser",
-  "Kiteworks",
-  "Light Society",
-  "TencentDB Agent Memory",
-  "IREN",
-  "UK AISI"
- ],
- "SpaceX": {
-  "first_seen": "2026-08-16",
-  "count": 1,
-  "last_seen": "2026-08-16"
- },
- "Cursor": {
-  "first_seen": "2026-08-16",
-  "count": 1,
-  "last_seen": "2026-08-16"
- },
- "Anthropic": {
-  "first_seen": "2026-08-16",
-  "count": 1,
-  "last_seen": "2026-08-16"
- },
- "NVIDIA": {
-  "first_seen": "2026-08-16",
-  "count": 1,
-  "last_seen": "2026-08-16"
- },
- "OpenAI": {
-  "first_seen": "2026-08-16",
-  "count": 1,
-  "last_seen": "2026-08-16"
- },
- "Lovable": {
-  "first_seen": "2026-08-16",
-  "count": 1,
-  "last_seen": "2026-08-16"
- },
- "MoS2": {
-  "first_seen": "2026-08-16",
-  "count": 1,
-  "last_seen": "2026-08-16"
- },
- "Qwen": {
-  "first_seen": "2026-08-16",
-  "count": 1,
-  "last_seen": "2026-08-16"
- },
- "updated": "2026-08-27",
- "2026-08-19": [
-  "OpenAI",
-  "Astra",
-  "GLM-5.3",
-  "Z.ai",
-  "Kimi K3",
-  "Moonshot AI",
-  "Etched",
-  "Jane Street",
-  "Gartner",
-  "MiniMax-Music3",
-  "MiniMax",
-  "Claude Opus 5",
-  "Artificial Analysis",
-  "Hugging Face",
-  "Snowflake",
-  "github/spec-kit"
- ],
- "last_updated": "2026-08-27",
- "2026-08-21": [
-  "Anthropic Model 2",
-  "Mythos 5",
-  "AECI",
-  "FY2026 NDAA",
-  "CRS",
-  "JetBrains Developer Ecosystem Survey",
-  "Claude Code",
-  "Codex",
-  "GitHub Copilot",
-  "SK hynix",
-  "Co-Packaged Optics",
-  "Nature Electronics",
-  "University of Virginia",
-  "Ramp",
-  "Router.com",
-  "SpaceXAI",
-  "Grok",
-  "University of Essex",
-  "Intrabodies",
-  "OmniRoute",
-  "Nature Communications"
- ],
- "2026-08-23": [
-  "Ox Alpha",
-  "OpenRouter",
-  "Guidelight",
-  "Inherent",
-  "volcengine",
-  "OpenViking",
-  "VikingMem",
-  "SB 53",
-  "Patrick Collison"
- ],
- "2026-08-25": [
-  "Hugging Face",
-  "Thomson Reuters",
-  "Xiaomi",
-  "Alabama AG",
-  "Workiva",
-  "Ray"
- ],
- "2026-08-29": [
-  "NVIDIA",
-  "Hugging Face",
-  "Tencent",
-  "Hy4",
-  "Z.ai",
-  "GLM-5.3",
-  "Anthropic",
-  "Pentagon",
-  "Google",
-  "Gemini",
-  "a16z",
-  "Machine Age Fund",
-  "io.net",
-  "Hannah Waight"
- ]
+  "last_updated": "2026-08-30",
+  "2026-08-21": [
+    "Anthropic Model 2",
+    "Mythos 5",
+    "AECI",
+    "FY2026 NDAA",
+    "CRS",
+    "JetBrains Developer Ecosystem Survey",
+    "Claude Code",
+    "Codex",
+    "GitHub Copilot",
+    "SK hynix",
+    "Co-Packaged Optics",
+    "Nature Electronics",
+    "University of Virginia",
+    "Ramp",
+    "Router.com",
+    "SpaceXAI",
+    "Grok",
+    "University of Essex",
+    "Intrabodies",
+    "OmniRoute",
+    "Nature Communications"
+  ],
+  "2026-08-23": [
+    "Ox Alpha",
+    "OpenRouter",
+    "Guidelight",
+    "Inherent",
+    "volcengine",
+    "OpenViking",
+    "VikingMem",
+    "SB 53",
+    "Patrick Collison"
+  ],
+  "2026-08-25": [
+    "Hugging Face",
+    "Thomson Reuters",
+    "Xiaomi",
+    "Alabama AG",
+    "Workiva",
+    "Ray"
+  ],
+  "2026-08-29": [
+    "NVIDIA",
+    "Hugging Face",
+    "Tencent",
+    "Hy4",
+    "Z.ai",
+    "GLM-5.3",
+    "Anthropic",
+    "Pentagon",
+    "Google",
+    "Gemini",
+    "a16z",
+    "Machine Age Fund",
+    "io.net",
+    "Hannah Waight"
+  ],
+  "2026-08-30": [
+    "OpenAI GPT-6 Astra",
+    "OpenAI",
+    "SpaceX",
+    "Cursor",
+    "Anysphere",
+    "Anthropic",
+    "MatX",
+    "UK AISI",
+    "Guardian",
+    "Hugging Face",
+    "Microsoft",
+    "Pathway",
+    "LobsterAI",
+    "GPT-5.6 Sol",
+    "Mythos 5"
+  ]
 }
