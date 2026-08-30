@@ -1,16 +1,16 @@
 {
   "entities": {
     "OpenAI": {
-      "last_seen": "2026-08-30",
-      "count": 12,
-      "appearances": 1,
+      "last_seen": "2026-08-31",
+      "count": 13,
+      "appearances": 2,
       "mention_count": 3
     },
     "Anthropic": {
-      "last_seen": "2026-08-30",
-      "count": 17,
+      "last_seen": "2026-08-31",
+      "count": 18,
       "mention_count": 3,
-      "appearances": 2,
+      "appearances": 3,
       "mentions": 1
     },
     "Meta": {
@@ -71,8 +71,9 @@
       "mention_count": 3
     },
     "Huawei": {
-      "last_seen": "2026-06-30",
-      "count": 1
+      "last_seen": "2026-08-31",
+      "count": 2,
+      "appearances": 1
     },
     "South Korea": {
       "last_seen": "2026-06-30",
@@ -361,8 +362,9 @@
       "count": 2
     },
     "SpaceX": {
-      "count": 4,
-      "last_seen": "2026-08-30"
+      "count": 5,
+      "last_seen": "2026-08-31",
+      "appearances": 1
     },
     "Ollama": {
       "last_seen": "2026-07-10",
@@ -1825,8 +1827,9 @@
     },
     "MatX": {
       "first_seen": "2026-08-30",
-      "count": 1,
-      "last_seen": "2026-08-30"
+      "count": 2,
+      "last_seen": "2026-08-31",
+      "appearances": 1
     },
     "Guardian": {
       "first_seen": "2026-08-30",
@@ -1852,6 +1855,31 @@
       "first_seen": "2026-08-30",
       "count": 1,
       "last_seen": "2026-08-30"
+    },
+    "MCP": {
+      "count": 1,
+      "last_seen": "2026-08-31",
+      "appearances": 1
+    },
+    "Egypt": {
+      "count": 1,
+      "last_seen": "2026-08-31",
+      "appearances": 1
+    },
+    "Elon Musk": {
+      "count": 1,
+      "last_seen": "2026-08-31",
+      "appearances": 1
+    },
+    "DALL-E": {
+      "count": 1,
+      "last_seen": "2026-08-31",
+      "appearances": 1
+    },
+    "Claude Sonnet 5": {
+      "count": 1,
+      "last_seen": "2026-08-31",
+      "appearances": 1
     }
   },
   "2026-08-09": [

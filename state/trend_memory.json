@@ -714,8 +714,28 @@
       "last_updated": "2026-08-30",
       "strength": "emerging",
       "description": "Pathway BDH-CQ post-transformer architecture claims 11x cost reduction vs GPT-5.6 Luna; potential inference economics paradigm shift"
+    },
+    "ai_ipo_valuation_escalation": {
+      "last_updated": "2026-08-31",
+      "strength": "strong",
+      "description": "Anthropic targets $2T+ IPO (Oct), largest in history; TAM claim $30T; annualized revenue $46.4B exceeds OpenAI"
+    },
+    "model_lifecycle_compression": {
+      "last_updated": "2026-08-31",
+      "strength": "medium",
+      "description": "Six AI model deadlines land in three weeks; DALL-E GPT retired; Sonnet 5 repriced with tokenizer change; monthly churn becomes norm"
+    },
+    "ai_power_vertical_integration": {
+      "last_updated": "2026-08-31",
+      "strength": "medium",
+      "description": "SpaceX builds own gas-turbine foundry; turbine backlogs to 2030; power is the binding constraint on AI data centers"
+    },
+    "ai_infrastructure_geopolitics": {
+      "last_updated": "2026-08-31",
+      "strength": "strong",
+      "description": "Huawei 2,008-chip Egypt AI data center bid; US mobilizes three tech giants to counter; sovereign AI infra becomes battlefield"
     }
   },
-  "last_updated": "2026-08-30",
-  "updated": "2026-08-30"
+  "last_updated": "2026-08-31",
+  "updated": "2026-08-31"
 }
