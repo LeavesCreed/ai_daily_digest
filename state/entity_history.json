@@ -2,7 +2,7 @@
   "entities": {
     "OpenAI": {
       "last_seen": "2026-08-31",
-      "count": 13,
+      "count": 14,
       "appearances": 2,
       "mention_count": 3
     },
@@ -66,7 +66,7 @@
     },
     "NVIDIA": {
       "last_seen": "2026-08-24",
-      "count": 8,
+      "count": 9,
       "mentions": 1,
       "mention_count": 3
     },
@@ -570,13 +570,13 @@
     },
     "Moonshot AI": {
       "last_seen": "2026-08-19",
-      "count": 10,
+      "count": 11,
       "description": "Kimi K3 launched, 0B IPO",
       "appearances": 2
     },
     "Kimi K3": {
       "last_seen": "2026-08-27",
-      "count": 7,
+      "count": 8,
       "description": "2.8T open-weight model, demand crush",
       "mention_count": 1
     },
@@ -642,7 +642,7 @@
     },
     "xAI": {
       "last_seen": "2026-07-20",
-      "count": 1,
+      "count": 2,
       "description": "$1.25B/month Colossus compute to Anthropic"
     },
     "Fluidstack": {
@@ -1880,6 +1880,50 @@
       "count": 1,
       "last_seen": "2026-08-31",
       "appearances": 1
+    },
+    "MediaTek": {
+      "first_seen": "2026-09-01",
+      "count": 1
+    },
+    "NVLink Fusion": {
+      "first_seen": "2026-09-01",
+      "count": 1
+    },
+    "Pentagon": {
+      "first_seen": "2026-09-01",
+      "count": 1
+    },
+    "GenAI.mil": {
+      "first_seen": "2026-09-01",
+      "count": 1
+    },
+    "Grok for Government": {
+      "first_seen": "2026-09-01",
+      "count": 1
+    },
+    "ChatGPT Mil": {
+      "first_seen": "2026-09-01",
+      "count": 1
+    },
+    "CrowdStrike": {
+      "first_seen": "2026-09-01",
+      "count": 1
+    },
+    "Falcon IQ": {
+      "first_seen": "2026-09-01",
+      "count": 1
+    },
+    "Nemotron": {
+      "first_seen": "2026-09-01",
+      "count": 1
+    },
+    "DeepSeek Harness": {
+      "first_seen": "2026-09-01",
+      "count": 1
+    },
+    "Aurora Mobile": {
+      "first_seen": "2026-09-01",
+      "count": 1
     }
   },
   "2026-08-09": [

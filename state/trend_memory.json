@@ -734,6 +734,22 @@
       "last_updated": "2026-08-31",
       "strength": "strong",
       "description": "Huawei 2,008-chip Egypt AI data center bid; US mobilizes three tech giants to counter; sovereign AI infra becomes battlefield"
+    },
+    "ai_infrastructure_architecture_layer_war": {
+      "level": "strong",
+      "note": "NVIDIA 35亿美元MediaTek投资：竞争从芯片转向互连/编排层"
+    },
+    "federal_ai_procurement_multipolar": {
+      "level": "strong",
+      "note": "五角大楼GenAI.mil同时部署Grok与ChatGPT Mil，Anthropic被排除"
+    },
+    "ai_agentic_security_industrialization": {
+      "level": "medium",
+      "note": "CrowdStrike Falcon IQ：安全行业首个全栈智能体化回应"
+    },
+    "open_weight_commercialization_shift": {
+      "level": "medium",
+      "note": "Kimi K3收入分成模式：中国开源从生态主导转向生态变现"
     }
   },
   "last_updated": "2026-08-31",
