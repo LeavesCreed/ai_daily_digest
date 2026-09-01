@@ -1,14 +1,14 @@
 {
   "entities": {
     "OpenAI": {
-      "last_seen": "2026-08-31",
-      "count": 14,
+      "last_seen": "2026-09-02",
+      "count": 15,
       "appearances": 2,
       "mention_count": 3
     },
     "Anthropic": {
-      "last_seen": "2026-08-31",
-      "count": 18,
+      "last_seen": "2026-09-02",
+      "count": 19,
       "mention_count": 3,
       "appearances": 3,
       "mentions": 1
@@ -65,8 +65,8 @@
       "appearances": 1
     },
     "NVIDIA": {
-      "last_seen": "2026-08-24",
-      "count": 9,
+      "last_seen": "2026-09-02",
+      "count": 10,
       "mentions": 1,
       "mention_count": 3
     },
@@ -687,8 +687,8 @@
       "description": "Brain activity decoding AI, $52M raised"
     },
     "Hut 8": {
-      "last_seen": "2026-07-21",
-      "count": 1,
+      "last_seen": "2026-09-02",
+      "count": 2,
       "description": "Bitcoin miner turned AI infra"
     },
     "01.ai": {
@@ -736,8 +736,8 @@
       "appearances": 1
     },
     "AMD": {
-      "last_seen": "2026-07-24",
-      "count": 3,
+      "last_seen": "2026-09-02",
+      "count": 4,
       "appearances": 1
     },
     "Michael Kratsios": {
@@ -1470,8 +1470,9 @@
     },
     "SB Energy": {
       "first_seen": "2026-08-18",
-      "count": 1,
-      "trend": "rising"
+      "count": 2,
+      "trend": "rising",
+      "last_seen": "2026-09-02"
     },
     "LG Electronics": {
       "first_seen": "2026-08-18",
@@ -1500,8 +1501,9 @@
     },
     "Cisco": {
       "first_seen": "2026-08-18",
-      "count": 1,
-      "trend": "rising"
+      "count": 2,
+      "trend": "rising",
+      "last_seen": "2026-09-02"
     },
     "GeoPT": {
       "first_seen": "2026-08-18",
@@ -1519,8 +1521,8 @@
       "trend": "rising"
     },
     "Astra": {
-      "last_seen": "2026-08-19",
-      "count": 1
+      "last_seen": "2026-09-02",
+      "count": 2
     },
     "Jane Street": {
       "last_seen": "2026-08-19",
@@ -1924,6 +1926,54 @@
     "Aurora Mobile": {
       "first_seen": "2026-09-01",
       "count": 1
+    },
+    "Claude Fable 5.1": {
+      "last_seen": "2026-09-02",
+      "count": 1
+    },
+    "Claude Mythos 5.1": {
+      "last_seen": "2026-09-02",
+      "count": 1
+    },
+    "Preparedness Framework": {
+      "last_seen": "2026-09-02",
+      "count": 1
+    },
+    "Daybreak Blue": {
+      "last_seen": "2026-09-02",
+      "count": 1
+    },
+    "G20": {
+      "last_seen": "2026-09-02",
+      "count": 1
+    },
+    "Carolina Principles": {
+      "last_seen": "2026-09-02",
+      "count": 1
+    },
+    "Hassabis": {
+      "last_seen": "2026-09-02",
+      "count": 1
+    },
+    "Lambda": {
+      "last_seen": "2026-09-02",
+      "count": 1
+    },
+    "MI355X": {
+      "last_seen": "2026-09-02",
+      "count": 1
+    },
+    "HUMAIN": {
+      "last_seen": "2026-09-02",
+      "count": 1
+    },
+    "Saudi PIF": {
+      "last_seen": "2026-09-02",
+      "count": 1
+    },
+    "Anirudh Goyal": {
+      "last_seen": "2026-09-02",
+      "count": 1
     }
   },
   "2026-08-09": [
@@ -2122,5 +2172,27 @@
     "LobsterAI",
     "GPT-5.6 Sol",
     "Mythos 5"
+  ],
+  "2026-09-02": [
+    "Anthropic",
+    "Claude Fable 5.1",
+    "Claude Mythos 5.1",
+    "OpenAI",
+    "Astra",
+    "Preparedness Framework",
+    "Daybreak Blue",
+    "G20",
+    "Carolina Principles",
+    "Hassabis",
+    "Lambda",
+    "Hut 8",
+    "NVIDIA",
+    "AMD",
+    "MI355X",
+    "HUMAIN",
+    "Cisco",
+    "Saudi PIF",
+    "SB Energy",
+    "Anirudh Goyal"
   ]
 }

@@ -410,8 +410,9 @@
       "description": "Agent autonomy default + agent-native browser + compute financing mark industrialization of agent economy"
     },
     "ai_compute_financialization": {
-      "status": "emerging",
-      "last_updated": "2026-08-12"
+      "last_updated": "2026-09-02",
+      "strength": "strong",
+      "description": "Anthropic $35B Lambda/Hut 8 deal with Nvidia as leaseholder; SB Energy IPO filing; Nvidia capital-architect role deepens"
     },
     "open_weight_reopening": {
       "last_updated": "2026-08-11",
@@ -750,8 +751,18 @@
     "open_weight_commercialization_shift": {
       "level": "medium",
       "note": "Kimi K3收入分成模式：中国开源从生态主导转向生态变现"
+    },
+    "frontier_capability_gating": {
+      "last_updated": "2026-09-02",
+      "strength": "strong",
+      "description": "Labs gate dual-use cyber capabilities at release (OpenAI Astra Critical threshold/Daybreak Blue) while releasing stronger coding models (Anthropic Fable 5.1/Mythos 5.1)"
+    },
+    "gulf_sovereign_ai_infrastructure": {
+      "last_updated": "2026-09-02",
+      "strength": "medium",
+      "description": "AMD MI355X cluster live in Saudi Arabia (HUMAIN/Cisco, 1GW by 2030); Gulf compute procurement diversifying beyond Nvidia"
     }
   },
-  "last_updated": "2026-08-31",
-  "updated": "2026-08-31"
+  "last_updated": "2026-09-02",
+  "updated": "2026-09-02"
 }
