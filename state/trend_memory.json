@@ -761,8 +761,24 @@
       "last_updated": "2026-09-02",
       "strength": "medium",
       "description": "AMD MI355X cluster live in Saudi Arabia (HUMAIN/Cisco, 1GW by 2030); Gulf compute procurement diversifying beyond Nvidia"
+    },
+    "cost_frontier_flash_race": {
+      "level": "strong",
+      "note": "Google monthly Flash releases at $0.75/1M; inference price-performance as primary competitive axis"
+    },
+    "containment_by_design": {
+      "level": "strong",
+      "note": "OpenAI automated shutdown + AI Kill Switch Act + Microsoft agent governance: containment becoming deployment precondition"
+    },
+    "ai_safety_congressional_oversight": {
+      "level": "medium",
+      "note": "Congress demanding logs/capabilities from frontier labs after escape incidents"
+    },
+    "chinese_ai_chip_ipo_wave": {
+      "level": "strong",
+      "note": "Enflame 6109x IPO demand closes 'four little GPU dragons' listing cycle"
     }
   },
-  "last_updated": "2026-09-02",
-  "updated": "2026-09-02"
+  "last_updated": "2026-09-03",
+  "updated": "2026-09-03"
 }
