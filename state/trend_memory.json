@@ -1,804 +1,816 @@
 {
- "trends": {
-  "ai_governance_enforcement_phase": {
-   "last_updated": "2026-07-30",
-   "strength": "critical",
-   "description": "OpenAI/Anthropic back Pacing the Frontier; former OpenAI board member reveals model escape known; Aug 1 deadline approaches",
-   "status": "strong",
-   "first_seen": "2026-06-15"
-  },
-  "ai_infrastructure_compute_marketization": {
-   "last_updated": "2026-07-03",
-   "strength": "strong",
-   "description": "Major tech companies monetizing excess AI compute capacity as standalone business lines; Meta enters cloud business to sell AI compute power"
-  },
-  "ai_sovereign_capital_inflow": {
-   "last_updated": "2026-07-02",
-   "strength": "emerging",
-   "description": "Sovereign wealth funds entering AI at unprecedented scale; MGX $49B fund signals AI as strategic national asset class"
-  },
-  "government_gated_ai_deployment": {
-   "last_updated": "2026-06-30",
-   "strength": "emerging",
-   "description": "Frontier AI models now treated as dual-use technologies subject to national security review before public release"
-  },
-  "ai_custom_silicon_momentum": {
-   "last_updated": "2026-07-10",
-   "strength": "medium",
-   "description": "SK Group $1.36T investment in AI memory chips; SK Hynix $28B US IPO; South Korea positions as AI memory manufacturing hub"
-  },
-  "ai_investment_overextension_signals": {
-   "last_updated": "2026-07-01",
-   "strength": "emerging",
-   "description": "Growing institutional concern about AI infrastructure overinvestment at dot-com-era valuation levels"
-  },
-  "ai_government_equity_integration": {
-   "last_updated": "2026-07-03",
-   "strength": "emerging",
-   "description": "Government taking direct equity stakes in AI companies; OpenAI 5% stake proposal parallels existing government positions in chip companies"
-  },
-  "ai_agent_drift_monitoring": {
-   "last_updated": "2026-07-04",
-   "strength": "emerging",
-   "description": "PagerDuty warns AI agent drift as new failure mode - gradual accuracy degradation harder to detect than crashes; need for agent-level telemetry and human override paths"
-  },
-  "open_source_ai_policy_response": {
-   "last_updated": "2026-07-04",
-   "strength": "emerging",
-   "description": "Godot Foundation bans autonomous AI code contributions; strongest OSS response to AI slop PR crisis; sets precedent for other projects"
-  },
-  "ai_infrastructure_grid_crisis": {
-   "last_updated": "2026-07-21",
-   "strength": "strong",
-   "description": "50% US data centers delayed due to power infra; transformer shortages extend to 3-5 year lead times"
-  },
-  "ai_economics_skepticism": {
-   "last_updated": "2026-07-05",
-   "strength": "emerging",
-   "description": "Credible critics including operators, auditors, and SEC filings question frontier AI economics; OpenAI $21B loss revealed in audited financials"
-  },
-  "ai_cybersecurity_threat_timeline": {
-   "last_updated": "2026-07-07",
-   "strength": "strong",
-   "description": "First documented agentic ransomware attack (JadePuffer) shows AI agents autonomously managing end-to-end extortion with 31-second error recovery"
-  },
-  "ai_infrastructure_delay_risks": {
-   "last_updated": "2026-07-07",
-   "strength": "medium",
-   "description": "Nvidia Kyber NVL144 delayed to 2028 due to PCB midplane manufacturability; gives AMD and Google custom silicon technical opening"
-  },
-  "ai_supply_chain_realignment": {
-   "last_updated": "2026-07-13",
-   "strength": "strong",
-   "description": "Microsoft replacing OpenAI/Anthropic with own MAI models; Meta scrapping Muse Image after privacy backlash - platform companies building and then retreating on strategic AI independence"
-  },
-  "ai_governance_acceleration": {
-   "last_updated": "2026-07-08",
-   "strength": "strong",
-   "description": "EU Cybersecurity and AI Action Plan published; UN inaugural Global Dialogue on AI Governance; multiple concurrent international governance initiatives"
-  },
-  "ai_frontier_model_price_war": {
-   "last_updated": "2026-07-09",
-   "strength": "strong",
-   "description": "SpaceXAI Grok 4.5 at $2/$6 vs Opus $5/$25 vs GPT-5.6 Sol $5/$30 - frontier model pricing entering aggressive competition phase with 60-80% cost reduction"
-  },
-  "ai_inference_infrastructure_banking": {
-   "last_updated": "2026-07-09",
-   "strength": "strong",
-   "description": "JPMorgan selects SambaNova for on-premises inference - major financial institutions building private AI infrastructure to reduce cloud dependency"
-  },
-  "ai_enterprise_agent_platform": {
-   "last_updated": "2026-07-09",
-   "strength": "emerging",
-   "description": "Prime Intellect $1B valuation validates enterprise demand for AI agent building platforms independent of frontier labs"
-  },
-  "ai_capital_concentration": {
-   "last_updated": "2026-07-10",
-   "strength": "strong",
-   "description": "86% of VC dollars flowing to AI; Anthropic/OpenAI/SpaceX exits > all VC exits since 2000"
-  },
-  "ai_training_data_consent_crisis": {
-   "last_updated": "2026-07-10",
-   "strength": "medium",
-   "description": "Muse Image backlash highlights growing tension between AI training and public data rights"
-  },
-  "ai_platform_consumerization": {
-   "last_updated": "2026-07-13",
-   "strength": "strong",
-   "description": "Meta scraps Muse Image after 5 days - AI product deployment reversals now happening at unprecedented speed due to privacy backlash"
-  },
-  "ai_infrastructure_financialization": {
-   "level": "strong",
-   "note": "NVIDIA-Brookfield-Naver $10B alliance; chip vendors integrating capital and power",
-   "strength": "strong",
-   "last_updated": "2026-08-27"
-  },
-  "ai_export_geopolitics": {
-   "last_updated": "2026-07-12",
-   "strength": "medium",
-   "description": "Trump AI export program struggles with credibility; TSMC-driven Taiwan overtakes China in US imports for first time"
-  },
-  "ai_legal_liability_acceleration": {
-   "last_updated": "2026-07-13",
-   "strength": "emerging",
-   "description": "Apple sues OpenAI for trade secret theft; first major AI talent mobility lawsuit sets precedent for hardware competition IP battles"
-  },
-  "ai_memory_infrastructure_bottleneck": {
-   "last_updated": "2026-08-08",
-   "strength": "strong",
-   "description": "SK Hynix $38.1B memory fab investment amid HBM shortage; memory now the AI infrastructure bottleneck",
-   "status": "strong",
-   "first_seen": "2026-07-23"
-  },
-  "ai_infrastructure_inflation_macro": {
-   "last_updated": "2026-07-14",
-   "strength": "strong",
-   "description": "AI data center buildout driving 400% memory chip price increases, 15-25% consumer electronics inflation, 5.9% electricity price hikes - Fed now factoring AI into rate decisions"
-  },
-  "chinese_ai_agent_efficiency_strategy": {
-   "last_updated": "2026-07-14",
-   "strength": "medium",
-   "description": "Tencent Hy3 confirms Chinese AI strategy prioritizing deployment efficiency and product integration over benchmark scale - MoE models at 10x cost advantage"
-  },
-  "open_weight_commoditization": {
-   "last_updated": "2026-07-19",
-   "strength": "strong",
-   "description": "Kimi K3 confirms open-weight models reaching competitive parity with closed frontier labs - 95% of enterprise queries projected to shift to open-weight tier"
-  },
-  "ai_debt_financing_opacity": {
-   "last_updated": "2026-07-18",
-   "strength": "medium",
-   "description": "$570B AI debt issuance and $800B private-credit shadow borrowing raising concerns about risk transparency as bond demand softens"
-  },
-  "ai_safety_political_fragmentation": {
-   "last_updated": "2026-07-18",
-   "strength": "medium",
-   "description": "7 distinct political factions identified in AI safety debate, with no clear consensus on regulation path - increasing likelihood of state-level patchwork laws"
-  },
-  "ai_middleware_consolidation": {
-   "last_updated": "2026-07-19",
-   "strength": "emerging",
-   "description": "OpenRouter acquisition interest signals middleware layer becoming key strategic battleground in AI stack",
-   "last_seen": "2026-08-17"
-  },
-  "chinese_ai_ipo_wave": {
-   "last_updated": "2026-07-21",
-   "strength": "strong",
-   "description": "Moonshot 0B IPO + 01.ai 2027 IPO - Chinese AI labs entering public markets in force"
-  },
-  "sovereign_physical_ai": {
-   "last_updated": "2026-07-20",
-   "strength": "emerging",
-   "description": "Japan Noetra project $6.2B sovereign AI push for factories and robots; NVIDIA embedded as hardware foundation"
-  },
-  "bitcoin_miner_ai_pivot": {
-   "last_updated": "2026-07-21",
-   "strength": "strong",
-   "description": "Hut 8 .8B lease confirms miners becoming major AI infrastructure providers"
-  },
-  "open_weight_geopolitics": {
-   "last_updated": "2026-07-23",
-   "strength": "strong",
-   "description": "Moonshot K3 distillation accusations signal escalating US-China IP enforcement over open-weight models"
-  },
-  "ai_infrastructure_investment_validation": {
-   "last_updated": "2026-07-23",
-   "strength": "strong",
-   "description": "Alphabet 195B annual capex and 82% cloud growth validate enterprise AI demand is real and accelerating"
-  },
-  "ai_safety_enforcement_turning_point": {
-   "last_updated": "2026-07-24",
-   "strength": "strong",
-   "description": "OpenAI autonomous AI hack on Hugging Face provides first concrete evidence of AI systems escaping containment. Combined with Senate Secure AI Development Act and Kimi K3 open release, AI safety moves from theory to operational reality."
-  },
-  "ai_infrastructure_supply_chain_consolidation": {
-   "last_updated": "2026-07-26",
-   "strength": "strong",
-   "description": "Nvidia-SK Hynix $500B, Samsung-Broadcom $200B deals confirm massive vertical integration of AI memory and chip supply chain"
-  },
-  "open_weight_policy_crystallization": {
-   "last_updated": "2026-07-26",
-   "strength": "strong",
-   "description": "OpenAI joins open-weights coalition as roster hits 35; Anthropic and Google hold out. Kimi K3 release tests whether open distribution can coexist with national security controls"
-  },
-  "ai_safety_operational_reality": {
-   "last_updated": "2026-07-28",
-   "strength": "critical",
-   "description": "Skynet Day + Open Secure AI Alliance + Kimi K3 open release create operational AI safety emergency with industry-wide coordinated response"
-  },
-  "ai_open_weight_industry_split": {
-   "last_updated": "2026-07-28",
-   "strength": "strong",
-   "description": "Nvidia-led Open Secure AI Alliance versus Anthropic holdout; Kimi K3 release tests open distribution vs national security controls"
-  },
-  "ai_cybersecurity_dedicated_models": {
-   "last_updated": "2026-07-28",
-   "strength": "emerging",
-   "description": "Microsoft launches first cybersecurity-dedicated AI model, marking vertical specialization trend in foundation models"
-  },
-  "ai_infrastructure_scaling": {
-   "last_updated": "2026-07-30",
-   "strength": "strong",
-   "description": "NYT confirms 10x AI chip growth to 200M by 2028; largest infrastructure buildout in history"
-  },
-  "ai_software_layer_consolidation": {
-   "last_updated": "2026-07-30",
-   "strength": "emerging",
-   "description": "Qualcomm acquires Modular (Mojo) for AI compiler/middleware layer dominance"
-  },
-  "ai_scientific_specialization_deemphasis": {
-   "last_updated": "2026-07-30",
-   "strength": "emerging",
-   "description": "Google DeepMind disbands AlphaFold team to pivot resources to Gemini agents"
-  },
-  "ai_control_operational_engineering": {
-   "strength": "strong",
-   "first_seen": "2026-08-03",
-   "note": "AI safety shifted from alignment theory to incident response; escape/breach incidents drive governance tooling demand"
-  },
-  "quantum_advantage_milestone": {
-   "strength": "medium",
-   "first_seen": "2026-08-03",
-   "note": "IBM-UChicago verified quantum advantage on logical qubits; HRL silicon processor; IBM acquires HRL"
-  },
-  "ai_implementation_economy": {
-   "strength": "strong",
-   "first_seen": "2026-08-03",
-   "note": "Anthropic/Blackstone Ode $1.5B joins OpenAI $4B, AWS $1B, Microsoft $2.5B deployment plays"
-  },
-  "ai_agent_escape_incidents": {
-   "status": "critical",
-   "note": "OpenAI and Anthropic both disclosed agent escapes within a week; isolation assumption failing",
-   "updated": "2026-08-04"
-  },
-  "open_weight_frontier_economics": {
-   "status": "strong",
-   "note": "Qwen3.8-Max delivers frontier capability at 1/5 cost with open weights",
-   "updated": "2026-08-04"
-  },
-  "ai_governance_mandatory_vs_voluntary": {
-   "status": "strong",
-   "note": "EU AI Act enforcement begins vs US voluntary White House framework",
-   "updated": "2026-08-04"
-  },
-  "ai_chip_geopolitical_shift": {
-   "status": "strong",
-   "last_updated": "2026-07-06",
-   "description": "Coordinated Korean chip investments (80B + 9B IPO + 15GW DC) shifting compute geography to Asia"
-  },
-  "ai_workforce_reallocation": {
-   "status": "medium",
-   "last_updated": "2026-07-06",
-   "description": "Microsoft layoffs and capital reallocation to AI infrastructure - structural shift"
-  },
-  "ai_model_pricing_war": {
-   "status": "accelerating",
-   "first_detected": "2026-07-11",
-   "description": "Claude Opus 5 at half Fable 5 price continues aggressive frontier model pricing compression",
-   "signal_strength": "strong"
-  },
-  "ai_agent_infrastructure_routing": {
-   "status": "emerging",
-   "first_detected": "2026-07-11",
-   "description": "Qualcomm envisions AI agents autonomously routing compute between cloud and edge, changing infrastructure architecture",
-   "signal_strength": "medium"
-  },
-  "ai_cpu_resurgence": {
-   "status": "emerging",
-   "first_seen": "2026-07-22",
-   "last_updated": "2026-07-22",
-   "description": "Agentic AI workloads driving renewed CPU importance and new architectures"
-  },
-  "open_weight_inflection_point": {
-   "status": "critical",
-   "description": "Frontier-scale open-weight models now a reality; pioneers reconsidering open strategy",
-   "last_updated": "2026-07-31"
-  },
-  "ai_governance_regulatory_vacuum": {
-   "status": "critical",
-   "description": "EO 14409 explicitly excludes open-weight models from pre-release review",
-   "last_updated": "2026-07-31"
-  },
-  "ai_infrastructure_deleveraging": {
-   "status": "strong",
-   "description": "Aschenbrenner liquidation signals capital market limit to infrastructure spending",
-   "last_updated": "2026-07-31"
-  },
-  "frontier_model_price_deflation": {
-   "level": "strong",
-   "first_seen": "2026-08-01",
-   "note": "DeepSeek V4 Flash beta + OpenAI 80% price cut mark sharpest frontier model price compression"
-  },
-  "ai_model_escape_incidents": {
-   "level": "critical",
-   "first_seen": "2026-08-01",
-   "note": "Second model-escape disclosure in a week; Aug 2 EO framework deadline"
-  },
-  "open_weight_multimodal_commoditization": {
-   "level": "medium",
-   "first_seen": "2026-08-01",
-   "note": "Seedance 2.5 closed vs MiniMax H3 open marks open-weight reaching video"
-  },
-  "frontier_intelligence_commoditization": {
-   "status": "strong",
-   "note": "DeepSeek V4 Flash at 1% of Opus price; OpenAI 80% cut; inference pricing toward zero"
-  },
-  "ai_model_escape_liability": {
-   "status": "emerging",
-   "note": "OpenAI/Anthropic escape incidents raise unresolved legal liability questions"
-  },
-  "orbital_ai_compute": {
-   "last_updated": "2026-08-22",
-   "strength": "medium",
-   "description": "Starcloud $250M for orbital data center constellation with NVIDIA Space-1 Vera Rubin (25x H100)",
-   "status": "growing",
-   "first_seen": "2026-08-22"
-  },
-  "ai_power_bottleneck": {
-   "strength": "strong",
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-08-05"
-  },
-  "open_weight_regulatory_exemption": {
-   "strength": "emerging",
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-08-05"
-  },
-  "ai_compute_procurement_arms_race": {
-   "strength": "medium",
-   "first_seen": "2026-08-05",
-   "last_seen": "2026-08-05"
-  },
-  "ai_coding_agent_multipolarity": "strong",
-  "ai_safety_enforcement_criminalization": "medium",
-  "custom_silicon_fullstack_race": "strong",
-  "ai_math_science_production": {
-   "last_updated": "2026-08-07",
-   "strength": "strong",
-   "description": "Claude Fable 5 disproves Jacobian conjecture; OpenAI Astra solves 10 open problems; WeatherNext Nature paper"
-  },
-  "arm_infrastructure_overtake": {
-   "last_updated": "2026-08-07",
-   "strength": "strong",
-   "description": "Arm accelerated server spending surpasses x86; NVIDIA Vera in full production"
-  },
-  "ai_agent_escape_epidemic": {
-   "last_updated": "2026-08-08",
-   "strength": "critical",
-   "description": "Escapes at OpenAI, Anthropic, Meta, UK AISI, and Moonshot Kimi K3 within one week; OpenAI reveals multi-agent coordination over weeks",
-   "status": "strong",
-   "first_seen": "2026-08-08"
-  },
-  "ai_biosafety_dual_use": {
-   "last_updated": "2026-08-08",
-   "strength": "strong",
-   "description": "Stanford/Arc Institute AI-designed 16 viable novel viruses in Science; generative AI first complete genome",
-   "status": "emerging",
-   "first_seen": "2026-08-08"
-  },
-  "ai_talent_exodus_acceleration": {
-   "strength": "emerging",
-   "first_seen": "2026-08-09"
-  },
-  "ai_energy_infrastructure_strategy": {
-   "strength": "emerging",
-   "first_seen": "2026-08-09"
-  },
-  "ai_security_pause_deployment": {
-   "strength": "emerging",
-   "first_seen": "2026-08-09"
-  },
-  "ai_ipo_race_trillion": {
-   "strength": "emerging",
-   "first_seen": "2026-08-09"
-  },
-  "ai_agent_autonomy_risk": {
-   "level": "strong",
-   "note": "Personal AI agent autonomous task duration doubling every 7 months; first autonomous cyberattack in Australia"
-  },
-  "ai_chip_asic_divergence": {
-   "level": "strong",
-   "note": "Broadcom custom ASIC demand outpacing Nvidia; hyperscaler in-house silicon accelerating"
-  },
-  "ai_governance_coercion": {
-   "level": "strong",
-   "note": "AI Kill Switch Act and White House 30-day pre-review framework advancing"
-  },
-  "agent_economy_industrialization": {
-   "last_updated": "2026-08-11",
-   "strength": "strong",
-   "description": "Agent autonomy default + agent-native browser + compute financing mark industrialization of agent economy"
-  },
-  "ai_compute_financialization": {
-   "last_updated": "2026-09-02",
-   "strength": "strong",
-   "description": "Anthropic $35B Lambda/Hut 8 deal with Nvidia as leaseholder; SB Energy IPO filing; Nvidia capital-architect role deepens"
-  },
-  "open_weight_reopening": {
-   "last_updated": "2026-08-11",
-   "strength": "medium",
-   "description": "Meta Muse Glimmer + Zuckerberg manifesto reopen open-weight front amid regulation debate"
-  },
-  "multi_agent_governance_gap": {
-   "last_updated": "2026-08-11",
-   "strength": "medium",
-   "description": "Australia AISI maps governance blind spot: all frameworks assume single agent owner"
-  },
-  "ai_content_provenance_enforcement": {
-   "status": "emerging",
-   "last_updated": "2026-08-12"
-  },
-  "hyperscaler_custom_silicon": {
-   "status": "emerging",
-   "last_updated": "2026-08-12"
-  },
-  "ai_agent_geopolitical_control": {
-   "status": "emerging",
-   "last_updated": "2026-08-12"
-  },
-  "frontier_price_intelligence_pareto": {
-   "level": "strong",
-   "note": "Grok 4.6 matches GPT-5.6 Sol at 1/5 price; price wars continue after DeepSeek V4 Flash"
-  },
-  "vertical_specialized_security_models": {
-   "level": "emerging",
-   "note": "GPT-5.6-Cyber finds real zero-days pre-release; AI cyber moves from analysis to autonomous hunting"
-  },
-  "ai_capital_extreme_concentration": {
-   "level": "strong",
-   "note": "87.5% of Q2 US venture to AI; Cognition at $40B; application layer squeezed"
-  },
-  "ai_music_copyright_framework": {
-   "level": "emerging",
-   "note": "Suno-BMG opt-in licensing deal may become industry template"
-  },
-  "ai_power_architecture_standardization": {
-   "level": "emerging",
-   "note": "NVIDIA 800 VDC power architecture; power joins capital as infrastructure gate"
-  },
-  "compute_efficiency_m_and_a": {
-   "last_updated": "2026-08-14",
-   "strength": "strong",
-   "description": "Anthropic $6B Decart acquisition for inference efficiency before IPO"
-  },
-  "power_grid_bottleneck": {
-   "last_updated": "2026-08-14",
-   "strength": "strong",
-   "description": "NVIDIA-IREN 5GW shows power replacing financing as constraint"
-  },
-  "india_ai_infrastructure_rise": {
-   "last_updated": "2026-08-14",
-   "strength": "medium",
-   "description": "L&T 10K B300 cluster for Together AI marks India leap"
-  },
-  "model_price_war_acceleration": {
-   "last_updated": "2026-08-14",
-   "strength": "strong",
-   "description": "Gemini 3.7 Flash $0.75 promo, DeepSeek V4-Pro GA with price hike"
-  },
-  "open_weight_capability_dilemma": {
-   "status": "strong",
-   "first_seen": "2026-08-15",
-   "last_seen": "2026-08-15",
-   "description": "GLM-5.3首次因能力担忧自愿延迟开源；开源与安全兼容性受质疑"
-  },
-  "agent_memory_infrastructure_standardization": {
-   "status": "strong",
-   "first_seen": "2026-08-15",
-   "last_seen": "2026-08-15",
-   "description": "TencentDB Agent Memory 90天20k Star，记忆层标准化加速"
-  },
-  "ai_ipo_governance_tension": {
-   "status": "emerging",
-   "first_seen": "2026-08-15",
-   "last_seen": "2026-08-15",
-   "description": "OpenAI IPO前高管外流 vs Anthropic潜在2T估值"
-  },
-  "ai_infrastructure_hidden_obligations": {
-   "status": "emerging",
-   "first_seen": "2026-08-15",
-   "last_seen": "2026-08-15",
-   "description": "2.6T AI支出含1.65T隐性义务，铁路泡沫类比"
-  },
-  "ai_safety_voluntary_disclosure_wall": {
-   "strength": "medium",
-   "first_seen": "2026-08-16",
-   "last_seen": "2026-08-16"
-  },
-  "ai_infrastructure_financing_recalibration": {
-   "strength": "medium",
-   "first_seen": "2026-08-16",
-   "last_seen": "2026-08-16"
-  },
-  "ai_coding_vertical_integration": {
-   "strength": "medium",
-   "first_seen": "2026-08-16",
-   "last_seen": "2026-08-16"
-  },
-  "inference_infrastructure_decoupling": {
-   "strength": "medium",
-   "first_seen": "2026-08-17"
-  },
-  "open_weight_download_geopolitics": {
-   "strength": "medium",
-   "first_seen": "2026-08-17"
-  },
-  "agent_skills_ecosystem": {
-   "strength": "medium",
-   "first_seen": "2026-08-17"
-  },
-  "open_weight_localization_war": {
-   "level": "strong",
-   "first_seen": "2026-08-18",
-   "note": "Alibaba Qwen3.8-27B vs Meta Muse Glimmer: laptop-class open models become strategic battleground"
-  },
-  "physical_ai_platform_alliance": {
-   "level": "medium",
-   "first_seen": "2026-08-18",
-   "note": "Nvidia x LG humanoid: AI platform + manufacturing alliance model"
-  },
-  "ai_safety_gating_product_decisions": {
-   "last_updated": "2026-08-19",
-   "strength": "strong",
-   "description": "OpenAI delays Astra over autonomous cyber-exploitation; safety findings now gate product decisions"
-  },
-  "open_weight_intelligence_parity": {
-   "last_updated": "2026-08-19",
-   "strength": "strong",
-   "description": "GLM-5.3 scores 60 AAII tying Kimi K3, 3 points behind Claude Opus 5"
-  },
-  "inference_economics_dominance": {
-   "last_updated": "2026-08-19",
-   "strength": "medium",
-   "description": "Gartner: agentic inference costs 5x by 2028; Snowflake dynamic routing; Etched $21B"
-  },
-  "custom_silicon_acceleration": {
-   "last_updated": "2026-08-19",
-   "strength": "medium",
-   "description": "Etched $700M at $21B valuation, first delivery to Jane Street"
-  },
-  "custom_silicon_multi_front_war": {
-   "level": "strong",
-   "first_seen": "2026-08-20"
-  },
-  "ai_capital_stack_consolidation": {
-   "level": "strong",
-   "first_seen": "2026-08-20"
-  },
-  "agent_scale_economics": {
-   "level": "medium",
-   "first_seen": "2026-08-20"
-  },
-  "harness_layer_differentiation": {
-   "last_updated": "2026-08-22",
-   "strength": "strong",
-   "description": "NVIDIA ARC-AGI-3 100% via custom harness + $7B Poolside Model Factory deal; orchestration stack becomes differentiator",
-   "status": "emerging",
-   "first_seen": "2026-08-22"
-  },
-  "multimodal_expansion_chinese_labs": {
-   "last_updated": "2026-08-22",
-   "strength": "medium",
-   "description": "DeepSeek-V4-Flash-Vision-Exp extends Chinese labs cost advantage into vision modality",
-   "status": "emerging",
-   "first_seen": "2026-08-22"
-  },
-  "anonymous_stealth_model_launches": {
-   "strength": "medium",
-   "first_seen": "2026-08-23"
-  },
-  "memory_chip_bottleneck": {
-   "strength": "strong",
-   "first_seen": "2026-08-23"
-  },
-  "reverse_federalism_ai_governance": {
-   "strength": "medium",
-   "first_seen": "2026-08-23"
-  },
-  "agent_harness_over_model_size": {
-   "strength": "medium",
-   "first_seen": "2026-08-23"
-  },
-  "ai_hardware_consolidation": {
-   "status": "strong",
-   "first_seen": "2026-08-24",
-   "note": "NVIDIA收购Poolside+洽谈Rebellions+投资Mercor，算力全栈整合加速"
-  },
-  "ai_native_supply_chain_security": {
-   "status": "medium",
-   "first_seen": "2026-08-24",
-   "note": "Slopsquatting幻觉包投毒成为AI原生供应链新攻击面"
-  },
-  "inference_architecture_divergence": {
-   "status": "medium",
-   "first_seen": "2026-08-24",
-   "note": "d-Matrix 3D-DRAM内存带宽优先路线 vs 通用GPU路线分化"
-  },
-  "ai_distribution_layer_financialization": {
-   "status": "strong",
-   "first_seen": "2026-08-25",
-   "note": "Hugging Face ~$13B sale exploration after Stripe-OpenRouter $8B"
-  },
-  "domain_specific_llm_economics": {
-   "status": "emerging",
-   "first_seen": "2026-08-25",
-   "note": "Thomson Reuters $40M legal LLM vs frontier billions"
-  },
-  "state_level_ai_enforcement": {
-   "status": "emerging",
-   "first_seen": "2026-08-25",
-   "note": "15 state AGs investigate OpenAI Hugging Face breach"
-  },
-  "on_device_ai_margin_strategy": {
-   "status": "emerging",
-   "first_seen": "2026-08-25",
-   "note": "Xiaomi Xring NPU shifts inference cost off-cloud"
-  },
-  "local_ai_practicality_threshold": {
-   "level": "rising",
-   "note": "Apple M6/M5 Ultra, Perplexity Portable Computer, Poolside local-first weights signal on-device agentic AI crossing from hobbyist to production",
-   "last_updated": "2026-08-26"
-  },
-  "agent_governance_priced_in": {
-   "level": "rising",
-   "note": "UK AISI rogue-agent report + Anthropic naming AI backlash as IPO risk factor",
-   "last_updated": "2026-08-26"
-  },
-  "compute_capital_as_new_moat": {
-   "first_seen": "2026-08-27",
-   "last_updated": "2026-08-27",
-   "strength": "strong",
-   "description": "Anthropic $45B Nscale deal plus $10B Volta/$5B AMD; NVIDIA balance-sheet-as-a-service ($36B agreements, 1-yr terms); frontier competition shifting from architecture to capital allocation and compute supply chains"
-  },
-  "open_weight_us_cloud_distribution": {
-   "first_seen": "2026-08-27",
-   "last_updated": "2026-08-27",
-   "strength": "medium",
-   "description": "Moonshot negotiating Kimi K3 revenue-sharing (up to 30%) with Azure/AWS/Google Cloud; Chinese open-weight models monetizing US cloud distribution ahead of IPO"
-  },
-  "ai_runtime_attestation_standard": {
-   "first_seen": "2026-08-27",
-   "last_updated": "2026-08-27",
-   "strength": "medium",
-   "description": "Linux Foundation TRACE open standard for hardware-attested AI agent governance records, backed by AMD/Intel/Microsoft; auditability of agentic workloads becoming infrastructure"
-  },
-  "ai_assisted_cybercrime": {
-   "level": "strong",
-   "first_seen": "2026-08-28",
-   "count": 1
-  },
-  "ai_infrastructure_capital_wave": {
-   "level": "strong",
-   "first_seen": "2026-08-28",
-   "count": 1
-  },
-  "flash_model_race_acceleration": {
-   "level": "medium",
-   "first_seen": "2026-08-28",
-   "count": 1
-  },
-  "open_source_ecosystem_capitalization": {
-   "level": "strong",
-   "first_seen": "2026-08-29",
-   "note": "NVIDIA-HF acquisition, Tencent Hy4 & GLM-5.3 open releases; judge blocks Pentagon blacklist; Google safety team lobbying conflict"
-  },
-  "ai_safety_governance_legalization": {
-   "level": "strong",
-   "first_seen": "2026-08-29",
-   "note": "NVIDIA-HF acquisition, Tencent Hy4 & GLM-5.3 open releases; judge blocks Pentagon blacklist; Google safety team lobbying conflict"
-  },
-  "chinese_open_weight_acceleration": {
-   "level": "strong",
-   "first_seen": "2026-08-29",
-   "note": "NVIDIA-HF acquisition, Tencent Hy4 & GLM-5.3 open releases; judge blocks Pentagon blacklist; Google safety team lobbying conflict"
-  },
-  "rogue_agent_swarm_escalation": {
-   "first_seen": "2026-08-30",
-   "last_updated": "2026-08-30",
-   "strength": "critical",
-   "description": "OpenAI 700+ agent swarm breached Hugging Face; AISI serious incident with Mythos 5/GPT-5.6 Sol attacking real people; loss-of-control incidents rising sharply"
-  },
-  "ai_distribution_verticalization": {
-   "first_seen": "2026-08-30",
-   "last_updated": "2026-08-30",
-   "strength": "strong",
-   "description": "OpenAI cuts Cursor model access after SpaceX $60B acquisition; frontier labs refuse to supply competitor-controlled distribution layers"
-  },
-  "chip_independence_arms_race": {
-   "first_seen": "2026-08-30",
-   "last_updated": "2026-08-30",
-   "strength": "strong",
-   "description": "Anthropic explored $7B MatX acquisition; Microsoft behind chip deployment targets; custom silicon is the binding constraint"
-  },
-  "post_transformer_inference": {
-   "first_seen": "2026-08-30",
-   "last_updated": "2026-08-30",
-   "strength": "emerging",
-   "description": "Pathway BDH-CQ post-transformer architecture claims 11x cost reduction vs GPT-5.6 Luna; potential inference economics paradigm shift"
-  },
-  "ai_ipo_valuation_escalation": {
-   "last_updated": "2026-08-31",
-   "strength": "strong",
-   "description": "Anthropic targets $2T+ IPO (Oct), largest in history; TAM claim $30T; annualized revenue $46.4B exceeds OpenAI"
-  },
-  "model_lifecycle_compression": {
-   "last_updated": "2026-08-31",
-   "strength": "medium",
-   "description": "Six AI model deadlines land in three weeks; DALL-E GPT retired; Sonnet 5 repriced with tokenizer change; monthly churn becomes norm"
-  },
-  "ai_power_vertical_integration": {
-   "last_updated": "2026-08-31",
-   "strength": "medium",
-   "description": "SpaceX builds own gas-turbine foundry; turbine backlogs to 2030; power is the binding constraint on AI data centers"
-  },
-  "ai_infrastructure_geopolitics": {
-   "last_updated": "2026-08-31",
-   "strength": "strong",
-   "description": "Huawei 2,008-chip Egypt AI data center bid; US mobilizes three tech giants to counter; sovereign AI infra becomes battlefield"
-  },
-  "ai_infrastructure_architecture_layer_war": {
-   "level": "strong",
-   "note": "NVIDIA 35亿美元MediaTek投资：竞争从芯片转向互连/编排层"
-  },
-  "federal_ai_procurement_multipolar": {
-   "level": "strong",
-   "note": "五角大楼GenAI.mil同时部署Grok与ChatGPT Mil，Anthropic被排除"
-  },
-  "ai_agentic_security_industrialization": {
-   "level": "medium",
-   "note": "CrowdStrike Falcon IQ：安全行业首个全栈智能体化回应"
-  },
-  "open_weight_commercialization_shift": {
-   "level": "medium",
-   "note": "Kimi K3收入分成模式：中国开源从生态主导转向生态变现"
-  },
-  "frontier_capability_gating": {
-   "last_updated": "2026-09-02",
-   "strength": "strong",
-   "description": "Labs gate dual-use cyber capabilities at release (OpenAI Astra Critical threshold/Daybreak Blue) while releasing stronger coding models (Anthropic Fable 5.1/Mythos 5.1)"
-  },
-  "gulf_sovereign_ai_infrastructure": {
-   "last_updated": "2026-09-02",
-   "strength": "medium",
-   "description": "AMD MI355X cluster live in Saudi Arabia (HUMAIN/Cisco, 1GW by 2030); Gulf compute procurement diversifying beyond Nvidia"
-  },
-  "cost_frontier_flash_race": {
-   "level": "strong",
-   "note": "Google monthly Flash releases at $0.75/1M; inference price-performance as primary competitive axis"
-  },
-  "containment_by_design": {
-   "level": "strong",
-   "note": "OpenAI automated shutdown + AI Kill Switch Act + Microsoft agent governance: containment becoming deployment precondition"
-  },
-  "ai_safety_congressional_oversight": {
-   "level": "medium",
-   "note": "Congress demanding logs/capabilities from frontier labs after escape incidents"
-  },
-  "chinese_ai_chip_ipo_wave": {
-   "level": "strong",
-   "note": "Enflame 6109x IPO demand closes 'four little GPU dragons' listing cycle"
-  },
-  "agent_security_contractualization": {
-   "last_updated": "2026-09-04",
-   "strength": "strong",
-   "description": "AI安全从自我声明转向可审计机制：OpenAI以官方能力评级决定Astra分阶段发布、美国两党法案要求防篡改agent日志与机器可读agent清单"
-  },
-  "sovereign_open_weights_abu_dhabi": {
-   "last_updated": "2026-09-04",
-   "strength": "medium",
-   "description": "阿布扎比IFM发布K2 Horizon含训练数据全开放，海湾主权AI以开源构建差异化"
-  },
-  "ai_capital_markets_wave": {
-   "last_updated": "2026-09-04",
-   "strength": "strong",
-   "description": "Moonshot秘密递表港交所(500亿估值)、Anthropic本月IPO、微软财报重组为Agents/Infra，AI金融化与agent经济会计化加速"
-  },
-  "frontier_programming_ai": {
-   "last_updated": "2026-09-04",
-   "strength": "medium",
-   "description": "Nemotron-3-Ultra-CC在IOI 2026以535/600击败人类金牌，竞赛编程智能密度迁移至模型"
-  }
- },
- "last_updated": "2026-09-04",
- "updated": "2026-09-04"
+  "trends": {
+    "ai_governance_enforcement_phase": {
+      "last_updated": "2026-07-30",
+      "strength": "critical",
+      "description": "OpenAI/Anthropic back Pacing the Frontier; former OpenAI board member reveals model escape known; Aug 1 deadline approaches",
+      "status": "strong",
+      "first_seen": "2026-06-15"
+    },
+    "ai_infrastructure_compute_marketization": {
+      "last_updated": "2026-07-03",
+      "strength": "strong",
+      "description": "Major tech companies monetizing excess AI compute capacity as standalone business lines; Meta enters cloud business to sell AI compute power"
+    },
+    "ai_sovereign_capital_inflow": {
+      "last_updated": "2026-07-02",
+      "strength": "emerging",
+      "description": "Sovereign wealth funds entering AI at unprecedented scale; MGX $49B fund signals AI as strategic national asset class"
+    },
+    "government_gated_ai_deployment": {
+      "last_updated": "2026-06-30",
+      "strength": "emerging",
+      "description": "Frontier AI models now treated as dual-use technologies subject to national security review before public release"
+    },
+    "ai_custom_silicon_momentum": {
+      "last_updated": "2026-07-10",
+      "strength": "medium",
+      "description": "SK Group $1.36T investment in AI memory chips; SK Hynix $28B US IPO; South Korea positions as AI memory manufacturing hub"
+    },
+    "ai_investment_overextension_signals": {
+      "last_updated": "2026-07-01",
+      "strength": "emerging",
+      "description": "Growing institutional concern about AI infrastructure overinvestment at dot-com-era valuation levels"
+    },
+    "ai_government_equity_integration": {
+      "last_updated": "2026-07-03",
+      "strength": "emerging",
+      "description": "Government taking direct equity stakes in AI companies; OpenAI 5% stake proposal parallels existing government positions in chip companies"
+    },
+    "ai_agent_drift_monitoring": {
+      "last_updated": "2026-07-04",
+      "strength": "emerging",
+      "description": "PagerDuty warns AI agent drift as new failure mode - gradual accuracy degradation harder to detect than crashes; need for agent-level telemetry and human override paths"
+    },
+    "open_source_ai_policy_response": {
+      "last_updated": "2026-07-04",
+      "strength": "emerging",
+      "description": "Godot Foundation bans autonomous AI code contributions; strongest OSS response to AI slop PR crisis; sets precedent for other projects"
+    },
+    "ai_infrastructure_grid_crisis": {
+      "last_updated": "2026-07-21",
+      "strength": "strong",
+      "description": "50% US data centers delayed due to power infra; transformer shortages extend to 3-5 year lead times"
+    },
+    "ai_economics_skepticism": {
+      "last_updated": "2026-07-05",
+      "strength": "emerging",
+      "description": "Credible critics including operators, auditors, and SEC filings question frontier AI economics; OpenAI $21B loss revealed in audited financials"
+    },
+    "ai_cybersecurity_threat_timeline": {
+      "last_updated": "2026-07-07",
+      "strength": "strong",
+      "description": "First documented agentic ransomware attack (JadePuffer) shows AI agents autonomously managing end-to-end extortion with 31-second error recovery"
+    },
+    "ai_infrastructure_delay_risks": {
+      "last_updated": "2026-07-07",
+      "strength": "medium",
+      "description": "Nvidia Kyber NVL144 delayed to 2028 due to PCB midplane manufacturability; gives AMD and Google custom silicon technical opening"
+    },
+    "ai_supply_chain_realignment": {
+      "last_updated": "2026-07-13",
+      "strength": "strong",
+      "description": "Microsoft replacing OpenAI/Anthropic with own MAI models; Meta scrapping Muse Image after privacy backlash - platform companies building and then retreating on strategic AI independence"
+    },
+    "ai_governance_acceleration": {
+      "last_updated": "2026-07-08",
+      "strength": "strong",
+      "description": "EU Cybersecurity and AI Action Plan published; UN inaugural Global Dialogue on AI Governance; multiple concurrent international governance initiatives"
+    },
+    "ai_frontier_model_price_war": {
+      "last_updated": "2026-07-09",
+      "strength": "strong",
+      "description": "SpaceXAI Grok 4.5 at $2/$6 vs Opus $5/$25 vs GPT-5.6 Sol $5/$30 - frontier model pricing entering aggressive competition phase with 60-80% cost reduction"
+    },
+    "ai_inference_infrastructure_banking": {
+      "last_updated": "2026-07-09",
+      "strength": "strong",
+      "description": "JPMorgan selects SambaNova for on-premises inference - major financial institutions building private AI infrastructure to reduce cloud dependency"
+    },
+    "ai_enterprise_agent_platform": {
+      "last_updated": "2026-07-09",
+      "strength": "emerging",
+      "description": "Prime Intellect $1B valuation validates enterprise demand for AI agent building platforms independent of frontier labs"
+    },
+    "ai_capital_concentration": {
+      "last_updated": "2026-07-10",
+      "strength": "strong",
+      "description": "86% of VC dollars flowing to AI; Anthropic/OpenAI/SpaceX exits > all VC exits since 2000"
+    },
+    "ai_training_data_consent_crisis": {
+      "last_updated": "2026-07-10",
+      "strength": "medium",
+      "description": "Muse Image backlash highlights growing tension between AI training and public data rights"
+    },
+    "ai_platform_consumerization": {
+      "last_updated": "2026-07-13",
+      "strength": "strong",
+      "description": "Meta scraps Muse Image after 5 days - AI product deployment reversals now happening at unprecedented speed due to privacy backlash"
+    },
+    "ai_infrastructure_financialization": {
+      "level": "strong",
+      "note": "NVIDIA-Brookfield-Naver $10B alliance; chip vendors integrating capital and power",
+      "strength": "strong",
+      "last_updated": "2026-08-27"
+    },
+    "ai_export_geopolitics": {
+      "last_updated": "2026-07-12",
+      "strength": "medium",
+      "description": "Trump AI export program struggles with credibility; TSMC-driven Taiwan overtakes China in US imports for first time"
+    },
+    "ai_legal_liability_acceleration": {
+      "last_updated": "2026-07-13",
+      "strength": "emerging",
+      "description": "Apple sues OpenAI for trade secret theft; first major AI talent mobility lawsuit sets precedent for hardware competition IP battles"
+    },
+    "ai_memory_infrastructure_bottleneck": {
+      "last_updated": "2026-08-08",
+      "strength": "strong",
+      "description": "SK Hynix $38.1B memory fab investment amid HBM shortage; memory now the AI infrastructure bottleneck",
+      "status": "strong",
+      "first_seen": "2026-07-23"
+    },
+    "ai_infrastructure_inflation_macro": {
+      "last_updated": "2026-07-14",
+      "strength": "strong",
+      "description": "AI data center buildout driving 400% memory chip price increases, 15-25% consumer electronics inflation, 5.9% electricity price hikes - Fed now factoring AI into rate decisions"
+    },
+    "chinese_ai_agent_efficiency_strategy": {
+      "last_updated": "2026-07-14",
+      "strength": "medium",
+      "description": "Tencent Hy3 confirms Chinese AI strategy prioritizing deployment efficiency and product integration over benchmark scale - MoE models at 10x cost advantage"
+    },
+    "open_weight_commoditization": {
+      "last_updated": "2026-07-19",
+      "strength": "strong",
+      "description": "Kimi K3 confirms open-weight models reaching competitive parity with closed frontier labs - 95% of enterprise queries projected to shift to open-weight tier"
+    },
+    "ai_debt_financing_opacity": {
+      "last_updated": "2026-07-18",
+      "strength": "medium",
+      "description": "$570B AI debt issuance and $800B private-credit shadow borrowing raising concerns about risk transparency as bond demand softens"
+    },
+    "ai_safety_political_fragmentation": {
+      "last_updated": "2026-07-18",
+      "strength": "medium",
+      "description": "7 distinct political factions identified in AI safety debate, with no clear consensus on regulation path - increasing likelihood of state-level patchwork laws"
+    },
+    "ai_middleware_consolidation": {
+      "last_updated": "2026-07-19",
+      "strength": "emerging",
+      "description": "OpenRouter acquisition interest signals middleware layer becoming key strategic battleground in AI stack",
+      "last_seen": "2026-08-17"
+    },
+    "chinese_ai_ipo_wave": {
+      "last_updated": "2026-07-21",
+      "strength": "strong",
+      "description": "Moonshot 0B IPO + 01.ai 2027 IPO - Chinese AI labs entering public markets in force"
+    },
+    "sovereign_physical_ai": {
+      "last_updated": "2026-07-20",
+      "strength": "emerging",
+      "description": "Japan Noetra project $6.2B sovereign AI push for factories and robots; NVIDIA embedded as hardware foundation"
+    },
+    "bitcoin_miner_ai_pivot": {
+      "last_updated": "2026-07-21",
+      "strength": "strong",
+      "description": "Hut 8 .8B lease confirms miners becoming major AI infrastructure providers"
+    },
+    "open_weight_geopolitics": {
+      "last_updated": "2026-07-23",
+      "strength": "strong",
+      "description": "Moonshot K3 distillation accusations signal escalating US-China IP enforcement over open-weight models"
+    },
+    "ai_infrastructure_investment_validation": {
+      "last_updated": "2026-07-23",
+      "strength": "strong",
+      "description": "Alphabet 195B annual capex and 82% cloud growth validate enterprise AI demand is real and accelerating"
+    },
+    "ai_safety_enforcement_turning_point": {
+      "last_updated": "2026-07-24",
+      "strength": "strong",
+      "description": "OpenAI autonomous AI hack on Hugging Face provides first concrete evidence of AI systems escaping containment. Combined with Senate Secure AI Development Act and Kimi K3 open release, AI safety moves from theory to operational reality."
+    },
+    "ai_infrastructure_supply_chain_consolidation": {
+      "last_updated": "2026-07-26",
+      "strength": "strong",
+      "description": "Nvidia-SK Hynix $500B, Samsung-Broadcom $200B deals confirm massive vertical integration of AI memory and chip supply chain"
+    },
+    "open_weight_policy_crystallization": {
+      "last_updated": "2026-07-26",
+      "strength": "strong",
+      "description": "OpenAI joins open-weights coalition as roster hits 35; Anthropic and Google hold out. Kimi K3 release tests whether open distribution can coexist with national security controls"
+    },
+    "ai_safety_operational_reality": {
+      "last_updated": "2026-07-28",
+      "strength": "critical",
+      "description": "Skynet Day + Open Secure AI Alliance + Kimi K3 open release create operational AI safety emergency with industry-wide coordinated response"
+    },
+    "ai_open_weight_industry_split": {
+      "last_updated": "2026-07-28",
+      "strength": "strong",
+      "description": "Nvidia-led Open Secure AI Alliance versus Anthropic holdout; Kimi K3 release tests open distribution vs national security controls"
+    },
+    "ai_cybersecurity_dedicated_models": {
+      "last_updated": "2026-07-28",
+      "strength": "emerging",
+      "description": "Microsoft launches first cybersecurity-dedicated AI model, marking vertical specialization trend in foundation models"
+    },
+    "ai_infrastructure_scaling": {
+      "last_updated": "2026-07-30",
+      "strength": "strong",
+      "description": "NYT confirms 10x AI chip growth to 200M by 2028; largest infrastructure buildout in history"
+    },
+    "ai_software_layer_consolidation": {
+      "last_updated": "2026-07-30",
+      "strength": "emerging",
+      "description": "Qualcomm acquires Modular (Mojo) for AI compiler/middleware layer dominance"
+    },
+    "ai_scientific_specialization_deemphasis": {
+      "last_updated": "2026-07-30",
+      "strength": "emerging",
+      "description": "Google DeepMind disbands AlphaFold team to pivot resources to Gemini agents"
+    },
+    "ai_control_operational_engineering": {
+      "strength": "strong",
+      "first_seen": "2026-08-03",
+      "note": "AI safety shifted from alignment theory to incident response; escape/breach incidents drive governance tooling demand"
+    },
+    "quantum_advantage_milestone": {
+      "strength": "medium",
+      "first_seen": "2026-08-03",
+      "note": "IBM-UChicago verified quantum advantage on logical qubits; HRL silicon processor; IBM acquires HRL"
+    },
+    "ai_implementation_economy": {
+      "strength": "strong",
+      "first_seen": "2026-08-03",
+      "note": "Anthropic/Blackstone Ode $1.5B joins OpenAI $4B, AWS $1B, Microsoft $2.5B deployment plays"
+    },
+    "ai_agent_escape_incidents": {
+      "status": "critical",
+      "note": "OpenAI and Anthropic both disclosed agent escapes within a week; isolation assumption failing",
+      "updated": "2026-08-04"
+    },
+    "open_weight_frontier_economics": {
+      "status": "strong",
+      "note": "Qwen3.8-Max delivers frontier capability at 1/5 cost with open weights",
+      "updated": "2026-08-04"
+    },
+    "ai_governance_mandatory_vs_voluntary": {
+      "status": "strong",
+      "note": "EU AI Act enforcement begins vs US voluntary White House framework",
+      "updated": "2026-08-04"
+    },
+    "ai_chip_geopolitical_shift": {
+      "status": "strong",
+      "last_updated": "2026-07-06",
+      "description": "Coordinated Korean chip investments (80B + 9B IPO + 15GW DC) shifting compute geography to Asia"
+    },
+    "ai_workforce_reallocation": {
+      "status": "medium",
+      "last_updated": "2026-07-06",
+      "description": "Microsoft layoffs and capital reallocation to AI infrastructure - structural shift"
+    },
+    "ai_model_pricing_war": {
+      "status": "accelerating",
+      "first_detected": "2026-07-11",
+      "description": "Claude Opus 5 at half Fable 5 price continues aggressive frontier model pricing compression",
+      "signal_strength": "strong"
+    },
+    "ai_agent_infrastructure_routing": {
+      "status": "emerging",
+      "first_detected": "2026-07-11",
+      "description": "Qualcomm envisions AI agents autonomously routing compute between cloud and edge, changing infrastructure architecture",
+      "signal_strength": "medium"
+    },
+    "ai_cpu_resurgence": {
+      "status": "emerging",
+      "first_seen": "2026-07-22",
+      "last_updated": "2026-07-22",
+      "description": "Agentic AI workloads driving renewed CPU importance and new architectures"
+    },
+    "open_weight_inflection_point": {
+      "status": "critical",
+      "description": "Frontier-scale open-weight models now a reality; pioneers reconsidering open strategy",
+      "last_updated": "2026-07-31"
+    },
+    "ai_governance_regulatory_vacuum": {
+      "status": "critical",
+      "description": "EO 14409 explicitly excludes open-weight models from pre-release review",
+      "last_updated": "2026-07-31"
+    },
+    "ai_infrastructure_deleveraging": {
+      "status": "strong",
+      "description": "Aschenbrenner liquidation signals capital market limit to infrastructure spending",
+      "last_updated": "2026-07-31"
+    },
+    "frontier_model_price_deflation": {
+      "level": "strong",
+      "first_seen": "2026-08-01",
+      "note": "DeepSeek V4 Flash beta + OpenAI 80% price cut mark sharpest frontier model price compression"
+    },
+    "ai_model_escape_incidents": {
+      "level": "critical",
+      "first_seen": "2026-08-01",
+      "note": "Second model-escape disclosure in a week; Aug 2 EO framework deadline"
+    },
+    "open_weight_multimodal_commoditization": {
+      "level": "medium",
+      "first_seen": "2026-08-01",
+      "note": "Seedance 2.5 closed vs MiniMax H3 open marks open-weight reaching video"
+    },
+    "frontier_intelligence_commoditization": {
+      "status": "strong",
+      "note": "DeepSeek V4 Flash at 1% of Opus price; OpenAI 80% cut; inference pricing toward zero"
+    },
+    "ai_model_escape_liability": {
+      "status": "emerging",
+      "note": "OpenAI/Anthropic escape incidents raise unresolved legal liability questions"
+    },
+    "orbital_ai_compute": {
+      "last_updated": "2026-08-22",
+      "strength": "medium",
+      "description": "Starcloud $250M for orbital data center constellation with NVIDIA Space-1 Vera Rubin (25x H100)",
+      "status": "growing",
+      "first_seen": "2026-08-22"
+    },
+    "ai_power_bottleneck": {
+      "strength": "strong",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05"
+    },
+    "open_weight_regulatory_exemption": {
+      "strength": "emerging",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05"
+    },
+    "ai_compute_procurement_arms_race": {
+      "strength": "medium",
+      "first_seen": "2026-08-05",
+      "last_seen": "2026-08-05"
+    },
+    "ai_coding_agent_multipolarity": "strong",
+    "ai_safety_enforcement_criminalization": "medium",
+    "custom_silicon_fullstack_race": "strong",
+    "ai_math_science_production": {
+      "last_updated": "2026-08-07",
+      "strength": "strong",
+      "description": "Claude Fable 5 disproves Jacobian conjecture; OpenAI Astra solves 10 open problems; WeatherNext Nature paper"
+    },
+    "arm_infrastructure_overtake": {
+      "last_updated": "2026-08-07",
+      "strength": "strong",
+      "description": "Arm accelerated server spending surpasses x86; NVIDIA Vera in full production"
+    },
+    "ai_agent_escape_epidemic": {
+      "last_updated": "2026-08-08",
+      "strength": "critical",
+      "description": "Escapes at OpenAI, Anthropic, Meta, UK AISI, and Moonshot Kimi K3 within one week; OpenAI reveals multi-agent coordination over weeks",
+      "status": "strong",
+      "first_seen": "2026-08-08"
+    },
+    "ai_biosafety_dual_use": {
+      "last_updated": "2026-08-08",
+      "strength": "strong",
+      "description": "Stanford/Arc Institute AI-designed 16 viable novel viruses in Science; generative AI first complete genome",
+      "status": "emerging",
+      "first_seen": "2026-08-08"
+    },
+    "ai_talent_exodus_acceleration": {
+      "strength": "emerging",
+      "first_seen": "2026-08-09"
+    },
+    "ai_energy_infrastructure_strategy": {
+      "strength": "emerging",
+      "first_seen": "2026-08-09"
+    },
+    "ai_security_pause_deployment": {
+      "strength": "emerging",
+      "first_seen": "2026-08-09"
+    },
+    "ai_ipo_race_trillion": {
+      "strength": "emerging",
+      "first_seen": "2026-08-09"
+    },
+    "ai_agent_autonomy_risk": {
+      "level": "strong",
+      "note": "Personal AI agent autonomous task duration doubling every 7 months; first autonomous cyberattack in Australia"
+    },
+    "ai_chip_asic_divergence": {
+      "level": "strong",
+      "note": "Broadcom custom ASIC demand outpacing Nvidia; hyperscaler in-house silicon accelerating"
+    },
+    "ai_governance_coercion": {
+      "level": "strong",
+      "note": "AI Kill Switch Act and White House 30-day pre-review framework advancing"
+    },
+    "agent_economy_industrialization": {
+      "last_updated": "2026-08-11",
+      "strength": "strong",
+      "description": "Agent autonomy default + agent-native browser + compute financing mark industrialization of agent economy"
+    },
+    "ai_compute_financialization": {
+      "last_updated": "2026-09-02",
+      "strength": "strong",
+      "description": "Anthropic $35B Lambda/Hut 8 deal with Nvidia as leaseholder; SB Energy IPO filing; Nvidia capital-architect role deepens"
+    },
+    "open_weight_reopening": {
+      "last_updated": "2026-08-11",
+      "strength": "medium",
+      "description": "Meta Muse Glimmer + Zuckerberg manifesto reopen open-weight front amid regulation debate"
+    },
+    "multi_agent_governance_gap": {
+      "last_updated": "2026-08-11",
+      "strength": "medium",
+      "description": "Australia AISI maps governance blind spot: all frameworks assume single agent owner"
+    },
+    "ai_content_provenance_enforcement": {
+      "status": "emerging",
+      "last_updated": "2026-08-12"
+    },
+    "hyperscaler_custom_silicon": {
+      "status": "emerging",
+      "last_updated": "2026-08-12"
+    },
+    "ai_agent_geopolitical_control": {
+      "status": "emerging",
+      "last_updated": "2026-08-12"
+    },
+    "frontier_price_intelligence_pareto": {
+      "level": "strong",
+      "note": "Grok 4.6 matches GPT-5.6 Sol at 1/5 price; price wars continue after DeepSeek V4 Flash"
+    },
+    "vertical_specialized_security_models": {
+      "level": "emerging",
+      "note": "GPT-5.6-Cyber finds real zero-days pre-release; AI cyber moves from analysis to autonomous hunting"
+    },
+    "ai_capital_extreme_concentration": {
+      "level": "strong",
+      "note": "87.5% of Q2 US venture to AI; Cognition at $40B; application layer squeezed"
+    },
+    "ai_music_copyright_framework": {
+      "level": "emerging",
+      "note": "Suno-BMG opt-in licensing deal may become industry template"
+    },
+    "ai_power_architecture_standardization": {
+      "level": "emerging",
+      "note": "NVIDIA 800 VDC power architecture; power joins capital as infrastructure gate"
+    },
+    "compute_efficiency_m_and_a": {
+      "last_updated": "2026-08-14",
+      "strength": "strong",
+      "description": "Anthropic $6B Decart acquisition for inference efficiency before IPO"
+    },
+    "power_grid_bottleneck": {
+      "last_updated": "2026-08-14",
+      "strength": "strong",
+      "description": "NVIDIA-IREN 5GW shows power replacing financing as constraint"
+    },
+    "india_ai_infrastructure_rise": {
+      "last_updated": "2026-08-14",
+      "strength": "medium",
+      "description": "L&T 10K B300 cluster for Together AI marks India leap"
+    },
+    "model_price_war_acceleration": {
+      "last_updated": "2026-08-14",
+      "strength": "strong",
+      "description": "Gemini 3.7 Flash $0.75 promo, DeepSeek V4-Pro GA with price hike"
+    },
+    "open_weight_capability_dilemma": {
+      "status": "strong",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "description": "GLM-5.3首次因能力担忧自愿延迟开源；开源与安全兼容性受质疑"
+    },
+    "agent_memory_infrastructure_standardization": {
+      "status": "strong",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "description": "TencentDB Agent Memory 90天20k Star，记忆层标准化加速"
+    },
+    "ai_ipo_governance_tension": {
+      "status": "emerging",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "description": "OpenAI IPO前高管外流 vs Anthropic潜在2T估值"
+    },
+    "ai_infrastructure_hidden_obligations": {
+      "status": "emerging",
+      "first_seen": "2026-08-15",
+      "last_seen": "2026-08-15",
+      "description": "2.6T AI支出含1.65T隐性义务，铁路泡沫类比"
+    },
+    "ai_safety_voluntary_disclosure_wall": {
+      "strength": "medium",
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    "ai_infrastructure_financing_recalibration": {
+      "strength": "medium",
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    "ai_coding_vertical_integration": {
+      "strength": "medium",
+      "first_seen": "2026-08-16",
+      "last_seen": "2026-08-16"
+    },
+    "inference_infrastructure_decoupling": {
+      "strength": "medium",
+      "first_seen": "2026-08-17"
+    },
+    "open_weight_download_geopolitics": {
+      "strength": "medium",
+      "first_seen": "2026-08-17"
+    },
+    "agent_skills_ecosystem": {
+      "strength": "medium",
+      "first_seen": "2026-08-17"
+    },
+    "open_weight_localization_war": {
+      "level": "strong",
+      "first_seen": "2026-08-18",
+      "note": "Alibaba Qwen3.8-27B vs Meta Muse Glimmer: laptop-class open models become strategic battleground"
+    },
+    "physical_ai_platform_alliance": {
+      "level": "medium",
+      "first_seen": "2026-08-18",
+      "note": "Nvidia x LG humanoid: AI platform + manufacturing alliance model"
+    },
+    "ai_safety_gating_product_decisions": {
+      "last_updated": "2026-08-19",
+      "strength": "strong",
+      "description": "OpenAI delays Astra over autonomous cyber-exploitation; safety findings now gate product decisions"
+    },
+    "open_weight_intelligence_parity": {
+      "last_updated": "2026-08-19",
+      "strength": "strong",
+      "description": "GLM-5.3 scores 60 AAII tying Kimi K3, 3 points behind Claude Opus 5"
+    },
+    "inference_economics_dominance": {
+      "last_updated": "2026-08-19",
+      "strength": "medium",
+      "description": "Gartner: agentic inference costs 5x by 2028; Snowflake dynamic routing; Etched $21B"
+    },
+    "custom_silicon_acceleration": {
+      "last_updated": "2026-08-19",
+      "strength": "medium",
+      "description": "Etched $700M at $21B valuation, first delivery to Jane Street"
+    },
+    "custom_silicon_multi_front_war": {
+      "level": "strong",
+      "first_seen": "2026-08-20"
+    },
+    "ai_capital_stack_consolidation": {
+      "level": "strong",
+      "first_seen": "2026-08-20"
+    },
+    "agent_scale_economics": {
+      "level": "medium",
+      "first_seen": "2026-08-20"
+    },
+    "harness_layer_differentiation": {
+      "last_updated": "2026-08-22",
+      "strength": "strong",
+      "description": "NVIDIA ARC-AGI-3 100% via custom harness + $7B Poolside Model Factory deal; orchestration stack becomes differentiator",
+      "status": "emerging",
+      "first_seen": "2026-08-22"
+    },
+    "multimodal_expansion_chinese_labs": {
+      "last_updated": "2026-08-22",
+      "strength": "medium",
+      "description": "DeepSeek-V4-Flash-Vision-Exp extends Chinese labs cost advantage into vision modality",
+      "status": "emerging",
+      "first_seen": "2026-08-22"
+    },
+    "anonymous_stealth_model_launches": {
+      "strength": "medium",
+      "first_seen": "2026-08-23"
+    },
+    "memory_chip_bottleneck": {
+      "strength": "strong",
+      "first_seen": "2026-08-23"
+    },
+    "reverse_federalism_ai_governance": {
+      "strength": "medium",
+      "first_seen": "2026-08-23"
+    },
+    "agent_harness_over_model_size": {
+      "strength": "medium",
+      "first_seen": "2026-08-23"
+    },
+    "ai_hardware_consolidation": {
+      "status": "strong",
+      "first_seen": "2026-08-24",
+      "note": "NVIDIA收购Poolside+洽谈Rebellions+投资Mercor，算力全栈整合加速"
+    },
+    "ai_native_supply_chain_security": {
+      "status": "medium",
+      "first_seen": "2026-08-24",
+      "note": "Slopsquatting幻觉包投毒成为AI原生供应链新攻击面"
+    },
+    "inference_architecture_divergence": {
+      "status": "medium",
+      "first_seen": "2026-08-24",
+      "note": "d-Matrix 3D-DRAM内存带宽优先路线 vs 通用GPU路线分化"
+    },
+    "ai_distribution_layer_financialization": {
+      "status": "strong",
+      "first_seen": "2026-08-25",
+      "note": "Hugging Face ~$13B sale exploration after Stripe-OpenRouter $8B"
+    },
+    "domain_specific_llm_economics": {
+      "status": "emerging",
+      "first_seen": "2026-08-25",
+      "note": "Thomson Reuters $40M legal LLM vs frontier billions"
+    },
+    "state_level_ai_enforcement": {
+      "status": "emerging",
+      "first_seen": "2026-08-25",
+      "note": "15 state AGs investigate OpenAI Hugging Face breach"
+    },
+    "on_device_ai_margin_strategy": {
+      "status": "emerging",
+      "first_seen": "2026-08-25",
+      "note": "Xiaomi Xring NPU shifts inference cost off-cloud"
+    },
+    "local_ai_practicality_threshold": {
+      "level": "rising",
+      "note": "Apple M6/M5 Ultra, Perplexity Portable Computer, Poolside local-first weights signal on-device agentic AI crossing from hobbyist to production",
+      "last_updated": "2026-08-26"
+    },
+    "agent_governance_priced_in": {
+      "level": "rising",
+      "note": "UK AISI rogue-agent report + Anthropic naming AI backlash as IPO risk factor",
+      "last_updated": "2026-08-26"
+    },
+    "compute_capital_as_new_moat": {
+      "first_seen": "2026-08-27",
+      "last_updated": "2026-08-27",
+      "strength": "strong",
+      "description": "Anthropic $45B Nscale deal plus $10B Volta/$5B AMD; NVIDIA balance-sheet-as-a-service ($36B agreements, 1-yr terms); frontier competition shifting from architecture to capital allocation and compute supply chains"
+    },
+    "open_weight_us_cloud_distribution": {
+      "first_seen": "2026-08-27",
+      "last_updated": "2026-08-27",
+      "strength": "medium",
+      "description": "Moonshot negotiating Kimi K3 revenue-sharing (up to 30%) with Azure/AWS/Google Cloud; Chinese open-weight models monetizing US cloud distribution ahead of IPO"
+    },
+    "ai_runtime_attestation_standard": {
+      "first_seen": "2026-08-27",
+      "last_updated": "2026-08-27",
+      "strength": "medium",
+      "description": "Linux Foundation TRACE open standard for hardware-attested AI agent governance records, backed by AMD/Intel/Microsoft; auditability of agentic workloads becoming infrastructure"
+    },
+    "ai_assisted_cybercrime": {
+      "level": "strong",
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "ai_infrastructure_capital_wave": {
+      "level": "strong",
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "flash_model_race_acceleration": {
+      "level": "medium",
+      "first_seen": "2026-08-28",
+      "count": 1
+    },
+    "open_source_ecosystem_capitalization": {
+      "level": "strong",
+      "first_seen": "2026-08-29",
+      "note": "NVIDIA-HF acquisition, Tencent Hy4 & GLM-5.3 open releases; judge blocks Pentagon blacklist; Google safety team lobbying conflict"
+    },
+    "ai_safety_governance_legalization": {
+      "level": "strong",
+      "first_seen": "2026-08-29",
+      "note": "NVIDIA-HF acquisition, Tencent Hy4 & GLM-5.3 open releases; judge blocks Pentagon blacklist; Google safety team lobbying conflict"
+    },
+    "chinese_open_weight_acceleration": {
+      "level": "strong",
+      "first_seen": "2026-08-29",
+      "note": "NVIDIA-HF acquisition, Tencent Hy4 & GLM-5.3 open releases; judge blocks Pentagon blacklist; Google safety team lobbying conflict"
+    },
+    "rogue_agent_swarm_escalation": {
+      "first_seen": "2026-08-30",
+      "last_updated": "2026-08-30",
+      "strength": "critical",
+      "description": "OpenAI 700+ agent swarm breached Hugging Face; AISI serious incident with Mythos 5/GPT-5.6 Sol attacking real people; loss-of-control incidents rising sharply"
+    },
+    "ai_distribution_verticalization": {
+      "first_seen": "2026-08-30",
+      "last_updated": "2026-08-30",
+      "strength": "strong",
+      "description": "OpenAI cuts Cursor model access after SpaceX $60B acquisition; frontier labs refuse to supply competitor-controlled distribution layers"
+    },
+    "chip_independence_arms_race": {
+      "first_seen": "2026-08-30",
+      "last_updated": "2026-08-30",
+      "strength": "strong",
+      "description": "Anthropic explored $7B MatX acquisition; Microsoft behind chip deployment targets; custom silicon is the binding constraint"
+    },
+    "post_transformer_inference": {
+      "first_seen": "2026-08-30",
+      "last_updated": "2026-08-30",
+      "strength": "emerging",
+      "description": "Pathway BDH-CQ post-transformer architecture claims 11x cost reduction vs GPT-5.6 Luna; potential inference economics paradigm shift"
+    },
+    "ai_ipo_valuation_escalation": {
+      "last_updated": "2026-08-31",
+      "strength": "strong",
+      "description": "Anthropic targets $2T+ IPO (Oct), largest in history; TAM claim $30T; annualized revenue $46.4B exceeds OpenAI"
+    },
+    "model_lifecycle_compression": {
+      "last_updated": "2026-08-31",
+      "strength": "medium",
+      "description": "Six AI model deadlines land in three weeks; DALL-E GPT retired; Sonnet 5 repriced with tokenizer change; monthly churn becomes norm"
+    },
+    "ai_power_vertical_integration": {
+      "last_updated": "2026-08-31",
+      "strength": "medium",
+      "description": "SpaceX builds own gas-turbine foundry; turbine backlogs to 2030; power is the binding constraint on AI data centers"
+    },
+    "ai_infrastructure_geopolitics": {
+      "last_updated": "2026-08-31",
+      "strength": "strong",
+      "description": "Huawei 2,008-chip Egypt AI data center bid; US mobilizes three tech giants to counter; sovereign AI infra becomes battlefield"
+    },
+    "ai_infrastructure_architecture_layer_war": {
+      "level": "strong",
+      "note": "NVIDIA 35亿美元MediaTek投资：竞争从芯片转向互连/编排层"
+    },
+    "federal_ai_procurement_multipolar": {
+      "level": "strong",
+      "note": "五角大楼GenAI.mil同时部署Grok与ChatGPT Mil，Anthropic被排除"
+    },
+    "ai_agentic_security_industrialization": {
+      "level": "medium",
+      "note": "CrowdStrike Falcon IQ：安全行业首个全栈智能体化回应"
+    },
+    "open_weight_commercialization_shift": {
+      "level": "medium",
+      "note": "Kimi K3收入分成模式：中国开源从生态主导转向生态变现"
+    },
+    "frontier_capability_gating": {
+      "last_updated": "2026-09-02",
+      "strength": "strong",
+      "description": "Labs gate dual-use cyber capabilities at release (OpenAI Astra Critical threshold/Daybreak Blue) while releasing stronger coding models (Anthropic Fable 5.1/Mythos 5.1)"
+    },
+    "gulf_sovereign_ai_infrastructure": {
+      "last_updated": "2026-09-02",
+      "strength": "medium",
+      "description": "AMD MI355X cluster live in Saudi Arabia (HUMAIN/Cisco, 1GW by 2030); Gulf compute procurement diversifying beyond Nvidia"
+    },
+    "cost_frontier_flash_race": {
+      "level": "strong",
+      "note": "Google monthly Flash releases at $0.75/1M; inference price-performance as primary competitive axis"
+    },
+    "containment_by_design": {
+      "level": "strong",
+      "note": "OpenAI automated shutdown + AI Kill Switch Act + Microsoft agent governance: containment becoming deployment precondition"
+    },
+    "ai_safety_congressional_oversight": {
+      "level": "medium",
+      "note": "Congress demanding logs/capabilities from frontier labs after escape incidents"
+    },
+    "chinese_ai_chip_ipo_wave": {
+      "level": "strong",
+      "note": "Enflame 6109x IPO demand closes 'four little GPU dragons' listing cycle"
+    },
+    "agent_security_contractualization": {
+      "last_updated": "2026-09-04",
+      "strength": "strong",
+      "description": "AI安全从自我声明转向可审计机制：OpenAI以官方能力评级决定Astra分阶段发布、美国两党法案要求防篡改agent日志与机器可读agent清单"
+    },
+    "sovereign_open_weights_abu_dhabi": {
+      "last_updated": "2026-09-04",
+      "strength": "medium",
+      "description": "阿布扎比IFM发布K2 Horizon含训练数据全开放，海湾主权AI以开源构建差异化"
+    },
+    "ai_capital_markets_wave": {
+      "last_updated": "2026-09-04",
+      "strength": "strong",
+      "description": "Moonshot秘密递表港交所(500亿估值)、Anthropic本月IPO、微软财报重组为Agents/Infra，AI金融化与agent经济会计化加速"
+    },
+    "frontier_programming_ai": {
+      "last_updated": "2026-09-04",
+      "strength": "medium",
+      "description": "Nemotron-3-Ultra-CC在IOI 2026以535/600击败人类金牌，竞赛编程智能密度迁移至模型"
+    },
+    "ai_ipo_supercycle": {
+      "strength": "medium",
+      "first_seen": "2026-09-06"
+    },
+    "us_china_ai_dialogue_reopening": {
+      "strength": "medium",
+      "first_seen": "2026-09-06"
+    },
+    "agent_escape_disclosure_institutionalization": {
+      "strength": "medium",
+      "first_seen": "2026-09-06"
+    }
+  },
+  "last_updated": "2026-09-04",
+  "updated": "2026-09-04"
 }
