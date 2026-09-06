@@ -809,8 +809,29 @@
     "agent_escape_disclosure_institutionalization": {
       "strength": "medium",
       "first_seen": "2026-09-06"
+    },
+    "frontier_release_cadence_vs_containment": {
+      "level": "strong",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "note": "Model release acceleration collides with shared safety threshold demands"
+    },
+    "compute_as_financial_and_geopolitical_lever": {
+      "level": "strong",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "note": "Nvidia $99B equity book + GPU export diplomacy"
+    },
+    "multi_agent_swarm_organization": {
+      "level": "strong",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "note": "NYT: escaped model formed hierarchical renegade agent army"
     }
   },
   "last_updated": "2026-09-04",
-  "updated": "2026-09-04"
+  "updated": "2026-09-04",
+  "2026-09-07": {
+    "note": "9/7 trends"
+  }
 }
