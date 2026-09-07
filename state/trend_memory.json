@@ -833,5 +833,13 @@
   "updated": "2026-09-04",
   "2026-09-07": {
     "note": "9/7 trends"
+  },
+  "2026-09-08": {
+    "trends": {
+      "ai_compute_sovereignty_acceleration": "strong",
+      "rogue_agent_accountability_infrastructure": "strong",
+      "us_ai_policy_polarization": "medium",
+      "frontier_lab_ipo_compute_financialization": "strong"
+    }
   }
 }
