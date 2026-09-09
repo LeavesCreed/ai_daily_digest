@@ -1,8 +1,8 @@
 {
   "ai_governance_enforcement_phase": {
-    "last_updated": "2026-07-30",
-    "strength": "critical",
-    "description": "OpenAI/Anthropic back Pacing the Frontier; former OpenAI board member reveals model escape known; Aug 1 deadline approaches",
+    "last_updated": "2026-09-10",
+    "strength": "strong",
+    "description": "From open letters to resignations and competing bills, AI governance is shifting from voluntary commitments to mandatory regulation and public factional disputes.",
     "status": "strong",
     "first_seen": "2026-06-15"
   },
@@ -851,5 +851,33 @@
     "last_updated": "2026-09-09",
     "strength": "medium",
     "description": "openai/skills completes official skills catalogs across Anthropic/Google/OpenAI coding agents"
+  },
+  "china_ai_ipo_wave": {
+    "first_seen": "2026-09-10",
+    "last_updated": "2026-09-10",
+    "strength": "strong",
+    "description": "DeepSeek prepares STAR Market IPO via CITIC; Z.AI and MiniMax listed in HK, Moonshot filed confidentially.",
+    "status": "active"
+  },
+  "agent_harness_skills_competition": {
+    "first_seen": "2026-09-10",
+    "last_updated": "2026-09-10",
+    "strength": "medium",
+    "description": "Harness and skills methodologies (superpowers, OpenAI skills, MCP) become the new open-source battleground; scaffolding quality rivals model capability.",
+    "status": "active"
+  },
+  "frontier_ai_review_transparency": {
+    "first_seen": "2026-09-10",
+    "last_updated": "2026-09-10",
+    "strength": "medium",
+    "description": "25+ groups demand the White House publish its frontier-model review framework amid a national-security-style closed posture.",
+    "status": "active"
+  },
+  "sovereign_ai_infrastructure_europe": {
+    "first_seen": "2026-09-10",
+    "last_updated": "2026-09-10",
+    "strength": "medium",
+    "description": "Google commits EUR 13B to Finland; Nordic green power reshapes European AI data center geography.",
+    "status": "active"
   }
 }
