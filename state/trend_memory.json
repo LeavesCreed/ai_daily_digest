@@ -899,5 +899,33 @@
   "first_seen": "2026-09-11",
   "status": "emerging",
   "note": "Diffusion LLMs (Mercury 2.5, Uno) challenge autoregressive default and reshape the cost curve"
+ },
+ "compute_market_financialization": {
+  "first_seen": "2026-09-12",
+  "last_updated": "2026-09-12",
+  "strength": "strong",
+  "status": "strong",
+  "description": "Frontier compute is being priced as a financial asset: SpaceX/xAI leasing GPUs at $1.1B/month and $13.3B annualized, with Anthropic and Google as anchor tenants, turning rack ownership into a revenue engine separate from model quality."
+ },
+ "dual_use_agent_diffusion_enforcement": {
+  "first_seen": "2026-09-12",
+  "last_updated": "2026-09-12",
+  "strength": "strong",
+  "status": "strong",
+  "description": "Capability diffusion is now enforced at both ends: government advisories target industrial-scale model distillation while frontier labs document weapons-related misuse of coding agents, shifting safeguards from refusal to usage-pattern monitoring and degraded responses."
+ },
+ "memory_first_inference_architecture": {
+  "first_seen": "2026-09-12",
+  "last_updated": "2026-09-12",
+  "strength": "emerging",
+  "status": "emerging",
+  "description": "Inference hardware designed around commodity LPDDR5X instead of scarce HBM (Positron Asimov/Titan; DeepSeek V4.1 KV cache cut to 1/4 HBM) as an architectural answer to the memory wall."
+ },
+ "small_tier_consumes_flagship": {
+  "first_seen": "2026-09-12",
+  "last_updated": "2026-09-12",
+  "strength": "emerging",
+  "status": "emerging",
+  "description": "DeepSeek retiring V4 Pro by redirecting its traffic to V4.1-Flash signals capability and cost collapsing into the small/flash tier, pressuring flagship pricing across the market."
  }
 }
