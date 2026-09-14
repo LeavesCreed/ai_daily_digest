@@ -1,16 +1,17 @@
 {
  "OpenAI": {
-  "last_seen": "2026-09-13",
-  "count": 19,
+  "last_seen": "2026-09-15",
+  "count": 20,
   "appearances": 2,
-  "mention_count": 5
+  "mention_count": 6,
+  "mentions": 1
  },
  "Anthropic": {
-  "last_seen": "2026-09-14",
-  "count": 25,
-  "mention_count": 8,
+  "last_seen": "2026-09-15",
+  "count": 26,
+  "mention_count": 9,
   "appearances": 3,
-  "mentions": 5
+  "mentions": 6
  },
  "Meta": {
   "last_seen": "2026-09-13",
@@ -60,16 +61,17 @@
   "mention_count": 1
  },
  "SK Hynix": {
-  "last_seen": "2026-08-08",
-  "count": 5,
-  "mention_count": 1,
-  "appearances": 1
+  "last_seen": "2026-09-15",
+  "count": 6,
+  "mention_count": 2,
+  "appearances": 1,
+  "mentions": 1
  },
  "NVIDIA": {
-  "last_seen": "2026-09-13",
-  "count": 12,
-  "mentions": 1,
-  "mention_count": 3
+  "last_seen": "2026-09-15",
+  "count": 13,
+  "mentions": 2,
+  "mention_count": 4
  },
  "Huawei": {
   "last_seen": "2026-08-31",
@@ -98,8 +100,10 @@
   "count": 1
  },
  "Michael Burry": {
-  "last_seen": "2026-07-01",
-  "count": 1
+  "last_seen": "2026-09-15",
+  "count": 2,
+  "mentions": 1,
+  "mention_count": 1
  },
  "Claude Code": {
   "last_seen": "2026-07-02",
@@ -219,9 +223,10 @@
   "count": 2
  },
  "Google": {
-  "count": 4,
-  "last_seen": "2026-09-13",
-  "mention_count": 1
+  "count": 5,
+  "last_seen": "2026-09-15",
+  "mention_count": 2,
+  "mentions": 1
  },
  "Commerce Department": {
   "first_seen": "2026-07-06",
@@ -247,7 +252,10 @@
  },
  "Micron": {
   "first_seen": "2026-07-06",
-  "mention_count": 1
+  "mention_count": 2,
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1
  },
  "Illinois": {
   "last_seen": "2026-07-07",
@@ -625,8 +633,10 @@
   "count": 1
  },
  "Xi Jinping": {
-  "last_seen": "2026-07-18",
-  "count": 1
+  "last_seen": "2026-09-15",
+  "count": 2,
+  "mentions": 1,
+  "mention_count": 1
  },
  "Anastasios Angelopoulos": {
   "last_seen": "2026-07-19",
@@ -680,9 +690,10 @@
   "description": "Japan national AI factory, 44 companies"
  },
  "SoftBank": {
-  "last_seen": "2026-09-09",
-  "count": 2,
-  "mention_count": 2
+  "last_seen": "2026-09-15",
+  "count": 3,
+  "mention_count": 3,
+  "mentions": 1
  },
  "Sony": {
   "last_seen": "2026-07-20",
@@ -2392,10 +2403,10 @@
   "mention_count": 2
  },
  "Mike Johnson": {
-  "last_seen": "2026-09-14",
-  "count": 1,
-  "mentions": 1,
-  "mention_count": 1
+  "last_seen": "2026-09-15",
+  "count": 2,
+  "mentions": 2,
+  "mention_count": 2
  },
  "Donald Trump": {
   "last_seen": "2026-09-14",
@@ -2435,6 +2446,96 @@
  },
  "Oriol Vinyals": {
   "last_seen": "2026-09-14",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "Trump": {
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "Shanghai AI Laboratory": {
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "Atria Dawn": {
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "SanDisk": {
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "BRICS": {
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "WAICO": {
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "Gil Luria": {
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "DA Davidson": {
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "US House of Representatives": {
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "Washington Post": {
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "Arcee AI": {
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "Bolt.new": {
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "affaan-m/ECC": {
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "China MFA": {
+  "last_seen": "2026-09-15",
+  "count": 1,
+  "mentions": 1,
+  "mention_count": 1
+ },
+ "Micron HBM4": {
+  "last_seen": "2026-09-15",
   "count": 1,
   "mentions": 1,
   "mention_count": 1

@@ -934,9 +934,9 @@
   "description": "DeepSeek retiring V4 Pro by redirecting its traffic to V4.1-Flash signals capability and cost collapsing into the small/flash tier, pressuring flagship pricing across the market."
  },
  "ai_safety_pacing_consensus": {
-  "last_updated": "2026-09-14",
+  "last_updated": "2026-09-15",
   "strength": "strong",
-  "description": "Frontier lab CEOs converging on coordinated pacing (Amodei framework, Altman endorsement) while US legislative branch splits on who enforces - Johnson defers to developers, Sacks opposes coordination waivers, Democrats push recess-period legislation."
+  "description": "Frontier lab CEOs converging on coordinated pacing (Amodei framework, Altman endorsement) while US legislative branch splits on who enforces - Johnson defers to developers, Sacks opposes coordination waivers, Democrats push recess-period legislation. | 2026-09-15: formal divergence emerged — labs (Anthropic/OpenAI/Google) back pacing and discuss a new safety body while US federal policy rejects new regulation and China calls the appeals fear-mongering."
  },
  "frontier_release_blocking_authority": {
   "first_seen": "2026-09-13",
@@ -985,5 +985,30 @@
   "last_updated": "2026-09-14",
   "strength": "strong",
   "description": "Chip suppliers becoming IPO anchor investors (Nvidia up to $10B into Anthropic listing at ~$2T); procurement relationships converting into shareholder relationships."
+ },
+ "safety_slowdown_political_divergence": {
+  "last_updated": "2026-09-15",
+  "strength": "strong",
+  "description": "Frontier labs advocate pacing and discuss a new cross-lab safety body while US federal government rejects new regulation (Trump: safety concerns a 'hoax'; House recessed to midterms). Governance shifts to states, courts and third-party audits."
+ },
+ "market_repricing_of_slowdown_narrative": {
+  "last_updated": "2026-09-15",
+  "strength": "strong",
+  "description": "Memory/AI-infra equities most sensitive to pacing signals (Micron/SanDisk ~-6%, SK Hynix -7%, SoftBank weighing on Nikkei) even as long-term order books (Micron ~$22B agreements) stay intact; narrative risk and compute demand decoupling."
+ },
+ "open_weight_geopolitical_export_track": {
+  "last_updated": "2026-09-15",
+  "strength": "strong",
+  "description": "China proposes a BRICS AI Open Source Zone and routes Global South demand through WAICO (Shanghai, 29 founding members) while the US debates open-weight export controls and distillation enforcement; 27 open-weight releases logged in August alone."
+ },
+ "open_weight_reasoning_commoditization": {
+  "last_updated": "2026-09-15",
+  "strength": "emerging",
+  "description": "Chinese labs shipping open-weight reasoning models with long context (Shanghai AI Lab Atria Dawn Preview, 256K context, explicit reasoning mode), compressing closed-frontier pricing premium."
+ },
+ "memory_supplier_model_lab_binding": {
+  "last_updated": "2026-09-15",
+  "strength": "emerging",
+  "description": "Model labs tying directly to memory suppliers at architecture level (Micron-Anthropic covering memory/storage design, long-term supply, enterprise adoption); HBM4 revenue past $1B with tighter 2027 supply expected."
  }
 }
