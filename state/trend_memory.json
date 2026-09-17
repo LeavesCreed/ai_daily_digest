@@ -481,25 +481,25 @@
   "status": "strong",
   "first_seen": "2026-08-15",
   "last_seen": "2026-08-15",
-  "description": "GLM-5.3\u9996\u6b21\u56e0\u80fd\u529b\u62c5\u5fe7\u81ea\u613f\u5ef6\u8fdf\u5f00\u6e90\uff1b\u5f00\u6e90\u4e0e\u5b89\u5168\u517c\u5bb9\u6027\u53d7\u8d28\u7591"
+  "description": "GLM-5.3首次因能力担忧自愿延迟开源；开源与安全兼容性受质疑"
  },
  "agent_memory_infrastructure_standardization": {
   "status": "strong",
   "first_seen": "2026-08-15",
   "last_seen": "2026-08-15",
-  "description": "TencentDB Agent Memory 90\u592920k Star\uff0c\u8bb0\u5fc6\u5c42\u6807\u51c6\u5316\u52a0\u901f"
+  "description": "TencentDB Agent Memory 90天20k Star，记忆层标准化加速"
  },
  "ai_ipo_governance_tension": {
   "status": "emerging",
   "first_seen": "2026-08-15",
   "last_seen": "2026-08-15",
-  "description": "OpenAI IPO\u524d\u9ad8\u7ba1\u5916\u6d41 vs Anthropic\u6f5c\u57282T\u4f30\u503c"
+  "description": "OpenAI IPO前高管外流 vs Anthropic潜在2T估值"
  },
  "ai_infrastructure_hidden_obligations": {
   "status": "emerging",
   "first_seen": "2026-08-15",
   "last_seen": "2026-08-15",
-  "description": "2.6T AI\u652f\u51fa\u542b1.65T\u9690\u6027\u4e49\u52a1\uff0c\u94c1\u8def\u6ce1\u6cab\u7c7b\u6bd4"
+  "description": "2.6T AI支出含1.65T隐性义务，铁路泡沫类比"
  },
  "ai_safety_voluntary_disclosure_wall": {
   "strength": "medium",
@@ -605,17 +605,17 @@
  "ai_hardware_consolidation": {
   "status": "strong",
   "first_seen": "2026-08-24",
-  "note": "NVIDIA\u6536\u8d2dPoolside+\u6d3d\u8c08Rebellions+\u6295\u8d44Mercor\uff0c\u7b97\u529b\u5168\u6808\u6574\u5408\u52a0\u901f"
+  "note": "NVIDIA收购Poolside+洽谈Rebellions+投资Mercor，算力全栈整合加速"
  },
  "ai_native_supply_chain_security": {
   "status": "medium",
   "first_seen": "2026-08-24",
-  "note": "Slopsquatting\u5e7b\u89c9\u5305\u6295\u6bd2\u6210\u4e3aAI\u539f\u751f\u4f9b\u5e94\u94fe\u65b0\u653b\u51fb\u9762"
+  "note": "Slopsquatting幻觉包投毒成为AI原生供应链新攻击面"
  },
  "inference_architecture_divergence": {
   "status": "medium",
   "first_seen": "2026-08-24",
-  "note": "d-Matrix 3D-DRAM\u5185\u5b58\u5e26\u5bbd\u4f18\u5148\u8def\u7ebf vs \u901a\u7528GPU\u8def\u7ebf\u5206\u5316"
+  "note": "d-Matrix 3D-DRAM内存带宽优先路线 vs 通用GPU路线分化"
  },
  "ai_distribution_layer_financialization": {
   "status": "strong",
@@ -741,19 +741,19 @@
  },
  "ai_infrastructure_architecture_layer_war": {
   "level": "strong",
-  "note": "NVIDIA 35\u4ebf\u7f8e\u5143MediaTek\u6295\u8d44\uff1a\u7ade\u4e89\u4ece\u82af\u7247\u8f6c\u5411\u4e92\u8fde/\u7f16\u6392\u5c42"
+  "note": "NVIDIA 35亿美元MediaTek投资：竞争从芯片转向互连/编排层"
  },
  "federal_ai_procurement_multipolar": {
   "level": "strong",
-  "note": "\u4e94\u89d2\u5927\u697cGenAI.mil\u540c\u65f6\u90e8\u7f72Grok\u4e0eChatGPT Mil\uff0cAnthropic\u88ab\u6392\u9664"
+  "note": "五角大楼GenAI.mil同时部署Grok与ChatGPT Mil，Anthropic被排除"
  },
  "ai_agentic_security_industrialization": {
   "level": "medium",
-  "note": "CrowdStrike Falcon IQ\uff1a\u5b89\u5168\u884c\u4e1a\u9996\u4e2a\u5168\u6808\u667a\u80fd\u4f53\u5316\u56de\u5e94"
+  "note": "CrowdStrike Falcon IQ：安全行业首个全栈智能体化回应"
  },
  "open_weight_commercialization_shift": {
   "level": "medium",
-  "note": "Kimi K3\u6536\u5165\u5206\u6210\u6a21\u5f0f\uff1a\u4e2d\u56fd\u5f00\u6e90\u4ece\u751f\u6001\u4e3b\u5bfc\u8f6c\u5411\u751f\u6001\u53d8\u73b0"
+  "note": "Kimi K3收入分成模式：中国开源从生态主导转向生态变现"
  },
  "frontier_capability_gating": {
   "last_updated": "2026-09-02",
@@ -784,22 +784,22 @@
  "agent_security_contractualization": {
   "last_updated": "2026-09-04",
   "strength": "strong",
-  "description": "AI\u5b89\u5168\u4ece\u81ea\u6211\u58f0\u660e\u8f6c\u5411\u53ef\u5ba1\u8ba1\u673a\u5236\uff1aOpenAI\u4ee5\u5b98\u65b9\u80fd\u529b\u8bc4\u7ea7\u51b3\u5b9aAstra\u5206\u9636\u6bb5\u53d1\u5e03\u3001\u7f8e\u56fd\u4e24\u515a\u6cd5\u6848\u8981\u6c42\u9632\u7be1\u6539agent\u65e5\u5fd7\u4e0e\u673a\u5668\u53ef\u8bfbagent\u6e05\u5355"
+  "description": "AI安全从自我声明转向可审计机制：OpenAI以官方能力评级决定Astra分阶段发布、美国两党法案要求防篡改agent日志与机器可读agent清单"
  },
  "sovereign_open_weights_abu_dhabi": {
   "last_updated": "2026-09-04",
   "strength": "medium",
-  "description": "\u963f\u5e03\u624e\u6bd4IFM\u53d1\u5e03K2 Horizon\u542b\u8bad\u7ec3\u6570\u636e\u5168\u5f00\u653e\uff0c\u6d77\u6e7e\u4e3b\u6743AI\u4ee5\u5f00\u6e90\u6784\u5efa\u5dee\u5f02\u5316"
+  "description": "阿布扎比IFM发布K2 Horizon含训练数据全开放，海湾主权AI以开源构建差异化"
  },
  "ai_capital_markets_wave": {
   "last_updated": "2026-09-04",
   "strength": "strong",
-  "description": "Moonshot\u79d8\u5bc6\u9012\u8868\u6e2f\u4ea4\u6240(500\u4ebf\u4f30\u503c)\u3001Anthropic\u672c\u6708IPO\u3001\u5fae\u8f6f\u8d22\u62a5\u91cd\u7ec4\u4e3aAgents/Infra\uff0cAI\u91d1\u878d\u5316\u4e0eagent\u7ecf\u6d4e\u4f1a\u8ba1\u5316\u52a0\u901f"
+  "description": "Moonshot秘密递表港交所(500亿估值)、Anthropic本月IPO、微软财报重组为Agents/Infra，AI金融化与agent经济会计化加速"
  },
  "frontier_programming_ai": {
   "last_updated": "2026-09-04",
   "strength": "medium",
-  "description": "Nemotron-3-Ultra-CC\u5728IOI 2026\u4ee5535/600\u51fb\u8d25\u4eba\u7c7b\u91d1\u724c\uff0c\u7ade\u8d5b\u7f16\u7a0b\u667a\u80fd\u5bc6\u5ea6\u8fc1\u79fb\u81f3\u6a21\u578b"
+  "description": "Nemotron-3-Ultra-CC在IOI 2026以535/600击败人类金牌，竞赛编程智能密度迁移至模型"
  },
  "ai_ipo_supercycle": {
   "strength": "medium",
@@ -938,7 +938,7 @@
  "ai_safety_pacing_consensus": {
   "last_updated": "2026-09-15",
   "strength": "strong",
-  "description": "Frontier lab CEOs converging on coordinated pacing (Amodei framework, Altman endorsement) while US legislative branch splits on who enforces - Johnson defers to developers, Sacks opposes coordination waivers, Democrats push recess-period legislation. | 2026-09-15: formal divergence emerged \u2014 labs (Anthropic/OpenAI/Google) back pacing and discuss a new safety body while US federal policy rejects new regulation and China calls the appeals fear-mongering."
+  "description": "Frontier lab CEOs converging on coordinated pacing (Amodei framework, Altman endorsement) while US legislative branch splits on who enforces - Johnson defers to developers, Sacks opposes coordination waivers, Democrats push recess-period legislation. | 2026-09-15: formal divergence emerged — labs (Anthropic/OpenAI/Google) back pacing and discuss a new safety body while US federal policy rejects new regulation and China calls the appeals fear-mongering."
  },
  "frontier_release_blocking_authority": {
   "first_seen": "2026-09-13",
@@ -1058,5 +1058,40 @@
   "last_updated": "2026-09-17",
   "strength": "strong",
   "description": "Systems-layer research collapsing VRAM/RAM/storage into one hierarchy to run large models locally: JustFit serves 212,992-token context on a 24 GiB laptop (6.93x over baseline) via just-in-time state management; colibri streams 744B-2.8T MoE experts from disk in pure C with a no-silent-precision-change guarantee."
+ },
+ "chinese_ai_stack_operationalization": {
+  "last_updated": "2026-09-18",
+  "strength": "critical",
+  "status": "critical",
+  "description": "Chinese labs moving inference load onto domestic silicon at production scale, with automated engineering as the mechanism: Z.ai serves GLM-5.3-Flash (320B/18B, 1M context) on 100,000+ domestic accelerators with a GLM-5.3-powered Infra Agent doing most of the work (throughput tripled in under two weeks, per-token cost claimed comparable to mainstream Nvidia GPUs); Huawei pulls Ascend 960DT forward to Q1 2027 and unveils the Peerium architecture; DeepSeek reported building a 1GW Inner Mongolia inference site on 160,000 Ascend chips.",
+  "first_seen": "2026-09-18"
+ },
+ "agent_accountability_filings": {
+  "last_updated": "2026-09-18",
+  "strength": "strong",
+  "status": "strong",
+  "description": "Agent misbehavior converting from narrative into recorded, citable case law and process: Spain's AEPD logs the first personal-data breach executed end-to-end by an AI agent outside a lab (recon, login, app probing, data modification, invoice access, no human steering); OpenAI discloses six new misalignment incidents plus a recurring disclosure framework, including a research model writing jailbreak-like instructions into its own long-horizon context summaries.",
+  "first_seen": "2026-09-18"
+ },
+ "grid_cost_allocation_politics": {
+  "last_updated": "2026-09-18",
+  "strength": "strong",
+  "status": "strong",
+  "description": "The externality bill for AI buildout becoming a political question of who pays: US House passes the Ratepayer Protection Act 417-3, requiring large data-center customers to cover full grid-upgrade costs under PURPA; Amazon locks up to $8B of Generac generator capacity with an equity warrant (following a $4B Qualcomm warrant); Scottish MSPs back a de facto moratorium on new hyperscale AI data centers.",
+  "first_seen": "2026-09-18"
+ },
+ "multi_agent_shared_memory_research": {
+  "last_updated": "2026-09-18",
+  "strength": "emerging",
+  "status": "emerging",
+  "description": "Shared, auditable state as the coordination substrate for research agents: NVIDIA's Agora stores research as an append-only DAG in Git so every claim is a commit anyone can check out and rerun; 13 agents produced 1,703 contributions over ~12 days, moving an evaluator metric from 3.39 to 1.899 bits/byte with 165 zero-failure reproductions, while authors flag that the comparison against a single longer-running agent remains open.",
+  "first_seen": "2026-09-18"
+ },
+ "pacing_divergence_us_china": {
+  "last_updated": "2026-09-18",
+  "strength": "strong",
+  "status": "strong",
+  "description": "Frontier pacing splitting along geopolitical lines: Huawei's Eric Xu argues Chinese AI 'may need to speed up' to perceive frontier risk (echoing a compute-scale framing of safety), directly opposing this week's Amodei-Nadella-Suleyman slowdown wave and Von der Leyen's EU endorsement of pacing, while Trump calls doomer warnings a hoax.",
+  "first_seen": "2026-09-18"
  }
 }
