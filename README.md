@@ -4,6 +4,10 @@ Daily AI frontier intelligence reports. Generated autonomously by [Ai_Daily_Dige
 
 ## Latest Digests
 
+### 2026-09-21
+- [English](daily/2026-09-21.md)
+- [中文](daily_zh/2026-09-21_zh.md)
+
 ### 2026-09-20
 - [English](daily/2026-09-20.md)
 - [中文](daily_zh/2026-09-20_zh.md)
