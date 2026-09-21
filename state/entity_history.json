@@ -10,23 +10,25 @@
     ]
   },
   "Anthropic": {
-    "last_seen": "2026-09-21",
-    "mention_count": 11,
-    "appearances": 6,
+    "last_seen": "2026-09-22",
+    "mention_count": 12,
+    "appearances": 7,
     "mentions": 8,
     "dates": [
       "2026-09-19",
-      "2026-09-21"
+      "2026-09-21",
+      "2026-09-22"
     ]
   },
   "Meta": {
-    "last_seen": "2026-09-21",
-    "appearances": 3,
+    "last_seen": "2026-09-22",
+    "appearances": 4,
     "mentions": 3,
-    "mention_count": 4,
+    "mention_count": 5,
     "dates": [
       "2026-09-19",
-      "2026-09-21"
+      "2026-09-21",
+      "2026-09-22"
     ]
   },
   "Together AI": {
@@ -52,9 +54,13 @@
     "count": 2
   },
   "Broadcom": {
-    "last_seen": "2026-09-16",
+    "last_seen": "2026-09-22",
     "count": 4,
-    "appearances": 1
+    "appearances": 2,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-22"
+    ]
   },
   "Trump administration": {
     "last_seen": "2026-07-23",
@@ -262,12 +268,13 @@
   },
   "Google": {
     "count": 7,
-    "last_seen": "2026-09-21",
-    "mention_count": 4,
+    "last_seen": "2026-09-22",
+    "mention_count": 5,
     "mentions": 2,
-    "appearances": 3,
+    "appearances": 4,
     "dates": [
-      "2026-09-21"
+      "2026-09-21",
+      "2026-09-22"
     ]
   },
   "Commerce Department": {
@@ -746,12 +753,15 @@
     "count": 1
   },
   "xAI": {
-    "last_seen": "2026-07-20",
+    "last_seen": "2026-09-22",
     "description": "$1.25B/month Colossus compute to Anthropic",
     "mentions": 3,
     "dates": [
-      "2026-09-19"
-    ]
+      "2026-09-19",
+      "2026-09-22"
+    ],
+    "appearances": 1,
+    "mention_count": 1
   },
   "Fluidstack": {
     "last_seen": "2026-07-20",
@@ -848,10 +858,13 @@
     "appearances": 1
   },
   "AMD": {
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-22",
     "count": 5,
-    "appearances": 1,
-    "mention_count": 5
+    "appearances": 2,
+    "mention_count": 6,
+    "dates": [
+      "2026-09-22"
+    ]
   },
   "Michael Kratsios": {
     "last_seen": "2026-07-24",
@@ -1639,7 +1652,12 @@
     "first_seen": "2026-08-18",
     "count": 2,
     "trend": "rising",
-    "last_seen": "2026-09-02"
+    "last_seen": "2026-09-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-22"
+    ]
   },
   "LG Electronics": {
     "first_seen": "2026-08-18",
@@ -2301,13 +2319,14 @@
     "mention_count": 1
   },
   "Nvidia": {
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-22",
     "count": 3,
-    "appearances": 2,
-    "mention_count": 4,
+    "appearances": 3,
+    "mention_count": 5,
     "mentions": 2,
     "dates": [
-      "2026-09-21"
+      "2026-09-21",
+      "2026-09-22"
     ]
   },
   "Trainium": {
@@ -3436,6 +3455,86 @@
     "mentions": 1,
     "dates": [
       "2026-09-21"
+    ]
+  },
+  "StepFun": {
+    "last_seen": "2026-09-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-22"
+    ]
+  },
+  "Step 5 Preview": {
+    "last_seen": "2026-09-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-22"
+    ]
+  },
+  "Claude Opus 5.5": {
+    "last_seen": "2026-09-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-22"
+    ]
+  },
+  "Gemini 4 Pro": {
+    "last_seen": "2026-09-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-22"
+    ]
+  },
+  "Grok 4.7": {
+    "last_seen": "2026-09-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-22"
+    ]
+  },
+  "Moonshot K3.1": {
+    "last_seen": "2026-09-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-22"
+    ]
+  },
+  "DeepSeek V4.1 Pro": {
+    "last_seen": "2026-09-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-22"
+    ]
+  },
+  "Alibaba Qwen4": {
+    "last_seen": "2026-09-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-22"
+    ]
+  },
+  "Qwen-Image-2.1": {
+    "last_seen": "2026-09-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-22"
+    ]
+  },
+  "Qwen3.8-LiveTranslate": {
+    "last_seen": "2026-09-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-22"
     ]
   }
 }

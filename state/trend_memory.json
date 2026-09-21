@@ -1193,5 +1193,35 @@
     "strength": "medium",
     "status": "emerging",
     "description": "LimiX-2 and TabPFN-3.5 push tabular foundation models forward but shift to non-commercial licenses, echoing open-in-spirit, closed-for-deployment trends."
+  },
+  "intelligence_per_dollar_pareto_race": {
+    "last_updated": "2026-09-22",
+    "strength": "critical",
+    "status": "critical",
+    "description": "Frontier labs compress intelligence-per-dollar; Step 5 Preview at 1/8 Opus 5 cost while scoring above Gemini 3.8 Flash."
+  },
+  "off_balance_sheet_ai_financing": {
+    "last_updated": "2026-09-22",
+    "strength": "critical",
+    "status": "critical",
+    "description": "~$300B residual value guarantees (Nvidia $105B, Broadcom $29B, Meta $28B) keep AI buildout off conventional debt."
+  },
+  "open_weight_acceleration": {
+    "last_updated": "2026-09-22",
+    "strength": "strong",
+    "status": "strong",
+    "description": "StepFun Step 5 Preview open weights Oct 15; Qwen-Image-2.1 open-weight; Chinese labs accelerating open release."
+  },
+  "computer_use_runtime_standardization": {
+    "last_updated": "2026-09-22",
+    "strength": "medium",
+    "status": "emerging",
+    "description": "trycua/cua 'computer-use 2.0' standardizes drivers, fleet orchestration and benchmarks for agent fleets."
+  },
+  "enterprise_ai_spending_battle": {
+    "last_updated": "2026-09-22",
+    "strength": "strong",
+    "status": "strong",
+    "description": "GPT-6 Astra ~13% vs Claude Fable ~8% enterprise spend; Opus 5.5 leapfrog aimed at reclaiming enterprise share."
   }
 }
