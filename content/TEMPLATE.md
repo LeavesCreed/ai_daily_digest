@@ -5,13 +5,12 @@ language: en
 title: AI Daily Digest - {{DATE}}
 summary: {{EXECUTIVE_SUMMARY}}
 categories:
-
-* {{category1}}
-* {{category2}}
-  tags:
-* {{tag1}}
-* {{tag2}}
-  news_count: 5
+  - {{category1}}
+  - {{category2}}
+tags:
+  - {{tag1}}
+  - {{tag2}}
+news_count: 5
 
 ---
 

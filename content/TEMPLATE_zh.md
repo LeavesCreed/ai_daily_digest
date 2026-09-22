@@ -5,13 +5,12 @@ language: zh_CN
 title: AI 每日简报 - {{DATE}}
 summary: {{EXECUTIVE_SUMMARY}}
 categories:
-
-* {{category1}}
-* {{category2}}
-  tags:
-* {{tag1}}
-* {{tag2}}
-  news_count: 5
+  - {{category1}}
+  - {{category2}}
+tags:
+  - {{tag1}}
+  - {{tag2}}
+news_count: 5
 
 ---
 
