@@ -177,7 +177,7 @@ Apply ranking policy during candidate ordering.
 
 The agent MUST execute TWO distinct generation pipelines to output TWO separate files:
 1. Read `./TEMPLATE.md` to generate the English digest (`diary.md`).
-2. Read `./TEMPLATE_zh.md` to generate the Chinese digest (`diary_zh.md`).
+2. Read `./TEMPLATE_zh.md` to generate the Chinese digest (`diary.md`).
 - Follow section ordering strictly as defined in the respective templates.
 - Maintain markdown formatting.
 
@@ -190,13 +190,13 @@ The agent SHOULD:
 # Digest Requirements
 
 Generate:
-- 5 to 10 high-quality items total
+- 5 high-quality items total
 - concise summaries
 - high information density
 
 Output Structure MUST be strictly separated:
 - File 1 (`diary.md`): 100% English. DO NOT include any Chinese text.
-- File 2 (`diary_zh.md`): 100% Simplified Chinese. DO NOT include any English text (except for necessary technical terms, project names, or code elements).
+- File 2 (`diary.md`): 100% Simplified Chinese. DO NOT include any English text (except for necessary technical terms, project names, or code elements).
 - DO NOT mix English and Chinese summaries within the same section or the same file.
 
 Avoid:
@@ -220,7 +220,7 @@ Both digests MUST independently include:
 
 # Writing Style
 
-Chinese summary (`diary_zh.md`) MUST:
+Chinese summary (`diary.md`) MUST:
 - preserve technical precision
 - avoid over-localization
 - maintain engineering terminology (keep proper nouns and tech stacks in English if standard)
@@ -275,11 +275,11 @@ Trend memory should later support:
 
 Create TWO distinct digest files for the current date:
 - `./daily/YYYY-MM-DD.md` (English version)
-- `./daily/YYYY-MM-DD_zh.md` (Chinese version)
+- `./daily_zh/YYYY-MM-DD.md` (Chinese version)
 
 Optional (Maintain the same naming convention if aggregated):
-- `./weekly/YYYY-WW.md` and `./weekly/YYYY-WW_zh.md`
-- `./monthly/YYYY-MM.md` and `./monthly/YYYY-MM_zh.md`
+- `./weekly/YYYY-WW.md`
+- `./monthly/YYYY-MM.md`
 
 Both digest files MUST:
 - render cleanly in standard Markdown

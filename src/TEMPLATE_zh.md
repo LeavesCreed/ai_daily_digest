@@ -1,3 +1,18 @@
+---
+date: {{DATE}}
+language: zh_CN
+summary: {{SHORT_SUMMARY}}
+categories:
+  - {{category1}}
+  - {{category2}}
+  - ...
+tags:
+  - {{tag1}}
+  - {{tag2}}
+  - ...
+news_count: 5
+---
+
 # AI 每日简报 - {{DATE}}
 
 ## 执行摘要
@@ -25,6 +40,60 @@
 ---
 
 ## 2. {{TITLE}}
+
+### 发生了什么
+{{SUMMARY}}
+
+### 为什么重要
+{{IMPORTANCE}}
+
+### 核心技术点
+{{KEY_POINTS}}
+
+### 链接
+- 官方: {{OFFICIAL_LINK}}
+- 论文: {{PAPER_LINK}}
+- GitHub: {{GITHUB_LINK}}
+
+---
+
+## 3. {{TITLE}}
+
+### 发生了什么
+{{SUMMARY}}
+
+### 为什么重要
+{{IMPORTANCE}}
+
+### 核心技术点
+{{KEY_POINTS}}
+
+### 链接
+- 官方: {{OFFICIAL_LINK}}
+- 论文: {{PAPER_LINK}}
+- GitHub: {{GITHUB_LINK}}
+
+---
+
+## 4. {{TITLE}}
+
+### 发生了什么
+{{SUMMARY}}
+
+### 为什么重要
+{{IMPORTANCE}}
+
+### 核心技术点
+{{KEY_POINTS}}
+
+### 链接
+- 官方: {{OFFICIAL_LINK}}
+- 论文: {{PAPER_LINK}}
+- GitHub: {{GITHUB_LINK}}
+
+---
+
+## 5. {{TITLE}}
 
 ### 发生了什么
 {{SUMMARY}}
