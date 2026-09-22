@@ -1,16 +1,18 @@
 ---
+
 date: {{DATE}}
 language: en
-summary: {{SHORT_SUMMARY}}
+title: AI Daily Digest - {{DATE}}
+summary: {{EXECUTIVE_SUMMARY}}
 categories:
-  - {{category1}}
-  - {{category2}}
-  - ...
-tags:
-  - {{tag1}}
-  - {{tag2}}
-  - ...
-news_count: 5
+
+* {{category1}}
+* {{category2}}
+  tags:
+* {{tag1}}
+* {{tag2}}
+  news_count: 5
+
 ---
 
 # AI Daily Digest - {{DATE}}
@@ -24,90 +26,120 @@ news_count: 5
 ## 1. {{TITLE}}
 
 ### What Happened
+
 {{SUMMARY}}
 
 ### Why It Matters
+
 {{IMPORTANCE}}
 
 ### Key Technical Points
+
 {{KEY_POINTS}}
 
 ### Links
-- Official: {{OFFICIAL_LINK}}
-- Paper: {{PAPER_LINK}}
-- GitHub: {{GITHUB_LINK}}
+
+* Official: {{OFFICIAL_LINK}}
+* Paper: {{PAPER_LINK}}
+* GitHub: {{GITHUB_LINK}}
+* Category: {{CATEGORY}}
+* Tags: {{TAGS}}
 
 ---
 
 ## 2. {{TITLE}}
 
 ### What Happened
+
 {{SUMMARY}}
 
 ### Why It Matters
+
 {{IMPORTANCE}}
 
 ### Key Technical Points
+
 {{KEY_POINTS}}
 
 ### Links
-- Official: {{OFFICIAL_LINK}}
-- Paper: {{PAPER_LINK}}
-- GitHub: {{GITHUB_LINK}}
+
+* Official: {{OFFICIAL_LINK}}
+* Paper: {{PAPER_LINK}}
+* GitHub: {{GITHUB_LINK}}
+* Category: {{CATEGORY}}
+* Tags: {{TAGS}}
 
 ---
 
 ## 3. {{TITLE}}
 
 ### What Happened
+
 {{SUMMARY}}
 
 ### Why It Matters
+
 {{IMPORTANCE}}
 
 ### Key Technical Points
+
 {{KEY_POINTS}}
 
 ### Links
-- Official: {{OFFICIAL_LINK}}
-- Paper: {{PAPER_LINK}}
-- GitHub: {{GITHUB_LINK}}
+
+* Official: {{OFFICIAL_LINK}}
+* Paper: {{PAPER_LINK}}
+* GitHub: {{GITHUB_LINK}}
+* Category: {{CATEGORY}}
+* Tags: {{TAGS}}
 
 ---
 
 ## 4. {{TITLE}}
 
 ### What Happened
+
 {{SUMMARY}}
 
 ### Why It Matters
+
 {{IMPORTANCE}}
 
 ### Key Technical Points
+
 {{KEY_POINTS}}
 
 ### Links
-- Official: {{OFFICIAL_LINK}}
-- Paper: {{PAPER_LINK}}
-- GitHub: {{GITHUB_LINK}}
+
+* Official: {{OFFICIAL_LINK}}
+* Paper: {{PAPER_LINK}}
+* GitHub: {{GITHUB_LINK}}
+* Category: {{CATEGORY}}
+* Tags: {{TAGS}}
 
 ---
 
 ## 5. {{TITLE}}
 
 ### What Happened
+
 {{SUMMARY}}
 
 ### Why It Matters
+
 {{IMPORTANCE}}
 
 ### Key Technical Points
+
 {{KEY_POINTS}}
 
 ### Links
-- Official: {{OFFICIAL_LINK}}
-- Paper: {{PAPER_LINK}}
-- GitHub: {{GITHUB_LINK}}
+
+* Official: {{OFFICIAL_LINK}}
+* Paper: {{PAPER_LINK}}
+* GitHub: {{GITHUB_LINK}}
+* Category: {{CATEGORY}}
+* Tags: {{TAGS}}
 
 ---
 
@@ -118,6 +150,7 @@ news_count: 5
 {{PAPER_SUMMARY}}
 
 Link:
+
 {{PAPER_LINK}}
 
 ---
@@ -129,6 +162,7 @@ Link:
 {{PROJECT_SUMMARY}}
 
 Link:
+
 {{PROJECT_LINK}}
 
 ---

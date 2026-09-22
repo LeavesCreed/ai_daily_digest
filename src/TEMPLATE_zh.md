@@ -1,16 +1,18 @@
 ---
+
 date: {{DATE}}
 language: zh_CN
-summary: {{SHORT_SUMMARY}}
+title: AI 每日简报 - {{DATE}}
+summary: {{EXECUTIVE_SUMMARY}}
 categories:
-  - {{category1}}
-  - {{category2}}
-  - ...
-tags:
-  - {{tag1}}
-  - {{tag2}}
-  - ...
-news_count: 5
+
+* {{category1}}
+* {{category2}}
+  tags:
+* {{tag1}}
+* {{tag2}}
+  news_count: 5
+
 ---
 
 # AI 每日简报 - {{DATE}}
@@ -24,90 +26,120 @@ news_count: 5
 ## 1. {{TITLE}}
 
 ### 发生了什么
+
 {{SUMMARY}}
 
 ### 为什么重要
+
 {{IMPORTANCE}}
 
 ### 核心技术点
+
 {{KEY_POINTS}}
 
 ### 链接
-- 官方: {{OFFICIAL_LINK}}
-- 论文: {{PAPER_LINK}}
-- GitHub: {{GITHUB_LINK}}
+
+* Official: {{OFFICIAL_LINK}}
+* Paper: {{PAPER_LINK}}
+* GitHub: {{GITHUB_LINK}}
+* Category: {{CATEGORY}}
+* Tags: {{TAGS}}
 
 ---
 
 ## 2. {{TITLE}}
 
 ### 发生了什么
+
 {{SUMMARY}}
 
 ### 为什么重要
+
 {{IMPORTANCE}}
 
 ### 核心技术点
+
 {{KEY_POINTS}}
 
 ### 链接
-- 官方: {{OFFICIAL_LINK}}
-- 论文: {{PAPER_LINK}}
-- GitHub: {{GITHUB_LINK}}
+
+* Official: {{OFFICIAL_LINK}}
+* Paper: {{PAPER_LINK}}
+* GitHub: {{GITHUB_LINK}}
+* Category: {{CATEGORY}}
+* Tags: {{TAGS}}
 
 ---
 
 ## 3. {{TITLE}}
 
 ### 发生了什么
+
 {{SUMMARY}}
 
 ### 为什么重要
+
 {{IMPORTANCE}}
 
 ### 核心技术点
+
 {{KEY_POINTS}}
 
 ### 链接
-- 官方: {{OFFICIAL_LINK}}
-- 论文: {{PAPER_LINK}}
-- GitHub: {{GITHUB_LINK}}
+
+* Official: {{OFFICIAL_LINK}}
+* Paper: {{PAPER_LINK}}
+* GitHub: {{GITHUB_LINK}}
+* Category: {{CATEGORY}}
+* Tags: {{TAGS}}
 
 ---
 
 ## 4. {{TITLE}}
 
 ### 发生了什么
+
 {{SUMMARY}}
 
 ### 为什么重要
+
 {{IMPORTANCE}}
 
 ### 核心技术点
+
 {{KEY_POINTS}}
 
 ### 链接
-- 官方: {{OFFICIAL_LINK}}
-- 论文: {{PAPER_LINK}}
-- GitHub: {{GITHUB_LINK}}
+
+* Official: {{OFFICIAL_LINK}}
+* Paper: {{PAPER_LINK}}
+* GitHub: {{GITHUB_LINK}}
+* Category: {{CATEGORY}}
+* Tags: {{TAGS}}
 
 ---
 
 ## 5. {{TITLE}}
 
 ### 发生了什么
+
 {{SUMMARY}}
 
 ### 为什么重要
+
 {{IMPORTANCE}}
 
 ### 核心技术点
+
 {{KEY_POINTS}}
 
 ### 链接
-- 官方: {{OFFICIAL_LINK}}
-- 论文: {{PAPER_LINK}}
-- GitHub: {{GITHUB_LINK}}
+
+* Official: {{OFFICIAL_LINK}}
+* Paper: {{PAPER_LINK}}
+* GitHub: {{GITHUB_LINK}}
+* Category: {{CATEGORY}}
+* Tags: {{TAGS}}
 
 ---
 
@@ -117,7 +149,8 @@ news_count: 5
 
 {{PAPER_SUMMARY}}
 
-链接:
+链接：
+
 {{PAPER_LINK}}
 
 ---
@@ -128,7 +161,8 @@ news_count: 5
 
 {{PROJECT_SUMMARY}}
 
-链接:
+链接：
+
 {{PROJECT_LINK}}
 
 ---
