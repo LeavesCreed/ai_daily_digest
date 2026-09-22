@@ -34,10 +34,10 @@ The agent MUST follow this workflow strictly.
 
 Before searching for news, load:
 
-- `/config/source_weights.yaml`
-- `/config/scoring_rules.yaml`
-- `/config/noise_filter.yaml`
-- `/config/ranking_policy.md`
+- `./config/source_weights.yaml`
+- `./config/scoring_rules.yaml`
+- `./config/noise_filter.yaml`
+- `./config/ranking_policy.md`
 
 These files define:
 - source credibility
@@ -54,10 +54,10 @@ Do NOT hardcode these values inside the skill runtime.
 
 Load:
 
-- `/state/seen_urls.json`
-- `/state/seen_titles.json`
-- `/state/entity_history.json`
-- `/state/trend_memory.json`
+- `./state/seen_urls.json`
+- `./state/seen_titles.json`
+- `./state/entity_history.json`
+- `./state/trend_memory.json`
 
 These files are used to:
 - avoid duplicate reporting
@@ -117,12 +117,12 @@ Before scoring:
 ## URL Deduplication
 
 Skip items already present in:
-`/state/seen_urls.json`
+`./state/seen_urls.json`
 
 ## Semantic Deduplication
 
 Skip items whose titles are semantically equivalent to previously reported items in:
-`/state/seen_titles.json`
+`./state/seen_titles.json`
 
 When multiple articles describe the same event:
 - keep the highest quality source
@@ -133,7 +133,7 @@ When multiple articles describe the same event:
 # Phase 6 — Noise Filtering
 
 Load rules from:
-`/config/noise_filter.yaml`
+`./config/noise_filter.yaml`
 
 Apply aggressive noise filtering.
 
@@ -146,7 +146,7 @@ Technical significance is mandatory.
 # Phase 7 — Importance Scoring
 
 Load scoring rules from:
-`/config/scoring_rules.yaml`
+`./config/scoring_rules.yaml`
 
 The agent SHOULD compute:
 
@@ -158,7 +158,7 @@ importance_score × source_weight
 # Phase 8 — Source Weighting
 
 Load:
-`/config/source_weights.yaml`
+`./config/source_weights.yaml`
 
 Apply source credibility weighting to the importance score.
 
@@ -167,7 +167,7 @@ Apply source credibility weighting to the importance score.
 # Phase 9 — Ranking
 
 Load:
-`/config/ranking_policy.yaml`
+`./config/ranking_policy.yaml`
 
 Apply ranking policy during candidate ordering.
 
@@ -182,7 +182,7 @@ The agent MUST execute TWO distinct generation pipelines to output TWO separate 
 - Maintain markdown formatting.
 
 The agent SHOULD:
-- reference `/SAMPLE.md`
+- reference `./SAMPLE.md`
 - imitate tone and information density
 
 ---
@@ -254,8 +254,8 @@ NOT:
 After generating the digest:
 
 Update:
-- `/state/entity_history.json`
-- `/state/trend_memory.json`
+- `./state/entity_history.json`
+- `./state/trend_memory.json`
 
 Track:
 - recurring entities
@@ -274,12 +274,12 @@ Trend memory should later support:
 # Phase 12 — Persist Markdown Digest
 
 Create TWO distinct digest files for the current date:
-- `/daily/YYYY-MM-DD.md` (English version)
-- `/daily/YYYY-MM-DD_zh.md` (Chinese version)
+- `./daily/YYYY-MM-DD.md` (English version)
+- `./daily/YYYY-MM-DD_zh.md` (Chinese version)
 
 Optional (Maintain the same naming convention if aggregated):
-- `/weekly/YYYY-WW.md` and `/weekly/YYYY-WW_zh.md`
-- `/monthly/YYYY-MM.md` and `/monthly/YYYY-MM_zh.md`
+- `./weekly/YYYY-WW.md` and `./weekly/YYYY-WW_zh.md`
+- `./monthly/YYYY-MM.md` and `./monthly/YYYY-MM_zh.md`
 
 Both digest files MUST:
 - render cleanly in standard Markdown
@@ -303,8 +303,8 @@ README should contain:
 # Phase 14 — Update State Files
 
 Append newly processed items to:
-- `/state/seen_urls.json`
-- `/state/seen_titles.json`
+- `./state/seen_urls.json`
+- `./state/seen_titles.json`
 
 Persist updated trend information.
 
@@ -356,15 +356,15 @@ Push content should remain:
 
 The repository SHOULD follow:
 
-/daily/
-/daily_zh/
-/weekly/
-/weekly_zh/
-/monthly/
-/monthly_zh/
-/state/
-/config/
-/assets/
+./daily/
+./daily_zh/
+./weekly/
+./weekly_zh/
+./monthly/
+./monthly_zh/
+./state/
+./config/
+./assets/
 
 ---
 
