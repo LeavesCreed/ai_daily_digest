@@ -1223,5 +1223,19 @@
     "strength": "strong",
     "status": "strong",
     "description": "GPT-6 Astra ~13% vs Claude Fable ~8% enterprise spend; Opus 5.5 leapfrog aimed at reclaiming enterprise share."
+  },
+  "ai_price_war_open_weights": {
+    "last_updated": "2026-09-23",
+    "strength": "strong",
+    "status": "strong",
+    "description": "Frontier labs ship cheaper models (Claude Opus 5.5, GPT-6 Sol/Luna) to blunt open-weight rivals while open-weight leaders (Xiaomi MiMo-V2.6-Pro at 46 AAII tying Grok 4.7) keep closing the capability-cost gap.",
+    "first_seen": "2026-09-23"
+  },
+  "ai_governance_multilateral": {
+    "last_updated": "2026-09-23",
+    "strength": "strong",
+    "status": "strong",
+    "description": "Governance moves to multilateral venues: DeepSeek set to brief the UN Security Council on AI alongside OpenAI and Anthropic, a rare public foray by a Chinese frontier lab into global AI-risk governance.",
+    "first_seen": "2026-09-23"
   }
 }

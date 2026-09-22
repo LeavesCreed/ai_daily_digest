@@ -1,23 +1,25 @@
 {
   "OpenAI": {
-    "last_seen": "2026-09-21",
-    "appearances": 5,
-    "mention_count": 8,
-    "mentions": 3,
-    "dates": [
-      "2026-09-19",
-      "2026-09-21"
-    ]
-  },
-  "Anthropic": {
-    "last_seen": "2026-09-22",
-    "mention_count": 12,
-    "appearances": 7,
-    "mentions": 8,
+    "last_seen": "2026-09-23",
+    "appearances": 6,
+    "mention_count": 9,
+    "mentions": 4,
     "dates": [
       "2026-09-19",
       "2026-09-21",
-      "2026-09-22"
+      "2026-09-23"
+    ]
+  },
+  "Anthropic": {
+    "last_seen": "2026-09-23",
+    "mention_count": 13,
+    "appearances": 8,
+    "mentions": 9,
+    "dates": [
+      "2026-09-19",
+      "2026-09-21",
+      "2026-09-22",
+      "2026-09-23"
     ]
   },
   "Meta": {
@@ -41,8 +43,14 @@
     "count": 1
   },
   "UN": {
-    "last_seen": "2026-07-08",
-    "count": 2
+    "last_seen": "2026-09-23",
+    "count": 2,
+    "mention_count": 1,
+    "appearances": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-09-23"
+    ]
   },
   "FTC": {
     "last_seen": "2026-09-10",
@@ -103,11 +111,14 @@
     "count": 1
   },
   "DeepSeek": {
-    "last_seen": "2026-09-18",
+    "last_seen": "2026-09-23",
     "count": 8,
-    "mention_count": 4,
-    "appearances": 1,
-    "mentions": 1
+    "mention_count": 5,
+    "appearances": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-09-23"
+    ]
   },
   "Etched": {
     "last_seen": "2026-08-19",
@@ -1567,10 +1578,15 @@
   },
   "Alibaba": {
     "first_seen": "2026-08-15",
-    "mention_count": 1,
+    "mention_count": 2,
     "trend": "stable",
     "count": 3,
-    "last_seen": "2026-08-24"
+    "last_seen": "2026-09-23",
+    "appearances": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-09-23"
+    ]
   },
   "Qwen": {
     "first_seen": "2026-08-15",
@@ -1873,8 +1889,14 @@
   },
   "Xiaomi": {
     "first_seen": "2026-08-25",
-    "mentions": 1,
-    "strength": "emerging"
+    "mentions": 2,
+    "strength": "emerging",
+    "last_seen": "2026-09-23",
+    "mention_count": 1,
+    "appearances": 1,
+    "dates": [
+      "2026-09-23"
+    ]
   },
   "Alabama AG": {
     "first_seen": "2026-08-25",
@@ -3535,6 +3557,33 @@
     "mention_count": 1,
     "dates": [
       "2026-09-22"
+    ]
+  },
+  "Palo Alto Networks": {
+    "last_seen": "2026-09-23",
+    "mention_count": 1,
+    "appearances": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-09-23"
+    ]
+  },
+  "T-Head": {
+    "last_seen": "2026-09-23",
+    "mention_count": 1,
+    "appearances": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-09-23"
+    ]
+  },
+  "Grok": {
+    "last_seen": "2026-09-23",
+    "mention_count": 1,
+    "appearances": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-09-23"
     ]
   }
 }
