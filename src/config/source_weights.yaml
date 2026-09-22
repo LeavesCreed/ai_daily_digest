@@ -1,0 +1,13 @@
+official_source: 1.0
+official_blog: 1.0
+research_paper: 0.95
+github_repo: 0.9
+engineering_blog: 0.85
+conference_talk: 0.85
+technical_community: 0.7
+hackernews: 0.7
+reddit: 0.6
+generic_tech_media: 0.5
+tech_media: 0.5
+random_blog: 0.2
+twitter_hot_take: 0.1
