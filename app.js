@@ -139,13 +139,15 @@ function archiveCard(entry, index) {
   const tags = entry.tags.slice(0, 4);
   return `<div class="archive-card-slot" data-card-slot data-index="${index}">
     <article class="archive-card" data-date="${escapeHtml(entry.date)}" tabindex="0" aria-label="${escapeHtml(entry.title)}">
-      <div class="card-topline"><span class="card-index">${String(index + 1).padStart(2, '0')}</span><time datetime="${escapeHtml(entry.date)}">${escapeHtml(formatDate(entry.date))}</time><span class="card-open">↗</span></div>
-      <div class="card-body"><p class="card-kicker">${escapeHtml(t('system'))}</p><h2>${escapeHtml(entry.title.replace(/^AI Daily Digest\s*[-—]\s*/i, ''))}</h2>
-        <p class="card-summary"><span class="summary-label">${escapeHtml(t('summary'))}</span>${escapeHtml(entry.summary || entry.news[0]?.summary || '')}</p>
-        <div class="card-meta"><span>${categories.slice(0, 3).map(escapeHtml).join(' · ') || '—'}</span><span>${entry.newsCount || entry.news.length} ${escapeHtml(t('stories'))}</span></div>
-        ${tags.length ? `<div class="card-tags">${tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join('')}</div>` : ''}
+      <div class="archive-card-surface">
+        <div class="card-topline"><span class="card-index">${String(index + 1).padStart(2, '0')}</span><time datetime="${escapeHtml(entry.date)}">${escapeHtml(formatDate(entry.date))}</time><span class="card-open">↗</span></div>
+        <div class="card-body"><p class="card-kicker">${escapeHtml(t('system'))}</p><h2>${escapeHtml(entry.title.replace(/^AI Daily Digest\s*[-—]\s*/i, ''))}</h2>
+          <div class="card-summary-reveal"><p class="card-summary"><span class="summary-label">${escapeHtml(t('summary'))}</span>${escapeHtml(entry.summary || entry.news[0]?.summary || '')}</p></div>
+          <div class="card-meta"><span>${categories.slice(0, 3).map(escapeHtml).join(' · ') || '—'}</span><span>${entry.newsCount || entry.news.length} ${escapeHtml(t('stories'))}</span></div>
+          ${tags.length ? `<div class="card-tags">${tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join('')}</div>` : ''}
+        </div>
+        <a class="card-hit-area" href="${appUrl(`daily/${encode(entry.date)}`)}" data-route aria-label="${escapeHtml(t('read'))}: ${escapeHtml(entry.title)}"></a>
       </div>
-      <a class="card-hit-area" href="${appUrl(`daily/${encode(entry.date)}`)}" data-route aria-label="${escapeHtml(t('read'))}: ${escapeHtml(entry.title)}"></a>
     </article>
   </div>`;
 }
@@ -162,7 +164,7 @@ function archiveView() {
     <section class="archive-section" id="archive-stack" aria-labelledby="archive-title">
       <div class="section-heading"><div><span class="eyebrow">CHRONOLOGICAL / ${entries.length ? String(entries.length).padStart(3, '0') : '000'}</span><h2 id="archive-title">${escapeHtml(t('archive'))}</h2></div><span class="section-date">${latest ? escapeHtml(formatDate(latest)) : '—'}</span></div>
       ${filterBar(filtered, entries)}
-      ${filtered.length ? `<div class="archive-stack" data-archive-stack>${filtered.map(archiveCard).join('')}</div>` : archiveEmptyView()}
+      ${filtered.length ? `<div class="archive-layout"><aside class="archive-date-rail" aria-live="polite" aria-label="Current archive date"><span class="rail-label">CURRENT<br />DATE</span><time data-active-date datetime="${escapeHtml(filtered[0].date)}">${escapeHtml(formatDate(filtered[0].date))}</time><span class="rail-order" data-active-order>01 / ${String(filtered.length).padStart(2, '0')}</span></aside><div class="archive-stack" data-archive-stack>${filtered.map(archiveCard).join('')}</div></div>` : archiveEmptyView()}
     </section>`);
 }
 
@@ -223,6 +225,7 @@ function currentRoute() {
 async function render() {
   const token = ++state.renderToken;
   const route = currentRoute();
+  document.documentElement.classList.toggle('archive-route', route.name === 'archive');
   if (!state.index && !state.error) {
     app.innerHTML = loadingView();
     try { state.index = await loadDailyIndex(); } catch (error) { state.error = error; }
@@ -283,13 +286,14 @@ function restoreArchivePosition() {
 function updateArchiveMotion() {
   const cards = [...document.querySelectorAll('[data-card-slot]')];
   if (!cards.length) return;
-  const viewportCenter = window.innerHeight * 0.53;
+  const viewportCenter = window.innerHeight * 0.5;
   let current = null;
   let currentDistance = Infinity;
   cards.forEach((slot, index) => {
     const card = slot.querySelector('.archive-card');
     const box = slot.getBoundingClientRect();
-    const center = box.top + box.height / 2;
+    const cardBox = card.getBoundingClientRect();
+    const center = cardBox.top + cardBox.height / 2;
     const distance = (center - viewportCenter) / Math.max(window.innerHeight * 0.58, 1);
     const abs = Math.abs(distance);
     const focus = Math.min(abs, 1.5);
@@ -298,28 +302,143 @@ function updateArchiveMotion() {
     const opacity = 1 - Math.min(0.26, Math.max(0, focus - 0.65) * 0.18);
     card.style.transform = `translate3d(0, ${translate}px, 0) scale(${scale})`;
     card.style.opacity = String(opacity);
-    card.style.zIndex = String(100 - index);
-    if (abs < currentDistance) { current = card; currentDistance = abs; }
+    card.style.setProperty('--archive-layer', String(100 - index));
+    const targetCardTop = window.innerHeight * 0.5 - cardBox.height / 2;
+    const anchorDistance = Math.abs(box.top - targetCardTop);
+    if (anchorDistance < currentDistance) { current = { card, index }; currentDistance = anchorDistance; }
   });
   document.querySelectorAll('.archive-card.is-current').forEach((card) => card.classList.remove('is-current'));
-  if (current) current.classList.add('is-current');
+  if (current) {
+    current.card.classList.add('is-current');
+    const date = current.card.dataset.date;
+    const dateIndicator = document.querySelector('[data-active-date]');
+    const orderIndicator = document.querySelector('[data-active-order]');
+    if (dateIndicator && date) {
+      dateIndicator.dateTime = date;
+      dateIndicator.textContent = formatDate(date);
+    }
+    if (orderIndicator) orderIndicator.textContent = `${String(current.index + 1).padStart(2, '0')} / ${String(cards.length).padStart(2, '0')}`;
+  }
 }
 
 let motionFrame = null;
+
+// Absolute scroll positions at which each card's center axis sits on the
+// viewport's middle axis (50vh).
+function getSnapPoints() {
+  const maxScrollTop = Math.max(0, document.documentElement.scrollHeight - window.innerHeight);
+  return [...document.querySelectorAll('[data-card-slot]')].map((slot) => {
+    const card = slot.querySelector('.archive-card');
+    const targetCardTop = window.innerHeight * 0.5 - (card.offsetHeight || 430) / 2;
+    const idealScrollTop = window.scrollY + slot.getBoundingClientRect().top - targetCardTop;
+    return Math.min(maxScrollTop, Math.max(0, idealScrollTop));
+  });
+}
+
+// ---------------------------------------------------------------------------
+// Summary reveal — Web Animations API (native, works in every browser).
+// ---------------------------------------------------------------------------
+
+const REVEAL_EASE = 'cubic-bezier(.2, .8, .2, 1)';
+const revealAnimations = new WeakMap();
+
+function animateCardSummary(card, open) {
+  const reveal = card.querySelector('.card-summary-reveal');
+  const summary = card.querySelector('.card-summary');
+  if (!reveal || !summary || !reveal.animate) return;
+  // Read the current animated state BEFORE cancelling so an interrupted
+  // animation reverses smoothly from its exact current values.
+  const fromStyle = getComputedStyle(reveal);
+  const fromSummary = getComputedStyle(summary);
+  revealAnimations.get(reveal)?.forEach((animation) => animation.cancel());
+  const animations = [
+    reveal.animate(
+      [
+        { height: fromStyle.height, marginTop: fromStyle.marginTop },
+        { height: open ? `${summary.offsetHeight}px` : '0px', marginTop: open ? '24px' : '0px' },
+      ],
+      { duration: 500, easing: REVEAL_EASE, fill: 'forwards' }
+    ),
+    summary.animate(
+      open
+        ? [{ opacity: fromSummary.opacity, transform: fromSummary.transform }, { opacity: 1, transform: 'translateY(0px)' }]
+        : [{ opacity: fromSummary.opacity, transform: fromSummary.transform }, { opacity: 0, transform: 'translateY(8px)' }],
+      { duration: 500, easing: REVEAL_EASE, fill: 'forwards' }
+    ),
+  ];
+  if (!open) {
+    animations[0].onfinish = () => {
+      reveal.style.height = '';
+      reveal.style.marginTop = '';
+      summary.style.opacity = '';
+      summary.style.transform = '';
+      revealAnimations.delete(reveal);
+    };
+  }
+  revealAnimations.set(reveal, animations);
+}
+
+// ---------------------------------------------------------------------------
+// Spring snap — underdamped oscillator, no dependencies.
+// ---------------------------------------------------------------------------
+
+let springFrame = null;
 let snapTimer = null;
+
+// User-initiated scroll cancels any in-flight spring so it never fights the
+// user's own scrolling.
+function cancelSpringSnap() {
+  if (springFrame !== null) { cancelAnimationFrame(springFrame); springFrame = null; }
+}
+
+// Closed-form step response of an underdamped mass-spring-damper:
+//   x(t) = 1 - e^(-ζω₀t) · (cos(ωd·t) + (ζω₀/ωd) · sin(ωd·t))
+// ζ ≈ 0.55 gives one soft overshoot (~12% of the distance) and settles in
+// about 1.1s — the "spring to the axis" feel.
+function springScrollTo(targetY) {
+  cancelSpringSnap();
+  const startY = window.scrollY;
+  const distance = targetY - startY;
+  if (Math.abs(distance) < 0.5) return;
+  const startTime = performance.now();
+  const omega0 = 10; // natural frequency (rad/s)
+  const zeta = 0.55; // damping ratio
+  const omegaD = omega0 * Math.sqrt(1 - zeta * zeta);
+  const alpha = (zeta * omega0) / omegaD;
+  function frame(now) {
+    const t = (now - startTime) / 1000;
+    const envelope = Math.exp(-zeta * omega0 * t);
+    const value = 1 - envelope * (Math.cos(omegaD * t) + alpha * Math.sin(omegaD * t));
+    // behavior: 'instant' — the CSS `scroll-behavior: smooth` must not smooth
+    // each frame of the spring.
+    window.scrollTo({ top: startY + distance * value, behavior: 'instant' });
+    if (t < 1.6 && Math.abs(window.scrollY - targetY) > 0.5) springFrame = requestAnimationFrame(frame);
+    else { window.scrollTo({ top: targetY, behavior: 'instant' }); springFrame = null; }
+  }
+  springFrame = requestAnimationFrame(frame);
+}
+
+// After scrolling stops, pull the card axis nearest to the middle axis onto
+// it with the spring. Skips when the nearest axis is too far away (e.g. the
+// hero is still on screen).
+function snapArchiveOnIdle() {
+  if (!document.querySelector('[data-archive-stack]')) return;
+  const points = getSnapPoints();
+  let closest = null;
+  let closestDistance = Infinity;
+  points.forEach((point) => {
+    const distance = Math.abs(point - window.scrollY);
+    if (distance < closestDistance) { closestDistance = distance; closest = point; }
+  });
+  if (closest === null || closestDistance < 4 || closestDistance > window.innerHeight * 0.5) return;
+  springScrollTo(closest);
+}
+
 function onArchiveScroll() {
   if (motionFrame) return;
   motionFrame = requestAnimationFrame(() => { motionFrame = null; updateArchiveMotion(); });
   window.clearTimeout(snapTimer);
-  snapTimer = window.setTimeout(() => {
-    if (reduceMotion.matches || !document.querySelector('[data-archive-stack]')) return;
-    const cards = [...document.querySelectorAll('[data-card-slot]')];
-    const target = cards.reduce((closest, slot) => {
-      const distance = Math.abs(slot.getBoundingClientRect().top + slot.getBoundingClientRect().height / 2 - window.innerHeight * 0.53);
-      return !closest || distance < closest.distance ? { slot, distance } : closest;
-    }, null);
-    if (target && target.distance < window.innerHeight * 0.22) target.slot.scrollIntoView({ behavior: 'smooth', block: 'center' });
-  }, 240);
+  snapTimer = window.setTimeout(snapArchiveOnIdle, 140);
 }
 
 function scrollToHash() {
@@ -330,6 +449,10 @@ function scrollToHash() {
 
 function bindCommon() {
   window.removeEventListener('scroll', onArchiveScroll);
+  window.removeEventListener('wheel', cancelSpringSnap);
+  window.removeEventListener('touchstart', cancelSpringSnap);
+  cancelSpringSnap();
+  window.clearTimeout(snapTimer);
   document.querySelectorAll('[data-route]').forEach((link) => link.addEventListener('click', (event) => {
     const href = link.getAttribute('href');
     if (!href || link.target === '_blank' || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
@@ -344,7 +467,15 @@ function bindCommon() {
   document.querySelector('[data-tag-filter]')?.addEventListener('change', (event) => { state.tag = event.target.value; updateArchiveUrl(); render(); });
   document.querySelector('[data-search-form]')?.addEventListener('submit', (event) => { event.preventDefault(); state.archiveQuery = new FormData(event.target).get('q')?.toString().trim() || ''; updateArchiveUrl(); render(); });
   document.querySelectorAll('.archive-card').forEach((card) => card.addEventListener('keydown', (event) => { if (event.key === 'Enter' || event.key === ' ') { event.preventDefault(); card.querySelector('[data-route]')?.click(); } }));
-  if (currentRoute().name === 'archive') window.addEventListener('scroll', onArchiveScroll, { passive: true });
+  if (currentRoute().name === 'archive') {
+    window.addEventListener('scroll', onArchiveScroll, { passive: true });
+    window.addEventListener('wheel', cancelSpringSnap, { passive: true });
+    window.addEventListener('touchstart', cancelSpringSnap, { passive: true });
+    document.querySelectorAll('.archive-card').forEach((card) => {
+      card.addEventListener('mouseenter', () => animateCardSummary(card, true));
+      card.addEventListener('mouseleave', () => animateCardSummary(card, false));
+    });
+  }
 }
 
 window.addEventListener('popstate', () => render());
