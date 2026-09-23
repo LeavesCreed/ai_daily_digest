@@ -1,7 +1,125 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T11:51:00Z",
+  "generated_at": "2026-09-23T23:17:07Z",
   "entries": [
+    {
+      "date": "2026-09-24",
+      "title": "AI Daily Digest - 2026-09-24",
+      "summary": {
+        "en": "On September 23, physical AI and governance metrics advanced in parallel. Black Forest Labs released FLUX 3 Action, a 7B open-weight World Action Model that tops NVIDIA's RoboLab-120 leaderboard while using 44% of the parameters of the prior leader. Anthropic's Institute published a framework for measuring AI-led R&D automation inside frontier labs. In policy, Trump rebranded AI as 'Super Intelligence' ahead of his summit with Xi Jinping while rejecting federal regulation, and China elevated domestic chip certification standards with Huawei's Ascend 950 at Level II and Loongson/HiSilicon Kunpeng at Level III. VAST Data introduced DataEnclave, bringing NVIDIA confidential computing to enterprise AI deployments.",
+        "zh": "9 月 23 日，物理智能与治理指标并行推进。Black Forest Labs 发布 FLUX 3 Action，一个 7B 开源权重世界动作模型，登顶 NVIDIA RoboLab-120 榜单，参数量仅为前代榜首的 44%。Anthropic 旗下 Institute 发布衡量前沿实验室 AI 主导研发自动化程度的框架。政策方面，特朗普在习峰会前把 AI 重新命名为「超级智能」并拒绝联邦监管；中国升级国产芯片认证，华为昇腾 950 获二级、龙芯与海思鲲鹏获三级。VAST Data 推出 DataEnclave，把 NVIDIA 机密计算带入企业 AI 部署。"
+      },
+      "categories": [
+        "Robotics",
+        "AI Safety",
+        "Industry",
+        "Infrastructure"
+      ],
+      "tags": [
+        "Black Forest Labs",
+        "World Action Model",
+        "Robotics",
+        "Open Weights",
+        "RoboLab",
+        "FLUX",
+        "Anthropic",
+        "AI R&D Automation",
+        "Safety",
+        "Metrics",
+        "Recursive Self-Improvement",
+        "Trump",
+        "Xi Jinping",
+        "Geopolitics",
+        "Regulation",
+        "US-China",
+        "Super Intelligence",
+        "Huawei",
+        "Loongson",
+        "Ascend",
+        "Kunpeng",
+        "Chips",
+        "China",
+        "Certification",
+        "VAST Data",
+        "NVIDIA",
+        "Confidential Computing",
+        "Enterprise",
+        "Security",
+        "CNCF Trustee"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-09-24.md",
+        "zh": "./content/daily_zh/2026-09-24.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Black Forest Labs Releases FLUX 3 Action, a 7B Open-Weight World Action Model",
+          "summary": "Black Forest Labs Releases FLUX 3 Action, a 7B open-weight World Action Model that tops RoboLab-120 with 42.92% success.",
+          "category": "Robotics",
+          "tags": [
+            "Black Forest Labs",
+            "World Action Model",
+            "Robotics",
+            "Open Weights",
+            "RoboLab"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Anthropic Institute Publishes Metrics for Measuring AI-Led R&D Pace",
+          "summary": "Anthropic publishes a framework to measure how much frontier-lab R&D is automated by AI.",
+          "category": "AI Safety",
+          "tags": [
+            "Anthropic",
+            "AI R&D Automation",
+            "Safety",
+            "Metrics"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Trump Rebrands AI as 'Super Intelligence' Ahead of Xi Summit",
+          "summary": "Trump rebrands AI ahead of the Xi Jinping summit while rejecting federal regulation.",
+          "category": "Industry",
+          "tags": [
+            "Trump",
+            "Xi Jinping",
+            "Geopolitics",
+            "Regulation",
+            "US-China"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "China Elevates Chip Certification: Huawei Ascend 950 Level II, Loongson and Kunpeng Level III",
+          "summary": "China's chip certification framework rates Huawei Ascend 950 Level II and Loongson/Kunpeng Level III.",
+          "category": "Infrastructure",
+          "tags": [
+            "Huawei",
+            "Loongson",
+            "Ascend",
+            "Kunpeng",
+            "Chips",
+            "China"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "VAST Data Launches DataEnclave for Confidential AI on NVIDIA Confidential Computing",
+          "summary": "VAST Data brings confidential AI via NVIDIA Confidential Computing to enterprise deployments.",
+          "category": "Infrastructure",
+          "tags": [
+            "VAST Data",
+            "NVIDIA",
+            "Confidential Computing",
+            "Enterprise",
+            "Security"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "title": "AI Daily Digest - 2026-09-23",

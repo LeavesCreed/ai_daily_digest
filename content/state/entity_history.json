@@ -1,25 +1,27 @@
 {
   "OpenAI": {
-    "last_seen": "2026-09-23",
-    "appearances": 6,
-    "mention_count": 9,
+    "last_seen": "2026-09-24",
+    "appearances": 7,
+    "mention_count": 10,
     "mentions": 4,
     "dates": [
       "2026-09-19",
       "2026-09-21",
-      "2026-09-23"
+      "2026-09-23",
+      "2026-09-24"
     ]
   },
   "Anthropic": {
-    "last_seen": "2026-09-23",
-    "mention_count": 13,
-    "appearances": 8,
+    "last_seen": "2026-09-24",
+    "mention_count": 14,
+    "appearances": 9,
     "mentions": 9,
     "dates": [
       "2026-09-19",
       "2026-09-21",
       "2026-09-22",
-      "2026-09-23"
+      "2026-09-23",
+      "2026-09-24"
     ]
   },
   "Meta": {
@@ -91,20 +93,24 @@
     "mentions": 1
   },
   "NVIDIA": {
-    "last_seen": "2026-09-18",
+    "last_seen": "2026-09-24",
     "mentions": 3,
-    "mention_count": 5,
-    "appearances": 2,
+    "mention_count": 6,
+    "appearances": 3,
     "dates": [
-      "2026-09-19"
+      "2026-09-19",
+      "2026-09-24"
     ]
   },
   "Huawei": {
-    "last_seen": "2026-09-18",
+    "last_seen": "2026-09-24",
     "count": 3,
-    "appearances": 2,
-    "mention_count": 1,
-    "mentions": 1
+    "appearances": 3,
+    "mention_count": 2,
+    "mentions": 1,
+    "dates": [
+      "2026-09-24"
+    ]
   },
   "South Korea": {
     "last_seen": "2026-06-30",
@@ -732,10 +738,14 @@
     "count": 1
   },
   "Xi Jinping": {
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-24",
     "count": 2,
     "mentions": 1,
-    "mention_count": 1
+    "mention_count": 2,
+    "appearances": 1,
+    "dates": [
+      "2026-09-24"
+    ]
   },
   "Anastasios Angelopoulos": {
     "last_seen": "2026-07-19",
@@ -2656,10 +2666,14 @@
     "mention_count": 1
   },
   "Trump": {
-    "last_seen": "2026-09-15",
+    "last_seen": "2026-09-24",
     "count": 1,
     "mentions": 1,
-    "mention_count": 1
+    "mention_count": 2,
+    "appearances": 1,
+    "dates": [
+      "2026-09-24"
+    ]
   },
   "Shanghai AI Laboratory": {
     "last_seen": "2026-09-15",
@@ -3584,6 +3598,38 @@
     "mentions": 1,
     "dates": [
       "2026-09-23"
+    ]
+  },
+  "Black Forest Labs": {
+    "last_seen": "2026-09-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-24"
+    ]
+  },
+  "Loongson": {
+    "last_seen": "2026-09-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-24"
+    ]
+  },
+  "HiSilicon": {
+    "last_seen": "2026-09-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-24"
+    ]
+  },
+  "VAST Data": {
+    "last_seen": "2026-09-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-24"
     ]
   }
 }
