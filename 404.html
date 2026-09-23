@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#11110f" />
+    <meta name="ai-daily-base-url" content="./" />
+    <meta name="description" content="AI Daily is a personal archive for frontier AI research and industry developments." />
+    <title>AI Daily — Frontier AI Archive</title>
+    <script>
+      // GitHub Pages serves this file for history-api-fallback routes. Infer
+      // the deployment prefix from the known application route, rather than
+      // embedding a repository name in the fallback page.
+      const routeMarkers = ['/daily/', '/search'];
+      const markerIndex = routeMarkers
+        .map((marker) => location.pathname.indexOf(marker))
+        .filter((index) => index >= 0)
+        .sort((a, b) => a - b)[0];
+      const basePath = markerIndex === undefined
+        ? location.pathname.slice(0, location.pathname.lastIndexOf('/') + 1)
+        : location.pathname.slice(0, markerIndex + 1);
+      document.write('<base href="' + (basePath || '/') + '">');
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div id="app" class="app-shell">
+      <div class="loading-screen" aria-live="polite">
+        <span class="loading-mark">AD</span>
+        <span>Opening archive…</span>
+      </div>
+    </div>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
