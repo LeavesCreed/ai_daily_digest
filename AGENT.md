@@ -143,7 +143,10 @@ Expected structure:
     {
       "date": "2026-09-22",
       "title": "AI Daily Digest - 2026-09-22",
-      "summary": "Today's major developments...",
+      "summary": {
+        "en": "Today's major developments...",
+        "zh": "今日的主要进展…"
+      },
       "categories": [
         "Models",
         "Research",
@@ -175,6 +178,8 @@ Expected structure:
   ]
 }
 ```
+
+The daily `summary` is a localized object: `{ "en": ..., "zh": ... }`. The frontend resolves it against the current UI language and falls back to the other language when one side is missing. Legacy indexes where `summary` is a plain string MUST still be readable — treat the string as the English summary.
 
 The frontend MUST NOT hardcode daily entries.
 
@@ -582,7 +587,7 @@ Hover should reveal:
 
 > Executive Summary
 
-The summary comes from the daily entry's `summary` field.
+The summary comes from the daily entry's `summary` field, resolved to the current UI language (see the index contract in section 3).
 
 The hover interaction should feel like an information layer being revealed, not like a tooltip.
 
@@ -939,7 +944,7 @@ Daily level:
 
 * date;
 * title;
-* summary;
+* summary (both `en` and `zh`);
 * categories;
 * tags.
 
@@ -1065,6 +1070,8 @@ Language switching affects both:
 2. Daily digest language.
 
 For each daily entry, resolve the selected language through the `documents` object in `./content/data/daily-index.json`.
+
+The daily `summary` object is resolved the same way: use `summary.en` in English mode and `summary.zh` in Chinese mode, falling back to the other language when the preferred one is missing.
 
 Example:
 

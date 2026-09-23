@@ -7,9 +7,19 @@ const repositoryPath = (path) => {
 const INDEX_PATH = repositoryPath('./content/data/daily-index.json');
 
 /** @typedef {{ index: number, title: string, summary: string, category: string, tags: string[] }} NewsItem */
-/** @typedef {{ date: string, title: string, summary: string, categories: string[], tags: string[], newsCount: number, documents: { en?: string, zh?: string }, news: NewsItem[] }} DailyEntry */
+/** @typedef {{ date: string, title: string, summary: { en?: string, zh?: string }, categories: string[], tags: string[], newsCount: number, documents: { en?: string, zh?: string }, news: NewsItem[] }} DailyEntry */
 
 const asString = (value, fallback = '') => (typeof value === 'string' ? value.trim() : fallback);
+
+// The index summary is a localized object { en, zh }. Legacy string values
+// are treated as English so older indexes keep working.
+const asLocalizedText = (value) => {
+  if (typeof value === 'string') return { en: asString(value) || undefined, zh: undefined };
+  if (value && typeof value === 'object') {
+    return { en: asString(value.en) || undefined, zh: asString(value.zh) || undefined };
+  }
+  return { en: undefined, zh: undefined };
+};
 
 const asStringList = (value) => {
   if (!Array.isArray(value)) return [];
@@ -37,7 +47,7 @@ const asEntry = (item) => {
   return {
     date: asString(item.date),
     title: asString(item.title, `AI Daily Digest — ${asString(item.date, 'Unknown date')}`),
-    summary: asString(item.summary),
+    summary: asLocalizedText(item.summary),
     categories: asStringList(item.categories),
     tags: asStringList(item.tags),
     newsCount: Number.isInteger(item.news_count) ? item.news_count : news.length,
@@ -118,7 +128,8 @@ export function filterEntries(entries, { query = '', category = 'ALL', tag = 'AL
     const searchable = [
       entry.date,
       entry.title,
-      entry.summary,
+      entry.summary?.en,
+      entry.summary?.zh,
       ...entry.categories,
       ...entry.tags,
       ...entry.news.flatMap((item) => [item.title, item.summary, item.category, ...item.tags]),
@@ -132,7 +143,7 @@ export function searchEntries(entries, query) {
   if (!normalizedQuery) return [];
   return entries
     .map((entry) => {
-      const dailyText = [entry.date, entry.title, entry.summary, ...entry.categories, ...entry.tags].join(' ').toLocaleLowerCase();
+      const dailyText = [entry.date, entry.title, entry.summary?.en, entry.summary?.zh, ...entry.categories, ...entry.tags].join(' ').toLocaleLowerCase();
       const dailyMatch = dailyText.includes(normalizedQuery);
       const newsMatches = entry.news.filter((item) => [item.title, item.summary, item.category, ...item.tags].join(' ').toLocaleLowerCase().includes(normalizedQuery));
       return { entry, dailyMatch, newsMatches };

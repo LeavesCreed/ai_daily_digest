@@ -57,6 +57,9 @@ const copy = {
 };
 
 const t = (key) => copy[state.language][key] || copy.en[key] || key;
+// Index summaries are localized objects ({ en, zh }): resolve the one that
+// matches the current UI language, falling back to the other language.
+const entrySummary = (entry) => entry?.summary?.[state.language] || entry?.summary?.en || entry?.summary?.zh || '';
 const formatDate = (date) => new Intl.DateTimeFormat(state.language === 'zh' ? 'zh-CN' : 'en-GB', { day: '2-digit', month: 'short', year: 'numeric' }).format(new Date(`${date}T12:00:00`)).toUpperCase();
 const encode = (value) => encodeURIComponent(value);
 // Resolve internal routes relative to the deployed app, including a GitHub
@@ -142,7 +145,7 @@ function archiveCard(entry, index) {
       <div class="archive-card-surface">
         <div class="card-topline"><span class="card-index">${String(index + 1).padStart(2, '0')}</span><time datetime="${escapeHtml(entry.date)}">${escapeHtml(formatDate(entry.date))}</time><span class="card-open">↗</span></div>
         <div class="card-body"><p class="card-kicker">${escapeHtml(t('system'))}</p><h2>${escapeHtml(entry.title.replace(/^AI Daily Digest\s*[-—]\s*/i, ''))}</h2>
-          <div class="card-summary-reveal"><p class="card-summary"><span class="summary-label">${escapeHtml(t('summary'))}</span>${escapeHtml(entry.summary || entry.news[0]?.summary || '')}</p></div>
+          <div class="card-summary-reveal"><p class="card-summary"><span class="summary-label">${escapeHtml(t('summary'))}</span>${escapeHtml(entrySummary(entry) || entry.news[0]?.summary || '')}</p></div>
           <div class="card-meta"><span>${categories.slice(0, 3).map(escapeHtml).join(' · ') || '—'}</span><span>${entry.newsCount || entry.news.length} ${escapeHtml(t('stories'))}</span></div>
           ${tags.length ? `<div class="card-tags">${tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join('')}</div>` : ''}
         </div>
@@ -170,7 +173,7 @@ function archiveView() {
 
 function searchResult(result) {
   const { entry, dailyMatch, newsMatches } = result;
-  return `<article class="search-result"><div class="result-date"><time datetime="${escapeHtml(entry.date)}">${escapeHtml(formatDate(entry.date))}</time><span>${entry.newsCount || entry.news.length} ${escapeHtml(t('stories'))}</span></div><div class="result-content">${dailyMatch ? `<a class="result-title" href="${appUrl(`daily/${encode(entry.date)}`)}" data-route>${escapeHtml(entry.title)}</a><p>${escapeHtml(entry.summary)}</p>` : ''}${newsMatches.map((item) => `<a class="news-result" href="${appUrl(`daily/${encode(entry.date)}#news-${item.index}`)}" data-route><span class="news-index">${String(item.index).padStart(2, '0')}</span><span><strong>${escapeHtml(item.title)}</strong><small>${escapeHtml(item.category)}${item.tags.length ? ` · ${escapeHtml(item.tags.slice(0, 3).join(' · '))}` : ''}</small></span><span class="result-arrow">↗</span></a>`).join('')}</div></article>`;
+  return `<article class="search-result"><div class="result-date"><time datetime="${escapeHtml(entry.date)}">${escapeHtml(formatDate(entry.date))}</time><span>${entry.newsCount || entry.news.length} ${escapeHtml(t('stories'))}</span></div><div class="result-content">${dailyMatch ? `<a class="result-title" href="${appUrl(`daily/${encode(entry.date)}`)}" data-route>${escapeHtml(entry.title)}</a><p>${escapeHtml(entrySummary(entry))}</p>` : ''}${newsMatches.map((item) => `<a class="news-result" href="${appUrl(`daily/${encode(entry.date)}#news-${item.index}`)}" data-route><span class="news-index">${String(item.index).padStart(2, '0')}</span><span><strong>${escapeHtml(item.title)}</strong><small>${escapeHtml(item.category)}${item.tags.length ? ` · ${escapeHtml(item.tags.slice(0, 3).join(' · '))}` : ''}</small></span><span class="result-arrow">↗</span></a>`).join('')}</div></article>`;
 }
 
 function searchView() {
@@ -207,7 +210,7 @@ function readerErrorView(entry) {
 
 function readerView(entry, documentModel) {
   const stories = documentModel.stories.length ? documentModel.stories : entry.news.map((item) => ({ index: item.index, title: item.title, blocks: [], subsections: [], links: [], metadata: {} }));
-  const summary = documentModel.summary || entry.summary;
+  const summary = documentModel.summary || entrySummary(entry);
   updateDocumentMeta(`${entry.title} — AI Daily`, summary);
   return shell(`<section class="reader-layout"><article class="reader-document"><div class="reader-topline"><a href="${appUrl()}" data-route class="back-link">← ${escapeHtml(t('readerBack'))}</a><span class="reader-path">DAILY / ${escapeHtml(entry.date)}</span></div><header class="document-header"><span class="eyebrow">${escapeHtml(formatDate(entry.date))} / ${escapeHtml(state.language === 'zh' ? '简体中文' : 'ENGLISH')}</span><h1>${escapeHtml(documentModel.title || entry.title)}</h1>${summary ? `<section class="executive-summary" id="executive-summary"><span class="subsection-label">${escapeHtml(t('summary'))}</span><p>${inlineMarkdown(summary).replaceAll('\n', '<br>')}</p></section>` : ''}</header><div class="story-list">${stories.map((story, index) => storySection(story, entry, index)).join('')}</div><div class="featured-list">${documentModel.featured.map(featuredSection).join('')}</div></article><aside class="reader-toc" aria-label="${escapeHtml(t('toc'))}"><div class="toc-inner"><span class="eyebrow">${escapeHtml(t('toc'))}</span><nav>${stories.map((story, index) => `<a href="#news-${story.index || index + 1}"><span>${String(story.index || index + 1).padStart(2, '0')}</span><small>${escapeHtml(story.title)}</small></a>`).join('')}<span class="toc-divider"></span>${documentModel.featured.map((section, index) => `<a href="#${index === 0 ? 'paper' : index === 1 ? 'github' : 'trend'}"><span>—</span><small>${escapeHtml(index === 0 ? t('paper') : index === 1 ? t('github') : t('trend'))}</small></a>`).join('')}</nav></div></aside><details class="mobile-toc"><summary>${escapeHtml(t('toc'))}<span>+</span></summary><nav>${stories.map((story, index) => `<a href="#news-${story.index || index + 1}"><span>${String(story.index || index + 1).padStart(2, '0')}</span>${escapeHtml(story.title)}</a>`).join('')}</nav></details></section>`, entry.date);
 }
