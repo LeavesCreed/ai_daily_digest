@@ -434,7 +434,10 @@ Each daily entry MUST contain:
 {
   "date": "YYYY-MM-DD",
   "title": "string",
-  "summary": "string",
+  "summary":  {
+    "en": "string",
+    "zh": "string"
+  },
   "categories": [],
   "tags": [],
   "news_count": 5,
