@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node -e \"const d=require\\('D:/GitHub/ai_daily_digest/content/data/daily-index.json'\\); d.entries.slice\\(0,10\\).forEach\\(e=>console.log\\(e.date, '|', \\(e.summary||''\\).length, 'chars |', \\(e.summary||''\\).slice\\(0,80\\)\\)\\)\")",
+      "Bash(cp \"D:\\\\GitHub\\\\ai_daily_digest\\\\app.js\" /tmp/app-check.mjs)",
+      "Bash(node --check /tmp/app-check.mjs)",
+      "Bash(rm /tmp/app-check.mjs)",
+      "Bash(node -e \"try{require.resolve\\('playwright'\\);console.log\\('playwright available'\\)}catch\\(e\\){console.log\\('no playwright'\\)} ; try{require.resolve\\('puppeteer'\\);console.log\\('puppeteer available'\\)}catch\\(e\\){console.log\\('no puppeteer'\\)}\")",
+      "Bash(curl -sL -o lib/gsap.min.js \"https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js\")",
+      "Bash(curl -sL -o lib/ScrollTrigger.min.js \"https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/ScrollTrigger.min.js\")",
+      "WebFetch(domain:gsap.com)",
+      "WebSearch",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(curl -sL \"https://raw.githubusercontent.com/greensock/gsap-skills/main/skills/gsap-scrolltrigger/SKILL.md\")",
+      "Bash(grep -o \"_snap[^;]\\\\{0,300\\\\}\" lib/ScrollTrigger.min.js)",
+      "Bash(grep -o \"snapTo[^;]\\\\{0,200\\\\}\" lib/ScrollTrigger.min.js)",
+      "Bash(grep -o \"Ne.delayedCall\\(ue.delay[^\\)]\\\\{0,400\\\\}\" lib/ScrollTrigger.min.js)",
+      "Bash(grep -o \"delayedCall\\(ue.delay.\\\\{0,900\\\\}\" lib/ScrollTrigger.min.js)",
+      "Bash(curl -s -o /dev/null -w \"gsap: %{http_code}\\\\n\" http://localhost:8642/lib/gsap.min.js)",
+      "Bash(curl -s -o /dev/null -w \"ScrollTrigger: %{http_code}\\\\n\" http://localhost:8642/lib/ScrollTrigger.min.js)",
+      "Bash(curl -s -o /dev/null -w \"index: %{http_code}\\\\n\" http://localhost:8642/index.html)",
+      "Bash(curl -s \"http://localhost:8642/index.html\")",
+      "Bash(curl -s -o /dev/null -w \"app.js?v=3: %{http_code}\\\\n\" \"http://localhost:8642/app.js?v=3\")",
+      "Bash(curl -s -o /dev/null -w \"styles.css?v=3: %{http_code}\\\\n\" \"http://localhost:8642/styles.css?v=3\")"
+    ]
+  }
+}

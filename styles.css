@@ -90,25 +90,42 @@ main { width: min(var(--content-width), calc(100% - 64px)); margin: 0 auto; }
 .tag-select { min-width: 160px; }
 .tag-select select { display: block; width: 100%; margin-top: 9px; padding: 6px 8px; border: 1px solid var(--border); border-radius: 2px; background: var(--surface); color: var(--text-soft); font: 11px var(--mono); }
 
-.archive-stack { position: relative; padding: 7vh 0 12vh; }
-.archive-card-slot { position: relative; min-height: min(590px, 68vh); scroll-margin-block: 19vh; scroll-snap-align: center; }
-.archive-card { position: sticky; top: 18vh; display: grid; grid-template-rows: auto 1fr; width: min(860px, 88%); min-height: 475px; margin: 0 auto; overflow: hidden; border: 1px solid var(--border-strong); border-radius: var(--radius); background: var(--surface); box-shadow: 0 22px 55px rgba(0, 0, 0, .16); transition: border-color .3s ease, background-color .25s ease, box-shadow .3s ease; transform-origin: center center; }
-.archive-card:hover, .archive-card.is-current { border-color: var(--accent); box-shadow: 0 28px 70px rgba(0, 0, 0, .23); }
-.card-topline { display: grid; grid-template-columns: 45px 1fr 45px; align-items: center; min-height: 50px; padding: 0 23px; border-bottom: 1px solid var(--border); color: var(--text-muted); font: 10px var(--mono); letter-spacing: .08em; }
-.card-topline time { color: var(--accent); text-align: center; }
+.archive-layout { display: grid; grid-template-columns: 118px minmax(0, 1fr); align-items: start; gap: clamp(22px, 4vw, 58px); }
+.archive-date-rail { position: sticky; top: calc(50vh - 86px); display: flex; flex-direction: column; gap: 13px; min-height: 172px; padding: 2px 0 2px 17px; border-left: 1px solid var(--border-strong); }
+.rail-label, .rail-order { color: var(--text-muted); font: 9px/1.45 var(--mono); letter-spacing: .1em; }
+.archive-date-rail time { color: var(--accent); font: 500 14px/1.25 var(--mono); letter-spacing: .04em; }
+.rail-order { margin-top: auto; color: var(--accent); }
+.archive-stack { position: relative; min-width: 0; padding: 1vh 0 max(12vh, calc(50vh - 170px)); }
+.archive-card-slot { position: relative; min-height: min(490px, 57vh); padding-bottom: 34px; }
+/* Fixed height keeps the sticky box constant while the surface expands on hover:
+   the summary reveal grows the surface downward beyond this box, so the pinned
+   card top never shifts during the open/close animation. */
+.archive-card { position: sticky; top: calc(50vh - 215px); height: 430px; width: min(790px, 100%); margin: 0 auto; z-index: var(--archive-layer, 1); opacity: 1; transform-origin: center center; will-change: transform, opacity; }
+.archive-card-surface { position: relative; display: grid; grid-template-rows: auto 1fr; min-height: 430px; overflow: hidden; border: 1px solid var(--border-strong); border-radius: var(--radius); background: var(--surface); box-shadow: 0 18px 46px rgba(0, 0, 0, .16); transform: translate3d(0, 0, 0) scale(1); transform-origin: top center; transition: transform .32s var(--ease), border-color .26s ease, background-color .25s ease, box-shadow .32s var(--ease); }
+.archive-card.is-current { z-index: 700 !important; }
+.archive-card.is-current .archive-card-surface { border-color: color-mix(in srgb, var(--accent) 65%, var(--border-strong)); box-shadow: 0 24px 58px rgba(0, 0, 0, .21); }
+.archive-card:hover { z-index: 900 !important; }
+.archive-card:focus-within { z-index: 950 !important; }
+.archive-card:hover .archive-card-surface, .archive-card:focus-within .archive-card-surface { border-color: var(--accent); box-shadow: 0 31px 73px rgba(0, 0, 0, .28); transform: scale(1.012); }
+.card-topline { display: grid; grid-template-columns: 45px 1fr 45px; align-items: center; min-height: 44px; padding: 0 20px; border-bottom: 1px solid var(--border); color: var(--text-muted); font: 9px var(--mono); letter-spacing: .08em; }
+.card-topline time { color: var(--accent); font-size: 9px; text-align: center; }
 .card-index { color: var(--text-muted); }
 .card-open { color: var(--accent); font-size: 16px; text-align: right; }
-.card-body { position: relative; display: flex; flex-direction: column; justify-content: center; padding: clamp(40px, 7vw, 94px) clamp(30px, 8vw, 110px); }
+.card-body { position: relative; display: flex; flex-direction: column; justify-content: center; padding: clamp(34px, 5vw, 68px) clamp(28px, 7vw, 82px); }
 .card-kicker { margin: 0 0 17px; color: var(--text-muted); font: 10px var(--mono); letter-spacing: .12em; }
-.card-body h2 { max-width: 630px; margin: 0; font: 500 clamp(2.2rem, 5vw, 4.7rem)/.95 var(--serif); letter-spacing: -.05em; }
-.card-summary { max-width: 570px; max-height: 0; margin: 0; overflow: hidden; color: var(--text-soft); font-size: 14px; line-height: 1.55; opacity: 0; transform: translateY(8px); transition: max-height .42s var(--ease), margin .42s var(--ease), opacity .3s ease, transform .42s var(--ease); }
+.card-body h2 { max-width: 620px; margin: 0; font: 500 clamp(2rem, 4.5vw, 4.15rem)/.95 var(--serif); letter-spacing: -.05em; }
+/* Summary reveal: collapsed via height 0. The open/close animation is driven
+   by the Web Animations API in app.js; keyboard focus reveals instantly. */
+.card-summary-reveal { height: 0; max-width: 570px; margin-top: 0; overflow: hidden; }
+.card-summary { max-height: 136px; margin: 0; overflow: hidden; color: var(--text-soft); font-size: 14px; line-height: 1.55; opacity: 0; transform: translateY(8px); }
 .summary-label { display: block; margin-bottom: 8px; color: var(--accent); font: 10px var(--mono); letter-spacing: .1em; text-transform: uppercase; }
-.archive-card:hover .card-summary, .archive-card:focus-within .card-summary, .archive-card.is-current .card-summary { max-height: 145px; margin-top: 29px; opacity: 1; transform: translateY(0); }
-.card-meta { display: flex; justify-content: space-between; gap: 15px; max-width: 630px; margin-top: 46px; padding-top: 13px; border-top: 1px solid var(--border); color: var(--text-muted); font: 10px var(--mono); }
+.archive-card:focus-within .card-summary-reveal { height: auto !important; margin-top: 24px !important; }
+.archive-card:focus-within .card-summary { opacity: 1 !important; transform: none !important; }
+.card-meta { display: flex; justify-content: space-between; gap: 15px; max-width: 620px; margin-top: 36px; padding-top: 13px; border-top: 1px solid var(--border); color: var(--text-muted); font: 10px var(--mono); }
 .card-meta span:first-child { color: var(--accent); }
 .card-tags { display: flex; flex-wrap: wrap; gap: 7px; margin-top: 14px; color: var(--text-muted); font: 10px var(--mono); }
 .card-tags span::before { color: var(--accent); content: '#'; }
-.card-hit-area { position: absolute; inset: 50px 0 0; z-index: 2; text-indent: -9999px; }
+.card-hit-area { position: absolute; inset: 44px 0 0; z-index: 2; text-indent: -9999px; }
 .card-body { pointer-events: none; }
 .card-hit-area:focus-visible { outline-offset: -7px; }
 
@@ -214,7 +231,7 @@ th { color: var(--text); font-weight: 500; }
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
-  .archive-card { transform: none !important; }
+  .archive-card, .archive-card-surface { transform: none !important; }
 }
 
 @media (max-width: 760px) {
@@ -236,9 +253,15 @@ th { color: var(--text); font-weight: 500; }
   .section-date { padding-top: 5px; font-size: 9px; }
   .filter-row { display: block; }
   .tag-select { display: block; max-width: 220px; margin-top: 18px; }
-  .archive-stack { padding: 30px 0 60px; }
-  .archive-card-slot { min-height: min(470px, 63vh); scroll-margin-block: 14vh; }
-  .archive-card { position: sticky; top: 15vh; width: 100%; min-height: 370px; }
+  .archive-layout { display: block; }
+  .archive-date-rail { position: sticky; top: 8px; z-index: 1001; display: flex; flex-direction: row; align-items: center; min-height: 0; margin-bottom: 18px; padding: 10px 12px; border: 1px solid var(--border); border-left-color: var(--accent); border-radius: var(--radius); background: var(--bg); }
+  .rail-label { line-height: 1.2; }
+  .archive-date-rail time { margin-left: auto; font-size: 11px; }
+  .rail-order { margin: 0 0 0 12px; }
+  .archive-stack { padding: 0 0 max(60px, calc(50vh - 175px)); }
+  .archive-card-slot { min-height: min(436px, 60vh); padding-bottom: 22px; }
+  .archive-card { position: sticky; top: calc(50vh - 185px); height: 370px; width: 100%; }
+  .archive-card-surface { min-height: 370px; }
   .card-topline { padding-inline: 15px; }
   .card-body { padding: 37px 24px; }
   .card-body h2 { font-size: clamp(2rem, 10vw, 3.3rem); }
