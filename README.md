@@ -42,6 +42,10 @@ npx serve .
 
 ## Latest Digests
 
+### 2026-09-25
+- [English](content/daily/2026-09-25.md)
+- [中文](content/daily_zh/2026-09-25.md)
+
 ### 2026-09-24
 - [English](content/daily/2026-09-24.md)
 - [中文](content/daily_zh/2026-09-24.md)
