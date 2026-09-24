@@ -36,8 +36,8 @@
       ],
       "news_count": 5,
       "documents": {
-        "en": "./daily/2026-09-25.md",
-        "zh": "./daily_zh/2026-09-25.md"
+        "en": "./content/daily/2026-09-25.md",
+        "zh": "./content/daily_zh/2026-09-25.md"
       },
       "news": [
         {
