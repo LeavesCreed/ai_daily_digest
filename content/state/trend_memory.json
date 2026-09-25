@@ -1267,5 +1267,20 @@
     "strength": "medium",
     "description": "US reframes AI as competitiveness asset ('Super Intelligence') ahead of Xi summit; governance shifts toward bilateral trade, export controls, and state audits.",
     "first_seen": "2026-09-24"
+  },
+  "model_release_cadence_compression": {
+    "last_updated": "2026-09-26",
+    "status": "rising",
+    "description": "Frontier labs are compressing release cycles: Gemini 4 in early post-training targeting a year-end (possibly October) release, Microsoft routing multiple frontier models through Copilot, and September's dense flagship wave all point to models becoming swappable components inside orchestration layers."
+  },
+  "ai_governance_ownership_hardening": {
+    "last_updated": "2026-09-26",
+    "status": "rising",
+    "description": "Governance is hardening around ownership and evaluation: Anthropic seeks 50.1% cofounder voting control ahead of IPO, OpenAI releases clinician-reviewed MentalHealthBench, and independent assessment platforms emerge for open-weight models — all attempts to make safety claims auditable at scale."
+  },
+  "agentic_coding_revenue_milestone": {
+    "last_updated": "2026-09-26",
+    "status": "rising",
+    "description": "Cognition's Devin crossed a $1B annualized revenue run rate, doubling from $492M earlier in 2026, validating enterprise willingness to pay for agentic software engineering at scale."
   }
 }

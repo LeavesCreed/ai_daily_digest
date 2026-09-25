@@ -1,7 +1,104 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T23:17:59Z",
+  "generated_at": "2026-09-25T23:17:18Z",
   "entries": [
+    {
+      "date": "2026-09-26",
+      "title": "AI Daily Digest - 2026-09-26",
+      "summary": {
+        "en": "Google's Gemini 4 entered early post-training, with DeepMind's new head signaling a release well before year-end as Google races to close the gap with GPT-6 Astra and Claude Fable 5.1. Microsoft rebuilt its Copilot pricing around fixed-cost subscriptions and usage-based agentic billing, folding Cowork, Code, and Autopilot into one product. OpenAI released MentalHealthBench, an open, clinician-reviewed benchmark for AI responses in mental-health conversations. Anthropic moved to lock in cofounder control with a 50.1% voting stake ahead of its IPO, while AI coding startup Cognition crossed a $1 billion revenue run rate on Devin's enterprise adoption.",
+        "zh": "Google 的 Gemini 4 进入后训练早期阶段，DeepMind 新任负责人表态将在年底前大幅提前发布，以追赶 GPT-6 Astra 与 Claude Fable 5.1。微软重构 Copilot 定价，将固定成本订阅与按用量计费的智能体工作流整合，把 Cowork、Code 与 Autopilot 收进同一产品。OpenAI 发布 MentalHealthBench，一个经临床医生复核、面向心理健康对话的开源基准。Anthropic 在 IPO 前锁定联合创始人 50.1% 的投票控制权，而 AI 编程初创 Cognition 凭借 Devin 的企业采用突破 10 亿美元年化营收。"
+      },
+      "categories": [
+        "Models",
+        "Applications",
+        "AI Safety",
+        "Industry",
+        "Agents"
+      ],
+      "tags": [
+        "Google",
+        "DeepMind",
+        "Gemini",
+        "Microsoft",
+        "Copilot",
+        "OpenAI",
+        "Benchmark",
+        "Anthropic",
+        "IPO",
+        "Cognition",
+        "Devin",
+        "LLM"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-09-26.md",
+        "zh": "./content/daily_zh/2026-09-26.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Google Gemini 4 Enters Post-Training, Release Targeted Before Year-End",
+          "summary": "DeepMind's new head signals Gemini 4 will ship well before year-end as Google races to close the gap with GPT-6 Astra and Claude Fable 5.1.",
+          "category": "Models",
+          "tags": [
+            "Google",
+            "DeepMind",
+            "Gemini",
+            "LLM"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Microsoft Launches New Copilot with Home, Code, and Autopilot",
+          "summary": "Microsoft rebuilds Copilot around fixed subscriptions and usage-based agentic billing, folding Cowork, Code, and Autopilot into one product.",
+          "category": "Applications",
+          "tags": [
+            "Microsoft",
+            "Copilot",
+            "Agents",
+            "LLM"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "OpenAI Releases MentalHealthBench for AI Mental-Health Conversations",
+          "summary": "OpenAI publishes an open, clinician-reviewed benchmark for AI responses in mental-health conversations.",
+          "category": "AI Safety",
+          "tags": [
+            "OpenAI",
+            "Mental Health",
+            "Benchmark",
+            "Evaluation",
+            "Safety"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Anthropic Seeks 50.1% Voting Control for Cofounders Ahead of IPO",
+          "summary": "Anthropic pursues a dual-class structure giving cofounders 50.1% voting control ahead of its IPO.",
+          "category": "Industry",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "Governance"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "AI Coding Startup Cognition Tops $1 Billion Revenue Run Rate",
+          "summary": "Cognition crosses a $1 billion annualized revenue run rate on Devin's enterprise adoption.",
+          "category": "Agents",
+          "tags": [
+            "Cognition",
+            "Devin",
+            "Coding",
+            "Agents",
+            "Enterprise"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-25",
       "title": "AI Daily Digest - 2026-09-25",
