@@ -442,8 +442,8 @@ Each daily entry MUST contain:
   "tags": [],
   "news_count": 5,
   "documents": {
-    "en": "./daily/YYYY-MM-DD.md",
-    "zh": "./daily_zh/YYYY-MM-DD.md"
+    "en": "./content/daily/YYYY-MM-DD.md",
+    "zh": "./content/daily_zh/YYYY-MM-DD.md"
   },
   "news": []
 }
