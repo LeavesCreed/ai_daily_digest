@@ -148,9 +148,7 @@ news_count: 5
 
 {{PAPER_SUMMARY}}
 
-Link:
-
-{{PAPER_LINK}}
+Link: {{PAPER_LINK}}
 
 ---
 
@@ -160,9 +158,7 @@ Link:
 
 {{PROJECT_SUMMARY}}
 
-Link:
-
-{{PROJECT_LINK}}
+Link: {{PROJECT_LINK}}
 
 ---
 

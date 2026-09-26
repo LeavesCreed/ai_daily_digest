@@ -176,8 +176,18 @@ function splitDocument(markdown) {
   for (const section of document.featured) {
     const linkBlockIndex = section.blocks.findIndex((block) => block.type === 'paragraph' && /^(link|链接)[:：]/i.test(block.value));
     if (linkBlockIndex >= 0) {
-      const match = section.blocks[linkBlockIndex].value.match(/^(?:link|链接)[:：]\s*(\S+)/i);
-      if (match) section.links = [{ label: 'Link', url: match[1] }];
+      const labelBlock = section.blocks[linkBlockIndex].value;
+      const label = /链接/.test(labelBlock) ? '链接' : 'Link';
+      let url = (labelBlock.match(/^(?:link|链接)[:：]\s*(\S+)/i) || [])[1];
+      // The template may place the URL on the line following the "Link:" label.
+      if (!url) {
+        const next = section.blocks[linkBlockIndex + 1];
+        if (next && next.type === 'paragraph' && safeUrl(next.value.trim())) {
+          url = next.value.trim();
+          section.blocks.splice(linkBlockIndex + 1, 1);
+        }
+      }
+      if (url && safeUrl(url)) section.links = [{ label, url }];
       section.blocks.splice(linkBlockIndex, 1);
     }
   }

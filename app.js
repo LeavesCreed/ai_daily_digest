@@ -7,9 +7,9 @@ import {
   loadMarkdown,
   resolveDocumentPath,
   searchEntries,
-} from './data.js';
-import { escapeHtml, inlineMarkdown, parseDailyMarkdown, renderBlocks, safeUrl } from './markdown.js';
-import { baseURL, resolveBaseURL } from './base-url.js';
+} from './data.js?v=4';
+import { escapeHtml, inlineMarkdown, parseDailyMarkdown, renderBlocks, safeUrl } from './markdown.js?v=4';
+import { baseURL, resolveBaseURL } from './base-url.js?v=4';
 
 const app = document.querySelector('#app');
 const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
