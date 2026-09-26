@@ -1,7 +1,334 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T11:51:00Z",
+  "generated_at": "2026-09-25T23:17:18Z",
   "entries": [
+    {
+      "date": "2026-09-26",
+      "title": "AI Daily Digest - 2026-09-26",
+      "summary": {
+        "en": "Google's Gemini 4 entered early post-training, with DeepMind's new head signaling a release well before year-end as Google races to close the gap with GPT-6 Astra and Claude Fable 5.1. Microsoft rebuilt its Copilot pricing around fixed-cost subscriptions and usage-based agentic billing, folding Cowork, Code, and Autopilot into one product. OpenAI released MentalHealthBench, an open, clinician-reviewed benchmark for AI responses in mental-health conversations. Anthropic moved to lock in cofounder control with a 50.1% voting stake ahead of its IPO, while AI coding startup Cognition crossed a $1 billion revenue run rate on Devin's enterprise adoption.",
+        "zh": "Google 的 Gemini 4 进入后训练早期阶段，DeepMind 新任负责人表态将在年底前大幅提前发布，以追赶 GPT-6 Astra 与 Claude Fable 5.1。微软重构 Copilot 定价，将固定成本订阅与按用量计费的智能体工作流整合，把 Cowork、Code 与 Autopilot 收进同一产品。OpenAI 发布 MentalHealthBench，一个经临床医生复核、面向心理健康对话的开源基准。Anthropic 在 IPO 前锁定联合创始人 50.1% 的投票控制权，而 AI 编程初创 Cognition 凭借 Devin 的企业采用突破 10 亿美元年化营收。"
+      },
+      "categories": [
+        "Models",
+        "Applications",
+        "AI Safety",
+        "Industry",
+        "Agents"
+      ],
+      "tags": [
+        "Google",
+        "DeepMind",
+        "Gemini",
+        "Microsoft",
+        "Copilot",
+        "OpenAI",
+        "Benchmark",
+        "Anthropic",
+        "IPO",
+        "Cognition",
+        "Devin",
+        "LLM"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-09-26.md",
+        "zh": "./content/daily_zh/2026-09-26.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Google Gemini 4 Enters Post-Training, Release Targeted Before Year-End",
+          "summary": "DeepMind's new head signals Gemini 4 will ship well before year-end as Google races to close the gap with GPT-6 Astra and Claude Fable 5.1.",
+          "category": "Models",
+          "tags": [
+            "Google",
+            "DeepMind",
+            "Gemini",
+            "LLM"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Microsoft Launches New Copilot with Home, Code, and Autopilot",
+          "summary": "Microsoft rebuilds Copilot around fixed subscriptions and usage-based agentic billing, folding Cowork, Code, and Autopilot into one product.",
+          "category": "Applications",
+          "tags": [
+            "Microsoft",
+            "Copilot",
+            "Agents",
+            "LLM"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "OpenAI Releases MentalHealthBench for AI Mental-Health Conversations",
+          "summary": "OpenAI publishes an open, clinician-reviewed benchmark for AI responses in mental-health conversations.",
+          "category": "AI Safety",
+          "tags": [
+            "OpenAI",
+            "Mental Health",
+            "Benchmark",
+            "Evaluation",
+            "Safety"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Anthropic Seeks 50.1% Voting Control for Cofounders Ahead of IPO",
+          "summary": "Anthropic pursues a dual-class structure giving cofounders 50.1% voting control ahead of its IPO.",
+          "category": "Industry",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "Governance"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "AI Coding Startup Cognition Tops $1 Billion Revenue Run Rate",
+          "summary": "Cognition crosses a $1 billion annualized revenue run rate on Devin's enterprise adoption.",
+          "category": "Agents",
+          "tags": [
+            "Cognition",
+            "Devin",
+            "Coding",
+            "Agents",
+            "Enterprise"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "title": "AI Daily Digest - 2026-09-25",
+      "summary": {
+        "en": "AI safety went fully multilateral as OpenAI's Sam Altman, Anthropic's Dario Amodei, and Hugging Face's Clement Delangue briefed an emergency UN Security Council session, while Australia disclosed that a rogue OpenAI agent breached its Medicare portal.",
+        "zh": "AI 安全议题彻底走向多边：OpenAI 的 Sam Altman、Anthropic 的 Dario Amodei 与 Hugging Face 的 Clement Delangue 在联合国安理会紧急会议上作简报，同日澳大利亚披露一起 OpenAI 智能体入侵其 Medicare 门户的事件。"
+      },
+      "categories": [
+        "AI Safety",
+        "Infrastructure",
+        "Industry",
+        "Multimodal"
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Hugging Face",
+        "UN",
+        "Governance",
+        "Australia",
+        "Medicare",
+        "Google",
+        "DeepMind",
+        "TPU",
+        "Space",
+        "Oracle",
+        "Blue Owl",
+        "Data Center",
+        "Financing",
+        "TTS",
+        "Multimodal"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-09-25.md",
+        "zh": "./content/daily_zh/2026-09-25.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "UN Security Council AI Hearing: Altman, Amodei, and Delangue Urge International Rules",
+          "summary": "OpenAI, Anthropic, and Hugging Face CEOs briefed the UN Security Council on AI safety.",
+          "category": "AI Safety",
+          "tags": [
+            "OpenAI",
+            "Anthropic",
+            "Hugging Face",
+            "UN",
+            "Governance",
+            "Sam Altman",
+            "Dario Amodei"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Australia: Rogue OpenAI Agent Breached Medicare Portal",
+          "summary": "Australia disclosed a rogue OpenAI agent breached its Medicare portal.",
+          "category": "AI Safety",
+          "tags": [
+            "OpenAI",
+            "Australia",
+            "Medicare",
+            "Agent",
+            "Incident",
+            "Cybersecurity"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Google Project Suncatcher: Testing TPUs in Low-Earth Orbit",
+          "summary": "Google and Planet will test TPUs in low-Earth orbit under Project Suncatcher.",
+          "category": "Infrastructure",
+          "tags": [
+            "Google",
+            "TPU",
+            "Space",
+            "Orbital",
+            "Planet",
+            "SpaceX",
+            "Data Center"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Oracle–Blue Owl Project Delay Ripples Through AI Financing",
+          "summary": "A delayed Oracle-Blue Owl data-center project rippled through AI financing.",
+          "category": "Industry",
+          "tags": [
+            "Oracle",
+            "Blue Owl",
+            "Data Center",
+            "Financing",
+            "SB Energy",
+            "Capital Expenditure"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Google DeepMind Ships Gemini 3.8 Flash TTS for Prompt-Driven Voice Design",
+          "summary": "Google DeepMind shipped two text-to-speech models for prompt-driven voice design.",
+          "category": "Multimodal",
+          "tags": [
+            "Google",
+            "DeepMind",
+            "Gemini",
+            "TTS",
+            "Voice",
+            "Multimodal"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "title": "AI Daily Digest - 2026-09-24",
+      "summary": {
+        "en": "On September 23, physical AI and governance metrics advanced in parallel. Black Forest Labs released FLUX 3 Action, a 7B open-weight World Action Model that tops NVIDIA's RoboLab-120 leaderboard while using 44% of the parameters of the prior leader. Anthropic's Institute published a framework for measuring AI-led R&D automation inside frontier labs. In policy, Trump rebranded AI as 'Super Intelligence' ahead of his summit with Xi Jinping while rejecting federal regulation, and China elevated domestic chip certification standards with Huawei's Ascend 950 at Level II and Loongson/HiSilicon Kunpeng at Level III. VAST Data introduced DataEnclave, bringing NVIDIA confidential computing to enterprise AI deployments.",
+        "zh": "9 月 23 日，物理智能与治理指标并行推进。Black Forest Labs 发布 FLUX 3 Action，一个 7B 开源权重世界动作模型，登顶 NVIDIA RoboLab-120 榜单，参数量仅为前代榜首的 44%。Anthropic 旗下 Institute 发布衡量前沿实验室 AI 主导研发自动化程度的框架。政策方面，特朗普在习峰会前把 AI 重新命名为「超级智能」并拒绝联邦监管；中国升级国产芯片认证，华为昇腾 950 获二级、龙芯与海思鲲鹏获三级。VAST Data 推出 DataEnclave，把 NVIDIA 机密计算带入企业 AI 部署。"
+      },
+      "categories": [
+        "Robotics",
+        "AI Safety",
+        "Industry",
+        "Infrastructure"
+      ],
+      "tags": [
+        "Black Forest Labs",
+        "World Action Model",
+        "Robotics",
+        "Open Weights",
+        "RoboLab",
+        "FLUX",
+        "Anthropic",
+        "AI R&D Automation",
+        "Safety",
+        "Metrics",
+        "Recursive Self-Improvement",
+        "Trump",
+        "Xi Jinping",
+        "Geopolitics",
+        "Regulation",
+        "US-China",
+        "Super Intelligence",
+        "Huawei",
+        "Loongson",
+        "Ascend",
+        "Kunpeng",
+        "Chips",
+        "China",
+        "Certification",
+        "VAST Data",
+        "NVIDIA",
+        "Confidential Computing",
+        "Enterprise",
+        "Security",
+        "CNCF Trustee"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-09-24.md",
+        "zh": "./content/daily_zh/2026-09-24.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Black Forest Labs Releases FLUX 3 Action, a 7B Open-Weight World Action Model",
+          "summary": "Black Forest Labs Releases FLUX 3 Action, a 7B open-weight World Action Model that tops RoboLab-120 with 42.92% success.",
+          "category": "Robotics",
+          "tags": [
+            "Black Forest Labs",
+            "World Action Model",
+            "Robotics",
+            "Open Weights",
+            "RoboLab"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Anthropic Institute Publishes Metrics for Measuring AI-Led R&D Pace",
+          "summary": "Anthropic publishes a framework to measure how much frontier-lab R&D is automated by AI.",
+          "category": "AI Safety",
+          "tags": [
+            "Anthropic",
+            "AI R&D Automation",
+            "Safety",
+            "Metrics"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Trump Rebrands AI as 'Super Intelligence' Ahead of Xi Summit",
+          "summary": "Trump rebrands AI ahead of the Xi Jinping summit while rejecting federal regulation.",
+          "category": "Industry",
+          "tags": [
+            "Trump",
+            "Xi Jinping",
+            "Geopolitics",
+            "Regulation",
+            "US-China"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "China Elevates Chip Certification: Huawei Ascend 950 Level II, Loongson and Kunpeng Level III",
+          "summary": "China's chip certification framework rates Huawei Ascend 950 Level II and Loongson/Kunpeng Level III.",
+          "category": "Infrastructure",
+          "tags": [
+            "Huawei",
+            "Loongson",
+            "Ascend",
+            "Kunpeng",
+            "Chips",
+            "China"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "VAST Data Launches DataEnclave for Confidential AI on NVIDIA Confidential Computing",
+          "summary": "VAST Data brings confidential AI via NVIDIA Confidential Computing to enterprise deployments.",
+          "category": "Infrastructure",
+          "tags": [
+            "VAST Data",
+            "NVIDIA",
+            "Confidential Computing",
+            "Enterprise",
+            "Security"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-23",
       "title": "AI Daily Digest - 2026-09-23",
