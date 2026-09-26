@@ -57,6 +57,9 @@ button { color: inherit; }
 .nav-link.is-active::after { position: absolute; right: 0; bottom: -29px; left: 0; height: 1px; background: var(--accent); content: ''; }
 kbd { border: 1px solid var(--border); border-radius: 3px; color: var(--text-muted); font: 10px var(--mono); padding: 2px 5px; }
 .header-tools { display: flex; align-items: center; gap: 17px; margin-left: auto; }
+.github-link { display: inline-flex; align-items: center; gap: 6px; padding: 3px 8px; border: 1px solid var(--border); border-radius: 4px; color: var(--text-muted); text-decoration: none; font: 10px var(--mono); letter-spacing: .04em; transition: color .2s ease, border-color .2s ease, background .2s ease; }
+.github-link svg { display: block; }
+.github-link:hover { color: var(--text); border-color: var(--border-strong); background: var(--surface-strong); }
 .current-date, .section-date { color: var(--accent); font: 11px var(--mono); letter-spacing: .08em; white-space: nowrap; }
 .header-rule { width: 46px; height: 1px; background: var(--border); }
 .segmented-control, .theme-control { display: inline-flex; gap: 2px; padding: 2px; border: 1px solid var(--border); border-radius: 4px; }
@@ -241,6 +244,8 @@ th { color: var(--text); font-weight: 500; }
   .brand { font-size: 11px; }
   .main-nav { gap: 14px; }
   .nav-link kbd, .header-rule, .current-date { display: none; }
+  .github-link span { display: none; }
+  .github-link { padding: 4px 7px; }
   .header-tools { gap: 8px; }
   .hero { display: block; min-height: 0; padding: 75px 0 68px; }
   .hero h1 { max-width: 500px; margin-top: 21px; font-size: clamp(3.6rem, 17vw, 6rem); }
