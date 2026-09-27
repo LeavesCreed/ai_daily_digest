@@ -1,40 +1,43 @@
 {
   "OpenAI": {
-    "last_seen": "2026-09-26",
-    "appearances": 8,
-    "mention_count": 11,
-    "mentions": 5,
+    "last_seen": "2026-09-28",
+    "appearances": 9,
+    "mention_count": 12,
+    "mentions": 6,
     "dates": [
       "2026-09-19",
       "2026-09-21",
       "2026-09-23",
       "2026-09-24",
-      "2026-09-26"
+      "2026-09-26",
+      "2026-09-28"
     ]
   },
   "Anthropic": {
-    "last_seen": "2026-09-26",
-    "mention_count": 15,
-    "appearances": 10,
-    "mentions": 10,
+    "last_seen": "2026-09-28",
+    "mention_count": 16,
+    "appearances": 11,
+    "mentions": 11,
     "dates": [
       "2026-09-19",
       "2026-09-21",
       "2026-09-22",
       "2026-09-23",
       "2026-09-24",
-      "2026-09-26"
+      "2026-09-26",
+      "2026-09-28"
     ]
   },
   "Meta": {
-    "last_seen": "2026-09-22",
-    "appearances": 4,
-    "mentions": 3,
-    "mention_count": 5,
+    "last_seen": "2026-09-28",
+    "appearances": 5,
+    "mentions": 4,
+    "mention_count": 6,
     "dates": [
       "2026-09-19",
       "2026-09-21",
-      "2026-09-22"
+      "2026-09-22",
+      "2026-09-28"
     ]
   },
   "Together AI": {
@@ -288,14 +291,15 @@
   },
   "Google": {
     "count": 7,
-    "last_seen": "2026-09-26",
-    "mention_count": 6,
-    "mentions": 3,
-    "appearances": 5,
+    "last_seen": "2026-09-28",
+    "mention_count": 7,
+    "mentions": 4,
+    "appearances": 6,
     "dates": [
       "2026-09-21",
       "2026-09-22",
-      "2026-09-26"
+      "2026-09-26",
+      "2026-09-28"
     ]
   },
   "Commerce Department": {
@@ -642,14 +646,15 @@
     "count": 1
   },
   "Demis Hassabis": {
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-09-28",
     "count": 3,
-    "appearances": 2,
+    "appearances": 3,
     "dates": [
-      "2026-09-20"
+      "2026-09-20",
+      "2026-09-28"
     ],
-    "mentions": 1,
-    "mention_count": 1,
+    "mentions": 2,
+    "mention_count": 2,
     "note": "publicly agreed with the pacing call on September 12"
   },
   "Dario Amodei": {
@@ -742,13 +747,14 @@
     "count": 1
   },
   "Xi Jinping": {
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-28",
     "count": 2,
-    "mentions": 1,
-    "mention_count": 2,
-    "appearances": 1,
+    "mentions": 2,
+    "mention_count": 3,
+    "appearances": 2,
     "dates": [
-      "2026-09-24"
+      "2026-09-24",
+      "2026-09-28"
     ]
   },
   "Anastasios Angelopoulos": {
@@ -778,15 +784,16 @@
     "count": 1
   },
   "xAI": {
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-09-28",
     "description": "$1.25B/month Colossus compute to Anthropic",
-    "mentions": 3,
+    "mentions": 4,
     "dates": [
       "2026-09-19",
-      "2026-09-22"
+      "2026-09-22",
+      "2026-09-28"
     ],
-    "appearances": 1,
-    "mention_count": 1
+    "appearances": 2,
+    "mention_count": 2
   },
   "Fluidstack": {
     "last_seen": "2026-07-20",
@@ -1755,8 +1762,14 @@
     "count": 1
   },
   "MiniMax": {
-    "last_seen": "2026-08-19",
-    "count": 1
+    "last_seen": "2026-09-28",
+    "count": 1,
+    "appearances": 2,
+    "mentions": 2,
+    "mention_count": 2,
+    "dates": [
+      "2026-09-28"
+    ]
   },
   "Artificial Analysis": {
     "last_seen": "2026-08-19",
@@ -2362,14 +2375,15 @@
     "mention_count": 1
   },
   "Nvidia": {
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-09-28",
     "count": 3,
-    "appearances": 3,
-    "mention_count": 5,
-    "mentions": 2,
+    "appearances": 4,
+    "mention_count": 6,
+    "mentions": 3,
     "dates": [
       "2026-09-21",
-      "2026-09-22"
+      "2026-09-22",
+      "2026-09-28"
     ]
   },
   "Trainium": {
@@ -2677,13 +2691,14 @@
     "mention_count": 1
   },
   "Trump": {
-    "last_seen": "2026-09-24",
+    "last_seen": "2026-09-28",
     "count": 1,
-    "mentions": 1,
-    "mention_count": 2,
-    "appearances": 1,
+    "mentions": 2,
+    "mention_count": 3,
+    "appearances": 2,
     "dates": [
-      "2026-09-24"
+      "2026-09-24",
+      "2026-09-28"
     ]
   },
   "Shanghai AI Laboratory": {
@@ -3668,6 +3683,96 @@
     "mention_count": 1,
     "dates": [
       "2026-09-26"
+    ]
+  },
+  "US": {
+    "last_seen": "2026-09-28",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-28"
+    ]
+  },
+  "China": {
+    "last_seen": "2026-09-28",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-28"
+    ]
+  },
+  "ACSC": {
+    "last_seen": "2026-09-28",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-28"
+    ]
+  },
+  "Transluce": {
+    "last_seen": "2026-09-28",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-28"
+    ]
+  },
+  "Qrator": {
+    "last_seen": "2026-09-28",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-28"
+    ]
+  },
+  "WraithTools": {
+    "last_seen": "2026-09-28",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-28"
+    ]
+  },
+  "Services Australia": {
+    "last_seen": "2026-09-28",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-28"
+    ]
+  },
+  "Medicare": {
+    "last_seen": "2026-09-28",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-28"
+    ]
+  },
+  "BankInfoSecurity": {
+    "last_seen": "2026-09-28",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-28"
+    ]
+  },
+  "Forkast": {
+    "last_seen": "2026-09-28",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-28"
     ]
   }
 }
