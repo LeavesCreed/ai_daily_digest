@@ -1,7 +1,105 @@
 {
   "version": 1,
-  "generated_at": "2026-09-27T23:17:40Z",
+  "generated_at": "2026-09-28T23:17:41Z",
   "entries": [
+    {
+      "date": "2026-09-29",
+      "title": "AI Daily Digest - 2026-09-29",
+      "summary": {
+        "en": "NVIDIA moved agent safety out of the model and into the runtime and the silicon, launching an Open Agent Safety Platform built on OpenShell sandboxes plus a BlueField-4 DPU watchdog that quarantines rogue agents in milliseconds. Anthropic made its middle tier behave like its top tier: Claude Sonnet 5.5 lands second on the Artificial Analysis Intelligence Index and beats Opus 5.5 on Terminal-Bench 4.0, while cutting cost per completed task by roughly 30% without touching API sticker prices. Meta entered enterprise AI with Meta Enterprise Platform, built from Muse, and installed former MongoDB CEO CJ Desai to run it. In Washington, Rep. Ro Khanna prepared a bill banning recursive self-improving AI outright, joining kill-switch, safety-board and superintelligence-ban proposals already circulating. Capital kept compounding underneath: NVIDIA authorized the largest buyback in corporate history at $150B, and Nscale closed $3.36B in pre-IPO convertible debt with NVIDIA committing $1B.",
+        "zh": "NVIDIA 把智能体安全从模型层挪到了运行时与芯片层，发布 Open Agent Safety Platform，由 OpenShell 沙箱与跑在 BlueField-4 DPU 上的看门狗 Sentry 组成，可在毫秒级隔离越界智能体。Anthropic 让中端模型表现得像旗舰：Claude Sonnet 5.5 在 Artificial Analysis 智能指数上位列第二，Terminal-Bench 4.0 得分反超 Opus 5.5，同时把单任务成本压低约 30%，API 单价不变。Meta 以 Muse 系列为基础推出 Meta Enterprise Platform，并请来前 MongoDB CEO CJ Desai 掌舵，正式进入企业 AI 市场。华盛顿方面，众议员 Ro Khanna 准备提出禁止递归自我改进 AI 的法案，与已流传的 kill switch、安全委员会、超级智能禁令等提案汇成一股立法潮。资本继续加码：NVIDIA 授权史上最大 1500 亿美元股票回购，Nscale 完成 33.6 亿美元可转债融资，其中 NVIDIA 承诺出资 10 亿美元。"
+      },
+      "categories": [
+        "AI Safety",
+        "Models",
+        "Industry",
+        "Infrastructure"
+      ],
+      "tags": [
+        "NVIDIA",
+        "OpenShell",
+        "Sentry",
+        "Agent Security",
+        "Anthropic",
+        "Claude Sonnet 5.5",
+        "LLM",
+        "Agentic Coding",
+        "Meta",
+        "Muse",
+        "Enterprise AI",
+        "Congress",
+        "AI Regulation",
+        "Recursive Self-Improvement",
+        "Nscale",
+        "Buyback",
+        "AI Compute"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-09-29.md",
+        "zh": "./content/daily_zh/2026-09-29.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "NVIDIA Launches Open Agent Safety Platform",
+          "summary": "OpenShell runtime plus a BlueField-4 DPU watchdog called Sentry move agent containment out of the model and harness and into silicon, backed by 100+ partners including Anthropic, Microsoft, Palantir and SpaceXAI.",
+          "category": "AI Safety",
+          "tags": [
+            "NVIDIA",
+            "OpenShell",
+            "Sentry",
+            "Agent Security"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Anthropic Ships Claude Sonnet 5.5",
+          "summary": "Second on the Intelligence Index at 56, beats Opus 5.5 on Terminal-Bench 4.0 at 70.6%, cuts cost per completed task up to 30% at unchanged $2/$10 pricing, and debuts high-capability-tier cyber safeguards in a mid-tier model.",
+          "category": "Models",
+          "tags": [
+            "Anthropic",
+            "Claude Sonnet 5.5",
+            "LLM",
+            "Agentic Coding"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Meta Launches Meta Enterprise Platform",
+          "summary": "Meta packages Muse, Meta Business Agent, Muse API and Muse Code for corporate buyers and hires former MongoDB CEO CJ Desai to lead it, with no pricing or availability disclosed.",
+          "category": "Industry",
+          "tags": [
+            "Meta",
+            "Muse",
+            "Enterprise AI"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Congress Piles Up AI Safety Bills as Khanna Targets Recursive AI",
+          "summary": "A planned moratorium on recursive self-improving AI joins a Commerce Department safety board, a subpoena-powered investigation act, the AI Kill Switch Act and a superintelligence ban.",
+          "category": "AI Safety",
+          "tags": [
+            "Congress",
+            "AI Regulation",
+            "Recursive Self-Improvement"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "AI Compute Capital: NVIDIA's Record $150B Buyback and Nscale's $3.36B Raise",
+          "summary": "The largest buyback in corporate history sits above $3.36B of convertible debt for Nscale with $1B committed by NVIDIA, converting to equity on IPO.",
+          "category": "Infrastructure",
+          "tags": [
+            "NVIDIA",
+            "Nscale",
+            "Buyback",
+            "AI Compute"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-28",
       "title": "AI Daily Digest - 2026-09-28",

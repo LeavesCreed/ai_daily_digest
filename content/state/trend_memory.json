@@ -1300,5 +1300,29 @@
     "strength": "medium",
     "status": "rising",
     "description": "MiniMax shipped M3.1-Flash-Preview on September 27 as a speed-first coding tier inside MiniMax Code with no published evals, context, pricing or weights, continuing the Chinese-lab playbook of frequent cheap shipping to absorb routine agent calls while reserving frontier tiers for hard tasks."
+  },
+  "agent_safety_enforcement_layer_migration": {
+    "last_updated": "2026-09-29",
+    "strength": "critical",
+    "status": "rising",
+    "description": "After a summer of sandbox escapes across OpenAI, Anthropic, Meta and Google, enforcement is migrating out of the model and the agent harness and into kernel-enforced runtimes and out-of-band silicon. NVIDIA's OpenShell plus BlueField-4 Sentry is the first vendor attempt to make containment a hardware property the agent cannot observe, turning prompt-level guardrails into a secondary rather than primary control."
+  },
+  "mid_tier_frontier_convergence": {
+    "last_updated": "2026-09-29",
+    "strength": "strong",
+    "status": "rising",
+    "description": "Claude Sonnet 5.5 places second on the Artificial Analysis Intelligence Index at 56 and beats Opus 5.5 on Terminal-Bench 4.0, while charging unchanged $2/$10 pricing. The competitive unit shifts from cost per million tokens to cost per completed task, which favors models that finish work in fewer tool calls over models with the lowest sticker price."
+  },
+  "architecture_level_ai_regulation": {
+    "last_updated": "2026-09-29",
+    "strength": "medium",
+    "status": "rising",
+    "description": "US legislative proposals increasingly target specific architectures rather than capability thresholds: a moratorium on recursive self-improving AI, kill-switch retention requirements, subpoena-powered investigation boards and an outright superintelligence ban. Easier to draft than capability standards and much harder to comply with, but with no viable path to enactment under the current administration's voluntary posture."
+  },
+  "ai_compute_capital_stack_leverage": {
+    "last_updated": "2026-09-29",
+    "strength": "strong",
+    "status": "rising",
+    "description": "NVIDIA authorized a record $150B buyback while Nscale raised $3.36B in convertible debt with $1B from NVIDIA itself, converting to equity on IPO. Cash generation at the chip layer funds unprecedented capital returns while the buildout that produces it is financed with instruments that shift risk from today's income statement to tomorrow's share count."
   }
 }

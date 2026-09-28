@@ -14,10 +14,10 @@
     ]
   },
   "Anthropic": {
-    "last_seen": "2026-09-28",
-    "mention_count": 16,
-    "appearances": 11,
-    "mentions": 11,
+    "last_seen": "2026-09-29",
+    "mention_count": 17,
+    "appearances": 12,
+    "mentions": 12,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -25,19 +25,21 @@
       "2026-09-23",
       "2026-09-24",
       "2026-09-26",
-      "2026-09-28"
+      "2026-09-28",
+      "2026-09-29"
     ]
   },
   "Meta": {
-    "last_seen": "2026-09-28",
-    "appearances": 5,
-    "mentions": 4,
-    "mention_count": 6,
+    "last_seen": "2026-09-29",
+    "appearances": 6,
+    "mentions": 5,
+    "mention_count": 7,
     "dates": [
       "2026-09-19",
       "2026-09-21",
       "2026-09-22",
-      "2026-09-28"
+      "2026-09-28",
+      "2026-09-29"
     ]
   },
   "Together AI": {
@@ -98,13 +100,14 @@
     "mentions": 1
   },
   "NVIDIA": {
-    "last_seen": "2026-09-24",
-    "mentions": 3,
-    "mention_count": 6,
-    "appearances": 3,
+    "last_seen": "2026-09-29",
+    "mentions": 4,
+    "mention_count": 7,
+    "appearances": 4,
     "dates": [
       "2026-09-19",
-      "2026-09-24"
+      "2026-09-24",
+      "2026-09-29"
     ]
   },
   "Huawei": {
@@ -506,15 +509,24 @@
   },
   "Hugging Face": {
     "first_seen": "2026-07-11",
-    "appearances": 2,
-    "last_seen": "2026-09-18",
+    "appearances": 3,
+    "last_seen": "2026-09-29",
     "count": 10,
-    "mentions": 1,
-    "mention_count": 3
+    "mentions": 2,
+    "mention_count": 4,
+    "dates": [
+      "2026-09-29"
+    ]
   },
   "Ed Markey": {
     "first_seen": "2026-07-11",
-    "appearances": 1
+    "appearances": 2,
+    "last_seen": "2026-09-29",
+    "dates": [
+      "2026-09-29"
+    ],
+    "mentions": 1,
+    "mention_count": 1
   },
   "Fidji Simo": {
     "first_seen": "2026-07-11",
@@ -873,16 +885,24 @@
     "appearances": 1
   },
   "NSA": {
-    "last_seen": "2026-09-12",
+    "last_seen": "2026-09-29",
     "count": 2,
-    "appearances": 1,
-    "mention_count": 1
+    "appearances": 2,
+    "mention_count": 2,
+    "dates": [
+      "2026-09-29"
+    ],
+    "mentions": 1
   },
   "NIST": {
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-09-29",
     "count": 2,
-    "appearances": 1,
-    "mention_count": 1
+    "appearances": 2,
+    "mention_count": 2,
+    "dates": [
+      "2026-09-29"
+    ],
+    "mentions": 1
   },
   "Senator Mark Warner": {
     "last_seen": "2026-07-23",
@@ -1990,12 +2010,13 @@
     "count": 1
   },
   "Nscale": {
-    "last_seen": "2026-08-27",
-    "appearances": 1,
-    "mention_count": 1,
-    "mentions": 2,
+    "last_seen": "2026-09-29",
+    "appearances": 2,
+    "mention_count": 2,
+    "mentions": 3,
     "dates": [
-      "2026-09-19"
+      "2026-09-19",
+      "2026-09-29"
     ]
   },
   "TRACE": {
@@ -2005,10 +2026,14 @@
     "mention_count": 1
   },
   "Linux Foundation": {
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-09-29",
     "count": 1,
-    "appearances": 1,
-    "mention_count": 1
+    "appearances": 2,
+    "mention_count": 2,
+    "dates": [
+      "2026-09-29"
+    ],
+    "mentions": 1
   },
   "Nature Human Behaviour": {
     "last_seen": "2026-08-27",
@@ -2161,7 +2186,14 @@
   },
   "CrowdStrike": {
     "first_seen": "2026-09-01",
-    "count": 1
+    "count": 1,
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "dates": [
+      "2026-09-29"
+    ],
+    "mentions": 1,
+    "mention_count": 1
   },
   "Falcon IQ": {
     "first_seen": "2026-09-01",
@@ -2253,8 +2285,13 @@
   },
   "CISA": {
     "count": 2,
-    "last_seen": "2026-09-12",
-    "mention_count": 1
+    "last_seen": "2026-09-29",
+    "mention_count": 2,
+    "appearances": 1,
+    "dates": [
+      "2026-09-29"
+    ],
+    "mentions": 1
   },
   "IFM": {
     "count": 1,
@@ -2411,10 +2448,14 @@
     "mention_count": 1
   },
   "Muse": {
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-09-29",
     "count": 1,
-    "appearances": 1,
-    "mention_count": 1
+    "appearances": 2,
+    "mention_count": 2,
+    "dates": [
+      "2026-09-29"
+    ],
+    "mentions": 1
   },
   "Muse Spark 1.3": {
     "last_seen": "2026-09-09",
@@ -2787,8 +2828,14 @@
     "mention_count": 1
   },
   "Salesforce": {
-    "last_seen": "2026-09-16",
-    "count": 1
+    "last_seen": "2026-09-29",
+    "count": 1,
+    "appearances": 1,
+    "dates": [
+      "2026-09-29"
+    ],
+    "mentions": 1,
+    "mention_count": 1
   },
   "Koa": {
     "last_seen": "2026-09-16",
@@ -3600,12 +3647,13 @@
     ]
   },
   "Palo Alto Networks": {
-    "last_seen": "2026-09-23",
-    "mention_count": 1,
-    "appearances": 1,
-    "mentions": 1,
+    "last_seen": "2026-09-29",
+    "mention_count": 2,
+    "appearances": 2,
+    "mentions": 2,
     "dates": [
-      "2026-09-23"
+      "2026-09-23",
+      "2026-09-29"
     ]
   },
   "T-Head": {
@@ -3773,6 +3821,213 @@
     "mention_count": 1,
     "dates": [
       "2026-09-28"
+    ]
+  },
+  "OpenShell": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Sentry": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "BlueField-4": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Vera": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Claude Sonnet 5.5": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Muse Code": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "CJ Desai": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "MongoDB": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Congress": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Ro Khanna": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Bernie Sanders": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Greg Casar": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Third Point": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Apollo": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Citadel": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Wellington Management": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Abu Dhabi Investment Council": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "enactic": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Open Secure AI Alliance": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Scale AI": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "SAP": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Figure": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
+    ]
+  },
+  "Slack": {
+    "last_seen": "2026-09-29",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-29"
     ]
   }
 }
