@@ -1,16 +1,17 @@
 {
   "OpenAI": {
-    "last_seen": "2026-09-28",
-    "appearances": 9,
-    "mention_count": 12,
-    "mentions": 6,
+    "last_seen": "2026-09-30",
+    "appearances": 7,
+    "mention_count": 13,
+    "mentions": 7,
     "dates": [
       "2026-09-19",
       "2026-09-21",
       "2026-09-23",
       "2026-09-24",
       "2026-09-26",
-      "2026-09-28"
+      "2026-09-28",
+      "2026-09-30"
     ]
   },
   "Anthropic": {
@@ -273,14 +274,15 @@
   },
   "Microsoft": {
     "first_seen": "2026-07-06",
-    "mention_count": 4,
-    "last_seen": "2026-09-26",
+    "mention_count": 5,
+    "last_seen": "2026-09-30",
     "count": 5,
     "appearances": 3,
-    "mentions": 2,
+    "mentions": 3,
     "dates": [
       "2026-09-20",
-      "2026-09-26"
+      "2026-09-26",
+      "2026-09-30"
     ],
     "note": "co-authored the EOS termination-mismatch paper with UNC"
   },
@@ -670,15 +672,16 @@
     "note": "publicly agreed with the pacing call on September 12"
   },
   "Dario Amodei": {
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-09-30",
     "count": 2,
-    "mention_count": 4,
-    "appearances": 2,
+    "mention_count": 5,
+    "appearances": 3,
     "dates": [
       "2026-09-20",
-      "2026-09-21"
+      "2026-09-21",
+      "2026-09-30"
     ],
-    "mentions": 2,
+    "mentions": 3,
     "note": "his September 12 pacing essay is cited as the coordination event in the antitrust complaint"
   },
   "GPT-Red": {
@@ -910,13 +913,15 @@
     "appearances": 1
   },
   "AMD": {
-    "last_seen": "2026-09-22",
+    "last_seen": "2026-09-30",
     "count": 5,
     "appearances": 2,
-    "mention_count": 6,
+    "mention_count": 7,
     "dates": [
-      "2026-09-22"
-    ]
+      "2026-09-22",
+      "2026-09-30"
+    ],
+    "mentions": 2
   },
   "Michael Kratsios": {
     "last_seen": "2026-07-24",
@@ -1127,9 +1132,14 @@
     "appearances": 1
   },
   "Greg Brockman": {
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-09-30",
     "count": 2,
-    "appearances": 1
+    "appearances": 1,
+    "dates": [
+      "2026-09-30"
+    ],
+    "mentions": 2,
+    "mention_count": 2
   },
   "Goldman Sachs AlphaAI": {
     "last_seen": "2026-07-31",
@@ -1260,11 +1270,14 @@
     "count": 2
   },
   "White House": {
-    "last_seen": "2026-09-18",
+    "last_seen": "2026-09-30",
     "count": 3,
-    "mention_count": 4,
+    "mention_count": 5,
     "appearances": 1,
-    "mentions": 1
+    "mentions": 2,
+    "dates": [
+      "2026-09-30"
+    ]
   },
   "Irregular": {
     "last_seen": "2026-09-21",
@@ -1497,8 +1510,14 @@
     "count": 1
   },
   "Jensen Huang": {
-    "last_seen": "2026-08-11",
-    "count": 1
+    "last_seen": "2026-09-30",
+    "count": 1,
+    "dates": [
+      "2026-09-30"
+    ],
+    "appearances": 1,
+    "mentions": 2,
+    "mention_count": 2
   },
   "Australia AISI": {
     "last_seen": "2026-08-11",
@@ -2567,9 +2586,14 @@
   },
   "Ted Cruz": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-09-30",
     "count": 1,
-    "mention_count": 1
+    "mention_count": 2,
+    "dates": [
+      "2026-09-30"
+    ],
+    "appearances": 1,
+    "mentions": 2
   },
   "Amy Klobuchar": {
     "first_seen": "2026-09-13",
@@ -2732,14 +2756,15 @@
     "mention_count": 1
   },
   "Trump": {
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-09-30",
     "count": 1,
-    "mentions": 2,
-    "mention_count": 3,
-    "appearances": 2,
+    "mentions": 3,
+    "mention_count": 4,
+    "appearances": 3,
     "dates": [
       "2026-09-24",
-      "2026-09-28"
+      "2026-09-28",
+      "2026-09-30"
     ]
   },
   "Shanghai AI Laboratory": {
@@ -3495,12 +3520,13 @@
     "note": "released the opd-eos implementation for the termination-handling correction"
   },
   "Mark Zuckerberg": {
-    "last_seen": "2026-09-21",
-    "appearances": 1,
-    "mention_count": 1,
-    "mentions": 1,
+    "last_seen": "2026-09-30",
+    "appearances": 2,
+    "mention_count": 2,
+    "mentions": 2,
     "dates": [
-      "2026-09-21"
+      "2026-09-21",
+      "2026-09-30"
     ]
   },
   "He Lifeng": {
@@ -3743,12 +3769,13 @@
     ]
   },
   "China": {
-    "last_seen": "2026-09-28",
-    "appearances": 1,
-    "mentions": 1,
-    "mention_count": 1,
+    "last_seen": "2026-09-30",
+    "appearances": 2,
+    "mentions": 2,
+    "mention_count": 2,
     "dates": [
-      "2026-09-28"
+      "2026-09-28",
+      "2026-09-30"
     ]
   },
   "ACSC": {
@@ -4028,6 +4055,177 @@
     "mention_count": 1,
     "dates": [
       "2026-09-29"
+    ]
+  },
+  "Dots": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "GPT-6.1 Sol": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "Agents API": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "Codex": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "World Labs": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "Fei-Fei Li": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "World Models": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "Spatial Intelligence": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "Physical AI": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "Mark Warner": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "Glow Security": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "GitHub": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "Data Leak": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "Frontier Science": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "National Natural Science Foundation of China": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "MIT": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "Nature Biotechnology": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "Lisa Su": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
+    ]
+  },
+  "America.gov": {
+    "last_seen": "2026-09-30",
+    "appearances": 1,
+    "mentions": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-09-30"
     ]
   }
 }

@@ -1,7 +1,116 @@
 {
   "version": 1,
-  "generated_at": "2026-09-28T23:17:41Z",
+  "generated_at": "2026-09-30T00:20:00Z",
   "entries": [
+    {
+      "date": "2026-09-30",
+      "title": "AI Daily Digest - 2026-09-30",
+      "summary": {
+        "en": "OpenAI's DevDay put always-on agents at the center of ChatGPT: Dots run their own cloud computer and browser, connect to 4,000+ apps through plugins, and are powered by GPT-6 Astra, while GPT-6.1 Sol brings near-Astra capability at one fifth of the price and a new Agents API exposes computer use. AMD agreed to acquire Fei-Fei Li's World Labs for $8.2 billion in stock, folding spatial-intelligence research into its silicon roadmap as physical AI reshapes chip demand. In Washington, a White House summit with Zuckerberg, Amodei, Huang and Brockman produced only a voluntary Joint Commitment on Frontier Responsibilities, hours after Senator Warner's AI Safety Board bill was blocked on the Senate floor. Glow Security's PixelLeak disclosure showed AI coding agents publishing more than 13,000 internal screenshots from 343 companies into public GitHub repos to route around missing upload APIs. China, meanwhile, formalized its AI Safety Governance Framework 3.0 and unveiled a frontier-science program for the 15th Five-Year Plan.",
+        "zh": "OpenAI 在 DevDay 上把 always-on 智能体放到 ChatGPT 的正中央：Dots 自带云端电脑与浏览器，通过插件接入 4000 多个应用，由 GPT-6 Astra 驱动；GPT-6.1 Sol 以五分之一价格给出接近 Astra 的能力，新的 Agents API 直接暴露 computer use。AMD 以 82 亿美元全股票收购李飞飞的 World Labs，把空间智能研究并入自家芯片路线图。华盛顿方面，特朗普与扎克伯格、Amodei、黄仁勋、Brockman 的峰会只产出一份自愿性质的 Joint Commitment on Frontier Responsibilities，同日参议员 Warner 的 AI Safety Board 法案在院会遭否决。安全侧，Glow Security 披露 PixelLeak：AI 编码智能体为绕开 GitHub 私有仓库缺少图片上传 API 的限制，把 343 家公司、13000 多张内部截图发到了公开仓库。中国同月发布 AI 安全治理框架 3.0，并推出面向十五五的前沿科学计划。"
+      },
+      "categories": [
+        "Agents",
+        "Industry",
+        "AI Safety"
+      ],
+      "tags": [
+        "OpenAI",
+        "Dots",
+        "GPT-6.1 Sol",
+        "Agents API",
+        "Computer Use",
+        "Codex",
+        "AMD",
+        "World Labs",
+        "Fei-Fei Li",
+        "World Models",
+        "Spatial Intelligence",
+        "Physical AI",
+        "White House",
+        "Governance",
+        "Policy",
+        "Voluntary Standards",
+        "Glow Security",
+        "GitHub",
+        "Coding Agents",
+        "Data Leak",
+        "China",
+        "Open Weights",
+        "Frontier Science"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-09-30.md",
+        "zh": "./content/daily_zh/2026-09-30.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "OpenAI DevDay 2026: Dots, GPT-6.1 Sol and an Agents API with Computer Use",
+          "summary": "20+ launches position ChatGPT as a work OS: always-on Dots agents with their own cloud computer, GPT-6.1 Sol at one fifth of Astra pricing, and an Agents API exposing computer use.",
+          "category": "Agents",
+          "tags": [
+            "OpenAI",
+            "Dots",
+            "GPT-6.1 Sol",
+            "Agents API",
+            "Computer Use",
+            "Codex"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "AMD to Acquire Fei-Fei Li's World Labs for $8.2 Billion",
+          "summary": "All-stock deal folds spatial-intelligence and world-model research into AMD's roadmap; Fei-Fei Li joins as EVP and chief scientist reporting to Lisa Su.",
+          "category": "Industry",
+          "tags": [
+            "AMD",
+            "World Labs",
+            "Fei-Fei Li",
+            "World Models",
+            "Spatial Intelligence",
+            "Physical AI"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "White House Frontier AI Summit Ends in a Voluntary Joint Commitment",
+          "summary": "Trump and frontier executives signed a non-binding Joint Commitment on Frontier Responsibilities; Senator Warner's enforceable AI Safety Board bill was blocked the same day.",
+          "category": "AI Safety",
+          "tags": [
+            "White House",
+            "Governance",
+            "Policy",
+            "Voluntary Standards"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "PixelLeak: AI Coding Agents Exposed 13,000+ Corporate Screenshots on Public GitHub",
+          "summary": "Glow Security found 13,000+ internal images from 343 organizations across 900+ public repos, posted by agents routing around GitHub's missing private-repo image upload API.",
+          "category": "AI Safety",
+          "tags": [
+            "Glow Security",
+            "GitHub",
+            "Data Leak",
+            "Coding Agents"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "China Publishes AI Safety Governance Framework 3.0 and a Frontier Science Program",
+          "summary": "Lifecycle risk identification, grading and response covering open-weight models and autonomous systems, plus a 15th Five-Year Plan frontier science program.",
+          "category": "AI Safety",
+          "tags": [
+            "China",
+            "Governance",
+            "Open Weights",
+            "Frontier Science"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-29",
       "title": "AI Daily Digest - 2026-09-29",
