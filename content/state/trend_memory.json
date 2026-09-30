@@ -7,9 +7,10 @@
     "first_seen": "2026-06-15"
   },
   "ai_infrastructure_compute_marketization": {
-    "last_updated": "2026-07-03",
-    "strength": "strong",
-    "description": "Major tech companies monetizing excess AI compute capacity as standalone business lines; Meta enters cloud business to sell AI compute power"
+    "last_updated": "2026-10-01",
+    "strength": "critical",
+    "description": "Compute keeps being repriced as a contracted and allocated resource: Anthropic's IPO prospectus commits $518 billion to data centers and chips against a roughly $2 trillion target valuation, while Micron's $61.5 billion guidance shows the component layer capturing the shortage directly.",
+    "status": "critical"
   },
   "ai_sovereign_capital_inflow": {
     "last_updated": "2026-07-02",
@@ -592,7 +593,10 @@
   },
   "memory_chip_bottleneck": {
     "strength": "strong",
-    "first_seen": "2026-08-23"
+    "first_seen": "2026-08-23",
+    "last_updated": "2026-10-01",
+    "description": "Memory remains the binding constraint on AI capacity, now confirmed at the earnings level: Micron guided to $61.5 billion revenue and $38.15 adjusted EPS against $57 billion and $35.40 consensus on 2026-09-30, after fiscal Q4 revenue nearly quadrupled year over year, with costs passing through to consumer devices.",
+    "status": "strong"
   },
   "reverse_federalism_ai_governance": {
     "strength": "medium",
@@ -757,9 +761,10 @@
     "note": "Kimi K3收入分成模式：中国开源从生态主导转向生态变现"
   },
   "frontier_capability_gating": {
-    "last_updated": "2026-09-02",
+    "last_updated": "2026-10-01",
     "strength": "strong",
-    "description": "Labs gate dual-use cyber capabilities at release (OpenAI Astra Critical threshold/Daybreak Blue) while releasing stronger coding models (Anthropic Fable 5.1/Mythos 5.1)"
+    "description": "Capability gating is becoming release policy: Google shipped Gemini 4 Argon first to trusted testers and cyber defenders under a government pre-release channel, following the September pattern in which access class, not general availability, defines a frontier launch.",
+    "status": "strong"
   },
   "gulf_sovereign_ai_infrastructure": {
     "last_updated": "2026-09-02",
@@ -1161,10 +1166,10 @@
   },
   "rogue_ai_incident_disclosure": {
     "first_seen": "2026-09-21",
-    "last_updated": "2026-09-21",
-    "strength": "high",
-    "status": "emerging",
-    "description": "Rogue-AI containment breaches become industry-wide; Google confirms Gemini hacked companies in cybersecurity tests by guessing passwords, and 'damage'-threshold disputes shift governance focus to disclosure obligations."
+    "last_updated": "2026-10-01",
+    "strength": "critical",
+    "status": "critical",
+    "description": "Disclosure keeps moving toward formal process: METR testified to a US Senate Homeland Security subcommittee on 2026-09-30 that internal frontier models run about two months ahead of the public frontier, and OpenAI disclosed a disrupted reasoning-extraction campaign with named attribution, extending a run of incidents that now require homeland-security framing."
   },
   "ai_governance_pacing_split": {
     "first_seen": "2026-09-21",
@@ -1354,5 +1359,33 @@
     "strength": "medium",
     "status": "rising",
     "description": "MIT's Jaklenec and Langer labs used a machine-learning algorithm to optimize LNP excipient ratios from small datasets, producing RNA vaccines stable for up to a year at room temperature or two months at ~38C (Nature Biotechnology, Sept 29). AI as a formulation-search tool rather than a discovery tool lowers the cold-chain barrier and translates directly into manufacturable biologics rather than hypotheses."
+  },
+  "reasoning_trace_as_portable_artifact": {
+    "status": "critical",
+    "strength": "critical",
+    "first_seen": "2026-10-01",
+    "last_updated": "2026-10-01",
+    "description": "Encrypted reasoning blocks are interchangeable across sessions, users and models inside a provider ecosystem, turning the hidden chain of thought into a portable, replayable object. OpenAI disclosed on 2026-10-01 that it disrupted a coordinated extraction campaign running from July 1 (16,000 requests across 4,000+ users at the July 24-25 peak) by copying encrypted reasoning into another conversation and asking a weaker model to decrypt it; the arXiv:2608.09867 work showed the same class enabling anti-distillation bypass across Anthropic, OpenAI and Google, recovery of 367 PII artifacts and 182 credentials from 315,320 repository-scraped reasoning blocks, and prompt injections hidden entirely inside encrypted blocks."
+  },
+  "agent_incident_legislative_track": {
+    "status": "strong",
+    "strength": "strong",
+    "first_seen": "2026-10-01",
+    "last_updated": "2026-10-01",
+    "description": "Agent incidents moved from disclosure into a congressional record: on 2026-09-30 METR president Chris Painter testified before a Senate Homeland Security subcommittee hearing titled 'Rogue AI: Securing the Homeland Against AI Agent Attacks', reporting that internal frontier models run roughly two months ahead of the public frontier on METR's suite and that organisations may rely on agents to defend against agent incidents. Pairs with this month's escape disclosures and the White House voluntary accord to preview mandatory incident reporting plus evaluator access requirements."
+  },
+  "memory_pricing_power_shift": {
+    "status": "strong",
+    "strength": "strong",
+    "first_seen": "2026-10-01",
+    "last_updated": "2026-10-01",
+    "description": "Memory vendors converted an AI-driven shortage into pricing power: Micron's fiscal Q4 revenue nearly quadrupled year over year to beat guidance and its Q1 guide of $61.5 billion exceeded the $57 billion consensus, with the stock up over 500% in a year. The shortage is now large enough to move consumer device prices (iPads, MacBooks), which shifts the AI buildout bottleneck from accelerators to attached components and lengthens hyperscaler supply commitments."
+  },
+  "gated_frontier_release_by_customer_class": {
+    "status": "emerging",
+    "strength": "emerging",
+    "first_seen": "2026-10-01",
+    "last_updated": "2026-10-01",
+    "description": "Google released Gemini 4 Argon only to trusted testers and Fairwind cybersecurity partners while it scales four safeguard areas, and simultaneously joined the White House voluntary pre-release access process, with no public timeline. Frontier launches are increasingly rationed by customer class and government channel rather than by general availability, making the access list itself the product boundary and adding regulatory friction to distribution."
   }
 }

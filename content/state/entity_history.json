@@ -1,9 +1,9 @@
 {
   "OpenAI": {
-    "last_seen": "2026-09-30",
-    "appearances": 7,
-    "mention_count": 13,
-    "mentions": 7,
+    "last_seen": "2026-10-01",
+    "appearances": 8,
+    "mention_count": 14,
+    "mentions": 14,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -11,14 +11,15 @@
       "2026-09-24",
       "2026-09-26",
       "2026-09-28",
-      "2026-09-30"
+      "2026-09-30",
+      "2026-10-01"
     ]
   },
   "Anthropic": {
-    "last_seen": "2026-09-29",
-    "mention_count": 17,
-    "appearances": 12,
-    "mentions": 12,
+    "last_seen": "2026-10-01",
+    "mention_count": 18,
+    "appearances": 13,
+    "mentions": 18,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -27,7 +28,8 @@
       "2026-09-24",
       "2026-09-26",
       "2026-09-28",
-      "2026-09-29"
+      "2026-09-29",
+      "2026-10-01"
     ]
   },
   "Meta": {
@@ -296,15 +298,16 @@
   },
   "Google": {
     "count": 7,
-    "last_seen": "2026-09-28",
-    "mention_count": 7,
-    "mentions": 4,
-    "appearances": 6,
+    "last_seen": "2026-10-01",
+    "mention_count": 8,
+    "mentions": 8,
+    "appearances": 7,
     "dates": [
       "2026-09-21",
       "2026-09-22",
       "2026-09-26",
-      "2026-09-28"
+      "2026-09-28",
+      "2026-10-01"
     ]
   },
   "Commerce Department": {
@@ -327,14 +330,24 @@
   },
   "HBM": {
     "first_seen": "2026-07-06",
-    "mention_count": 1
+    "mention_count": 2,
+    "last_seen": "2026-10-01",
+    "appearances": 1,
+    "mentions": 2,
+    "dates": [
+      "2026-10-01"
+    ]
   },
   "Micron": {
     "first_seen": "2026-07-06",
-    "mention_count": 2,
-    "last_seen": "2026-09-15",
+    "mention_count": 3,
+    "last_seen": "2026-10-01",
     "count": 1,
-    "mentions": 1
+    "mentions": 3,
+    "appearances": 1,
+    "dates": [
+      "2026-10-01"
+    ]
   },
   "Illinois": {
     "last_seen": "2026-07-07",
@@ -718,10 +731,15 @@
     "count": 1
   },
   "Moonshot AI": {
-    "last_seen": "2026-09-04",
+    "last_seen": "2026-10-01",
     "count": 12,
     "description": "Kimi K3 launched, 0B IPO",
-    "appearances": 2
+    "appearances": 3,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-01"
+    ]
   },
   "Kimi K3": {
     "last_seen": "2026-08-27",
@@ -1247,11 +1265,14 @@
   },
   "METR": {
     "first_seen": "2026-08-03",
-    "mentions": 2,
-    "last_seen": "2026-09-19",
+    "mentions": 1,
+    "last_seen": "2026-10-01",
     "dates": [
-      "2026-09-19"
-    ]
+      "2026-09-19",
+      "2026-10-01"
+    ],
+    "appearances": 1,
+    "mention_count": 1
   },
   "Lean Theorem Prover": {
     "first_seen": "2026-08-03",
@@ -4094,12 +4115,13 @@
     ]
   },
   "World Labs": {
-    "last_seen": "2026-09-30",
-    "appearances": 1,
-    "mentions": 1,
-    "mention_count": 1,
+    "last_seen": "2026-10-01",
+    "appearances": 2,
+    "mentions": 2,
+    "mention_count": 2,
     "dates": [
-      "2026-09-30"
+      "2026-09-30",
+      "2026-10-01"
     ]
   },
   "Fei-Fei Li": {
@@ -4226,6 +4248,42 @@
     "mention_count": 1,
     "dates": [
       "2026-09-30"
+    ]
+  },
+  "Gemini 4 Argon": {
+    "last_seen": "2026-10-01",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-01"
+    ]
+  },
+  "US Senate": {
+    "last_seen": "2026-10-01",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-01"
+    ]
+  },
+  "Adversarial Distillation": {
+    "last_seen": "2026-10-01",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-01"
+    ]
+  },
+  "Debpalash": {
+    "last_seen": "2026-10-01",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-01"
     ]
   }
 }

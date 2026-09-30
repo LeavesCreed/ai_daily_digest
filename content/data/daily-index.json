@@ -1,7 +1,117 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T00:20:00Z",
+  "generated_at": "2026-09-30T23:17:54Z",
   "entries": [
+    {
+      "date": "2026-10-01",
+      "title": "AI Daily Digest - 2026-10-01",
+      "summary": {
+        "en": "Google announced Gemini 4 Argon, a frontier model built for long-horizon coding, enterprise knowledge work and cyber defense, released first to trusted testers and cyber defenders under the White House voluntary pre-release process. OpenAI disclosed that it disrupted a coordinated reasoning-extraction campaign that began on July 1, attributing a core cluster to individuals associated with Moonshot AI and describing an architectural flaw: encrypted reasoning blocks are interchangeable across sessions, users and models. Anthropic's IPO prospectus, circulated ahead of a listing targeting a $2 trillion valuation, warns of existential risk and commits $518 billion to data centers and chips. Micron's fiscal Q4 revenue nearly quadrupled year over year and its guidance of $61.5 billion beat consensus, confirming memory as a binding constraint on the AI buildout. METR president Chris Painter told a Senate subcommittee on rogue AI that agent incidents now require homeland-security-grade response.",
+        "zh": "Google 结束长达一年的 flash 模型偏航，发布 Gemini 4 Argon——面向长周期编码、企业知识工作与网络防御的前沿模型，首批只开放给可信测试者与网络防御方，并接入白宫的自愿预发布流程。安全侧，OpenAI 披露挫败了一场始于 7 月 1 日的协调式推理抽取行动，把核心集群归因于与 Moonshot AI 有关的人员，并说明底层架构缺陷：加密推理块在会话、用户与模型之间可互换。Anthropic 的 IPO 招股书在投资者间传阅，目标估值约 2 万亿美元，其中警示 AI 的存在性风险，并计划在数据中心与芯片上投入 5180 亿美元。Micron 第四财季营收同比增长近四倍，下季指引 615 亿美元超出预期，内存仍是 AI 建设中最紧的约束。METR 总裁 Chris Painter 在参议院「Rogue AI」听证会上作证，主张智能体事故需要国土安全级别的响应。"
+      },
+      "categories": [
+        "Models",
+        "AI Safety",
+        "Industry",
+        "Infrastructure"
+      ],
+      "tags": [
+        "Google",
+        "Gemini 4 Argon",
+        "Frontier Model",
+        "Cyber Defense",
+        "OpenAI",
+        "Moonshot AI",
+        "Adversarial Distillation",
+        "Reasoning Extraction",
+        "Anthropic",
+        "IPO",
+        "Compute",
+        "Memory",
+        "Micron",
+        "HBM",
+        "METR",
+        "AI Agents",
+        "AI Safety",
+        "Policy",
+        "Incident Reporting"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-01.md",
+        "zh": "./content/daily_zh/2026-10-01.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Google Announces Gemini 4 Argon, Its New Frontier Model",
+          "summary": "Gemini 4 Argon lands as Google's new frontier model for long-horizon coding, enterprise work and cyber defense, gated to trusted testers and cyber defenders at $2/$10 per million tokens introductory pricing.",
+          "category": "Models",
+          "tags": [
+            "Google",
+            "Gemini 4 Argon",
+            "Frontier Model",
+            "Cyber Defense",
+            "Benchmark"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "OpenAI Disrupts a Coordinated Reasoning-Extraction Campaign",
+          "summary": "OpenAI says it disrupted a July campaign to extract protected reasoning, attributing a core cluster to individuals tied to Moonshot AI; the root cause is interchangeable encrypted reasoning blocks that weaker sibling models will decrypt.",
+          "category": "AI Safety",
+          "tags": [
+            "OpenAI",
+            "Moonshot AI",
+            "Adversarial Distillation",
+            "Reasoning Extraction",
+            "Encrypted Reasoning"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Anthropic's IPO Prospectus Warns of Existential Risk Alongside a $518 Billion Compute Plan",
+          "summary": "Anthropic's filing for a listing near a $2 trillion valuation warns of existential risk while committing $518 billion to data centers and chips, on 2025 revenue of nearly $4.6 billion and a $42 billion paper loss.",
+          "category": "Industry",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "Compute",
+            "Datacenter",
+            "Claude",
+            "Risk Disclosure"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Micron Guides to $61.5 Billion as the Memory Shortage Tightens",
+          "summary": "Micron's fiscal Q4 revenue nearly quadrupled year over year and its $61.5 billion guidance beat consensus, confirming memory as the binding constraint on AI capacity and pushing costs into consumer devices.",
+          "category": "Infrastructure",
+          "tags": [
+            "Micron",
+            "Memory",
+            "HBM",
+            "Datacenter",
+            "Supply Chain",
+            "Earnings"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "METR Testifies to the Senate on Rogue AI Agent Attacks",
+          "summary": "METR president Chris Painter told a Senate panel on rogue AI that internal frontier models run about two months ahead of public ones and that agent incidents now need homeland-security-grade response.",
+          "category": "AI Safety",
+          "tags": [
+            "METR",
+            "AI Agents",
+            "AI Safety",
+            "Policy",
+            "Senate",
+            "Incident Reporting"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-09-30",
       "title": "AI Daily Digest - 2026-09-30",
