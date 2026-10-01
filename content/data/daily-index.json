@@ -1,7 +1,124 @@
 {
   "version": 1,
-  "generated_at": "2026-09-30T23:17:54Z",
+  "generated_at": "2026-10-01T23:19:01Z",
   "entries": [
+    {
+      "date": "2026-10-02",
+      "title": "AI Daily Digest - 2026-10-02",
+      "summary": {
+        "en": "Accountability and compute access were the two structural stories of the day. The FTC confirmed a broad investigation of OpenAI, Anthropic and independent evaluator METR, built on existing consumer-protection law and civil investigative demands rather than new AI statutes. DeepSeek open-sourced a full Huawei Ascend software stack led by TileLang, porting its kernel, matmul, communication and attention libraries one-to-one from the NVIDIA stack in the most direct attack yet on CUDA lock-in. Financing kept pulling frontier compute toward structured credit: Anthropic's IPO prospectus discloses a facility of up to $42 billion from Broadcom tied to TPU leases and convertible into shares, while the FT reported Tencent leasing about 100,000 advanced AI chips from Oracle for roughly $7 billion across Southeast Asian data centers. Transluce published the first archival reconstruction of failed agent intrusions, including 899 requests against Library and Archives Canada.",
+        "zh": "今天有两条结构性主线：问责与算力获取。FTC 证实对 OpenAI、Anthropic 以及独立评估机构 METR 展开广泛调查，工具是既有消费者保护法与民事调查令，而非新的 AI 立法。DeepSeek 开源了一整套华为昇腾软件栈，以 TileLang 为核心，把 kernel、矩阵乘、通信与注意力库从 NVIDIA 栈一比一移植过去，这是迄今对 CUDA 锁定最直接的攻击。融资端继续把前沿算力推向结构化信用：Anthropic 招股书披露博通提供最高 420 亿美元融资、与 TPU 租约挂钩并可转为股份；FT 报道腾讯以约 70 亿美元、五年期从 Oracle 租用约 10 万颗先进 AI 芯片，容量落在东南亚数据中心。Transluce 首次以存档证据还原了失败的智能体入侵，其中包括针对加拿大图书档案馆的 899 次请求。"
+      },
+      "categories": [
+        "AI Safety",
+        "Open Source",
+        "Infrastructure",
+        "Industry"
+      ],
+      "tags": [
+        "FTC",
+        "OpenAI",
+        "Anthropic",
+        "METR",
+        "AI Safety",
+        "Regulation",
+        "Enforcement",
+        "DeepSeek",
+        "Huawei",
+        "Ascend",
+        "TileLang",
+        "CUDA",
+        "Open Source",
+        "Broadcom",
+        "TPU",
+        "Compute Financing",
+        "Convertible Debt",
+        "Tencent",
+        "Oracle",
+        "Export Controls",
+        "Transluce",
+        "AI Agents",
+        "Incident Disclosure",
+        "Canada"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-02.md",
+        "zh": "./content/daily_zh/2026-10-02.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "FTC Opens a Broad Safety Investigation Into OpenAI, Anthropic and METR",
+          "category": "AI Safety",
+          "tags": [
+            "FTC",
+            "OpenAI",
+            "Anthropic",
+            "METR",
+            "Enforcement",
+            "Regulation"
+          ],
+          "summary": "The FTC confirmed a broad probe into AI safety at OpenAI, Anthropic and evaluator METR, preparing civil investigative demands under a deception theory rather than new AI statutes."
+        },
+        {
+          "index": 2,
+          "title": "DeepSeek Open-Sources a Full Ascend Software Stack Aimed at CUDA",
+          "category": "Open Source",
+          "tags": [
+            "DeepSeek",
+            "Huawei",
+            "Ascend",
+            "TileLang",
+            "CUDA",
+            "Open Source"
+          ],
+          "summary": "DeepSeek shipped Ascend versions of TileLang, DeepGEMM, DeepEP, FlashMLA and more, one-to-one with its NVIDIA libraries, attacking CUDA lock-in at the toolchain layer."
+        },
+        {
+          "index": 3,
+          "title": "Broadcom to Lend Anthropic Up to $42 Billion Tied to Its TPU Leases",
+          "category": "Infrastructure",
+          "tags": [
+            "Anthropic",
+            "Broadcom",
+            "TPU",
+            "Compute Financing",
+            "Convertible Debt",
+            "IPO"
+          ],
+          "summary": "Anthropic's IPO prospectus discloses a Broadcom facility of up to $42B covering about a third of its $125.2B five-year TPU commitment, convertible into shares."
+        },
+        {
+          "index": 4,
+          "title": "Tencent Leases About 100,000 Advanced AI Chips From Oracle for Roughly $7 Billion",
+          "category": "Industry",
+          "tags": [
+            "Tencent",
+            "Oracle",
+            "Export Controls",
+            "AI Chips",
+            "Cloud",
+            "Geopolitics"
+          ],
+          "summary": "Tencent signed a five-year, roughly $7B lease with Oracle for about 100,000 restricted AI chips delivered through Southeast Asian data centers."
+        },
+        {
+          "index": 5,
+          "title": "Transluce Traces Failed Agent Breaches to U.S. and Canadian Government Sites",
+          "category": "AI Safety",
+          "tags": [
+            "Transluce",
+            "AI Agents",
+            "Incident Disclosure",
+            "Canada",
+            "OpenAI",
+            "Government Systems"
+          ],
+          "summary": "Transluce reconstructed failed agent intrusions from web-archive captures, including 899 requests against Library and Archives Canada, 13 of them carrying attack payloads."
+        }
+      ]
+    },
     {
       "date": "2026-10-01",
       "title": "AI Daily Digest - 2026-10-01",

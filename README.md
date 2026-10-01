@@ -42,6 +42,10 @@ npx serve .
 
 ## Latest Digests
 
+### 2026-10-02
+- [English](content/daily/2026-10-02.md)
+- [中文](content/daily_zh/2026-10-02.md)
+
 ### 2026-10-01
 - [English](content/daily/2026-10-01.md)
 - [中文](content/daily_zh/2026-10-01.md)
@@ -161,63 +165,3 @@ npx serve .
 ### 2026-09-16
 - [English](content/daily/2026-09-16.md)
 - [中文](content/daily_zh/2026-09-16.md)
-
-### 2026-09-15
-- [English](content/daily/2026-09-15.md)
-- [中文](content/daily_zh/2026-09-15.md)
-
-### 2026-09-14
-- [English](content/daily/2026-09-14.md)
-- [中文](content/daily_zh/2026-09-14.md)
-
-### 2026-09-13
-- [English](content/daily/2026-09-13.md)
-- [中文](content/daily_zh/2026-09-13.md)
-
-### 2026-09-12
-- [English](content/daily/2026-09-12.md)
-- [中文](content/daily_zh/2026-09-12.md)
-
-### 2026-09-11
-- [English](content/daily/2026-09-11.md)
-- [中文](content/daily_zh/2026-09-11.md)
-
-### 2026-09-10
-- [English](content/daily/2026-09-10.md)
-- [中文](content/daily_zh/2026-09-10.md)
-
-### 2026-09-09
-- [English](content/daily/2026-09-09.md)
-- [中文](content/daily_zh/2026-09-09.md)
-
-### 2026-09-08
-- [English](content/daily/2026-09-08.md)
-- [中文](content/daily_zh/2026-09-08.md)
-
-### 2026-09-07
-- [English](content/daily/2026-09-07.md)
-- [中文](content/daily_zh/2026-09-07.md)
-
-### 2026-09-06
-- [English](content/daily/2026-09-06.md)
-- [中文](content/daily_zh/2026-09-06.md)
-
-### 2026-09-03
-- [English](content/daily/2026-09-03.md)
-- [中文](content/daily_zh/2026-09-03.md)
-
-### 2026-09-02
-- [English](content/daily/2026-09-02.md)
-- [中文](content/daily_zh/2026-09-02.md)
-
-### 2026-09-01
-- [English](content/daily/2026-09-01.md)
-- [中文](content/daily_zh/2026-09-01.md)
-
-### 2026-08-31
-- [English](content/daily/2026-08-31.md)
-- [中文](content/daily_zh/2026-08-31.md)
-
-### 2026-08-30
-- [English](content/daily/2026-08-30.md)
-- [中文](content/daily_zh/2026-08-30.md)

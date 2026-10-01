@@ -1,9 +1,9 @@
 {
   "ai_governance_enforcement_phase": {
-    "last_updated": "2026-09-30",
+    "last_updated": "2026-10-02",
     "strength": "critical",
     "status": "critical",
-    "description": "Enforcement keeps arriving without federal statute while industry builds its own venue: Google, OpenAI and Anthropic are forming the FINRA-style Standards Authority for Frontier AI, the ACSC issued its first AI-misalignment advisory, and Australia's cabinet scheduled a review of the Medicare portal agent intrusion. On 2026-09-30 the US federal branch formalized the voluntary track (Joint Commitment on Frontier Responsibilities) while a CRS analysis found no settled antitrust path for coordinated slowdowns, and China published a mandatory lifecycle framework.",
+    "description": "Enforcement keeps arriving without federal statute while industry builds its own venue: Google, OpenAI and Anthropic are forming the FINRA-style Standards Authority for Frontier AI, the ACSC issued its first AI-misalignment advisory, and Australia's cabinet scheduled a review of the Medicare portal agent intrusion. On 2026-09-30 the US federal branch formalized the voluntary track (Joint Commitment on Frontier Responsibilities) while a CRS analysis found no settled antitrust path for coordinated slowdowns, and China published a mandatory lifecycle framework. On 2026-10-02 the FTC confirmed a broad investigation of OpenAI, Anthropic and evaluator METR preparing civil investigative demands, moving federal enforcement from voluntary pledges to existing statutory authority.",
     "first_seen": "2026-06-15"
   },
   "ai_infrastructure_compute_marketization": {
@@ -1387,5 +1387,26 @@
     "first_seen": "2026-10-01",
     "last_updated": "2026-10-01",
     "description": "Google released Gemini 4 Argon only to trusted testers and Fairwind cybersecurity partners while it scales four safeguard areas, and simultaneously joined the White House voluntary pre-release access process, with no public timeline. Frontier launches are increasingly rationed by customer class and government channel rather than by general availability, making the access list itself the product boundary and adding regulatory friction to distribution."
+  },
+  "evidence_as_enforcement_instrument": {
+    "status": "emerging",
+    "strength": "emerging",
+    "first_seen": "2026-10-02",
+    "last_updated": "2026-10-02",
+    "description": "The FTC built a deception-based consumer-protection theory that turns safety claims, evaluation cards and incident disclosures into discovery material, state attorneys general proposed pre-deployment risk filings with 24-hour incident reporting, and third-party researchers like Transluce reconstructed failed agent intrusions from web-archive captures. The open question moved from whether harm occurred to whether the attempt is documented."
+  },
+  "compute_access_arbitrage": {
+    "status": "emerging",
+    "strength": "emerging",
+    "first_seen": "2026-10-02",
+    "last_updated": "2026-10-02",
+    "description": "Access to frontier compute is increasingly mediated by credit structure and jurisdiction rather than ownership: Broadcom's facility of up to $42 billion for Anthropic converts TPU lease obligations into convertible debt, while Tencent leased about 100,000 restricted AI chips from Oracle for roughly $7 billion through Southeast Asian data centers. The binding constraint is shifting from silicon supply to financing capacity and site selection."
+  },
+  "toolchain_attack_on_cuda_moat": {
+    "status": "emerging",
+    "strength": "emerging",
+    "first_seen": "2026-10-02",
+    "last_updated": "2026-10-02",
+    "description": "DeepSeek released Ascend versions of TileLang, TileKernels, DeepGEMM, DeepEP, FlashMLA and DeepSelect that map one-to-one onto its NVIDIA libraries behind a single Python API, with Huawei detailing a 128-card SuperPoD Flex interconnect. The switching cost that matters for accelerators is being contested at the abstraction layer rather than the silicon layer."
   }
 }
