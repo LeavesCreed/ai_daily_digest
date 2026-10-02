@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "generated_at": "2026-10-01T23:19:01Z",
+  "generated_at": "2026-10-03T07:30:00Z",
   "entries": [
+    {
+      "date": "2026-10-03",
+      "title": "AI Daily Digest - 2026-10-03",
+      "summary": {
+        "en": "Two OpenAI stories bracketed the day. OpenAI and Synopsys signed a multi-year agreement to jointly build GPT-Synopsys, a specialized model optimized to drive Synopsys EDA tools through semiconductor design workflows, with revenue sharing attached. Hours later OpenAI confirmed it had fired three safety and alignment researchers - Jasmine Wang, Tomek Korbak and Mikita Balesni - for mishandling sensitive information. Capital structure kept mutating around compute: the FT reported Amazon is moving roughly $8 billion of Nvidia Grace Blackwell chips into a special-purpose vehicle and leasing them back, while Blackstone led an $18 billion junior tranche inside an approximately $60 billion debt package for Broadcom's chip financing. Cloudflare shipped Clef and Clef-flash, Apache-2.0 open-weight decision models that replace text generation with typed, calibrated choices, escalating a two-week-old race against TypeSafe's Jev. Lumentum's CEO warned that indium phosphide shortages in optical transceivers could outlast the memory crunch, with demand running over 30% ahead of supply.",
+        "zh": "今天由两则 OpenAI 消息框定节奏：OpenAI 与 Synopsys 签署多年协议共同开发 GPT-Synopsys，一个被优化为驱动 Synopsys EDA 工具执行半导体设计工作流的专用模型，附带收入分成条款；数小时后 OpenAI 证实解雇三名安全与对齐研究员（Jasmine Wang、Tomek Korbak、Mikita Balesni），理由是违规处理敏感信息。围绕算力的资本结构继续变形：FT 报道亚马逊正把约 80 亿美元的 NVIDIA Grace Blackwell 芯片装入特殊目的实体再租回，黑石则在一笔约 600 亿美元的博通芯片融资中领投 180 亿美元夹层。Cloudflare 发布 Clef 与 Clef-flash，Apache 2.0 开源权重的决策模型，用类型化校准概率取代文本生成，把针对 TypeSafe Jev 的竞赛再推高一级。Lumentum CEO 警告光模块用磷化铟短缺可能比内存危机更持久，需求超出供给三成以上。"
+      },
+      "categories": [
+        "Industry",
+        "Infrastructure",
+        "Open Source",
+        "AI Safety"
+      ],
+      "tags": [
+        "Synopsys",
+        "OpenAI",
+        "EDA",
+        "Chip Design",
+        "Semiconductors",
+        "Amazon",
+        "Nvidia",
+        "Grace Blackwell",
+        "Structured Finance",
+        "Data Centers",
+        "Cloudflare",
+        "Clef",
+        "Decision Models",
+        "Open Weights",
+        "Apache 2.0",
+        "AI Safety",
+        "Governance",
+        "Lumentum",
+        "Indium Phosphide",
+        "Optical Interconnect",
+        "Supply Chain"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-03.md",
+        "zh": "./content/daily_zh/2026-10-03.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "OpenAI and Synopsys Sign a Multi-Year Deal to Build GPT-Synopsys for Chip Design",
+          "summary": "OpenAI and Synopsys will jointly develop a specialized model optimized to drive Synopsys EDA tools through semiconductor design workflows, with revenue sharing.",
+          "category": "Industry",
+          "tags": [
+            "Synopsys",
+            "OpenAI",
+            "EDA",
+            "Chip Design",
+            "Semiconductors"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Amazon Moves $8 Billion of Nvidia Chips Into a Special-Purpose Vehicle",
+          "summary": "Amazon is shifting roughly $8 billion of Grace Blackwell chips into an SPV and leasing them back, turning accelerators themselves into securitized collateral.",
+          "category": "Infrastructure",
+          "tags": [
+            "Amazon",
+            "Nvidia",
+            "Grace Blackwell",
+            "Structured Finance",
+            "Data Centers"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Cloudflare Releases Clef and Clef-flash, Open-Weight Decision Models",
+          "summary": "Apache-2.0 decision models return typed choices with calibrated probabilities instead of text, the third free challenger to TypeSafe's Jev in under a week.",
+          "category": "Open Source",
+          "tags": [
+            "Cloudflare",
+            "Clef",
+            "Decision Models",
+            "Open Weights",
+            "Apache 2.0"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "OpenAI Fires Three Safety Researchers Over Sensitive Information",
+          "summary": "OpenAI dismissed three researchers, at least two in safety and alignment, over mishandling sensitive information involving an external model evaluator.",
+          "category": "AI Safety",
+          "tags": [
+            "OpenAI",
+            "AI Safety",
+            "Governance"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Lumentum Warns Indium Phosphide Shortage May Outlast the Memory Crunch",
+          "summary": "Optical transceiver material InP is running over 30% short of demand, with Nvidia locking capacity and China's export controls lifting wafer prices roughly 250%.",
+          "category": "Infrastructure",
+          "tags": [
+            "Lumentum",
+            "Indium Phosphide",
+            "Optical Interconnect",
+            "Supply Chain",
+            "Nvidia"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-02",
       "title": "AI Daily Digest - 2026-10-02",

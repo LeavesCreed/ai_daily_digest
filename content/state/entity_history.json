@@ -1,8 +1,8 @@
 {
   "OpenAI": {
-    "last_seen": "2026-10-02",
-    "appearances": 9,
-    "mention_count": 15,
+    "last_seen": "2026-10-03",
+    "appearances": 10,
+    "mention_count": 16,
     "mentions": 15,
     "dates": [
       "2026-09-19",
@@ -13,7 +13,8 @@
       "2026-09-28",
       "2026-09-30",
       "2026-10-01",
-      "2026-10-02"
+      "2026-10-02",
+      "2026-10-03"
     ]
   },
   "Anthropic": {
@@ -67,27 +68,29 @@
     ]
   },
   "FTC": {
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-03",
     "count": 3,
-    "mention_count": 2,
+    "mention_count": 3,
     "dates": [
-      "2026-10-02"
+      "2026-10-02",
+      "2026-10-03"
     ],
     "mentions": 1,
-    "appearances": 1
+    "appearances": 2
   },
   "Yoshua Bengio": {
     "last_seen": "2026-07-04",
     "count": 2
   },
   "Broadcom": {
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-03",
     "count": 4,
-    "appearances": 3,
-    "mention_count": 2,
+    "appearances": 4,
+    "mention_count": 3,
     "dates": [
       "2026-09-22",
-      "2026-10-02"
+      "2026-10-02",
+      "2026-10-03"
     ],
     "mentions": 1
   },
@@ -301,11 +304,14 @@
   },
   "Amazon": {
     "first_seen": "2026-07-06",
-    "mention_count": 3,
-    "last_seen": "2026-09-18",
+    "mention_count": 4,
+    "last_seen": "2026-10-03",
     "count": 3,
-    "appearances": 1,
-    "mentions": 1
+    "appearances": 2,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
   },
   "Google": {
     "count": 7,
@@ -1264,12 +1270,13 @@
   "Blackstone": {
     "first_seen": "2026-08-03",
     "mentions": 2,
-    "last_seen": "2026-09-21",
+    "last_seen": "2026-10-03",
     "count": 1,
-    "mention_count": 2,
-    "appearances": 1,
+    "mention_count": 3,
+    "appearances": 2,
     "dates": [
-      "2026-09-21"
+      "2026-09-21",
+      "2026-10-03"
     ]
   },
   "Ode": {
@@ -2470,15 +2477,16 @@
     "mention_count": 1
   },
   "Nvidia": {
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-10-03",
     "count": 3,
-    "appearances": 4,
-    "mention_count": 6,
+    "appearances": 5,
+    "mention_count": 7,
     "mentions": 3,
     "dates": [
       "2026-09-21",
       "2026-09-22",
-      "2026-09-28"
+      "2026-09-28",
+      "2026-10-03"
     ]
   },
   "Trainium": {
@@ -2488,10 +2496,14 @@
     "mention_count": 1
   },
   "AWS": {
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-10-03",
     "count": 1,
-    "appearances": 1,
-    "mention_count": 1
+    "appearances": 2,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-03"
+    ]
   },
   "AI200": {
     "last_seen": "2026-09-09",
@@ -3381,10 +3393,13 @@
   },
   "Cloudflare": {
     "mentions": 1,
-    "last_seen": "2026-09-19",
+    "last_seen": "2026-10-03",
     "dates": [
-      "2026-09-19"
-    ]
+      "2026-09-19",
+      "2026-10-03"
+    ],
+    "appearances": 1,
+    "mention_count": 1
   },
   "Healey": {
     "mentions": 1,
@@ -3449,13 +3464,14 @@
     "note": "released Jev, its first System One model, after two years in stealth"
   },
   "Jev": {
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-10-03",
     "first_seen": "2026-09-20",
-    "appearances": 1,
+    "appearances": 2,
     "mentions": 1,
-    "mention_count": 1,
+    "mention_count": 2,
     "dates": [
-      "2026-09-20"
+      "2026-09-20",
+      "2026-10-03"
     ],
     "note": "non-generative model returning typed calibrated decisions in one parallel pass; vendor claims ~400x cheaper"
   },
@@ -4374,5 +4390,149 @@
     ],
     "appearances": 1,
     "mention_count": 1
+  },
+  "Synopsys": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "TypeSafe": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "Stanford University": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "Lumentum": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "Coherent": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "IQE": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "Michael Hurlston": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "Jasmine Wang": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "Tomek Korbak": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "Mikita Balesni": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "Wall Street Journal": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "BBC": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "CopilotKit": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "Grace Blackwell": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "EDA": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
+  },
+  "Indium Phosphide": {
+    "last_seen": "2026-10-03",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-03"
+    ]
   }
 }

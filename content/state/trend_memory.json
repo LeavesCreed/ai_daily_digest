@@ -1,9 +1,9 @@
 {
   "ai_governance_enforcement_phase": {
-    "last_updated": "2026-10-02",
+    "last_updated": "2026-10-03",
     "strength": "critical",
     "status": "critical",
-    "description": "Enforcement keeps arriving without federal statute while industry builds its own venue: Google, OpenAI and Anthropic are forming the FINRA-style Standards Authority for Frontier AI, the ACSC issued its first AI-misalignment advisory, and Australia's cabinet scheduled a review of the Medicare portal agent intrusion. On 2026-09-30 the US federal branch formalized the voluntary track (Joint Commitment on Frontier Responsibilities) while a CRS analysis found no settled antitrust path for coordinated slowdowns, and China published a mandatory lifecycle framework. On 2026-10-02 the FTC confirmed a broad investigation of OpenAI, Anthropic and evaluator METR preparing civil investigative demands, moving federal enforcement from voluntary pledges to existing statutory authority.",
+    "description": "Enforcement keeps arriving without federal statute while industry builds its own venue: Google, OpenAI and Anthropic are forming the FINRA-style Standards Authority for Frontier AI, the ACSC issued its first AI-misalignment advisory, and Australia's cabinet scheduled a review of the Medicare portal agent intrusion. On 2026-09-30 the US federal branch formalized the voluntary track (Joint Commitment on Frontier Responsibilities) while a CRS analysis found no settled antitrust path for coordinated slowdowns, and China published a mandatory lifecycle framework. On 2026-10-02 the FTC confirmed a broad investigation of OpenAI, Anthropic and evaluator METR preparing civil investigative demands, moving federal enforcement from voluntary pledges to existing statutory authority. On 2026-10-02 the enforcement track reached frontier-lab personnel: OpenAI confirmed it dismissed three safety and alignment researchers (Jasmine Wang, Tomek Korbak, Mikita Balesni) for mishandling sensitive information involving an external model evaluator, days after the White House secured its voluntary accord. Who may move which evidence across the lab-evaluator boundary is now the contested interface, and it is being defined by contracts and org charts faster than by statute.",
     "first_seen": "2026-06-15"
   },
   "ai_infrastructure_compute_marketization": {
@@ -1408,5 +1408,33 @@
     "first_seen": "2026-10-02",
     "last_updated": "2026-10-02",
     "description": "DeepSeek released Ascend versions of TileLang, TileKernels, DeepGEMM, DeepEP, FlashMLA and DeepSelect that map one-to-one onto its NVIDIA libraries behind a single Python API, with Huawei detailing a 128-card SuperPoD Flex interconnect. The switching cost that matters for accelerators is being contested at the abstraction layer rather than the silicon layer."
+  },
+  "frontier_enters_design_toolchains": {
+    "first_seen": "2026-10-03",
+    "last_updated": "2026-10-03",
+    "strength": "critical",
+    "status": "critical",
+    "description": "Frontier labs are moving below the model layer into the tools that produce silicon: OpenAI and Synopsys signed a multi-year agreement (2026-10-02) to jointly build GPT-Synopsys, a model optimized to operate Synopsys EDA tools, with revenue sharing, while Synopsys separately signed a ~$1B multi-year custom-silicon IP agreement with Amazon. EDA is among the last closed toolchains in computing, and design closure is where chip competitiveness is decided, so wiring a frontier model into the design loop converts AI from a code assistant about hardware into the operator of the machinery that fabricates it. The revenue-sharing clause makes this a product line with shared margin rather than a research demo, and gives OpenAI distribution into every fabless team already licensing Synopsys."
+  },
+  "judgment_layer_commoditization": {
+    "first_seen": "2026-09-28",
+    "last_updated": "2026-10-03",
+    "strength": "strong",
+    "status": "strong",
+    "description": "The fast-judgment slot TypeSafe's Jev opened two weeks ago is commoditizing across vendors within days: Stanford and Nvidia shipped CLM-8B (2026-09-28), AWS released Strands Decider 2B with full training code and data (2026-10-01), OpenAI published a Decisions API, and Cloudflare released Clef and Clef-flash under Apache 2.0 (2026-10-01). All compete on a shared public evaluation axis, the Jev Decision Index, and are priced between $0.042 and $0.24 per million tokens. These models return typed decisions with calibrated probabilities instead of strings, removing parsing and validation steps. The practical effect for agent builders is that what was a single product a fortnight ago is now an interchangeable, self-hostable component, priced in fractions of a cent."
+  },
+  "hardware_layer_bottleneck_diversification": {
+    "first_seen": "2026-10-03",
+    "last_updated": "2026-10-03",
+    "strength": "strong",
+    "status": "strong",
+    "description": "After HBM, optical interconnect is emerging as the next binding physical constraint on cluster scale. Lumentum CEO Michael Hurlston warned (2026-10-02) that indium phosphide supply for EML and pump lasers runs over 30% behind demand and could outlast the memory crunch. Nvidia has committed $2B each to Lumentum and Coherent to lock capacity, and China's February 2025 export controls on InP lifted six-inch wafer prices roughly 250% to near $5,000. IQE calls it a supply-security crisis rather than a cyclical squeeze. Because InP capacity is highly concentrated, it cannot be relieved by the levers that relieve memory, which means adding accelerators may stop translating one-for-one into usable training throughput through 2028."
+  },
+  "chip_level_securitization": {
+    "first_seen": "2026-10-03",
+    "last_updated": "2026-10-03",
+    "strength": "strong",
+    "status": "strong",
+    "description": "AI infrastructure financing is descending from campuses to components. The FT reported (2026-10-02) that Amazon is moving roughly $8B of Nvidia Grace Blackwell chips across more than a dozen US data centers into a special-purpose vehicle, raising debt against them and leasing them back, with investors offered up to a 10% equity stake. This follows Broadcom's roughly $60B package with Blackstone leading an $18B junior tranche and Nvidia's $500B platform with six financial firms. Accelerators becoming securitizable collateral lets hyperscalers keep expanding while pushing ownership and residual-value risk outward, but it moves obligations off balance sheet exactly as the concentration of risk rises."
   }
 }
