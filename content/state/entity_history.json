@@ -1,9 +1,9 @@
 {
   "OpenAI": {
-    "last_seen": "2026-10-03",
-    "appearances": 10,
-    "mention_count": 16,
-    "mentions": 15,
+    "last_seen": "2026-10-04",
+    "appearances": 11,
+    "mention_count": 20,
+    "mentions": 20,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -14,7 +14,8 @@
       "2026-09-30",
       "2026-10-01",
       "2026-10-02",
-      "2026-10-03"
+      "2026-10-03",
+      "2026-10-04"
     ]
   },
   "Anthropic": {
@@ -36,16 +37,17 @@
     ]
   },
   "Meta": {
-    "last_seen": "2026-09-29",
-    "appearances": 6,
-    "mentions": 5,
-    "mention_count": 7,
+    "last_seen": "2026-10-04",
+    "appearances": 7,
+    "mentions": 11,
+    "mention_count": 11,
     "dates": [
       "2026-09-19",
       "2026-09-21",
       "2026-09-22",
       "2026-09-28",
-      "2026-09-29"
+      "2026-09-29",
+      "2026-10-04"
     ]
   },
   "Together AI": {
@@ -115,14 +117,15 @@
     "mentions": 1
   },
   "NVIDIA": {
-    "last_seen": "2026-09-29",
-    "mentions": 4,
-    "mention_count": 7,
-    "appearances": 4,
+    "last_seen": "2026-10-04",
+    "mentions": 11,
+    "mention_count": 11,
+    "appearances": 5,
     "dates": [
       "2026-09-19",
       "2026-09-24",
-      "2026-09-29"
+      "2026-09-29",
+      "2026-10-04"
     ]
   },
   "Huawei": {
@@ -208,8 +211,14 @@
     "count": 1
   },
   "Alexandr Wang": {
-    "last_seen": "2026-07-08",
-    "count": 2
+    "last_seen": "2026-10-04",
+    "count": 2,
+    "appearances": 1,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-04"
+    ]
   },
   "UN AI Governance": {
     "last_seen": "2026-07-04",
@@ -541,13 +550,14 @@
   },
   "Hugging Face": {
     "first_seen": "2026-07-11",
-    "appearances": 3,
-    "last_seen": "2026-09-29",
+    "appearances": 4,
+    "last_seen": "2026-10-04",
     "count": 10,
-    "mentions": 2,
-    "mention_count": 4,
+    "mentions": 6,
+    "mention_count": 6,
     "dates": [
-      "2026-09-29"
+      "2026-09-29",
+      "2026-10-04"
     ]
   },
   "Ed Markey": {
@@ -591,9 +601,14 @@
     "count": 1
   },
   "Apple": {
-    "last_seen": "2026-08-26",
+    "last_seen": "2026-10-04",
     "count": 3,
-    "mention_count": 1
+    "mention_count": 4,
+    "appearances": 1,
+    "mentions": 4,
+    "dates": [
+      "2026-10-04"
+    ]
   },
   "Zhipu AI": {
     "last_seen": "2026-09-16",
@@ -2227,7 +2242,14 @@
   },
   "MediaTek": {
     "first_seen": "2026-09-01",
-    "count": 1
+    "count": 1,
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-04"
+    ]
   },
   "NVLink Fusion": {
     "first_seen": "2026-09-01",
@@ -2518,14 +2540,15 @@
     "mention_count": 1
   },
   "Muse": {
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-10-04",
     "count": 1,
-    "appearances": 2,
-    "mention_count": 2,
+    "appearances": 3,
+    "mention_count": 6,
     "dates": [
-      "2026-09-29"
+      "2026-09-29",
+      "2026-10-04"
     ],
-    "mentions": 1
+    "mentions": 6
   },
   "Muse Spark 1.3": {
     "last_seen": "2026-09-09",
@@ -4509,12 +4532,13 @@
     ]
   },
   "Grace Blackwell": {
-    "last_seen": "2026-10-03",
-    "appearances": 1,
-    "mention_count": 1,
-    "mentions": 1,
+    "last_seen": "2026-10-04",
+    "appearances": 2,
+    "mention_count": 3,
+    "mentions": 3,
     "dates": [
-      "2026-10-03"
+      "2026-10-03",
+      "2026-10-04"
     ]
   },
   "EDA": {
@@ -4533,6 +4557,186 @@
     "mentions": 1,
     "dates": [
       "2026-10-03"
+    ]
+  },
+  "Aleph Alpha": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 4,
+    "mentions": 4,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "Kolibri": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 5,
+    "mentions": 5,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "macOS": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "Muse Gadgets": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "ESP32": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "DGX Spark": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 4,
+    "mentions": 4,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "Merlin-Arthur": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "Marcus Williams": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "Jason Aten": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "Nat Friedman": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "dotnet/skills": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "University of Cambridge": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "van der Schaar": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "Qwen2.5": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "Llama 3": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "ConnectX-7": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "Raspberry Pi": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "Full Disk Access": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "Apache 2.0": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 3,
+    "mentions": 3,
+    "dates": [
+      "2026-10-04"
+    ]
+  },
+  "MoE": {
+    "last_seen": "2026-10-04",
+    "appearances": 1,
+    "mention_count": 3,
+    "mentions": 3,
+    "dates": [
+      "2026-10-04"
     ]
   }
 }

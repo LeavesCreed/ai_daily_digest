@@ -885,5 +885,19 @@
   "https://www.techzine.eu/news/infrastructure/144713/amazon-plans-to-secure-external-financing-for-8-billion-in-ai-chips",
   "https://dataconomy.com/2026/10/02/broadcom-anthropic-60-billion-usd-ai-chip-debt",
   "https://www.tlt.com/insights-and-events/insight/tlts-ai-brief-october-2026",
-  "https://arxiv.org/html/2610.00511v1"
+  "https://arxiv.org/html/2610.00511v1",
+  "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
+  "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+  "https://alignment.openai.com/misalignment-reports/preparing-for-a-restart-after-reading-slack",
+  "https://www.the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down",
+  "https://developer.apple.com/news?id=p6zjojqw",
+  "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
+  "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
+  "https://github.com/facebookincubator/muse-gadget-sdk",
+  "https://superpowerdaily.com/posts/meta-releases-open-source-tools-for-building-gadgets-connected-to-its-ai-agent",
+  "https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync",
+  "https://www.storagereview.com/news/nvidia-dgx-spark-64gb-october-23-4999-two-units-cluster-to-128gb",
+  "https://arxiv.org/abs/2609.35259",
+  "https://huggingface.co/papers/2609.35259",
+  "https://github.com/dotnet/skills"
 ]
