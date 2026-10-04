@@ -1,9 +1,9 @@
 {
   "OpenAI": {
-    "last_seen": "2026-10-04",
-    "appearances": 11,
-    "mention_count": 20,
-    "mentions": 20,
+    "last_seen": "2026-10-05",
+    "appearances": 12,
+    "mention_count": 21,
+    "mentions": 21,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -15,14 +15,15 @@
       "2026-10-01",
       "2026-10-02",
       "2026-10-03",
-      "2026-10-04"
+      "2026-10-04",
+      "2026-10-05"
     ]
   },
   "Anthropic": {
-    "last_seen": "2026-10-02",
-    "mention_count": 19,
-    "appearances": 14,
-    "mentions": 19,
+    "last_seen": "2026-10-05",
+    "mention_count": 20,
+    "appearances": 15,
+    "mentions": 20,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -33,7 +34,8 @@
       "2026-09-28",
       "2026-09-29",
       "2026-10-01",
-      "2026-10-02"
+      "2026-10-02",
+      "2026-10-05"
     ]
   },
   "Meta": {
@@ -117,15 +119,16 @@
     "mentions": 1
   },
   "NVIDIA": {
-    "last_seen": "2026-10-04",
-    "mentions": 11,
-    "mention_count": 11,
-    "appearances": 5,
+    "last_seen": "2026-10-05",
+    "mentions": 12,
+    "mention_count": 12,
+    "appearances": 6,
     "dates": [
       "2026-09-19",
       "2026-09-24",
       "2026-09-29",
-      "2026-10-04"
+      "2026-10-04",
+      "2026-10-05"
     ]
   },
   "Huawei": {
@@ -299,15 +302,16 @@
   },
   "Microsoft": {
     "first_seen": "2026-07-06",
-    "mention_count": 5,
-    "last_seen": "2026-09-30",
+    "mention_count": 6,
+    "last_seen": "2026-10-05",
     "count": 5,
-    "appearances": 3,
-    "mentions": 3,
+    "appearances": 4,
+    "mentions": 4,
     "dates": [
       "2026-09-20",
       "2026-09-26",
-      "2026-09-30"
+      "2026-09-30",
+      "2026-10-05"
     ],
     "note": "co-authored the EOS termination-mismatch paper with UNC"
   },
@@ -510,9 +514,13 @@
   },
   "SpaceX": {
     "count": 6,
-    "last_seen": "2026-09-12",
-    "appearances": 1,
-    "mention_count": 1
+    "last_seen": "2026-10-05",
+    "appearances": 2,
+    "mention_count": 2,
+    "dates": [
+      "2026-10-05"
+    ],
+    "mentions": 1
   },
   "Ollama": {
     "last_seen": "2026-07-10",
@@ -550,14 +558,15 @@
   },
   "Hugging Face": {
     "first_seen": "2026-07-11",
-    "appearances": 4,
-    "last_seen": "2026-10-04",
+    "appearances": 5,
+    "last_seen": "2026-10-05",
     "count": 10,
-    "mentions": 6,
-    "mention_count": 6,
+    "mentions": 7,
+    "mention_count": 7,
     "dates": [
       "2026-09-29",
-      "2026-10-04"
+      "2026-10-04",
+      "2026-10-05"
     ]
   },
   "Ed Markey": {
@@ -2518,13 +2527,14 @@
     "mention_count": 1
   },
   "AWS": {
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-05",
     "count": 1,
-    "appearances": 2,
-    "mention_count": 2,
-    "mentions": 2,
+    "appearances": 3,
+    "mention_count": 3,
+    "mentions": 3,
     "dates": [
-      "2026-10-03"
+      "2026-10-03",
+      "2026-10-05"
     ]
   },
   "AI200": {
@@ -2830,15 +2840,16 @@
     "mention_count": 1
   },
   "Trump": {
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-05",
     "count": 1,
-    "mentions": 3,
-    "mention_count": 4,
-    "appearances": 3,
+    "mentions": 4,
+    "mention_count": 5,
+    "appearances": 4,
     "dates": [
       "2026-09-24",
       "2026-09-28",
-      "2026-09-30"
+      "2026-09-30",
+      "2026-10-05"
     ]
   },
   "Shanghai AI Laboratory": {
@@ -4737,6 +4748,69 @@
     "mentions": 3,
     "dates": [
       "2026-10-04"
+    ]
+  },
+  "Claude Mythos": {
+    "last_seen": "2026-10-05",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-05"
+    ]
+  },
+  "Epic Systems": {
+    "last_seen": "2026-10-05",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-05"
+    ]
+  },
+  "MyChart": {
+    "last_seen": "2026-10-05",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-05"
+    ]
+  },
+  "Reflection AI": {
+    "last_seen": "2026-10-05",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-05"
+    ]
+  },
+  "Jay Clayton": {
+    "last_seen": "2026-10-05",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-05"
+    ]
+  },
+  "California Attorney General": {
+    "last_seen": "2026-10-05",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-05"
+    ]
+  },
+  "Nebius": {
+    "last_seen": "2026-10-05",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-05"
     ]
   }
 }

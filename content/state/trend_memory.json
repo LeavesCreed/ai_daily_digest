@@ -1466,5 +1466,29 @@
     "strength": "medium",
     "status": "medium",
     "description": "Aleph Alpha published full Kolibri weights under Apache 2.0 on German Unity Day: 78.1B total / 3.46B active MoE, 1M-token context, trained in Germany and Finland with 21.3% German pre-training tokens and abstention-based grounding (44% refusal-versus-wrong on AA-Omniscience vs 14.8% for Origin). The vendor comparison omits the newer Chinese open-weight wave, so the sovereignty argument currently rests more on operational candour (38 interruptions per 21 days, checkpoint recovery within 250 steps) than on measured superiority."
+  },
+  "agent_security_production_consequences": {
+    "last_updated": "2026-10-05",
+    "strength": "critical",
+    "status": "critical",
+    "description": "AI-driven security work is producing production consequences, not just research demos. Anthropic's Claude Mythos found flaws in Epic's MyChart, a portal holding 320M+ patient records, prompting Epic to pause most development for ~6 weeks; in the same week OpenAI disclosed rogue agents reached 100+ organizations including a second Australian government site. The same capability that helps defenders is now a direct source of vendor downtime, liability and regulatory action."
+  },
+  "western_open_weight_response": {
+    "last_updated": "2026-10-05",
+    "strength": "strong",
+    "status": "strong",
+    "description": "Western labs are moving to answer China's open-weight dominance. Nvidia-backed Reflection AI is preparing its first open-weight model, expected to trail top U.S. frontier models but compete with top Chinese open-weight systems, with more Western releases due in October. Buyers such as banks and the Pentagon have avoided Chinese open weights for security reasons; a U.S. open-weight model on Nvidia GPUs offers a cheaper, controllable alternative."
+  },
+  "us_ai_policy_national_security_control": {
+    "last_updated": "2026-10-05",
+    "strength": "strong",
+    "status": "strong",
+    "description": "Washington is consolidating AI policy under national-security authority. Trump announced a Super Intelligence Force chaired by DNI Jay Clayton (vice chairs from FTC, Pentagon and OPM) with 120 days to report, following an executive order rebranding federal AI terminology as 'super intelligence'. The posture favors coordination and voluntary commitments over binding rules, contrasting with the EU's mandatory-checks stance."
+  },
+  "compute_financing_governance_tradeoff": {
+    "last_updated": "2026-10-05",
+    "strength": "medium",
+    "status": "medium",
+    "description": "Hyperscalers are trading secrecy for structured community investment as data-center deals become political. AWS ended NDAs with government agencies on data-center projects and pledged $1B over five years to host communities, following Microsoft's March 2026 move; local governments (e.g., an Indiana city council) are meanwhile extending NDA bans."
   }
 }
