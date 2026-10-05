@@ -1,9 +1,9 @@
 {
   "ai_governance_enforcement_phase": {
-    "last_updated": "2026-10-03",
+    "last_updated": "2026-10-06",
     "strength": "critical",
     "status": "critical",
-    "description": "Enforcement keeps arriving without federal statute while industry builds its own venue: Google, OpenAI and Anthropic are forming the FINRA-style Standards Authority for Frontier AI, the ACSC issued its first AI-misalignment advisory, and Australia's cabinet scheduled a review of the Medicare portal agent intrusion. On 2026-09-30 the US federal branch formalized the voluntary track (Joint Commitment on Frontier Responsibilities) while a CRS analysis found no settled antitrust path for coordinated slowdowns, and China published a mandatory lifecycle framework. On 2026-10-02 the FTC confirmed a broad investigation of OpenAI, Anthropic and evaluator METR preparing civil investigative demands, moving federal enforcement from voluntary pledges to existing statutory authority. On 2026-10-02 the enforcement track reached frontier-lab personnel: OpenAI confirmed it dismissed three safety and alignment researchers (Jasmine Wang, Tomek Korbak, Mikita Balesni) for mishandling sensitive information involving an external model evaluator, days after the White House secured its voluntary accord. Who may move which evidence across the lab-evaluator boundary is now the contested interface, and it is being defined by contracts and org charts faster than by statute.",
+    "description": "Enforcement keeps arriving without federal statute while industry builds its own venue: Google, OpenAI and Anthropic are forming the FINRA-style Standards Authority for Frontier AI, the ACSC issued its first AI-misalignment advisory, and Australia's cabinet scheduled a review of the Medicare portal agent intrusion. On 2026-09-30 the US federal branch formalized the voluntary track (Joint Commitment on Frontier Responsibilities) while a CRS analysis found no settled antitrust path for coordinated slowdowns, and China published a mandatory lifecycle framework. On 2026-10-02 the FTC confirmed a broad investigation of OpenAI, Anthropic and evaluator METR preparing civil investigative demands, moving federal enforcement from voluntary pledges to existing statutory authority. On 2026-10-02 the enforcement track reached frontier-lab personnel: OpenAI confirmed it dismissed three safety and alignment researchers (Jasmine Wang, Tomek Korbak, Mikita Balesni) for mishandling sensitive information involving an external model evaluator, days after the White House secured its voluntary accord. Who may move which evidence across the lab-evaluator boundary is now the contested interface, and it is being defined by contracts and org charts faster than by statute. NYC joined the enforcement surface on 2026-10-05, putting frontier-lab executives under oath.",
     "first_seen": "2026-06-15"
   },
   "ai_infrastructure_compute_marketization": {
@@ -1490,5 +1490,35 @@
     "strength": "medium",
     "status": "medium",
     "description": "Hyperscalers are trading secrecy for structured community investment as data-center deals become political. AWS ended NDAs with government agencies on data-center projects and pledged $1B over five years to host communities, following Microsoft's March 2026 move; local governments (e.g., an Indiana city council) are meanwhile extending NDA bans."
+  },
+  "western_frontier_open_weights": {
+    "last_updated": "2026-10-06",
+    "strength": "critical",
+    "status": "critical",
+    "description": "Open weights flip from a China-led export into a Western contest: Reflection AI's Beam (501B total / 23B active sparse MoE, pretrained on 23.8T tokens) ships as a US, Nvidia-GPU, Apache 2.0 answer to GLM-5.2 and Qwen, matching GLM-5.2 on advanced reasoning at 3-4x less inference compute. Efficiency via active parameters, not headline size, is now the differentiator."
+  },
+  "tiered_memory_local_inference": {
+    "last_updated": "2026-10-06",
+    "strength": "strong",
+    "status": "strong",
+    "description": "Local inference keeps bending the memory wall: Strata runs Qwen3.8-Flash-Next (125B sparse MoE) on a single 12GB consumer GPU by caching hot experts in VRAM, holding the expert set in system RAM, routing CPU through the rest and parking a large N-gram table on SSD, with community benchmarks at tens to 100+ tok/s on a 24GB 4090."
+  },
+  "municipal_ai_oversight": {
+    "last_updated": "2026-10-06",
+    "strength": "strong",
+    "status": "strong",
+    "description": "With US federal policy favoring voluntary self-regulation, city and state venues become the enforcement surface: the NYC Council convened all 51 members and put Anthropic, OpenAI, Google and Meta executives under oath on model misalignment, joined by AI whistleblowers, creating a sworn record other municipalities can copy."
+  },
+  "unified_omni_action_models": {
+    "last_updated": "2026-10-06",
+    "strength": "emerging",
+    "status": "emerging",
+    "description": "The multimodal stack is collapsing into single networks: Reka's Rho-1 (19B) keeps text, image, video and robot-action tokens in one network and one KV cache with dual-stream blocks, and its open-sourced IDM turns web video into action-labeled pretraining data, challenging multi-model orchestration."
+  },
+  "ai_gateway_as_attack_surface": {
+    "last_updated": "2026-10-06",
+    "strength": "critical",
+    "status": "critical",
+    "description": "AI-specific infrastructure becomes a first-class attack surface: GitLab's CVE-2026-90970 (CVSS 9.9) let an authenticated user escape the prompt-template sandbox in its self-hosted AI Gateway and run arbitrary commands, the same CWE-1336 class as CVE-2026-1868 fixed in the same component in February."
   }
 }

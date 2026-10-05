@@ -1,7 +1,111 @@
 {
   "version": 1,
-  "generated_at": "2026-10-04T23:17:58Z",
+  "generated_at": "2026-10-06T00:10:00Z",
   "entries": [
+    {
+      "date": "2026-10-06",
+      "title": "AI Daily Digest - 2026-10-06",
+      "summary": {
+        "en": "Reflection AI shipped Beam, a 501B-parameter open-weight Mixture-of-Experts model that matches GLM-5.2 on advanced reasoning while using 3-4x less inference compute, marking the West's first serious entry into the frontier open-weight race. New York City's council put Anthropic, OpenAI, Google and Meta executives under oath about model misalignment. Reka released Rho-1, a 19B omni-reasoning model that unifies text, image, video and robot actions in one network. Meta published six math papers co-developed with Muse Spark, five answering previously open problems. GitLab patched CVE-2026-90970, a CVSS 9.9 sandbox escape in its self-hosted AI Gateway.",
+        "zh": "Reflection AI 发布 Beam，一个 5010 亿参数的开源权重 MoE 模型，在高级推理上追平 GLM-5.2 但推理算力少用 3-4 倍，标志西方首次认真进入前沿开源权重竞赛。纽约市议会让 Anthropic、OpenAI、Google 与 Meta 高管就模型失准宣誓作证。Reka 发布 Rho-1，一个 190 亿参数的 omni 推理模型，把文本、图像、视频与机器人动作统一进单一网络。Meta 发布六篇与 Muse Spark 合作的数学论文，其中五篇回答了此前开放的问题。GitLab 修复自托管 AI Gateway 的 CVSS 9.9 沙箱逃逸漏洞 CVE-2026-90970。"
+      },
+      "categories": [
+        "Open Source",
+        "AI Safety",
+        "Multimodal",
+        "Research",
+        "Infrastructure"
+      ],
+      "tags": [
+        "Reflection AI",
+        "Beam",
+        "MoE",
+        "Open Weights",
+        "NYC Council",
+        "Anthropic",
+        "OpenAI",
+        "Governance",
+        "Reka",
+        "Rho-1",
+        "Omni Model",
+        "Robotics",
+        "Meta",
+        "Muse Spark",
+        "Mathematics",
+        "Reasoning",
+        "GitLab",
+        "AI Gateway",
+        "Security",
+        "Sandbox Escape"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-06.md",
+        "zh": "./content/daily_zh/2026-10-06.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Reflection AI Launches Beam, a 501B Open-Weight MoE Built to Rival Chinese Open Models",
+          "summary": "Reflection AI's first open-weight model is a 501B/23B sparse MoE that matches GLM-5.2 on reasoning at 3-4x less inference compute, with Apache 2.0 weights due this month.",
+          "category": "Open Source",
+          "tags": [
+            "Reflection AI",
+            "Beam",
+            "MoE",
+            "Open Weights"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "New York City Council Puts Frontier Lab Executives Under Oath on AI Risk",
+          "summary": "Anthropic, OpenAI, Google and Meta executives testified under oath before all 51 NYC Council members on model misalignment, joined by AI whistleblowers.",
+          "category": "AI Safety",
+          "tags": [
+            "NYC Council",
+            "Anthropic",
+            "OpenAI",
+            "Governance"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Reka Releases Rho-1, a 19B Omni-Model That Collapses the Multimodal Stack",
+          "summary": "Rho-1 unifies text, image, video and robot actions in a single 19B network and KV cache, with an open-sourced IDM that turns web video into action-labeled training data.",
+          "category": "Multimodal",
+          "tags": [
+            "Reka",
+            "Rho-1",
+            "Omni Model",
+            "Robotics"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Meta Publishes Six AI-Assisted Math Papers, Saying Five Answer Open Problems",
+          "summary": "Six papers co-developed with Muse Spark in the standard meta.ai chat claim five answers to previously open problems, though some had concurrent or prior solutions.",
+          "category": "Research",
+          "tags": [
+            "Meta",
+            "Muse Spark",
+            "Mathematics",
+            "Reasoning"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "GitLab Patches CVE-2026-90970, a CVSS 9.9 Sandbox Escape in Its Self-Hosted AI Gateway",
+          "summary": "A CVSS 9.9 prompt-template sandbox escape in GitLab's self-hosted AI Gateway allowed authenticated users to run arbitrary commands; patched in three gateway versions.",
+          "category": "Infrastructure",
+          "tags": [
+            "GitLab",
+            "AI Gateway",
+            "Security",
+            "Sandbox Escape"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-05",
       "title": "AI Daily Digest - 2026-10-05",

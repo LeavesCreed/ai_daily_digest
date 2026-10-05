@@ -1,9 +1,9 @@
 {
   "OpenAI": {
-    "last_seen": "2026-10-05",
-    "appearances": 12,
-    "mention_count": 21,
-    "mentions": 21,
+    "last_seen": "2026-10-06",
+    "appearances": 13,
+    "mention_count": 22,
+    "mentions": 22,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -16,14 +16,15 @@
       "2026-10-02",
       "2026-10-03",
       "2026-10-04",
-      "2026-10-05"
+      "2026-10-05",
+      "2026-10-06"
     ]
   },
   "Anthropic": {
-    "last_seen": "2026-10-05",
-    "mention_count": 20,
-    "appearances": 15,
-    "mentions": 20,
+    "last_seen": "2026-10-06",
+    "mention_count": 21,
+    "appearances": 16,
+    "mentions": 21,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -35,21 +36,23 @@
       "2026-09-29",
       "2026-10-01",
       "2026-10-02",
-      "2026-10-05"
+      "2026-10-05",
+      "2026-10-06"
     ]
   },
   "Meta": {
-    "last_seen": "2026-10-04",
-    "appearances": 7,
-    "mentions": 11,
-    "mention_count": 11,
+    "last_seen": "2026-10-06",
+    "appearances": 8,
+    "mentions": 12,
+    "mention_count": 12,
     "dates": [
       "2026-09-19",
       "2026-09-21",
       "2026-09-22",
       "2026-09-28",
       "2026-09-29",
-      "2026-10-04"
+      "2026-10-04",
+      "2026-10-06"
     ]
   },
   "Together AI": {
@@ -119,16 +122,17 @@
     "mentions": 1
   },
   "NVIDIA": {
-    "last_seen": "2026-10-05",
-    "mentions": 12,
-    "mention_count": 12,
-    "appearances": 6,
+    "last_seen": "2026-10-06",
+    "mentions": 13,
+    "mention_count": 13,
+    "appearances": 7,
     "dates": [
       "2026-09-19",
       "2026-09-24",
       "2026-09-29",
       "2026-10-04",
-      "2026-10-05"
+      "2026-10-05",
+      "2026-10-06"
     ]
   },
   "Huawei": {
@@ -328,16 +332,17 @@
   },
   "Google": {
     "count": 7,
-    "last_seen": "2026-10-01",
-    "mention_count": 8,
-    "mentions": 8,
-    "appearances": 7,
+    "last_seen": "2026-10-06",
+    "mention_count": 9,
+    "mentions": 9,
+    "appearances": 8,
     "dates": [
       "2026-09-21",
       "2026-09-22",
       "2026-09-26",
       "2026-09-28",
-      "2026-10-01"
+      "2026-10-01",
+      "2026-10-06"
     ]
   },
   "Commerce Department": {
@@ -629,8 +634,14 @@
     "count": 1
   },
   "GLM-5.2": {
-    "last_seen": "2026-07-13",
-    "count": 1
+    "last_seen": "2026-10-06",
+    "count": 1,
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 2,
+    "dates": [
+      "2026-10-06"
+    ]
   },
   "ByteDance": {
     "last_seen": "2026-07-13",
@@ -4778,12 +4789,13 @@
     ]
   },
   "Reflection AI": {
-    "last_seen": "2026-10-05",
-    "appearances": 1,
-    "mention_count": 1,
-    "mentions": 1,
+    "last_seen": "2026-10-06",
+    "appearances": 2,
+    "mention_count": 2,
+    "mentions": 2,
     "dates": [
-      "2026-10-05"
+      "2026-10-05",
+      "2026-10-06"
     ]
   },
   "Jay Clayton": {
@@ -4811,6 +4823,159 @@
     "mentions": 1,
     "dates": [
       "2026-10-05"
+    ]
+  },
+  "Beam": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "New York City Council": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "Logan Graham": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "Morgan Dwyer": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "Alice Friend": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "Shane Cahill": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "Reka": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "Rho-1": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "RIDM": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "Muse Spark": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "GitLab": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "CVE-2026-90970": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "NVIDIA GB300": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "TextQL Labs": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "Niko1221": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "Strata": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
+    ]
+  },
+  "Qwen3.8-Flash-Next": {
+    "last_seen": "2026-10-06",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-06"
     ]
   }
 }
