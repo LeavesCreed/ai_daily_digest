@@ -1,9 +1,9 @@
 {
   "OpenAI": {
-    "last_seen": "2026-10-06",
-    "appearances": 13,
-    "mention_count": 22,
-    "mentions": 22,
+    "last_seen": "2026-10-07",
+    "appearances": 14,
+    "mention_count": 23,
+    "mentions": 23,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -17,14 +17,15 @@
       "2026-10-03",
       "2026-10-04",
       "2026-10-05",
-      "2026-10-06"
+      "2026-10-06",
+      "2026-10-07"
     ]
   },
   "Anthropic": {
-    "last_seen": "2026-10-06",
-    "mention_count": 21,
-    "appearances": 16,
-    "mentions": 21,
+    "last_seen": "2026-10-07",
+    "mention_count": 22,
+    "appearances": 17,
+    "mentions": 22,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -37,7 +38,8 @@
       "2026-10-01",
       "2026-10-02",
       "2026-10-05",
-      "2026-10-06"
+      "2026-10-06",
+      "2026-10-07"
     ]
   },
   "Meta": {
@@ -90,16 +92,17 @@
     "count": 2
   },
   "Broadcom": {
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-07",
     "count": 4,
-    "appearances": 4,
-    "mention_count": 3,
+    "appearances": 5,
+    "mention_count": 4,
     "dates": [
       "2026-09-22",
       "2026-10-02",
-      "2026-10-03"
+      "2026-10-03",
+      "2026-10-07"
     ],
-    "mentions": 1
+    "mentions": 2
   },
   "Trump administration": {
     "last_seen": "2026-07-23",
@@ -332,17 +335,18 @@
   },
   "Google": {
     "count": 7,
-    "last_seen": "2026-10-06",
-    "mention_count": 9,
-    "mentions": 9,
-    "appearances": 8,
+    "last_seen": "2026-10-07",
+    "mention_count": 10,
+    "mentions": 10,
+    "appearances": 9,
     "dates": [
       "2026-09-21",
       "2026-09-22",
       "2026-09-26",
       "2026-09-28",
       "2026-10-01",
-      "2026-10-06"
+      "2026-10-06",
+      "2026-10-07"
     ]
   },
   "Commerce Department": {
@@ -959,9 +963,14 @@
     "Buzz"
   ],
   "Google Cloud": {
-    "last_seen": "2026-07-23",
+    "last_seen": "2026-10-07",
     "count": 1,
-    "appearances": 1
+    "appearances": 2,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-07"
+    ]
   },
   "NSA": {
     "last_seen": "2026-09-29",
@@ -1675,14 +1684,15 @@
     "count": 1
   },
   "Gemini": {
-    "last_seen": "2026-09-26",
+    "last_seen": "2026-10-07",
     "count": 1,
-    "mention_count": 3,
-    "appearances": 2,
-    "mentions": 2,
+    "mention_count": 4,
+    "appearances": 3,
+    "mentions": 3,
     "dates": [
       "2026-09-21",
-      "2026-09-26"
+      "2026-09-26",
+      "2026-10-07"
     ]
   },
   "Decart AI": {
@@ -1905,7 +1915,13 @@
   },
   "Marvell": {
     "count": 1,
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-10-07",
+    "appearances": 2,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-07"
+    ]
   },
   "Cognition": {
     "count": 1,
@@ -2519,16 +2535,17 @@
     "mention_count": 1
   },
   "Nvidia": {
-    "last_seen": "2026-10-03",
+    "last_seen": "2026-10-07",
     "count": 3,
-    "appearances": 5,
-    "mention_count": 7,
-    "mentions": 3,
+    "appearances": 6,
+    "mention_count": 8,
+    "mentions": 4,
     "dates": [
       "2026-09-21",
       "2026-09-22",
       "2026-09-28",
-      "2026-10-03"
+      "2026-10-03",
+      "2026-10-07"
     ]
   },
   "Trainium": {
@@ -3045,11 +3062,14 @@
     "mentions": 1
   },
   "Constellation Energy": {
-    "last_seen": "2026-09-17",
+    "last_seen": "2026-10-07",
     "count": 1,
-    "appearances": 1,
-    "mention_count": 1,
-    "mentions": 1
+    "appearances": 2,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-07"
+    ]
   },
   "RWE": {
     "last_seen": "2026-09-17",
@@ -4976,6 +4996,78 @@
     "mentions": 1,
     "dates": [
       "2026-10-06"
+    ]
+  },
+  "Mistral": {
+    "last_seen": "2026-10-07",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-07"
+    ]
+  },
+  "Mistral Large 4": {
+    "last_seen": "2026-10-07",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-07"
+    ]
+  },
+  "Le Chonk": {
+    "last_seen": "2026-10-07",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-07"
+    ]
+  },
+  "ARTEX": {
+    "last_seen": "2026-10-07",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-07"
+    ]
+  },
+  "KB Kookmin Bank": {
+    "last_seen": "2026-10-07",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-07"
+    ]
+  },
+  "Shinhan Bank": {
+    "last_seen": "2026-10-07",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-07"
+    ]
+  },
+  "Hana Bank": {
+    "last_seen": "2026-10-07",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-07"
+    ]
+  },
+  "Nano Banana 2.1": {
+    "last_seen": "2026-10-07",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-07"
     ]
   }
 }

@@ -1,7 +1,118 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T00:10:00Z",
+  "generated_at": "2026-10-06T23:15:00Z",
   "entries": [
+    {
+      "date": "2026-10-07",
+      "title": "AI Daily Digest - 2026-10-07",
+      "summary": {
+        "en": "October 6 was defined by Europe's return to the frontier, power as the binding constraint, and the first known AI-agent breach of the financial sector. Mistral shipped Mistral Large 4 (Le Chonk), a 1.05T-parameter multimodal MoE trained on 3,800 Grace Blackwell GPUs in EU datacenters, with weights promised by end of October. Google and Constellation committed 890 MW of new nuclear capacity to the PJM grid. An open-source LLM-driven penetration agent, ARTEX, was linked to intrusions at seven South Korean banks exposing data on roughly 68,000 people. Google pushed Nano Banana 2.1 into Search on day one, and Marvell raised its FY2028 revenue outlook to about 20 billion dollars on custom AI silicon demand.",
+        "zh": "10 月 6 日的三条主线分别是欧洲重返前沿、电力成为真正的约束、以及首次已知的 AI 智能体入侵金融业。Mistral 发布 Mistral Large 4（Le Chonk），1.05 万亿参数多模态 MoE，在欧盟自有数据中心用 3800 张 Grace Blackwell 训练，权重承诺月底开放。Google 与 Constellation 承诺向 PJM 电网新增 890MW 核电。开源 LLM 驱动的渗透智能体 ARTEX 被指与韩国七家银行的入侵有关，约 68000 人数据泄露。Google 首日把 Nano Banana 2.1 推入搜索，Marvell 因定制 AI 芯片需求把 FY2028 营收指引上调至约 200 亿美元。"
+      },
+      "categories": [
+        "Models",
+        "Infrastructure",
+        "AI Safety",
+        "Multimodal",
+        "Industry"
+      ],
+      "tags": [
+        "Mistral",
+        "MoE",
+        "Multimodal",
+        "Open Weights",
+        "Cybersecurity",
+        "Google",
+        "Constellation",
+        "Nuclear",
+        "Data Center",
+        "Grid",
+        "Gemini",
+        "South Korea",
+        "AI Agents",
+        "Open Source",
+        "Banking",
+        "Image Generation",
+        "Nano Banana",
+        "Search",
+        "Marvell",
+        "Custom Silicon",
+        "ASIC",
+        "Broadcom"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-07.md",
+        "zh": "./content/daily_zh/2026-10-07.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Mistral Ships Mistral Large 4 (Le Chonk), a 1.05T-Parameter Multimodal MoE Trained in the EU",
+          "summary": "Mistral's new flagship is a 1.05T/49B multimodal MoE trained from scratch on 3,800 Grace Blackwell GPUs in its own EU datacenters, with cybersecurity its strongest claimed area and open weights due end of October.",
+          "category": "Models",
+          "tags": [
+            "Mistral",
+            "MoE",
+            "Multimodal",
+            "Open Weights",
+            "Cybersecurity"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Google and Constellation Add 890 MW of New Nuclear to the PJM Grid",
+          "summary": "Google Cloud and Constellation will add 890 MW of new nuclear capacity to the PJM grid, pairing the megawatts with Gemini Enterprise for grid operations and permitting.",
+          "category": "Infrastructure",
+          "tags": [
+            "Google",
+            "Constellation",
+            "Nuclear",
+            "Data Center",
+            "Grid",
+            "Gemini"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Open-Source LLM Penetration Agent ARTEX Linked to Breaches at Seven South Korean Banks",
+          "summary": "The open-source LLM-driven penetration console ARTEX was linked to intrusions at seven South Korean banks exposing data on ~68,000 people, the first known AI-agent breach of the financial sector.",
+          "category": "AI Safety",
+          "tags": [
+            "South Korea",
+            "AI Agents",
+            "Cybersecurity",
+            "Open Source",
+            "Banking"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Google Launches Nano Banana 2.1 in Search AI Mode on Day One",
+          "summary": "Google's updated image generation and editing model shipped into Search's AI Mode on launch day, with claimed gains in visual design, mask-based editing and subject consistency.",
+          "category": "Multimodal",
+          "tags": [
+            "Google",
+            "Image Generation",
+            "Nano Banana",
+            "Search"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Marvell Raises FY2028 Revenue Outlook to About $20B on Custom AI Silicon Demand",
+          "summary": "Marvell raised its FY2028 revenue outlook to about $20B and its FY2029 custom-chip target to $12B, on surging hyperscaler demand for custom AI silicon; Broadcom rose 4% on the same read-through.",
+          "category": "Industry",
+          "tags": [
+            "Marvell",
+            "Custom Silicon",
+            "ASIC",
+            "Data Center",
+            "Broadcom"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-06",
       "title": "AI Daily Digest - 2026-10-06",

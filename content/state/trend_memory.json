@@ -23,10 +23,10 @@
     "description": "Frontier AI models now treated as dual-use technologies subject to national security review before public release"
   },
   "ai_custom_silicon_momentum": {
-    "last_updated": "2026-09-16",
+    "last_updated": "2026-10-07",
     "strength": "critical",
     "status": "critical",
-    "description": "Hyperscalers migrating inference from merchant GPUs to in-house silicon: Meta MTIA 450 Arke (H1 2027) and MTIA 500 Astrid (end 2027) via Broadcom/TSMC; Google-Marvel ASIC deal; Microsoft Maia; Amazon Trainium.",
+    "description": "Hyperscalers migrating inference from merchant GPUs to in-house silicon: Meta MTIA 450 Arke (H1 2027) and MTIA 500 Astrid (end 2027) via Broadcom/TSMC; Google-Marvel ASIC deal; Microsoft Maia; Amazon Trainium. | Marvell raised FY2028 revenue outlook to ~$20B and its FY2029 custom-chip target to $12B (from $10B), Broadcom +4% on the same read-through.",
     "first_seen": "2026-06-01"
   },
   "ai_investment_overextension_signals": {
@@ -339,7 +339,9 @@
   "ai_power_bottleneck": {
     "strength": "strong",
     "first_seen": "2026-08-05",
-    "last_seen": "2026-08-05"
+    "last_seen": "2026-08-05",
+    "last_updated": "2026-10-07",
+    "description": "Google and Constellation committed 890 MW of new nuclear to the PJM grid with Gemini Enterprise for grid operations."
   },
   "open_weight_regulatory_exemption": {
     "strength": "emerging",
@@ -1520,5 +1522,29 @@
     "strength": "critical",
     "status": "critical",
     "description": "AI-specific infrastructure becomes a first-class attack surface: GitLab's CVE-2026-90970 (CVSS 9.9) let an authenticated user escape the prompt-template sandbox in its self-hosted AI Gateway and run arbitrary commands, the same CWE-1336 class as CVE-2026-1868 fixed in the same component in February."
+  },
+  "european_frontier_reentry": {
+    "last_updated": "2026-10-07",
+    "strength": "strong",
+    "status": "strong",
+    "description": "European labs re-enter the frontier on sovereign compute: Mistral shipped Mistral Large 4 (Le Chonk), a 1.05T-parameter multimodal MoE trained from scratch on 3,800 Grace Blackwell GPUs inside its own EU datacenters, and positioned cybersecurity as its strongest area."
+  },
+  "open_weights_shipped_on_delay": {
+    "last_updated": "2026-10-07",
+    "strength": "emerging",
+    "status": "emerging",
+    "description": "Open weights increasingly ship weeks after the API preview rather than at launch, turning openness into a delayed strategic option: Mistral withheld Le Chonk's weights until end of October, mirroring the preview-then-weights pattern of other labs."
+  },
+  "ai_agent_breach_of_financial_sector": {
+    "last_updated": "2026-10-07",
+    "strength": "critical",
+    "status": "critical",
+    "description": "First known AI-agent breach of the financial sector: the open-source LLM-driven penetration console ARTEX was linked to intrusions at seven South Korean banks exposing ~68,000 records, showing how inexpensive agents lower the skill floor for multi-stage attacks in regulated industries."
+  },
+  "evaluation_infrastructure_as_product": {
+    "last_updated": "2026-10-07",
+    "strength": "emerging",
+    "status": "emerging",
+    "description": "Benchmarks are being shipped as first-party products alongside the systems they measure: GitHub released ReviewBench for AI code review (219 PRs, 19 languages, MIT-licensed dataset), the same week Argo-Bench targeted enterprise data agents."
   }
 }

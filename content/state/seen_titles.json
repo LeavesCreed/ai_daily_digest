@@ -701,5 +701,12 @@
   "GitLab Patches CVE-2026-90970, a CVSS 9.9 Sandbox Escape in Its Self-Hosted AI Gateway",
   "GitLab 修复 CVE-2026-90970：自托管 AI Gateway 的 CVSS 9.9 沙箱逃逸",
   "Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows",
-  "Niko1221/Strata"
+  "Niko1221/Strata",
+  "Mistral Ships Mistral Large 4 (Le Chonk), a 1.05T-Parameter Multimodal MoE Trained in the EU",
+  "Google and Constellation Add 890 MW of New Nuclear to the PJM Grid",
+  "Open-Source LLM Penetration Agent ARTEX Linked to Breaches at Seven South Korean Banks",
+  "Google Launches Nano Banana 2.1 in Search AI Mode on Day One",
+  "Marvell Raises FY2028 Revenue Outlook to About $20B on Custom AI Silicon Demand",
+  "Silent Dissent: LLM Agents That Yield to the Majority Still Represent Their Original Premise",
+  "review-bench/ReviewBench"
 ]
