@@ -1546,5 +1546,35 @@
     "strength": "emerging",
     "status": "emerging",
     "description": "Benchmarks are being shipped as first-party products alongside the systems they measure: GitHub released ReviewBench for AI code review (219 PRs, 19 languages, MIT-licensed dataset), the same week Argo-Bench targeted enterprise data agents."
+  },
+  "small_model_price_floor": {
+    "last_updated": "2026-10-08",
+    "strength": "critical",
+    "status": "critical",
+    "description": "The price war sank into the small-model tier: Anthropic's Claude Haiku 5.5 starts at $0.10/$0.50 per million tokens, matching OpenAI's GPT-6 Luna and running ~75% cheaper than Haiku 4.5, with Sonnet 5.5 cache reads halved. The cheap tier is now a commodity battleground aligned to frontier mid-tier pricing, and capability gating (CB/Autonomy thresholds) ships as standard release metadata."
+  },
+  "ai_infrastructure_debt_dependence": {
+    "last_updated": "2026-10-08",
+    "strength": "critical",
+    "status": "critical",
+    "description": "AI buildout is shifting from cash flow to capital markets: SpaceX is negotiating up to $40B in debt (about $10B bank loans plus $30B investment-grade) to buy Nvidia chips, led by Apollo. AI-related borrowing in US leveraged finance rose from ~$20B in early 2025 to $88B in 2026, and Morgan Stanley estimates ~$1.5T of external financing is needed by 2028, making credit-market appetite a direct constraint on whether compute gets built."
+  },
+  "agent_trust_boundary_expansion": {
+    "last_updated": "2026-10-08",
+    "strength": "critical",
+    "status": "critical",
+    "description": "Cryptographic Context Injection (Adversa AI) leaks developer secrets from GitHub Copilot CLI, Grok and Gemini by hiding instructions as ciphertext the agent decrypts inside its own runtime; guards that read text never see plaintext. GitHub declined to treat it as a vulnerability and issued no CVE. The structural point: an agent's trusted context now includes decrypted blobs and its own runtime output, while platforms still do not govern the agent as an identity."
+  },
+  "on_device_ai_platform_consolidation": {
+    "last_updated": "2026-10-08",
+    "strength": "strong",
+    "status": "watch",
+    "description": "Microsoft and Nvidia pushed on-device inference to platform scale with RTX Spark AI PCs (Surface Laptop Ultra at $2,599, Surface RTX Spark Dev Box at $6,000, Dell XPS 16 Creator Edition at $3,800) and an agent-oriented Windows. Nadella framed the model as insufficient without an orchestration and memory harness layer. Local, free inference is now a real cloud alternative, shifting the binding constraint from compute to memory and platform trust."
+  },
+  "ai_generated_mathematics_at_scale": {
+    "last_updated": "2026-10-08",
+    "strength": "strong",
+    "status": "watch",
+    "description": "OpenAI published 722 math manuscripts across 372 result families from an unreleased frontier model, spanning number theory, geometry, quantum physics and topics linked to the Hodge Conjecture, with ~4,000 problems attempted and many Lean formalizations. Verification is uneven and the AGMAI advisory group explicitly did not endorse the results, scaling AI participation in new knowledge production while leaving validation behind the announcement."
   }
 }

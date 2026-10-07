@@ -1,9 +1,9 @@
 {
   "OpenAI": {
-    "last_seen": "2026-10-07",
-    "appearances": 14,
-    "mention_count": 23,
-    "mentions": 23,
+    "last_seen": "2026-10-08",
+    "appearances": 15,
+    "mention_count": 25,
+    "mentions": 25,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -18,14 +18,15 @@
       "2026-10-04",
       "2026-10-05",
       "2026-10-06",
-      "2026-10-07"
+      "2026-10-07",
+      "2026-10-08"
     ]
   },
   "Anthropic": {
-    "last_seen": "2026-10-07",
-    "mention_count": 22,
-    "appearances": 17,
-    "mentions": 22,
+    "last_seen": "2026-10-08",
+    "mention_count": 25,
+    "appearances": 18,
+    "mentions": 25,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -39,7 +40,8 @@
       "2026-10-02",
       "2026-10-05",
       "2026-10-06",
-      "2026-10-07"
+      "2026-10-07",
+      "2026-10-08"
     ]
   },
   "Meta": {
@@ -125,17 +127,18 @@
     "mentions": 1
   },
   "NVIDIA": {
-    "last_seen": "2026-10-06",
-    "mentions": 13,
-    "mention_count": 13,
-    "appearances": 7,
+    "last_seen": "2026-10-08",
+    "mentions": 15,
+    "mention_count": 15,
+    "appearances": 8,
     "dates": [
       "2026-09-19",
       "2026-09-24",
       "2026-09-29",
       "2026-10-04",
       "2026-10-05",
-      "2026-10-06"
+      "2026-10-06",
+      "2026-10-08"
     ]
   },
   "Huawei": {
@@ -309,16 +312,17 @@
   },
   "Microsoft": {
     "first_seen": "2026-07-06",
-    "mention_count": 6,
-    "last_seen": "2026-10-05",
+    "mention_count": 7,
+    "last_seen": "2026-10-08",
     "count": 5,
-    "appearances": 4,
-    "mentions": 4,
+    "appearances": 5,
+    "mentions": 5,
     "dates": [
       "2026-09-20",
       "2026-09-26",
       "2026-09-30",
-      "2026-10-05"
+      "2026-10-05",
+      "2026-10-08"
     ],
     "note": "co-authored the EOS termination-mismatch paper with UNC"
   },
@@ -523,13 +527,14 @@
   },
   "SpaceX": {
     "count": 6,
-    "last_seen": "2026-10-05",
-    "appearances": 2,
-    "mention_count": 2,
+    "last_seen": "2026-10-08",
+    "appearances": 3,
+    "mention_count": 3,
     "dates": [
-      "2026-10-05"
+      "2026-10-05",
+      "2026-10-08"
     ],
-    "mentions": 1
+    "mentions": 2
   },
   "Ollama": {
     "last_seen": "2026-07-10",
@@ -680,8 +685,14 @@
     "count": 1
   },
   "Nature Machine Intelligence": {
-    "last_seen": "2026-07-13",
-    "count": 1
+    "last_seen": "2026-10-08",
+    "count": 1,
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-08"
+    ]
   },
   "Neural Operator": {
     "last_seen": "2026-07-13",
@@ -1684,15 +1695,16 @@
     "count": 1
   },
   "Gemini": {
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-08",
     "count": 1,
-    "mention_count": 4,
-    "appearances": 3,
-    "mentions": 3,
+    "mention_count": 6,
+    "appearances": 4,
+    "mentions": 5,
     "dates": [
       "2026-09-21",
       "2026-09-26",
-      "2026-10-07"
+      "2026-10-07",
+      "2026-10-08"
     ]
   },
   "Decart AI": {
@@ -2517,10 +2529,14 @@
     "mention_count": 1
   },
   "Lean": {
-    "last_seen": "2026-09-09",
+    "last_seen": "2026-10-08",
     "count": 1,
-    "appearances": 1,
-    "mention_count": 1
+    "appearances": 2,
+    "mention_count": 2,
+    "mentions": 1,
+    "dates": [
+      "2026-10-08"
+    ]
   },
   "Tristan Buckmaster": {
     "last_seen": "2026-09-09",
@@ -3812,12 +3828,13 @@
     ]
   },
   "Grok": {
-    "last_seen": "2026-09-23",
-    "mention_count": 1,
-    "appearances": 1,
-    "mentions": 1,
+    "last_seen": "2026-10-08",
+    "mention_count": 2,
+    "appearances": 2,
+    "mentions": 2,
     "dates": [
-      "2026-09-23"
+      "2026-09-23",
+      "2026-10-08"
     ]
   },
   "Black Forest Labs": {
@@ -4089,12 +4106,13 @@
     ]
   },
   "Apollo": {
-    "last_seen": "2026-09-29",
-    "appearances": 1,
-    "mentions": 1,
-    "mention_count": 1,
+    "last_seen": "2026-10-08",
+    "appearances": 2,
+    "mentions": 2,
+    "mention_count": 2,
     "dates": [
-      "2026-09-29"
+      "2026-09-29",
+      "2026-10-08"
     ]
   },
   "Citadel": {
@@ -4279,12 +4297,13 @@
     ]
   },
   "GitHub": {
-    "last_seen": "2026-09-30",
-    "appearances": 1,
-    "mentions": 1,
-    "mention_count": 1,
+    "last_seen": "2026-10-08",
+    "appearances": 2,
+    "mentions": 2,
+    "mention_count": 2,
     "dates": [
-      "2026-09-30"
+      "2026-09-30",
+      "2026-10-08"
     ]
   },
   "Data Leak": {
@@ -5068,6 +5087,96 @@
     "mentions": 1,
     "dates": [
       "2026-10-07"
+    ]
+  },
+  "Claude": {
+    "last_seen": "2026-10-08",
+    "appearances": 1,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-08"
+    ]
+  },
+  "Haiku 5.5": {
+    "last_seen": "2026-10-08",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-08"
+    ]
+  },
+  "RTX Spark": {
+    "last_seen": "2026-10-08",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-08"
+    ]
+  },
+  "Adversa AI": {
+    "last_seen": "2026-10-08",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-08"
+    ]
+  },
+  "Copilot CLI": {
+    "last_seen": "2026-10-08",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-08"
+    ]
+  },
+  "FeSens/openTPU": {
+    "last_seen": "2026-10-08",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-08"
+    ]
+  },
+  "Dell": {
+    "last_seen": "2026-10-08",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-08"
+    ]
+  },
+  "Satya Nadella": {
+    "last_seen": "2026-10-08",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-08"
+    ]
+  },
+  "Yoav Goldberg": {
+    "last_seen": "2026-10-08",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-08"
+    ]
+  },
+  "Silicon Labs": {
+    "last_seen": "2026-10-08",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-08"
     ]
   }
 }

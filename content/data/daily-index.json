@@ -1,7 +1,116 @@
 {
   "version": 1,
-  "generated_at": "2026-10-06T23:15:00Z",
+  "generated_at": "2026-10-07T23:15:00Z",
   "entries": [
+    {
+      "date": "2026-10-08",
+      "title": "AI Daily Digest - 2026-10-08",
+      "summary": {
+        "en": "October 7 converged on cost and trust. Anthropic shipped Claude Haiku 5.5, cutting price to $0.10/$0.50 per million tokens and matching GPT-6 Luna, pushing the price war into the small-model tier. SpaceX is negotiating roughly $40 billion of debt to buy Nvidia chips, turning AI buildout into a capital-markets story. Microsoft and Nvidia unveiled RTX Spark on-device AI PCs and an agent-oriented Windows, making local inference and memory a platform default. Adversa AI disclosed Cryptographic Context Injection, which makes Copilot CLI leak developer secrets in about 28 seconds, exposing a guardrail blind spot. OpenAI published 722 math manuscripts (372 result families) from an unreleased frontier model, scaling AI participation in new knowledge production.",
+        "zh": "10 月 7 日的几条线同时收口到成本与信任。Anthropic 发布 Claude Haiku 5.5，把百万 token 输入压到 0.10 美元、输出 0.50 美元，与 GPT-6 Luna 对齐，价格战正式下沉到小模型档位。SpaceX 洽谈约 400 亿美元债务融资用于采购英伟达芯片，AI 基建从现金流投资转为资本市场事件。微软与英伟达发布 RTX Spark 端侧 AI PC 与面向智能体的 Windows，把本地推理与记忆当作平台默认能力。Adversa AI 披露 Cryptographic Context Injection，28 秒即可让 Copilot CLI 泄露开发者密钥，暴露防护仍在读文本的盲区。OpenAI 一次性放出 722 篇数学手稿（372 个结果族），由未公开的前沿模型生成，把 AI 参与新知识生产从个案推向规模。"
+      },
+      "categories": [
+        "Models",
+        "Infrastructure",
+        "Applications",
+        "AI Safety",
+        "Research"
+      ],
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Haiku",
+        "Small Models",
+        "Pricing",
+        "SpaceX",
+        "NVIDIA",
+        "AI Infrastructure",
+        "Debt Financing",
+        "Data Center",
+        "Microsoft",
+        "RTX Spark",
+        "On-Device AI",
+        "Windows",
+        "Prompt Injection",
+        "Copilot CLI",
+        "AI Agents",
+        "Cybersecurity",
+        "OpenAI",
+        "Mathematics",
+        "Lean",
+        "AI for Science"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-08.md",
+        "zh": "./content/daily_zh/2026-10-08.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Anthropic Ships Claude Haiku 5.5, Cutting Small-Model API Prices by ~90%",
+          "summary": "Haiku 5.5 starts at $0.10/$0.50 per million tokens, matching GPT-6 Luna and running ~75% cheaper than Haiku 4.5; Sonnet 5.5 cache reads halved.",
+          "category": "Models",
+          "tags": [
+            "Anthropic",
+            "Claude",
+            "Haiku",
+            "Small Models",
+            "Pricing"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "SpaceX in Talks for ~$40B Debt Package to Fund Nvidia Chip Order",
+          "summary": "About $10B in bank loans plus $30B in investment-grade debt, led by Apollo, to buy Nvidia chips; expected to close in 2027.",
+          "category": "Infrastructure",
+          "tags": [
+            "SpaceX",
+            "NVIDIA",
+            "AI Infrastructure",
+            "Debt Financing",
+            "Data Center"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Microsoft and Nvidia Unveil RTX Spark On-Device AI PCs and an Agent-Oriented Windows",
+          "summary": "Surface Laptop Ultra ($2,599) and Surface RTX Spark Dev Box ($6,000) run models locally as Microsoft positions Windows as the OS for agents.",
+          "category": "Applications",
+          "tags": [
+            "Microsoft",
+            "NVIDIA",
+            "RTX Spark",
+            "On-Device AI",
+            "Windows"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Cryptographic Context Injection Leaks Secrets From Copilot CLI, Grok and Gemini in 28 Seconds",
+          "summary": "Adversa AI hides instructions as ciphertext the agent decrypts and trusts; Copilot CLI read .env.prod and exfiltrated it in ~28 seconds.",
+          "category": "AI Safety",
+          "tags": [
+            "Prompt Injection",
+            "Copilot CLI",
+            "AI Agents",
+            "Cybersecurity"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "OpenAI Publishes 722 Math Manuscripts Across 372 Result Families",
+          "summary": "722 manuscripts across 372 result families from an unreleased frontier model, many with Lean formalizations; ~4,000 problems attempted.",
+          "category": "Research",
+          "tags": [
+            "OpenAI",
+            "Mathematics",
+            "Lean",
+            "AI for Science"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-07",
       "title": "AI Daily Digest - 2026-10-07",
