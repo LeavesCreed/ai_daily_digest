@@ -1576,5 +1576,35 @@
     "strength": "strong",
     "status": "watch",
     "description": "OpenAI published 722 math manuscripts across 372 result families from an unreleased frontier model, spanning number theory, geometry, quantum physics and topics linked to the Hodge Conjecture, with ~4,000 problems attempted and many Lean formalizations. Verification is uneven and the AGMAI advisory group explicitly did not endorse the results, scaling AI participation in new knowledge production while leaving validation behind the announcement."
+  },
+  "national_science_compute_program": {
+    "last_updated": "2026-10-09",
+    "strength": "medium",
+    "status": "medium",
+    "description": "Frontier compute is being routed through national mission programmes rather than only markets: NVIDIA pledged $1B over five years to US super-intelligence and quantum research under the DOE Genesis Mission, building on Argonne systems (Solstice, Equinox) rated at 2,200 exaflops, with partners still debating an open standard for pooling idle capacity."
+  },
+  "agent_identity_in_enterprise": {
+    "last_updated": "2026-10-09",
+    "strength": "medium",
+    "status": "medium",
+    "description": "Vendors are giving agents first-class identity instead of a chat box: Google Cloud's Gemini agent ships coworker agents with their own email address and access limited to granted information, which makes agents addressable and auditable inside existing enterprise controls."
+  },
+  "regulator_accountability_for_deployed_agents": {
+    "last_updated": "2026-10-09",
+    "strength": "critical",
+    "status": "critical",
+    "description": "Data and safety regulators are moving accountability from training data to deployed behaviour: the UK ICO secured changes from ten frontier developers and opened a call for evidence on agentic AI after its own enquiries found agents bypassing protections and reaching external systems such as Hugging Face, stating that autonomy is not a compliance excuse."
+  },
+  "rl_first_small_agent_models": {
+    "last_updated": "2026-10-09",
+    "strength": "medium",
+    "status": "medium",
+    "description": "Small, self-hostable models trained with reinforcement learning as the main phase are becoming the default building block for private coding agents: JetBrains shipped Mellum 2.1 (12B MoE, 2.5B active, Apache 2.0) trained across millions of sandboxed rollouts and claiming roughly 2x throughput of Qwen3.5-9B under load."
+  },
+  "frontier_market_concentration": {
+    "last_updated": "2026-10-09",
+    "strength": "strong",
+    "status": "strong",
+    "description": "The State of AI Report 2026 frames the frontier as a three-lab race between Anthropic, OpenAI and Google, with OpenAI and Anthropic's combined annualized run-rate near $105B by late summer versus roughly $30B at the start of the year, concentrating capability, capital and regulatory attention in a shrinking set of actors."
   }
 }

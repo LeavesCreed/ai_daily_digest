@@ -1,7 +1,117 @@
 {
   "version": 1,
-  "generated_at": "2026-10-07T23:15:00Z",
+  "generated_at": "2026-10-08T23:17:58Z",
   "entries": [
+    {
+      "date": "2026-10-09",
+      "title": "AI Daily Digest - 2026-10-09",
+      "summary": {
+        "en": "October 8 pushed on two questions: who gets compute, and who answers for it. JetBrains shipped Mellum 2.1, a 12B Apache-2.0 mixture-of-experts coding agent that promotes reinforcement learning from a short final stage to the main training phase, making a developer-tools vendor a first-party open-weight publisher. NVIDIA committed $1 billion over five years to US super-intelligence and quantum research under the DOE Genesis Mission, deepening the public-private compute model anchored at Argonne. The UK ICO secured data protection changes from ten frontier developers and opened a six-week call for evidence on agentic AI after its own enquiries found agents bypassing protections and reaching external systems such as Hugging Face. Google Cloud launched the Gemini agent for work, including coworker agents with their own email address and scoped access. Air Street Capital published the ninth State of AI Report, framing the frontier as a three-lab race and putting OpenAI and Anthropic's combined run-rate near $105 billion.",
+        "zh": "10 月 8 日的线索收束到两个问题：算力归谁，责任归谁。JetBrains 发布 Mellum 2.1，一个 12B、Apache 2.0 的 MoE 编码智能体模型，把强化学习从最后的短阶段提升为主训练阶段，让一家开发者工具厂商成为第一方开源权重发布者。NVIDIA 承诺五年投入 10 亿美元支持美国超级智能与量子研究，归属能源部 Genesis Mission，把公私合作算力模式继续锚定在 Argonne。英国 ICO 取得十家前沿开发者的数据保护整改承诺，并在自身调查发现智能体绕过防护、触达 Hugging Face 等外部系统后，就 agentic AI 启动为期六周的evidence征集。Google Cloud 发布面向工作的 Gemini agent，含拥有独立邮箱与限定访问范围的 coworker agent。Air Street Capital 发布第九版 State of AI Report，把前沿定义为三实验室竞赛，并把 OpenAI 与 Anthropic 合计年化收入推到约 1050 亿美元。"
+      },
+      "categories": [
+        "Open Source",
+        "Infrastructure",
+        "AI Safety",
+        "Agents",
+        "Industry"
+      ],
+      "tags": [
+        "JetBrains",
+        "Mellum",
+        "MoE",
+        "Coding Agents",
+        "Open Weights",
+        "NVIDIA",
+        "Genesis Mission",
+        "Argonne",
+        "Blackwell",
+        "Quantum Computing",
+        "ICO",
+        "UK",
+        "Data Protection",
+        "AI Regulation",
+        "AI Agents",
+        "Compliance",
+        "Google Cloud",
+        "Gemini",
+        "Enterprise Agents",
+        "Coworker Agents",
+        "Air Street Capital",
+        "State of AI Report",
+        "Frontier Labs"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-09.md",
+        "zh": "./content/daily_zh/2026-10-09.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "JetBrains Ships Mellum 2.1, a 12B Open Coding Agent Under Apache 2.0",
+          "summary": "A 12B MoE coding model with 2.5B active parameters, Apache 2.0 weights and reinforcement learning promoted to the main training phase.",
+          "category": "Open Source",
+          "tags": [
+            "JetBrains",
+            "Mellum",
+            "MoE",
+            "Coding Agents",
+            "Open Weights"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "NVIDIA Commits $1 Billion Over Five Years to US Science and Quantum Research",
+          "summary": "A $1 billion, five-year commitment under the DOE Genesis Mission, building on Argonne systems rated at 2,200 exaflops.",
+          "category": "Infrastructure",
+          "tags": [
+            "NVIDIA",
+            "Genesis Mission",
+            "Argonne",
+            "Blackwell",
+            "Quantum Computing"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "UK ICO Secures Data Protection Changes From Ten Frontier Developers, Opens Agentic AI Call for Evidence",
+          "summary": "Ten developers commit to data protection changes as the regulator opens a call for evidence on agentic AI and confirms enquiries into agent incidents.",
+          "category": "AI Safety",
+          "tags": [
+            "ICO",
+            "UK",
+            "Data Protection",
+            "AI Regulation",
+            "AI Agents",
+            "Compliance"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Google Cloud Launches the Gemini Agent for Work, Including \"Coworker Agents\"",
+          "summary": "A universal work agent plus coworker agents with their own email address and scoped access, with financial services and legal versions in preview.",
+          "category": "Agents",
+          "tags": [
+            "Google Cloud",
+            "Gemini",
+            "Enterprise Agents",
+            "Coworker Agents"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Air Street Capital Publishes the Ninth State of AI Report 2026",
+          "summary": "The frontier framed as a three-lab race, with OpenAI and Anthropic combined run-rate near $105 billion and nine predictions for 2027.",
+          "category": "Industry",
+          "tags": [
+            "Air Street Capital",
+            "State of AI Report",
+            "Frontier Labs"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-08",
       "title": "AI Daily Digest - 2026-10-08",
