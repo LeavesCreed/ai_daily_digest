@@ -42,6 +42,11 @@ npx serve .
 
 ## Latest Digests
 
+### 2026-10-10
+
+- [English](content/daily/2026-10-10.md)
+- [中文](content/daily_zh/2026-10-10.md)
+
 ### 2026-10-09
 
 - [English](content/daily/2026-10-09.md)
@@ -156,38 +161,3 @@ npx serve .
 
 - [English](content/daily/2026-09-17.md)
 - [中文](content/daily_zh/2026-09-17.md)
-
-### 2026-09-29
-
-- [English](content/daily/2026-09-29.md)
-- [中文](content/daily_zh/2026-09-29.md)
-
-### 2026-09-28
-
-- [English](content/daily/2026-09-28.md)
-- [中文](content/daily_zh/2026-09-28.md)
-
-### 2026-09-27
-
-- [English](content/daily/2026-09-27.md)
-- [中文](content/daily_zh/2026-09-27.md)
-
-### 2026-09-26
-
-- [English](content/daily/2026-09-26.md)
-- [中文](content/daily_zh/2026-09-26.md)
-
-### 2026-09-25
-
-- [English](content/daily/2026-09-25.md)
-- [中文](content/daily_zh/2026-09-25.md)
-
-### 2026-09-24
-
-- [English](content/daily/2026-09-24.md)
-- [中文](content/daily_zh/2026-09-24.md)
-
-### 2026-09-23
-
-- [English](content/daily/2026-09-23.md)
-- [中文](content/daily_zh/2026-09-23.md)

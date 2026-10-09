@@ -118,9 +118,14 @@
     "count": 3
   },
   "Samsung": {
-    "last_seen": "2026-08-01",
+    "last_seen": "2026-10-10",
     "count": 4,
-    "mention_count": 1
+    "mention_count": 2,
+    "appearances": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-10"
+    ]
   },
   "SK Hynix": {
     "last_seen": "2026-09-17",
@@ -161,15 +166,16 @@
     "count": 1
   },
   "DeepSeek": {
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
     "count": 8,
-    "mention_count": 7,
-    "appearances": 4,
-    "mentions": 3,
+    "mention_count": 8,
+    "appearances": 5,
+    "mentions": 4,
     "dates": [
       "2026-09-23",
       "2026-10-02",
-      "2026-10-09"
+      "2026-10-09",
+      "2026-10-10"
     ]
   },
   "Etched": {
@@ -214,13 +220,14 @@
     "count": 1
   },
   "arXiv": {
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-10-10",
     "count": 2,
-    "appearances": 2,
-    "mention_count": 2,
-    "mentions": 1,
+    "appearances": 3,
+    "mention_count": 3,
+    "mentions": 2,
     "dates": [
-      "2026-09-20"
+      "2026-09-20",
+      "2026-10-10"
     ],
     "note": "published paper 2609.20511 on length inflation in on-policy distillation"
   },
@@ -346,10 +353,10 @@
   },
   "Google": {
     "count": 7,
-    "last_seen": "2026-10-09",
-    "mention_count": 11,
-    "mentions": 10,
-    "appearances": 10,
+    "last_seen": "2026-10-10",
+    "mention_count": 12,
+    "mentions": 11,
+    "appearances": 11,
     "dates": [
       "2026-09-21",
       "2026-09-22",
@@ -358,7 +365,8 @@
       "2026-10-01",
       "2026-10-06",
       "2026-10-07",
-      "2026-10-09"
+      "2026-10-09",
+      "2026-10-10"
     ]
   },
   "Commerce Department": {
@@ -391,13 +399,14 @@
   },
   "Micron": {
     "first_seen": "2026-07-06",
-    "mention_count": 3,
-    "last_seen": "2026-10-01",
+    "mention_count": 4,
+    "last_seen": "2026-10-10",
     "count": 1,
-    "mentions": 3,
-    "appearances": 1,
+    "mentions": 4,
+    "appearances": 2,
     "dates": [
-      "2026-10-01"
+      "2026-10-01",
+      "2026-10-10"
     ]
   },
   "Illinois": {
@@ -420,8 +429,14 @@
     "note": "confirmed no OpenAI IPO in 2026 and welcomed a federal safety framework without an antitrust waiver"
   },
   "SemiAnalysis": {
-    "last_seen": "2026-07-07",
-    "count": 1
+    "last_seen": "2026-10-10",
+    "count": 1,
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-10"
+    ]
   },
   "SK Group": {
     "last_seen": "2026-07-07",
@@ -662,8 +677,14 @@
     ]
   },
   "ByteDance": {
-    "last_seen": "2026-07-13",
-    "count": 1
+    "last_seen": "2026-10-10",
+    "count": 1,
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-10"
+    ]
   },
   "Morgan Stanley": {
     "last_seen": "2026-07-13",
@@ -720,14 +741,15 @@
     "count": 1
   },
   "Tencent": {
-    "last_seen": "2026-10-02",
+    "last_seen": "2026-10-10",
     "count": 1,
     "dates": [
-      "2026-10-02"
+      "2026-10-02",
+      "2026-10-10"
     ],
-    "mentions": 1,
-    "mention_count": 1,
-    "appearances": 1
+    "mentions": 2,
+    "mention_count": 2,
+    "appearances": 2
   },
   "Hy3": {
     "last_seen": "2026-07-14",
@@ -1706,17 +1728,18 @@
     "count": 1
   },
   "Gemini": {
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-10",
     "count": 1,
-    "mention_count": 7,
-    "appearances": 5,
-    "mentions": 5,
+    "mention_count": 8,
+    "appearances": 6,
+    "mentions": 6,
     "dates": [
       "2026-09-21",
       "2026-09-26",
       "2026-10-07",
       "2026-10-08",
-      "2026-10-09"
+      "2026-10-09",
+      "2026-10-10"
     ]
   },
   "Decart AI": {
@@ -1736,12 +1759,15 @@
   },
   "Z.ai": {
     "first_seen": "2026-08-15",
-    "mention_count": 3,
+    "mention_count": 4,
     "trend": "stable",
     "count": 4,
-    "last_seen": "2026-09-18",
-    "appearances": 1,
-    "mentions": 1
+    "last_seen": "2026-10-10",
+    "appearances": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-10"
+    ]
   },
   "GLM-5.3": {
     "first_seen": "2026-08-15",
@@ -1754,14 +1780,15 @@
   },
   "Alibaba": {
     "first_seen": "2026-08-15",
-    "mention_count": 2,
+    "mention_count": 3,
     "trend": "stable",
     "count": 3,
-    "last_seen": "2026-09-23",
-    "appearances": 1,
-    "mentions": 1,
+    "last_seen": "2026-10-10",
+    "appearances": 2,
+    "mentions": 2,
     "dates": [
-      "2026-09-23"
+      "2026-09-23",
+      "2026-10-10"
     ]
   },
   "Qwen": {
@@ -1773,8 +1800,14 @@
   },
   "Baidu": {
     "first_seen": "2026-08-15",
-    "mention_count": 1,
-    "trend": "stable"
+    "mention_count": 2,
+    "trend": "stable",
+    "last_seen": "2026-10-10",
+    "appearances": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-10"
+    ]
   },
   "Denise Dresser": {
     "first_seen": "2026-08-15",
@@ -1916,13 +1949,14 @@
     "count": 1
   },
   "MiniMax": {
-    "last_seen": "2026-09-28",
+    "last_seen": "2026-10-10",
     "count": 1,
-    "appearances": 2,
-    "mentions": 2,
-    "mention_count": 2,
+    "appearances": 3,
+    "mentions": 3,
+    "mention_count": 3,
     "dates": [
-      "2026-09-28"
+      "2026-09-28",
+      "2026-10-10"
     ]
   },
   "Artificial Analysis": {
@@ -2182,10 +2216,14 @@
     "mention_count": 1
   },
   "Moonshot": {
-    "last_seen": "2026-09-10",
+    "last_seen": "2026-10-10",
     "count": 2,
-    "appearances": 1,
-    "mention_count": 2
+    "appearances": 2,
+    "mention_count": 3,
+    "mentions": 1,
+    "dates": [
+      "2026-10-10"
+    ]
   },
   "SpaceX Cursor": {
     "first_seen": "2026-08-28",
@@ -3741,12 +3779,14 @@
     ]
   },
   "StepFun": {
-    "last_seen": "2026-09-22",
-    "appearances": 1,
-    "mention_count": 1,
+    "last_seen": "2026-10-10",
+    "appearances": 2,
+    "mention_count": 2,
     "dates": [
-      "2026-09-22"
-    ]
+      "2026-09-22",
+      "2026-10-10"
+    ],
+    "mentions": 1
   },
   "Step 5 Preview": {
     "last_seen": "2026-09-22",
@@ -5270,6 +5310,42 @@
     "mentions": 1,
     "dates": [
       "2026-10-09"
+    ]
+  },
+  "Upscale AI": {
+    "last_seen": "2026-10-10",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-10"
+    ]
+  },
+  "Premji Invest": {
+    "last_seen": "2026-10-10",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-10"
+    ]
+  },
+  "legoESM": {
+    "last_seen": "2026-10-10",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-10"
+    ]
+  },
+  "REA": {
+    "last_seen": "2026-10-10",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-10"
     ]
   }
 }

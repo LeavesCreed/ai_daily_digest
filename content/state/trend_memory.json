@@ -1,9 +1,9 @@
 {
   "ai_governance_enforcement_phase": {
-    "last_updated": "2026-10-06",
+    "last_updated": "2026-10-10",
     "strength": "critical",
     "status": "critical",
-    "description": "Enforcement keeps arriving without federal statute while industry builds its own venue: Google, OpenAI and Anthropic are forming the FINRA-style Standards Authority for Frontier AI, the ACSC issued its first AI-misalignment advisory, and Australia's cabinet scheduled a review of the Medicare portal agent intrusion. On 2026-09-30 the US federal branch formalized the voluntary track (Joint Commitment on Frontier Responsibilities) while a CRS analysis found no settled antitrust path for coordinated slowdowns, and China published a mandatory lifecycle framework. On 2026-10-02 the FTC confirmed a broad investigation of OpenAI, Anthropic and evaluator METR preparing civil investigative demands, moving federal enforcement from voluntary pledges to existing statutory authority. On 2026-10-02 the enforcement track reached frontier-lab personnel: OpenAI confirmed it dismissed three safety and alignment researchers (Jasmine Wang, Tomek Korbak, Mikita Balesni) for mishandling sensitive information involving an external model evaluator, days after the White House secured its voluntary accord. Who may move which evidence across the lab-evaluator boundary is now the contested interface, and it is being defined by contracts and org charts faster than by statute. NYC joined the enforcement surface on 2026-10-05, putting frontier-lab executives under oath.",
+    "description": "Enforcement keeps arriving through disclosure and audit rather than statute: China's AI Safety Governance Framework 3.0 names capability risks (unauthorised permissions, deceiving evaluators, concealing capabilities) but bind mainly at the application layer, leaving an unpriced capability gap.",
     "first_seen": "2026-06-15"
   },
   "ai_infrastructure_compute_marketization": {
@@ -897,7 +897,9 @@
   "ai_safety_evidentiary_turn": {
     "first_seen": "2026-09-11",
     "status": "emerging",
-    "note": "Frontier labs shift from voluntary pledges to published, verifiable threat-intelligence records and actively request mandatory regulation"
+    "note": "Frontier labs shift from voluntary pledges to published, verifiable threat-intelligence records and actively request mandatory regulation",
+    "description": "Evidence and disclosure keep becoming the operative standard: SemiAnalysis finds only 3.6% of 857 Chinese model releases carry a published safety evaluation matchable to the model, and 93% of reasoning models have none, while arXiv caps submissions to protect its verification pipeline.",
+    "last_updated": "2026-10-10"
   },
   "consumer_agent_distribution_war": {
     "first_seen": "2026-09-11",
@@ -1606,5 +1608,29 @@
     "strength": "strong",
     "status": "strong",
     "description": "The State of AI Report 2026 frames the frontier as a three-lab race between Anthropic, OpenAI and Google, with OpenAI and Anthropic's combined annualized run-rate near $105B by late summer versus roughly $30B at the start of the year, concentrating capability, capital and regulatory attention in a shrinking set of actors."
+  },
+  "verification_capacity_as_bottleneck": {
+    "status": "critical",
+    "strength": "critical",
+    "last_updated": "2026-10-10",
+    "description": "Generation is nearly free while the capacity to check it (moderators, evaluators, published safety results) is exhausted: arXiv caps submissions at two per month after a record 40,363 in September, and SemiAnalysis can measure only disclosure, finding 3.6% of 857 Chinese releases with a published evaluation."
+  },
+  "memory_as_primary_ai_bottleneck": {
+    "status": "critical",
+    "strength": "critical",
+    "last_updated": "2026-10-10",
+    "description": "Memory rather than compute now sets the AI build-out schedule and captures the profit: Samsung guides to 107.4 trillion won (~$80.2B) quarterly operating profit on HBM4 demand with HBM bit shipments up ~50% QoQ, and both Samsung and Micron expect supply below demand through 2028."
+  },
+  "interconnect_layer_commoditization": {
+    "status": "emerging",
+    "strength": "emerging",
+    "last_updated": "2026-10-10",
+    "description": "Open scale-up standards aim to loosen NVLink lock-in at the fabric layer: Upscale AI's Token Fabric combines its SkyFabriX switch chip with NVIDIA Spectrum-X Ethernet and supports UALink and ESUN so GPUs, custom ASICs and NICs from different vendors share one network."
+  },
+  "consumer_capability_repricing": {
+    "status": "emerging",
+    "strength": "emerging",
+    "last_updated": "2026-10-10",
+    "description": "Frontier capability is re-priced at the consumer edge and metered by effort rather than model name: from 9 October Google limits free Gemini accounts to Flash-Lite, removes Pro from AI Plus, and adds low/medium/high effort settings that consume more usage allowance."
   }
 }

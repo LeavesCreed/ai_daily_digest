@@ -1,7 +1,131 @@
 {
   "version": 1,
-  "generated_at": "2026-10-08T23:17:58Z",
+  "generated_at": "2026-10-09T23:17:55Z",
   "entries": [
+    {
+      "date": "2026-10-10",
+      "title": "AI Daily Digest - 2026-10-10",
+      "summary": {
+        "en": "October 9 answered a narrower question than usual: not how fast models are improving, but who can prove anything about them and who pays for the compute. SemiAnalysis reviewed 857 model releases from nine leading Chinese developers and found published safety evaluations matched to a specific model in just 31 cases, or 3.6 percent, with only nine available at launch. arXiv, buried under a record 40,363 September submissions, capped every submitter at two papers per month and three active submissions - the first hard limit on a system whose moderation is voluntary. Upscale AI, an Nvidia-backed startup valued near $2 billion, shipped Token Fabric, networking that puts GPUs, custom ASICs and NICs from different vendors on one fabric using open scale-up standards instead of NVLink. Samsung guided to 107.4 trillion won (about $80.2 billion) of quarterly operating profit, the first time any technology company has cleared 100 trillion won in a quarter, on the back of an AI memory shortage its own management expects to persist through 2028. And Google cut free Gemini accounts down to Flash-Lite alone, moving Flash and Pro behind subscriptions - the inference bill arriving on the consumer side.",
+        "zh": "10 月 9 日给出的答案比平常更窄：不是模型进步多快，而是谁能证明模型的相关事实、谁为算力买单。SemiAnalysis 审查了中国九家头部开发者的 857 次模型发布，只有 31 次（3.6%）能对上该模型的公开安全评估，其中仅 9 次在发布时或之前可用。arXiv 在 9 月收到创纪录的 40,363 篇投稿后，把每位投稿人限制为每月两篇、同时最多三篇在审——这是对一个依赖志愿审核的系统第一次上硬性上限。英伟达投资、估值约 20 亿美元的 Upscale AI 发布 Token Fabric，用开放 scale-up 标准而非 NVLink，把不同厂商的 GPU、自研 ASIC 与网卡放进同一张网络。三星指引三季度营业利润 107.4 万亿韩元（约 802 亿美元），成为首家单季营业利润突破 100 万亿韩元的科技公司，靠的是管理层预期会持续到 2028 年的内存短缺。Google 则把免费版 Gemini 砍到只剩 Flash-Lite，把 Flash 与 Pro 移入订阅——推理账单开始落到消费者一侧。"
+      },
+      "categories": [
+        "AI Safety",
+        "Research",
+        "Infrastructure",
+        "Industry",
+        "Models"
+      ],
+      "tags": [
+        "SemiAnalysis",
+        "China",
+        "Safety Evaluation",
+        "Disclosure",
+        "DeepSeek",
+        "Alibaba",
+        "Moonshot",
+        "AI Safety Governance Framework",
+        "arXiv",
+        "Preprints",
+        "AI Slop",
+        "Research Integrity",
+        "Moderation",
+        "Upscale AI",
+        "Token Fabric",
+        "UALink",
+        "ESUN",
+        "NVIDIA",
+        "Interconnect",
+        "Neoclouds",
+        "Custom Silicon",
+        "Samsung",
+        "HBM4",
+        "DRAM",
+        "Earnings",
+        "Memory",
+        "Chips",
+        "Google",
+        "Gemini",
+        "Flash-Lite",
+        "Pricing",
+        "Subscription",
+        "Consumer AI"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-10.md",
+        "zh": "./content/daily_zh/2026-10-10.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "SemiAnalysis Finds Only 3.6% of Chinese Model Releases Carry Published Safety Evaluations",
+          "summary": "Of 857 releases from nine leading Chinese labs, 31 match a published safety evaluation and only nine had results at launch; reasoning models show 93% with none.",
+          "category": "AI Safety",
+          "tags": [
+            "SemiAnalysis",
+            "China",
+            "Safety Evaluation",
+            "Disclosure",
+            "AI Safety Governance Framework"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "arXiv Caps Submissions at Two Papers a Month as AI Slop Overwhelms Volunteer Moderation",
+          "summary": "A two-per-month quota with three active submissions, after September 2026 brought a record 40,363 submissions, near double September 2024.",
+          "category": "Research",
+          "tags": [
+            "arXiv",
+            "Preprints",
+            "AI Slop",
+            "Research Integrity",
+            "Moderation"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Upscale AI Ships Token Fabric to Put Rival AI Chips on a Single Network",
+          "summary": "An Nvidia-backed startup puts GPUs, custom ASICs and NICs from any vendor on one fabric via UALink and ESUN, with the first version due in Q4 2026.",
+          "category": "Infrastructure",
+          "tags": [
+            "Upscale AI",
+            "Token Fabric",
+            "UALink",
+            "ESUN",
+            "NVIDIA",
+            "Interconnect"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Samsung Guides to a Record $80.2 Billion Quarterly Operating Profit on AI Memory",
+          "summary": "Operating profit of 107.4 trillion won, up about 782% year over year and the first quarter above 100 trillion won for any technology company.",
+          "category": "Industry",
+          "tags": [
+            "Samsung",
+            "HBM4",
+            "DRAM",
+            "Earnings",
+            "Memory"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Google Cuts Free Gemini to Flash-Lite Alone and Moves Pro Behind a Subscription",
+          "summary": "Free accounts drop to Gemini 3.5 Flash-Lite, AI Plus loses Pro, and new low/medium/high effort settings meter reasoning compute per plan.",
+          "category": "Models",
+          "tags": [
+            "Google",
+            "Gemini",
+            "Flash-Lite",
+            "Pricing",
+            "Subscription",
+            "Consumer AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-09",
       "title": "AI Daily Digest - 2026-10-09",
