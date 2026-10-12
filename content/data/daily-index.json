@@ -1,7 +1,130 @@
 {
   "version": 1,
-  "generated_at": "2026-10-10T23:18:24Z",
+  "generated_at": "2026-10-12T23:18:33Z",
   "entries": [
+    {
+      "date": "2026-10-13",
+      "title": "AI Daily Digest - 2026-10-13",
+      "summary": {
+        "en": "Meta shipped Muse Wonder and Muse Wonder Full, its first frontier agentic models and its first closed-weight flagship; Microsoft announced Maia 300 and said in-house silicon becomes its primary inference system from 2027; Microsoft's president and CEO publicly asked for binding frontier rules with mandatory pre-release evaluation, incident notification and an emergency brake; d-Matrix opened data-center-scale memory-centric inference clusters; and Cloudflare extended its open-weight decision family to audio and video.",
+        "zh": "Meta 发布 Muse Wonder 与 Muse Wonder Full，是其首批前沿级智能体模型，也是首次在旗舰档采用闭源权重；微软发布 Maia 300，并宣布从 2027 年起以自研芯片承载主要推理负载；微软总裁与 CEO 公开主张有约束力的前沿规则，包括发布前强制评估、事故通知与紧急制动；d-Matrix 交付数据中心级、以内存为中心的推理集群；Cloudflare 把开源权重的判断模型扩展到音频与视频。"
+      },
+      "categories": [
+        "Models",
+        "Infrastructure",
+        "AI Safety",
+        "Open Source"
+      ],
+      "tags": [
+        "Meta",
+        "Muse Wonder",
+        "Muse Wonder Full",
+        "Closed Weights",
+        "Agents",
+        "OpenRouter",
+        "Microsoft",
+        "Maia 300",
+        "Custom Silicon",
+        "Inference",
+        "Azure",
+        "MXFP4",
+        "Brad Smith",
+        "Satya Nadella",
+        "Regulation",
+        "Kill Switch",
+        "Pre-Release Evaluation",
+        "UK AISI",
+        "d-Matrix",
+        "Squadron",
+        "Corsair XPU",
+        "OCP",
+        "NVLink Fusion",
+        "Cloudflare",
+        "Clef-omni",
+        "Decision Models",
+        "Multimodal",
+        "Apache 2.0",
+        "Workers AI"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-13.md",
+        "zh": "./content/daily_zh/2026-10-13.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Meta Ships Muse Wonder and Muse Wonder Full, Its First Frontier Models, With Closed Weights",
+          "summary": "Meta Superintelligence Labs launched two frontier agentic models with closed weights; only the weaker one is available through the public API at $4 in and $20 out per million tokens.",
+          "category": "Models",
+          "tags": [
+            "Meta",
+            "Muse Wonder",
+            "Muse Wonder Full",
+            "Closed Weights",
+            "Agents",
+            "OpenRouter"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Microsoft Announces Maia 300 and Commits to Multi-Gigawatt In-House Inference",
+          "summary": "Microsoft's third-generation accelerator targets 40% more tokens per megawatt and 7x Maia 200 rack throughput, with multi-gigawatt deployment as its primary inference system from 2027.",
+          "category": "Infrastructure",
+          "tags": [
+            "Microsoft",
+            "Maia 300",
+            "Custom Silicon",
+            "Inference",
+            "Azure",
+            "MXFP4"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Microsoft's President and CEO Ask for Binding Frontier Rules",
+          "summary": "Brad Smith proposed mandatory pre-release evaluation, an emergency brake and a legal duty to notify victims of rogue-agent breaches; Nadella argued for containment-first engineering.",
+          "category": "AI Safety",
+          "tags": [
+            "Brad Smith",
+            "Satya Nadella",
+            "Microsoft",
+            "Regulation",
+            "Kill Switch",
+            "Pre-Release Evaluation",
+            "UK AISI"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "d-Matrix Opens Squadron, Memory-Centric Inference Clusters at Data-Center Scale",
+          "summary": "Squadron scales to 16 SquadRacks and 1,024 Corsair XPUs with Supermicro integration and NVLink Fusion adoption; Corsair servers and SquadRacks are now generally available.",
+          "category": "Infrastructure",
+          "tags": [
+            "d-Matrix",
+            "Squadron",
+            "Corsair XPU",
+            "Inference",
+            "OCP",
+            "NVLink Fusion"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Cloudflare Adds Multimodal Clef-omni and Pushes the Judgment Layer Toward Free",
+          "summary": "A 30B-A3B open-weight decision model reads text, JSON, image, audio and video in one pass at $0.15 per million input tokens, while Clef-flash drops to $0.038.",
+          "category": "Open Source",
+          "tags": [
+            "Cloudflare",
+            "Clef-omni",
+            "Decision Models",
+            "Multimodal",
+            "Apache 2.0",
+            "Workers AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-11",
       "title": "AI Daily Digest - 2026-10-11",
