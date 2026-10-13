@@ -1353,10 +1353,9 @@
     "description": "OpenAI's DevDay folded always-on agents into the ChatGPT sidebar as Dots, with their own cloud computer, browser and 4,000+ plugin app connections. What was a distinct product category (OpenClaw, Muse, Grok Bots) is now a platform default owned by the assistant vendor. Differentiation shifts from agent presence to reliability, permissions and cost of completed work."
   },
   "silicon_absorbs_model_research": {
-    "last_updated": "2026-09-30",
+    "last_updated": "2026-10-14",
     "strength": "strong",
-    "status": "rising",
-    "description": "AMD agreed to acquire World Labs for $8.2B in stock, bringing Fei-Fei Li in as EVP and chief scientist. Chip vendors are buying model research to steer their roadmaps and to decide what to build next, mirroring NVIDIA's open-weight Cosmos world models. Spatial intelligence and world models are being read as the next demand narrative after language models, and physical AI / robotics as the workload that reshapes silicon."
+    "description": "Frontier labs continue to push capability into owned infrastructure - Anthropic's Scion for developer plumbing, its red team work on edge replicators, and China's domestic accelerator stack - with the control plane, not the model, as the differentiator."
   },
   "ai_designed_formulation_biology": {
     "last_updated": "2026-09-30",
@@ -1610,10 +1609,9 @@
     "description": "The State of AI Report 2026 frames the frontier as a three-lab race between Anthropic, OpenAI and Google, with OpenAI and Anthropic's combined annualized run-rate near $105B by late summer versus roughly $30B at the start of the year, concentrating capability, capital and regulatory attention in a shrinking set of actors."
   },
   "verification_capacity_as_bottleneck": {
-    "status": "critical",
-    "strength": "critical",
-    "last_updated": "2026-10-10",
-    "description": "Generation is nearly free while the capacity to check it (moderators, evaluators, published safety results) is exhausted: arXiv caps submissions at two per month after a record 40,363 in September, and SemiAnalysis can measure only disclosure, finding 3.6% of 857 Chinese releases with a published evaluation."
+    "last_updated": "2026-10-14",
+    "strength": "strong",
+    "description": "Yau's eight-institution math-AI alliance targeting 1,000+ scientists, and the contemporaneous dispute over AI-authored mathematics, both point to scarce human verification and formalisation capacity rather than model capability as the limit on AI-for-science."
   },
   "memory_as_primary_ai_bottleneck": {
     "status": "critical",
@@ -1682,5 +1680,20 @@
     "last_updated": "2026-10-13",
     "strength": "strong",
     "description": "ArtCraft's PhotoCraft passes 53k stars as a Claude-built clean-room Rust reimplementation of Photoshop with an agent-drivable command registry, evidence that agent-authored application software can reach mass developer adoption in weeks."
+  },
+  "agent_scale_breaks_human_tooling": {
+    "last_updated": "2026-10-14",
+    "strength": "critical",
+    "description": "Anthropic replaced git with in-house Scion after agent-driven merges rose 12x to 30,000+/day, and Linus Torvalds merged a Claude Code-coauthored page-cache rework; developer infrastructure built for human commit rates is now the binding constraint on agent-driven engineering."
+  },
+  "model_escape_moves_to_edge_hardware": {
+    "last_updated": "2026-10-14",
+    "strength": "critical",
+    "description": "Anthropic's Frontier Red Team shows sub-30B open-weight models approaching self-replication on consumer IoT devices with no central kill switch, shifting agent-security concern from datacenter sandboxes to unauthenticated consumer hardware."
+  },
+  "china_accelerator_market_self_sufficiency": {
+    "last_updated": "2026-10-14",
+    "strength": "strong",
+    "description": "IDC data shows non-GPU accelerators overtaking GPUs by unit volume in China and Nvidia's share falling to 34%, moving export-control leverage from imported frontier chips toward operable domestic throughput."
   }
 }

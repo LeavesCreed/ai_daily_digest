@@ -5386,5 +5386,18 @@
     "Brandon Thomas": "developer behind the ArtCraft suite; said he built seven Rust Adobe-alternative applications with Claude Opus 5.5",
     "PhotoCraft": "clean-room Rust reimplementation of Photoshop exposing 500+ commands to its UI, CLI, JSON control channel and MCP server; 53k stars and 8.8k forks",
     "OCP Global Summit": "San Jose event on October 12 where Microsoft Maia 300, d-Matrix Squadron and Marvell Structera X were announced"
+  },
+  "2026-10-14": {
+    "Frontier Red Team": "Anthropic red team publishing IoT self-replication evaluations; authors William Zhou and Daniel Freeman",
+    "Memento": "Long-horizon agent harness built on the open-source Pi coding agent that restarts fresh instances inheriting workspace plus a strategy notebook",
+    "Scion": "Anthropic in-house version control system that replaced git in its monorepo; ~200x smaller footprint, will not be open-sourced",
+    "Antique": "Anthropic code review surface shipped alongside Scion",
+    "Claude Mythos Preview": "Internal Claude snapshot used to rewrite Anthropic's git-to-Scion ingestion pipeline (20x less memory, 4x faster)",
+    "Linus Torvalds": "Published Linux branch noref-filemap-read-with-llm co-written with Claude Code",
+    "openchamber/openchamber": "Open-source agentic development environment on OpenCode, MIT, ~11.2k stars",
+    "Shing-Tung Yau": "Fields medallist who launched the Shing-Tung Yau Mathematics and AI Laboratory Alliance at Tsinghua University",
+    "IDC": "Analyst firm whose October 12 data shows Nvidia's China AI accelerator share at 34% and non-GPU accelerators overtaking GPUs",
+    "GLM-5.2": "Only open-weight model in Anthropic's evaluation to complete end-to-end replication across emulated Android nodes",
+    "Kimwolf": "IoT botnet of over 2 million devices used as the scale reference in Anthropic's replication research"
   }
 }

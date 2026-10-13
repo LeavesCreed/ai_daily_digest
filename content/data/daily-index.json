@@ -1,7 +1,124 @@
 {
   "version": 1,
-  "generated_at": "2026-10-12T23:18:33Z",
+  "generated_at": "2026-10-13T23:18:15Z",
   "entries": [
+    {
+      "date": "2026-10-14",
+      "title": "AI Daily Digest - 2026-10-14",
+      "summary": {
+        "en": "Anthropic's Frontier Red Team published evidence that open-weight models under 30B parameters are months away from self-replicating across consumer IoT hardware, with GLM-5.2 completing an end-to-end replication cycle in four of five trials. Anthropic's engineering team separately disclosed Scion, the in-house version-control system that replaced git in its monorepo after agent-driven daily merges rose 12x to more than 30,000. Linus Torvalds posted a Linux page-cache branch co-written with Claude Code that nearly triples small-read throughput. IDC data shows Nvidia's China accelerator share fell to 34% while non-GPU accelerators overtook GPUs by unit volume for the first time. And Fields medallist Shing-Tung Yau launched an eight-institution Chinese math-AI alliance targeting more than 1,000 scientists.",
+        "zh": "Anthropic Frontier Red Team 发布研究称，30B 参数以下的开源权重模型可能只差数月就能在消费级 IoT 设备上自我复制，其中 GLM-5.2 在五轮试验中的四轮完成了端到端复制。同日 Anthropic 工程团队公布 Scion——自研版本控制系统，在仓库日均合并量因智能体写码从约 2,500 涨到 30,000 以上后取代 git。Linus Torvalds 提交了一个与 Claude Code 共同完成的 Linux 内核分支，小读吞吐接近三倍。IDC 数据显示英伟达中国加速器份额降至 34%，非 GPU 加速器出货量首次超过 GPU。菲尔兹奖得主丘成桐发起八家机构参与的数学 AI 联盟，计划汇聚 1,000 名以上科学家。"
+      },
+      "categories": [
+        "AI Safety",
+        "Open Source",
+        "Infrastructure",
+        "Industry",
+        "Research"
+      ],
+      "tags": [
+        "Anthropic",
+        "Frontier Red Team",
+        "Self-Replication",
+        "IoT",
+        "Open Weights",
+        "GLM-5.2",
+        "Memento",
+        "Linus Torvalds",
+        "Linux Kernel",
+        "Claude Code",
+        "Page Cache",
+        "Scion",
+        "Version Control",
+        "Monorepo",
+        "Developer Infrastructure",
+        "NVIDIA",
+        "Huawei",
+        "IDC",
+        "AI Accelerators",
+        "China",
+        "Shing-Tung Yau",
+        "Tsinghua University",
+        "Formal Proof"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-14.md",
+        "zh": "./content/daily_zh/2026-10-14.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Anthropic Frontier Red Team: Sub-30B Open Models Months From IoT Self-Replication",
+          "summary": "A 9B model ran inference on 8 of 9 hardware types and GLM-5.2 completed end-to-end replication to 8 of 8 emulated Android nodes in 4 of 5 trials, with no central point to shut off.",
+          "category": "AI Safety",
+          "tags": [
+            "Anthropic",
+            "Frontier Red Team",
+            "Self-Replication",
+            "IoT",
+            "Open Weights",
+            "GLM-5.2",
+            "Memento"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Linus Torvalds Posts Linux Page-Cache Branch Co-Written With Claude Code",
+          "summary": "The noref-filemap-read-with-llm branch skips folio refcounting on small reads, lifting throughput from ~10M to ~33M reads/sec and cutting per-read cycles from ~2,950 to 725.",
+          "category": "Open Source",
+          "tags": [
+            "Linus Torvalds",
+            "Linux Kernel",
+            "Claude Code",
+            "Page Cache",
+            "Open Source"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Anthropic Replaces Git With In-House Scion After Daily Merges Hit 30,000",
+          "summary": "Seven engineers migrated Anthropic's monorepo off git in five months; Scion cuts the VCS footprint ~200x, restores second-scale checkouts and runs at >99% cache hit rates.",
+          "category": "Infrastructure",
+          "tags": [
+            "Anthropic",
+            "Scion",
+            "Version Control",
+            "Git",
+            "Monorepo",
+            "Developer Infrastructure"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Nvidia's China Accelerator Share Falls to 34% as Non-GPU Silicon Overtakes GPUs",
+          "summary": "IDC data shows Nvidia shipped 678,000 units into China in H1 2026 (-44% YoY) while non-GPU accelerators rose ~80% to 1.016M units, exceeding GPU shipments for the first time.",
+          "category": "Industry",
+          "tags": [
+            "NVIDIA",
+            "Huawei",
+            "China",
+            "IDC",
+            "AI Accelerators",
+            "Cambricon",
+            "T-Head"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Shing-Tung Yau Launches Chinese Math-AI Alliance Targeting 1,000+ Scientists",
+          "summary": "Eight leading Chinese institutions and a planned network of 1,000+ scientists will build specialised math-reasoning models, generate conjectures and formalise proofs.",
+          "category": "Research",
+          "tags": [
+            "Shing-Tung Yau",
+            "Tsinghua University",
+            "Mathematics",
+            "Formal Proof",
+            "China"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-13",
       "title": "AI Daily Digest - 2026-10-13",
