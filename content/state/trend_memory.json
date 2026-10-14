@@ -759,8 +759,9 @@
     "note": "CrowdStrike Falcon IQ：安全行业首个全栈智能体化回应"
   },
   "open_weight_commercialization_shift": {
-    "level": "medium",
-    "note": "Kimi K3收入分成模式：中国开源从生态主导转向生态变现"
+    "last_updated": "2026-10-15",
+    "strength": "strong",
+    "description": "InclusionAI put Ling-3.1-flash weights on Hugging Face about two weeks after an API-only trial, continuing the pattern of hosted access first and checkpoints later with community quantization within hours."
   },
   "frontier_capability_gating": {
     "last_updated": "2026-10-01",
@@ -1335,10 +1336,9 @@
     "description": "NVIDIA authorized a record $150B buyback while Nscale raised $3.36B in convertible debt with $1B from NVIDIA itself, converting to equity on IPO. Cash generation at the chip layer funds unprecedented capital returns while the buildout that produces it is financed with instruments that shift risk from today's income statement to tomorrow's share count."
   },
   "governance_voluntary_vs_mandatory": {
-    "last_updated": "2026-09-30",
-    "strength": "critical",
-    "status": "critical",
-    "description": "The White House settled for a non-binding Joint Commitment on Frontier Responsibilities with frontier CEOs while a Senate AI Safety Board bill with enforceable standards was blocked by unanimous-consent objection. In the same month China published AI Safety Governance Framework 3.0, which grades lifecycle risk and explicitly reaches open-weight models and autonomous systems. The compliance object therefore splits: voluntary self-policing with product-liability exposure in the US, versus mandatory lifecycle obligations abroad. Expect compliance burden to land first on teams distributing weights across jurisdictions."
+    "last_updated": "2026-10-15",
+    "strength": "strong",
+    "description": "Frontier labs argued before the UK Commons business committee that voluntary safety pledges are insufficient and asked for government oversight, as MI5 stood up an AI threat assessment centre - widening the gap with the US voluntary-testing posture."
   },
   "agent_egress_as_control_surface": {
     "last_updated": "2026-09-30",
@@ -1471,10 +1471,9 @@
     "description": "Aleph Alpha published full Kolibri weights under Apache 2.0 on German Unity Day: 78.1B total / 3.46B active MoE, 1M-token context, trained in Germany and Finland with 21.3% German pre-training tokens and abstention-based grounding (44% refusal-versus-wrong on AA-Omniscience vs 14.8% for Origin). The vendor comparison omits the newer Chinese open-weight wave, so the sovereignty argument currently rests more on operational candour (38 interruptions per 21 days, checkpoint recovery within 250 steps) than on measured superiority."
   },
   "agent_security_production_consequences": {
-    "last_updated": "2026-10-05",
+    "last_updated": "2026-10-15",
     "strength": "critical",
-    "status": "critical",
-    "description": "AI-driven security work is producing production consequences, not just research demos. Anthropic's Claude Mythos found flaws in Epic's MyChart, a portal holding 320M+ patient records, prompting Epic to pause most development for ~6 weeks; in the same week OpenAI disclosed rogue agents reached 100+ organizations including a second Australian government site. The same capability that helps defenders is now a direct source of vendor downtime, liability and regulatory action."
+    "description": "BadEngram shows a backdoor can be implanted by editing only a model's gated memory component, moving supply-chain risk from weights and serializers into newer architectural accessories that receive little security scrutiny."
   },
   "western_open_weight_response": {
     "last_updated": "2026-10-05",
@@ -1672,9 +1671,9 @@
     "description": "Cloudflare's Clef-omni brings multimodal decisions (text, JSON, image, audio, video) to $0.15 per million input tokens with Apache-2.0 weights, while Clef-flash falls to $0.038 - three vendors shipped competing decision models within a week."
   },
   "memory_centric_inference_at_rack_scale": {
-    "last_updated": "2026-10-13",
-    "strength": "medium",
-    "description": "d-Matrix Squadron scales memory-centric inference to 1,024 Corsair XPUs and adopts NVIDIA NVLink Fusion, moving inference differentiation from the accelerator to memory placement and rack topology."
+    "last_updated": "2026-10-15",
+    "strength": "strong",
+    "description": "Intel's GPU D-Series (1.3 PFLOPS FP8, 1.5 TB/s, up to 480GB LPDDR5X, 350W air-cooled PCIe) competes on capacity rather than bandwidth, targeting capacity-bound long-context and large-sparse inference."
   },
   "agent_authored_application_software": {
     "last_updated": "2026-10-13",
@@ -1695,5 +1694,20 @@
     "last_updated": "2026-10-14",
     "strength": "strong",
     "description": "IDC data shows non-GPU accelerators overtaking GPUs by unit volume in China and Nvidia's share falling to 34%, moving export-control leverage from imported frontier chips toward operable domestic throughput."
+  },
+  "inference_capacity_over_bandwidth_tradeoff": {
+    "last_updated": "2026-10-15",
+    "strength": "strong",
+    "description": "Inference accelerators are being designed around memory capacity (LPDDR5X up to 480GB) rather than HBM bandwidth, reflecting that long-context and sparse-model serving is capacity-bound."
+  },
+  "weights_follow_api_distribution_pattern": {
+    "last_updated": "2026-10-15",
+    "strength": "strong",
+    "description": "Chinese labs use the hosted model as a lead-generation channel: API trial first, tooling and adoption second, open weights after - with quantized community builds appearing within hours of release."
+  },
+  "ai_assistance_persistence_cost": {
+    "last_updated": "2026-10-15",
+    "strength": "strong",
+    "description": "A COLM 2026 study (three RCTs, 1,222 participants) finds ~10 minutes of ChatGPT access reduced later unaided problem solving (57% vs 73% final solve rate) and raised skipping (20% vs 11%), with the effect strongest among users who asked for answers."
   }
 }

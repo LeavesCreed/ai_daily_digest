@@ -5399,5 +5399,19 @@
     "IDC": "Analyst firm whose October 12 data shows Nvidia's China AI accelerator share at 34% and non-GPU accelerators overtaking GPUs",
     "GLM-5.2": "Only open-weight model in Anthropic's evaluation to complete end-to-end replication across emulated Android nodes",
     "Kimwolf": "IoT botnet of over 2 million devices used as the scale reference in Anthropic's replication research"
+  },
+  "2026-10-15": {
+    "InclusionAI": "Ant Group research group that published Ling-3.1-flash open weights (560B MoE / 25B active)",
+    "Ling-3.1-flash": "Hybrid-reasoning MoE agent model from InclusionAI; weights released on Hugging Face Oct 13-14 as 54 safetensors shards",
+    "Intel GPU D-Series": "Crescent Island accelerator officially named at OCP Global Summit: Xe3P, 1.3 PFLOPS FP8, 1.5 TB/s, up to 480GB LPDDR5X, 350W air-cooled PCIe",
+    "Pillar Security": "Security vendor that disclosed BadEngram with Fujitsu Research of Europe",
+    "BadEngram": "Supply-chain attack implanting a persistent backdoor in a model's gated parametric memory only",
+    "Fujitsu Research of Europe": "Co-author of the BadEngram research",
+    "Business, Innovation, Science and Trade Committee": "UK Commons committee holding the Oct 13 AI security evidence session",
+    "AISI": "UK AI Security Institute; invited to the same session",
+    "MI5": "UK intelligence service naming AI misuse a national-security threat and standing up an AI threat assessment centre",
+    "Daniel Kokotajlo": "AI Futures Project; panel one witness",
+    "Geoffrey Irving": "Co-founder and chief scientist at Resolution; panel one witness",
+    "Brian Christian": "Berkeley CHAI co-author of the AI assistance persistence study"
   }
 }

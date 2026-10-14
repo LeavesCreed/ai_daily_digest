@@ -1,7 +1,126 @@
 {
   "version": 1,
-  "generated_at": "2026-10-13T23:18:15Z",
+  "generated_at": "2026-10-15T23:15:00Z",
   "entries": [
+    {
+      "date": "2026-10-15",
+      "title": "AI Daily Digest - 2026-10-15",
+      "summary": {
+        "en": "Ant Group's InclusionAI published full Ling-3.1-flash weights on Hugging Face, a 560B-parameter mixture-of-experts agent model with roughly 25B active parameters, about two weeks after its API-only free trial began. Intel used the OCP Global Summit to confirm that Crescent Island ships as the Intel GPU D-Series: 1.3 peak PFLOPS of FP8 compute, 1.5 TB/s of memory bandwidth and up to 480GB of LPDDR5X inside a 350-watt air-cooled PCIe card. Pillar Security and Fujitsu Research disclosed BadEngram, a supply-chain attack that implants a persistent backdoor by modifying only a model's gated memory component, demonstrated against current open-weight models. The UK Commons Business, Innovation, Science and Trade Committee questioned researchers and frontier-lab policy leads on whether pre-release testing and incident reporting should be legally mandatory, with MI5 naming AI misuse a national-security threat. And a Berkeley-led, COLM 2026 paper found that roughly ten minutes of ChatGPT access reduced later persistence: the assisted group solved 57% versus 73% unaided on the final problems and skipped 20% versus 11%.",
+        "zh": "蚂蚁集团旗下 InclusionAI 在 Hugging Face 放出 Ling-3.1-flash 全量权重：约 5600 亿总参数、约 250 亿激活的 MoE 智能体模型，距离其仅开放 API 的免费试用约两周。英特尔在 OCP 全球峰会上确认 Crescent Island 正式定名 Intel GPU D-Series：FP8 峰值 1.3 PFLOPS、1.5 TB/s 内存带宽、最高 480GB LPDDR5X，350 瓦风冷 PCIe 卡。Pillar Security 与富士通欧洲研究院披露 BadEngram：仅修改模型门控记忆组件即可植入持久后门，已在当前开源权重模型上演示。英国下议院商业、创新、科学与贸易委员会就\"是否应法定强制发布前测试与事件上报\"质询研究者与前沿实验室政策负责人，MI5 将 AI 滥用列为国家安全威胁。伯克利牵头、COLM 2026 收录的论文发现：约十分钟的 ChatGPT 使用会降低后续坚持度——最后一组题目受助组解出率 57% 对无助手组 73%，跳过率 20% 对 11%。"
+      },
+      "categories": [
+        "Open Source",
+        "Infrastructure",
+        "AI Safety",
+        "Research"
+      ],
+      "tags": [
+        "InclusionAI",
+        "Ant Group",
+        "Ling-3.1-flash",
+        "MoE",
+        "Open Weights",
+        "Hugging Face",
+        "Agentic",
+        "Intel",
+        "Xe3P",
+        "OCP Global Summit",
+        "Inference",
+        "GPU D-Series",
+        "LPDDR5X",
+        "Pillar Security",
+        "Fujitsu Research",
+        "Backdoor",
+        "Supply Chain",
+        "Model Security",
+        "UK Parliament",
+        "MI5",
+        "AISI",
+        "Frontier Labs",
+        "Mandatory Testing",
+        "UC Berkeley",
+        "ChatGPT",
+        "Persistence",
+        "RCT",
+        "Cognitive Effects"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-15.md",
+        "zh": "./content/daily_zh/2026-10-15.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "InclusionAI Publishes Ling-3.1-flash Weights: 560B MoE, 25B Active",
+          "summary": "Ant Group's InclusionAI released full Ling-3.1-flash weights on Hugging Face roughly two weeks after its API-only trial: 560B total parameters, ~25B active, 54 safetensors shards, vendor-reported benchmarks only.",
+          "category": "Open Source",
+          "tags": [
+            "InclusionAI",
+            "Ant Group",
+            "Ling-3.1-flash",
+            "MoE",
+            "Open Weights",
+            "Hugging Face",
+            "Agentic"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Intel Confirms GPU D-Series: 480GB LPDDR5X Inference Card At 350 Watts",
+          "summary": "Intel named Crescent Island the Intel GPU D-Series at OCP: Xe3P, up to 1.3 PFLOPS FP8, 1.5 TB/s, up to 480GB LPDDR5X, 350W air-cooled PCIe, targeting capacity-bound long-context inference.",
+          "category": "Infrastructure",
+          "tags": [
+            "Intel",
+            "Xe3P",
+            "OCP Global Summit",
+            "Inference",
+            "GPU D-Series",
+            "LPDDR5X"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "BadEngram: A Backdoor Hidden In A Model's Gated Memory",
+          "summary": "Pillar Security and Fujitsu Research of Europe showed a persistent backdoor can be implanted by modifying only a model's gated memory component, dormant until triggered and hard to detect by conventional testing.",
+          "category": "AI Safety",
+          "tags": [
+            "Pillar Security",
+            "Fujitsu Research",
+            "Backdoor",
+            "Supply Chain",
+            "Model Security"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "UK Committee Presses Frontier Labs On Mandatory Testing As MI5 Flags AI Risk",
+          "summary": "A UK Commons committee questioned ex-lab researchers, frontier-lab policy leads and AISI on whether pre-release testing and incident reporting should be statutory; Anthropic and OpenAI called voluntary pledges insufficient while MI5 named AI misuse a security threat.",
+          "category": "AI Safety",
+          "tags": [
+            "UK Parliament",
+            "MI5",
+            "AISI",
+            "Frontier Labs",
+            "Mandatory Testing"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Ten Minutes With ChatGPT Reduced Persistence On Later Problems",
+          "summary": "A COLM 2026 study across three RCTs and 1,222 participants found brief ChatGPT access lowered later unaided performance (57% vs 73% solve rate; 20% vs 11% skip rate), concentrated among users who asked for direct answers.",
+          "category": "Research",
+          "tags": [
+            "UC Berkeley",
+            "ChatGPT",
+            "Persistence",
+            "RCT",
+            "Cognitive Effects"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-14",
       "title": "AI Daily Digest - 2026-10-14",

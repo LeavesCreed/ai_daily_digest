@@ -758,5 +758,12 @@
   "Intel GPU D270 debuts at OCP with 480GB LPDDR5X",
   "Scaleway builds AMD MI355X AI supercomputer in Sweden",
   "Jack Clark pulls recursive self-improvement forecast to 2027",
-  "Anthropic distillation defenses cut data harvesting 90-99%"
+  "Anthropic distillation defenses cut data harvesting 90-99%",
+  "InclusionAI publishes Ling-3.1-flash weights: 560B MoE, 25B active",
+  "Intel confirms GPU D-Series: 480GB LPDDR5X inference card at 350 watts",
+  "BadEngram: a backdoor hidden in a model's gated memory",
+  "UK committee presses frontier labs on mandatory testing as MI5 flags AI risk",
+  "Ten minutes with ChatGPT reduced persistence on later problems",
+  "HybridAgents latent reasoning cuts agent compute cost",
+  "openai/math Lean-verified mathematics repository"
 ]
