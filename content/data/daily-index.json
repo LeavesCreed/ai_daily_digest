@@ -1,7 +1,120 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T23:15:00Z",
+  "generated_at": "2026-10-15T23:18:51Z",
   "entries": [
+    {
+      "date": "2026-10-16",
+      "title": "AI Daily Digest - 2026-10-16",
+      "summary": {
+        "en": "Meta published Muse Spark Open, an 816B-parameter open-weight mixture-of-experts model it calls the most capable US open-weight release to date, tuned for coding and agentic work and runnable on two paired M5 Ultra Mac Studios. A Chinese team led by Xu Disheng used Shanghai AI Lab's Intern-S2 to prove the 3D Ghys conjecture, a complex-dynamics problem open since 1995, with the argument computer-checked in Lean. The US FTC sent civil subpoenas to OpenAI and Anthropic over safety incidents, while Anthropic named METR and SecureBio as embedded evaluators. Anthropic reported 16.8 billion dollars in Q3 revenue and turned cash-flow positive ahead of an IPO expected after the November midterms. And CoreWeave shares fell about 15 percent as the yield on its 2031 bonds passed 16 percent, with Gartner warning that roughly 80 percent of neoclouds could shut down by 2030.",
+        "zh": "Meta 放出 Muse Spark Open 全量权重：8160 亿参数的 MoE 模型，自称美国迄今最强开源权重模型，面向编码与智能体任务，可在两台串联的 M5 Ultra Mac Studio 上本地运行。由徐地生领衔的中国团队借助上海人工智能实验室的 Intern-S2 完整证明了 1995 年提出的三维 Ghys 猜想，证明经过 Lean 机器校验。美国 FTC 就安全事故向 OpenAI 与 Anthropic 发出民事传票，同日 Anthropic 宣布将 METR 与 SecureBio 作为嵌入式评估方引入公司内部。Anthropic 公布第三季度营收 168 亿美元并在 IPO 前实现自由现金流转正，上市预计在 11 月中期选举之后。CoreWeave 股价单日下跌约 15%，其 2031 年债券收益率突破 16%，Gartner 警告到 2030 年约 80% 的新型云厂商可能倒闭。"
+      },
+      "categories": [
+        "Open Source",
+        "Research",
+        "AI Safety",
+        "Industry",
+        "Infrastructure"
+      ],
+      "tags": [
+        "Meta",
+        "Muse Spark Open",
+        "Open Weights",
+        "MoE",
+        "Mac Studio",
+        "Coding",
+        "Shanghai AI Lab",
+        "Intern-S2",
+        "Mathematics",
+        "Anosov Systems",
+        "Theorem Proving",
+        "FTC",
+        "OpenAI",
+        "Anthropic",
+        "METR",
+        "SecureBio",
+        "Consumer Protection",
+        "IPO",
+        "Revenue",
+        "CoreWeave",
+        "AI Debt",
+        "Datacenter Financing",
+        "Gartner",
+        "Neoclouds"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-16.md",
+        "zh": "./content/daily_zh/2026-10-16.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Meta Releases Muse Spark Open, an 816B Open-Weight Coding and Agent Model",
+          "summary": "816B-total/42B-active MoE with 1M-token context, runnable locally on two paired M5 Ultra Mac Studios; Meta keeps its frontier Muse Wonder closed.",
+          "category": "Open Source",
+          "tags": [
+            "Meta",
+            "Muse Spark Open",
+            "Open Weights",
+            "MoE",
+            "Mac Studio",
+            "Coding"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Shanghai AI Lab's Intern-S2 Helps Prove the 3D Ghys Conjecture",
+          "summary": "A 30-year open problem in complex dynamics proved with the Intern-S2 science model; 389-node proof tree, computer-checked in Lean via the SHEAF framework.",
+          "category": "Research",
+          "tags": [
+            "Shanghai AI Lab",
+            "Intern-S2",
+            "Mathematics",
+            "Anosov Systems",
+            "Theorem Proving"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "FTC Subpoenas OpenAI and Anthropic as Labs Embed Independent Evaluators",
+          "summary": "US FTC civil subpoenas over safety incidents and potential consumer-protection violations, while Anthropic embeds METR and SecureBio internally.",
+          "category": "AI Safety",
+          "tags": [
+            "FTC",
+            "OpenAI",
+            "Anthropic",
+            "METR",
+            "SecureBio",
+            "Consumer Protection"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Anthropic Posts 16.8B Dollars in Q3 Revenue and Turns Cash-Flow Positive Before Its IPO",
+          "summary": "Q3 revenue 16.8B (+45% QoQ), positive free cash flow ahead of a prospectus expected late October and a debut after the November midterms.",
+          "category": "Industry",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "Revenue"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "CoreWeave Bonds Yield Past 16 Percent as AI Debt Worries Spread",
+          "summary": "Shares fell about 15% as 2031 bond yields passed 16%; Gartner warns ~80% of neoclouds may fold by 2030 and $3.5T of AI infrastructure spend faces impairment.",
+          "category": "Infrastructure",
+          "tags": [
+            "CoreWeave",
+            "AI Debt",
+            "Datacenter Financing",
+            "Gartner",
+            "Neoclouds"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-15",
       "title": "AI Daily Digest - 2026-10-15",
@@ -2495,7 +2608,7 @@
       "news_count": 5,
       "documents": {
         "en": "./content/daily/2026-09-22.md",
-        "zh": "./content/daily_zh/2026-09-22_zh.md"
+        "zh": "./content/daily_zh/2026-09-22.md"
       },
       "news": [
         {
@@ -2593,7 +2706,7 @@
       "news_count": 5,
       "documents": {
         "en": "./content/daily/2026-09-21.md",
-        "zh": "./content/daily_zh/2026-09-21_zh.md"
+        "zh": "./content/daily_zh/2026-09-21.md"
       },
       "news": [
         {
@@ -2693,7 +2806,7 @@
       "news_count": 5,
       "documents": {
         "en": "./content/daily/2026-09-20.md",
-        "zh": "./content/daily_zh/2026-09-20_zh.md"
+        "zh": "./content/daily_zh/2026-09-20.md"
       },
       "news": [
         {
@@ -2796,7 +2909,7 @@
       "news_count": 5,
       "documents": {
         "en": "./content/daily/2026-09-19.md",
-        "zh": "./content/daily_zh/2026-09-19_zh.md"
+        "zh": "./content/daily_zh/2026-09-19.md"
       },
       "news": [
         {
@@ -2895,7 +3008,7 @@
       "news_count": 5,
       "documents": {
         "en": "./content/daily/2026-09-18.md",
-        "zh": "./content/daily_zh/2026-09-18_zh.md"
+        "zh": "./content/daily_zh/2026-09-18.md"
       },
       "news": [
         {
@@ -2996,7 +3109,7 @@
       "news_count": 5,
       "documents": {
         "en": "./content/daily/2026-09-17.md",
-        "zh": "./content/daily_zh/2026-09-17_zh.md"
+        "zh": "./content/daily_zh/2026-09-17.md"
       },
       "news": [
         {
