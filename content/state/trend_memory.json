@@ -1,9 +1,9 @@
 {
   "ai_governance_enforcement_phase": {
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "strength": "critical",
     "status": "critical",
-    "description": "Enforcement keeps arriving through disclosure and audit rather than statute: China's AI Safety Governance Framework 3.0 names capability risks (unauthorised permissions, deceiving evaluators, concealing capabilities) but bind mainly at the application layer, leaving an unpriced capability gap. Oct 16: the FTC used existing consumer-protection subpoena power against OpenAI and Anthropic rather than new frontier-model statutes.",
+    "description": "Enforcement keeps arriving through disclosure and audit rather than statute: China's AI Safety Governance Framework 3.0 names capability risks (unauthorised permissions, deceiving evaluators, concealing capabilities) but bind mainly at the application layer, leaving an unpriced capability gap. Oct 16: the FTC used existing consumer-protection subpoena power against OpenAI and Anthropic rather than new frontier-model statutes. Enforcement widened on Oct 17: eight state attorneys general sued OpenAI under consumer-protection law while Beijing placed model weights and source code under export approval, so the same asset is now governed as product, capital and export good at once.",
     "first_seen": "2026-06-15"
   },
   "ai_infrastructure_compute_marketization": {
@@ -116,9 +116,9 @@
     "last_updated": "2026-08-27"
   },
   "ai_export_geopolitics": {
-    "last_updated": "2026-07-12",
+    "last_updated": "2026-10-17",
     "strength": "medium",
-    "description": "Trump AI export program struggles with credibility; TSMC-driven Taiwan overtakes China in US imports for first time"
+    "description": "Trump AI export program struggles with credibility; TSMC-driven Taiwan overtakes China in US imports for first time On Oct 16 China proposed controlling model weights and source code above performance thresholds, which cuts against the assumption that Chinese open-weight releases travel freely."
   },
   "ai_legal_liability_acceleration": {
     "last_updated": "2026-07-13",
@@ -179,9 +179,9 @@
     "description": "Hut 8 .8B lease confirms miners becoming major AI infrastructure providers"
   },
   "open_weight_geopolitics": {
-    "last_updated": "2026-07-23",
+    "last_updated": "2026-10-17",
     "strength": "strong",
-    "description": "Moonshot K3 distillation accusations signal escalating US-China IP enforcement over open-weight models"
+    "description": "Moonshot K3 distillation accusations signal escalating US-China IP enforcement over open-weight models On Oct 16 China proposed controlling model weights and source code above performance thresholds, which cuts against the assumption that Chinese open-weight releases travel freely."
   },
   "ai_infrastructure_investment_validation": {
     "last_updated": "2026-07-23",
@@ -1733,5 +1733,35 @@
     "strength": "strong",
     "status": "strong",
     "description": "AI-assisted mathematics is converging on machine-checked artifacts: the Ghys proof was validated in Lean via SHEAF and open-sourced, mirroring the Lean-verified corpus released by US labs, so verification capacity rather than generation is the scarce resource."
+  },
+  "model_artifact_as_controlled_export": {
+    "last_updated": "2026-10-17",
+    "strength": "critical",
+    "status": "critical",
+    "description": "China's Oct 16 draft catalogue is the first export regime anywhere to name trained models themselves as controlled items, placing model weights and source code above reported 2T-parameter or 1e26-FLOP thresholds under export approval. Control is migrating from the chips and equipment around a model to the artifact itself."
+  },
+  "frontier_claim_moves_to_compute_efficiency": {
+    "last_updated": "2026-10-17",
+    "strength": "strong",
+    "status": "strong",
+    "description": "Microsoft's 4.2-12.3x efficiency claim against DeepSeek-V4-Pro-Base and NVIDIA's finding that compressing a 120B model into 24GB beats training a smaller one from scratch both shift the competitive metric from parameter count to architecture and data quality per unit of compute."
+  },
+  "distribution_split_open_weights_vs_licensed": {
+    "last_updated": "2026-10-17",
+    "strength": "strong",
+    "status": "strong",
+    "description": "One week, two answers to distribution: Meta published Muse Spark Open weights and NVIDIA released Nemotron 3.5 under a permissive licence, while Microsoft completed a frontier-scale base model and chose licensed access through Azure AI Foundry instead of publication."
+  },
+  "state_ag_consumer_protection_channel": {
+    "last_updated": "2026-10-17",
+    "strength": "critical",
+    "status": "critical",
+    "description": "With no federal frontier-model statute, state consumer-protection law is now the operative enforcement channel for user safety: eight attorneys general filed coordinated suits against OpenAI on Oct 14, alongside FTC civil subpoenas and open state probes, pushing disputes into discovery over internal safety operations."
+  },
+  "interpretability_premise_revision": {
+    "last_updated": "2026-10-17",
+    "strength": "emerging",
+    "status": "emerging",
+    "description": "A Goodfire essay argues polysemanticity in early models came from ordinary fixable causes rather than superposition and that most neurons up to trillions of parameters are legible. If it survives the promised companion paper and replication, the field's decomposition-first programme loses its founding justification."
   }
 }

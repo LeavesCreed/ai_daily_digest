@@ -1,7 +1,119 @@
 {
   "version": 1,
-  "generated_at": "2026-10-15T23:18:51Z",
+  "generated_at": "2026-10-16T23:18:51Z",
   "entries": [
+    {
+      "date": "2026-10-17",
+      "title": "AI Daily Digest - 2026-10-17",
+      "summary": {
+        "en": "Microsoft AI finished pre-training MAI-Base-2, an in-house 2.8-trillion-parameter mixture-of-experts model trained on 16,000 GB200 GPUs in 38 days, claiming 4.2 to 12.3 times the compute efficiency of DeepSeek-V4-Pro-Base while planning licensed rather than open distribution. China proposed its first export controls that name trained models themselves, putting model weights and source code above performance thresholds under an approval regime alongside chip design technology. NVIDIA expanded Nemotron 3.5 with a 120B open vision-language agent model and two Bolt edge models, one compressed into 24GB for laptops. Eight state attorneys general sued OpenAI over ChatGPT safety, the same week the FTC sent civil subpoenas. And a Goodfire researcher published an essay arguing that polysemanticity was misdiagnosed and that most neurons in large models are already legible.",
+        "zh": "微软 AI 完成 MAI-Base-2 预训练：2.8 万亿参数 MoE，16000 张 GB200 训练 38 天，声称在四项评测上比 DeepSeek-V4-Pro-Base 省 4.2 至 12.3 倍算力，且计划以授权而非开源方式分发。中国提出首个把已训练模型本身列入管制的出口目录草案：性能阈值以上的模型权重与源码需出口审批，同时涵盖 14nm 及以下芯片设计技术与 2.5D/3D 先进封装。英伟达扩充 Nemotron 3.5，发布 120B 开源视觉语言智能体模型与两款 Bolt 边缘模型（其中一款压缩进 24GB 可本地运行）。八个州总检察长起诉 OpenAI，与 FTC 民事传票同周。Goodfire 研究员发文主张「多义性」被误判，大多数神经元其实可读。"
+      },
+      "categories": [
+        "Models",
+        "AI Safety",
+        "Open Source",
+        "Research"
+      ],
+      "tags": [
+        "Microsoft",
+        "MAI-Base-2",
+        "Pretraining",
+        "MoE",
+        "Compute Efficiency",
+        "China",
+        "Export Controls",
+        "Model Weights",
+        "MOFCOM",
+        "Chip Design",
+        "NVIDIA",
+        "Nemotron",
+        "Super VL",
+        "Multimodal",
+        "Edge AI",
+        "OpenAI",
+        "ChatGPT",
+        "Litigation",
+        "State AGs",
+        "Consumer Protection",
+        "Interpretability",
+        "Goodfire",
+        "Superposition",
+        "Alignment"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-17.md",
+        "zh": "./content/daily_zh/2026-10-17.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Microsoft Completes Pre-Training of MAI-Base-2, a 2.8-Trillion-Parameter In-House Model",
+          "summary": "In-house MoE foundation model with 2.8T total and 80B active parameters trained on 16,000 GB200 GPUs in 38 days; Microsoft claims 4.2-12.3x the compute efficiency of DeepSeek-V4-Pro-Base and plans to license weights through Azure AI Foundry.",
+          "category": "Models",
+          "tags": [
+            "Microsoft",
+            "MAI-Base-2",
+            "Pretraining",
+            "MoE",
+            "Compute Efficiency"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "China Proposes Export Controls That Name Model Weights and Source Code",
+          "summary": "Draft catalogue adds 40 technologies including 23 AI items; model weights and source code above performance thresholds would require export approval, alongside 14nm chip design technology and 2.5D/3D packaging.",
+          "category": "AI Safety",
+          "tags": [
+            "China",
+            "Export Controls",
+            "Model Weights",
+            "MOFCOM",
+            "Chip Design"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "NVIDIA Expands Nemotron 3.5 With Super VL and Two Bolt Edge Models",
+          "summary": "Open 120B vision-language MoE for always-on agents plus Bolt 74B-A9B compressed into 24GB for local workloads and a 4GB model due October 23, all under the OpenMDW licence.",
+          "category": "Open Source",
+          "tags": [
+            "NVIDIA",
+            "Nemotron",
+            "Super VL",
+            "Multimodal",
+            "Edge AI"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Eight State Attorneys General Sue OpenAI Over ChatGPT Safety",
+          "summary": "Coordinated consumer-protection suits from eight states allege OpenAI marketed ChatGPT as safe while concealing risks to minors; relief includes operational changes and damages.",
+          "category": "AI Safety",
+          "tags": [
+            "OpenAI",
+            "ChatGPT",
+            "Litigation",
+            "State AGs",
+            "Consumer Protection"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Goodfire Essay Argues Polysemanticity Was Misdiagnosed and Most Neurons Are Legible",
+          "summary": "Cammarata argues early polysemanticity came from fixable causes rather than superposition, reporting ~90% of Qwen3-32B neuron poles with one main role while noting the supporting paper is unreleased.",
+          "category": "Research",
+          "tags": [
+            "Interpretability",
+            "Goodfire",
+            "Superposition",
+            "Alignment",
+            "Mechanistic Interpretability"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-16",
       "title": "AI Daily Digest - 2026-10-16",

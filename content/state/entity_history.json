@@ -475,7 +475,7 @@
     "count": 1
   },
   "Mustafa Suleyman": {
-    "last_seen": "2026-07-08",
+    "last_seen": "2026-10-17",
     "count": 1
   },
   "EU Commission": {
@@ -835,14 +835,15 @@
     "count": 1
   },
   "Moonshot AI": {
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-10-17",
     "count": 12,
     "description": "Kimi K3 launched, 0B IPO",
-    "appearances": 3,
-    "mention_count": 1,
+    "appearances": 4,
+    "mention_count": 2,
     "mentions": 1,
     "dates": [
-      "2026-10-01"
+      "2026-10-01",
+      "2026-10-17"
     ]
   },
   "Kimi K3": {
@@ -5426,5 +5427,194 @@
     "Anthropic": "Reported 16.8B dollars Q3 revenue and positive free cash flow ahead of an IPO expected after the Nov 3 midterms",
     "CoreWeave": "AI cloud whose 2031 bond yield passed 16% and shares fell about 15% as AI debt fears mounted",
     "Gartner": "Warned about 80% of neoclouds could shut by 2030 and over 3.5T dollars of AI infrastructure spend faces impairment"
+  },
+  "Microsoft AI": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "Ran the MAI-Base-2 pre-training on 16k GB200 GPUs over 38 days and disclosed MFU 21% / goodput 89%; says weights will be licensed via Azure AI Foundry"
+  },
+  "MAI-Base-2": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "Microsoft's in-house MoE foundation model, 2.8T total / 80B active parameters, ~50T tokens with ~18% vision; claims 4.2-12.3x compute efficiency over DeepSeek-V4-Pro-Base"
+  },
+  "MAI-Base-1": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "June 2026 predecessor at 1T total / 35B active and 30T tokens; basis for MAI-Thinking-1"
+  },
+  "DeepSeek-V4-Pro-Base": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "Comparison baseline Microsoft used for its compute-efficiency claim, reported as 4.2-12.3x less efficient than MAI-Base-2 by Microsoft"
+  },
+  "MOFCOM": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "China's Ministry of Commerce; co-issued the draft export-control catalogue naming AI model weights and source code"
+  },
+  "MOST": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "China's Ministry of Science and Technology; co-issued the export-control catalogue draft"
+  },
+  "China export control catalogue": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "Draft revision published Oct 16 covering 40 technologies (14 prohibited, 26 restricted), 23 AI-specific; weights and source code controlled above reported 2T-parameter / 1e26 FLOPs thresholds; comment window to Nov 15"
+  },
+  "NVIDIA Nemotron 3.5 Super VL": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "Open 120B MoE vision-language model (12B active) for always-on agents, ~26T training tokens, ~3.8M post-training samples, OpenMDW licence"
+  },
+  "Nemotron 3.5 Bolt 74B-A9B 24GB": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "Hybrid Mamba-Transformer compressed from Super VL via Star Elastic with native 2-bit experts; 24GB memory footprint; Terminal-Bench 2.1 51.0"
+  },
+  "Nemotron 3.5 Bolt E4B 4GB": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "NVIDIA's 4GB conversational and device-side agent model, scheduled for October 23"
+  },
+  "Star Elastic": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "NVIDIA compression technique used to derive the Bolt 74B-A9B model from the 120B Super VL parent"
+  },
+  "OpenMDW": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "NVIDIA's model licence permitting commercial use, fine-tuning and redistribution, used for the Nemotron 3.5 releases"
+  },
+  "State AGs": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "Attorneys general of Arizona, Arkansas, Idaho, Iowa, Kansas, Montana, Nebraska and West Virginia filed coordinated consumer-protection suits against OpenAI on Oct 14"
+  },
+  "Iowa Attorney General Brenna Bird": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "Led the announcement of the multi-state suits against OpenAI at a Des Moines press conference"
+  },
+  "ChatGPT": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "Subject of eight state consumer-protection suits alleging safety claims misled parents and harmed minors"
+  },
+  "Nick Cammarata": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "Goodfire researcher and co-author of the Zoom In superposition circuit work; author of the 'Neural Networks Are Already Clean' essay arguing polysemanticity was misdiagnosed"
+  },
+  "Goodfire": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "Interpretability lab that published Cammarata's essay at already-clean.goodfire.com"
+  },
+  "Neel Nanda": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "Google DeepMind researcher who cautioned that neuron-level legibility does not mean interpretability is nearly solved"
+  },
+  "Qwen3-32B": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "Model used for the preliminary neuron audit in the Goodfire essay; roughly 90% of neuron poles reported with one main role"
+  },
+  "Nature Sustainability": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "Published the life-cycle-aware materials discovery perspective by Mannan et al. on October 16"
+  },
+  "esp32-iphone-agent": {
+    "last_seen": "2026-10-17",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-17"
+    ],
+    "note": "MIT-licensed project letting any OpenAI-compatible vision model drive a real iPhone via a $7 ESP32 with AirPlay capture and USB HID input"
   }
 }
