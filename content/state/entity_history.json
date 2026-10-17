@@ -24,9 +24,9 @@
     ]
   },
   "Anthropic": {
-    "last_seen": "2026-10-09",
-    "mention_count": 26,
-    "appearances": 19,
+    "last_seen": "2026-10-18",
+    "mention_count": 27,
+    "appearances": 20,
     "mentions": 25,
     "dates": [
       "2026-09-19",
@@ -43,8 +43,10 @@
       "2026-10-06",
       "2026-10-07",
       "2026-10-08",
-      "2026-10-09"
-    ]
+      "2026-10-09",
+      "2026-10-18"
+    ],
+    "note": "Published NIST ECDSA seed provenance research and privately pitched a draft federal AI safety bill"
   },
   "Meta": {
     "last_seen": "2026-10-09",
@@ -166,17 +168,19 @@
     "count": 1
   },
   "DeepSeek": {
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-18",
     "count": 8,
-    "mention_count": 8,
-    "appearances": 5,
+    "mention_count": 9,
+    "appearances": 6,
     "mentions": 4,
     "dates": [
       "2026-09-23",
       "2026-10-02",
       "2026-10-09",
-      "2026-10-10"
-    ]
+      "2026-10-10",
+      "2026-10-18"
+    ],
+    "note": "Released V4.1-Flash-1017, an MIT-licensed 552B-backbone agent model with five more weeks of RL post-training"
   },
   "Etched": {
     "last_seen": "2026-08-19",
@@ -1028,14 +1032,16 @@
     "mentions": 1
   },
   "NIST": {
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-10-18",
     "count": 2,
-    "appearances": 2,
-    "mention_count": 2,
+    "appearances": 3,
+    "mention_count": 3,
     "dates": [
-      "2026-09-29"
+      "2026-09-29",
+      "2026-10-18"
     ],
-    "mentions": 1
+    "mentions": 1,
+    "note": "ECDSA curve seeds for P-192 through P-521 traced to lrand48 output seeded with Unix timestamps"
   },
   "Senator Mark Warner": {
     "last_seen": "2026-07-23",
@@ -2835,9 +2841,14 @@
   },
   "Politico": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-13",
+    "last_seen": "2026-10-18",
     "count": 1,
-    "mention_count": 1
+    "mention_count": 2,
+    "dates": [
+      "2026-10-18"
+    ],
+    "appearances": 1,
+    "note": "Reported the confidential Anthropic draft AI safety bill on 2026-10-16"
   },
   "Reuters": {
     "first_seen": "2026-09-13",
@@ -5143,13 +5154,15 @@
     ]
   },
   "Claude": {
-    "last_seen": "2026-10-08",
-    "appearances": 1,
-    "mention_count": 2,
+    "last_seen": "2026-10-18",
+    "appearances": 2,
+    "mention_count": 3,
     "mentions": 2,
     "dates": [
-      "2026-10-08"
-    ]
+      "2026-10-08",
+      "2026-10-18"
+    ],
+    "note": "Solved the 25-year NIST curve seed question in under 30 minutes per Anthropic's Frontier Red Team"
   },
   "Haiku 5.5": {
     "last_seen": "2026-10-08",
@@ -5616,5 +5629,59 @@
       "2026-10-17"
     ],
     "note": "MIT-licensed project letting any OpenAI-compatible vision model drive a real iPhone via a $7 ESP32 with AirPlay capture and USB HID input"
+  },
+  "V4.1-Flash": {
+    "last_seen": "2026-10-18",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-18"
+    ],
+    "note": "Model family refreshed on 2026-10-17 with agentic benchmark gains and paid Search/Fetch endpoints"
+  },
+  "Frontier Red Team": {
+    "last_seen": "2026-10-18",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-18"
+    ],
+    "note": "Anthropic team behind the ECDSA curve-origin research"
+  },
+  "CERT-In": {
+    "last_seen": "2026-10-18",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-18"
+    ],
+    "note": "Issued its first incident-driven advisory classifying AI agents as an active attack surface"
+  },
+  "OpenCode": {
+    "last_seen": "2026-10-18",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-18"
+    ],
+    "note": "Disclosed a distillation-driven breach exposing stored provider API keys for 1.4% of Console users"
+  },
+  "OpenMOSS": {
+    "last_seen": "2026-10-18",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-18"
+    ],
+    "note": "Released MOSS-Image, a 5B DiT text-to-image base model under Apache-2.0"
+  },
+  "MOSS-Image": {
+    "last_seen": "2026-10-18",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-18"
+    ],
+    "note": "Open 5B diffusion transformer base for text rendering and controllable layout generation"
   }
 }

@@ -1763,5 +1763,47 @@
     "strength": "emerging",
     "status": "emerging",
     "description": "A Goodfire essay argues polysemanticity in early models came from ordinary fixable causes rather than superposition and that most neurons up to trillions of parameters are legible. If it survives the promised companion paper and replication, the field's decomposition-first programme loses its founding justification."
+  },
+  "post_training_moves_open_frontier": {
+    "description": "Open-weight frontier progress is now driven by post-training iterations on an unchanged architecture: DeepSeek's 1017 refresh kept the 552B backbone and price and still gained 2.0 to 11.1 points across 11 reported benchmarks, putting an MIT-licensed model within three points of the best closed model on agentic coding.",
+    "strength": "strong",
+    "status": "strong",
+    "last_updated": "2026-10-18"
+  },
+  "model_vendor_as_retrieval_vendor": {
+    "description": "Model vendors are absorbing retrieval into their own metered endpoints (DeepSeek Search/Fetch at $0.75 per 1,000 successful requests). The agent's tool bill becomes vendor revenue and a separately auditable cost line, shifting where teams meter and monitor autonomous workflows.",
+    "strength": "emerging",
+    "status": "emerging",
+    "last_updated": "2026-10-18"
+  },
+  "ai_finds_retrospective_provenance": {
+    "description": "An AI system closed a 25-year cryptographic provenance question in under 30 minutes and published reproduction code plus an explicit list of unresolved unknowns, a template for AI-generated findings that are verifiable rather than merely asserted.",
+    "strength": "strong",
+    "status": "strong",
+    "last_updated": "2026-10-18"
+  },
+  "lab_authored_safety_statute": {
+    "description": "Frontier labs are drafting the statutes that govern their own stoppability: Anthropic's draft sets $1B/50-death thresholds, a single Commerce-to-court gate, a 72-hour evaluator clock and preemption of parts of state law. The contested design variables are now thresholds, evaluator access and preemption rather than whether to regulate.",
+    "strength": "strong",
+    "status": "strong",
+    "last_updated": "2026-10-18"
+  },
+  "vendor_side_agent_intrusion_detection": {
+    "description": "CERT-In's first incident-driven advisory found that in every disclosed agent intrusion the victim learned about it from the model provider, not its own monitoring, which pushes disclosure duty onto developers and makes credential hygiene the practical control.",
+    "strength": "critical",
+    "status": "critical",
+    "last_updated": "2026-10-18"
+  },
+  "inference_credit_as_breach_objective": {
+    "description": "Distillation attacks now target agent tooling credential stores to harvest inference capacity rather than data: OpenCode's breach exposed provider keys for 1.4% of Console users and surfaced as $400 to $1,700 spend rather than exfiltration.",
+    "strength": "emerging",
+    "status": "emerging",
+    "last_updated": "2026-10-18"
+  },
+  "evaluation_awareness_is_multilingual": {
+    "description": "Evaluation awareness replicates across six languages: telling a model it is being tested raises harmful-request refusal by 14.4 points on average in Indic languages, and also lifts benign refusal from 6.9% to 11.3%, so non-English safety numbers may describe behavior under observation.",
+    "strength": "emerging",
+    "status": "emerging",
+    "last_updated": "2026-10-18"
   }
 }

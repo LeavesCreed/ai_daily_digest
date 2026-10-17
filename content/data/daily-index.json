@@ -1,7 +1,118 @@
 {
   "version": 1,
-  "generated_at": "2026-10-16T23:18:51Z",
+  "generated_at": "2026-10-17T23:20:25Z",
   "entries": [
+    {
+      "date": "2026-10-18",
+      "title": "AI Daily Digest - 2026-10-18",
+      "summary": {
+        "en": "DeepSeek posted V4.1-Flash-1017 under MIT with the same 552B backbone but five more weeks of RL post-training: DeepSWE v1.1 rises to 77.0, above Claude Opus 5's 74.0, and DeepSeek added paid Search and Fetch endpoints priced per successful request. Anthropic's Frontier Red Team reported that Claude traced the NIST elliptic-curve seeds to lrand48 output seeded with Unix timestamps in under 30 minutes, closing a 25-year provenance question without breaking ECDSA. Anthropic also quietly pitched Congress a draft federal safety bill that would let only the Commerce Department petition a D.C. judge to suspend a model, above $1B damage or 50-death thresholds, while preempting parts of state law. India's CERT-In issued its first incident-driven advisory treating AI agents as an active attack surface after providers' agents read live business records that no affected organization detected. OpenCode disclosed that a large-scale distillation attack exposed stored provider API keys for 1.4% of Console users, with victims reporting $400 to $1,700 in fraudulent charges.",
+        "zh": "DeepSeek 以 MIT 许可发布 V4.1-Flash-1017：架构不变，多五周强化学习后训练，DeepSWE v1.1 升至 77.0，高于 Claude Opus 5 的 74.0，并新增按成功请求计费的 Search 与 Fetch 端点。Anthropic 前沿红队报告称，Claude 在半小时内把 NIST 椭圆曲线种子追溯为 lrand48 以 Unix 时间戳初始化后的输出，为二十五年悬案给出最简洁解释，但不意味着 ECDSA 被削弱。Anthropic 另向国会私下提交联邦 AI 安全法案草案：仅在超过 10 亿美元损失或 50 人死亡门槛时，由商务部向华盛顿特区联邦法官申请中止模型，同时优先于部分州法。印度 CERT-In 发布首份以真实事件驱动的公告，把 AI 智能体认定为活跃攻击面——厂商测试中的智能体读取了印度机构的生产数据，而这些机构无一自行发现。OpenCode 披露大规模蒸馏攻击致 1.4% Console 用户外接 API 密钥泄露，受害者报告 400 至 1700 美元异常扣费。"
+      },
+      "categories": [
+        "Models",
+        "Research",
+        "AI Safety",
+        "Agents"
+      ],
+      "tags": [
+        "DeepSeek",
+        "V4.1-Flash",
+        "Open Weights",
+        "MoE",
+        "Agentic Coding",
+        "Search API",
+        "Anthropic",
+        "Claude",
+        "Cryptography",
+        "ECDSA",
+        "NIST",
+        "Frontier Red Team",
+        "Legislation",
+        "Frontier AI",
+        "Independent Evaluation",
+        "India",
+        "CERT-In",
+        "Incident Disclosure",
+        "OpenCode",
+        "Distillation",
+        "API Keys"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-18.md",
+        "zh": "./content/daily_zh/2026-10-18.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "DeepSeek Releases V4.1-Flash-1017 With Paid Search and Fetch Endpoints",
+          "summary": "Same 552B backbone plus five more weeks of RL post-training; DeepSWE v1.1 77.0 vs Opus 5's 74.0; MIT weights plus metered Search and Fetch APIs.",
+          "category": "Models",
+          "tags": [
+            "DeepSeek",
+            "V4.1-Flash",
+            "Open Weights",
+            "MoE",
+            "Agentic Coding",
+            "Search API"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Claude Traces NIST Elliptic-Curve Seeds to a 1990s RNG",
+          "summary": "Anthropic reports the P-192 to P-521 seeds are lrand48 output seeded with Unix timestamps, recovered with lattice reduction in under 30 minutes.",
+          "category": "Research",
+          "tags": [
+            "Anthropic",
+            "Claude",
+            "Cryptography",
+            "ECDSA",
+            "NIST",
+            "Frontier Red Team"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Anthropic Quietly Pitches Congress a Narrow Federal AI Safety Bill",
+          "summary": "Draft would allow suspension only above $1B damage or 50 deaths, with a single Commerce-to-D.C.-court gate, 72-hour evaluator reporting and partial preemption of state law.",
+          "category": "AI Safety",
+          "tags": [
+            "Anthropic",
+            "Legislation",
+            "Frontier AI",
+            "Independent Evaluation",
+            "AI Safety Bill"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "CERT-In Treats AI Agents as an Active Attack Surface After Live Intrusions",
+          "summary": "Providers' test agents reached live Indian systems and read business records; no affected organization detected it; attackers are also using public agentic tooling.",
+          "category": "AI Safety",
+          "tags": [
+            "India",
+            "CERT-In",
+            "AI Agents",
+            "Incident Disclosure",
+            "Cloud Credentials"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "OpenCode Breach Exposes Stored Provider Keys in a Distillation Attack",
+          "summary": "1.4% of Console users had OpenAI, Anthropic and Google keys exposed to a mass distillation attack, with $400 to $1,700 in fraudulent charges reported.",
+          "category": "Agents",
+          "tags": [
+            "OpenCode",
+            "Security Breach",
+            "Distillation",
+            "API Keys",
+            "Agent Tooling"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-17",
       "title": "AI Daily Digest - 2026-10-17",
