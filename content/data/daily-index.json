@@ -1,7 +1,125 @@
 {
   "version": 1,
-  "generated_at": "2026-10-17T23:20:25Z",
+  "generated_at": "2026-10-19T23:20:00Z",
   "entries": [
+    {
+      "date": "2026-10-19",
+      "title": "AI Daily Digest - 2026-10-19",
+      "summary": {
+        "en": "Anthropic said it will place 5% of its shares into a wholly owned public benefit fund, adding 2% for every 50% rise in company value and bringing total public-benefit earmarks to roughly 20% once founder pledges and the employee match are counted, weeks before an expected November listing. Microsoft withdrew as anchor tenant from Nscale's 50 MW Loughton, Essex data center after the grid connection slipped into the 2030s, leaving the UK's largest planned sovereign AI site without its only announced customer. Tech Against Terrorism's counter-terrorism benchmark reported 81 of 134 models failing, with abliterated open-weight variants appearing within three days of release, down from more than 24 days in 2024. Sergey Brin said Google is starting to get onto the RSI treadmill, as a Gladstone AI report found most lab researchers expect recursive self-improvement to begin within 3 to 12 months. A fake AI-generated leaf mantis uploaded to iNaturalist showed generative imagery contaminating citizen-science biodiversity records.",
+        "zh": "Anthropic 宣布把 5% 股份注入一家全资的公共利益基金，公司价值每上涨 50% 可再追加 2%，叠加创始人的 80% 个人股权捐赠承诺与员工配捐后，公共利益用途的股份合计约 20%，时间点落在预计 11 月上市前数周。微软退出 Nscale 位于埃塞克斯 Loughton 的 50MW 数据中心，作为唯一公开锚定租户离开，原因是电网接入被推迟到 2030 年代，英国规模最大的主权 AI 数据中心因此失去唯一客户。Tech Against Terrorism 的反恐基准测试显示 134 个模型中有 81 个未通过，被剥离护栏的开源权重变体在模型发布后约三天内上线，而 2024 年这一周期还超过 24 天。Sergey Brin 称 Google 正在踏上递归自我改进的传送带，Gladstone AI 同期报告称多数实验室研究者预计 3 至 12 个月内启动 RSI。iNaturalist 上一张 AI 生成的叶䗛照片，暴露出公民科学生物多样性记录的证据链缺口。"
+      },
+      "categories": [
+        "Industry",
+        "Infrastructure",
+        "AI Safety",
+        "Research",
+        "Applications"
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "Public Benefit Fund",
+        "Corporate Governance",
+        "Microsoft",
+        "Nscale",
+        "Data Center",
+        "Grid Interconnection",
+        "United Kingdom",
+        "Power",
+        "Tech Against Terrorism",
+        "Benchmark",
+        "Abliterated Models",
+        "Open Weights",
+        "Refusal",
+        "Google",
+        "Sergey Brin",
+        "Gemini 4 Argon",
+        "Recursive Self-Improvement",
+        "Gladstone AI",
+        "iNaturalist",
+        "Citizen Science",
+        "Biodiversity",
+        "AI-Generated Images",
+        "Data Provenance"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-19.md",
+        "zh": "./content/daily_zh/2026-10-19.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Anthropic Commits 5% of Its Shares to a Public Benefit Fund Ahead of Its IPO",
+          "summary": "Anthropic will fund a wholly owned public benefit entity with 5% of its shares, plus 2% per 50% of value growth, reaching about 20% with founder pledges and employee matching before an expected November IPO.",
+          "category": "Industry",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "Public Benefit Fund",
+            "Corporate Governance",
+            "Philanthropy"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Microsoft Exits Nscale's Essex Data Center as Grid Connection Slips to the 2030s",
+          "summary": "Microsoft ended its anchor tenancy for Nscale's 50 MW Loughton site after the grid connection was pushed into the 2030s, leaving the UK's largest planned sovereign AI data center without a customer.",
+          "category": "Infrastructure",
+          "tags": [
+            "Microsoft",
+            "Nscale",
+            "Data Center",
+            "Grid Interconnection",
+            "United Kingdom",
+            "Power"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Counter-Terrorism Benchmark Finds 81 of 134 Models Fail, and Every Stripped Model Fails",
+          "summary": "Tech Against Terrorism found 81 of 134 models failed its counter-terrorism benchmark, only two passed fully, and abliterated open-weight variants now appear within three days of release.",
+          "category": "AI Safety",
+          "tags": [
+            "Tech Against Terrorism",
+            "Benchmark",
+            "Abliterated Models",
+            "Open Weights",
+            "Refusal",
+            "Hugging Face"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Brin Says Google Is on the RSI Treadmill, as a Report Puts Recursive Self-Improvement Within a Year",
+          "summary": "Sergey Brin said Google is starting to get onto the RSI treadmill, while a Gladstone AI report said most lab researchers expect recursive self-improvement within 3 to 12 months.",
+          "category": "Research",
+          "tags": [
+            "Google",
+            "Sergey Brin",
+            "Gemini 4 Argon",
+            "Recursive Self-Improvement",
+            "Gladstone AI",
+            "Research Automation"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "A Fabricated Leaf Mantis on iNaturalist Exposes the Provenance Gap in Citizen Science",
+          "summary": "A fabricated AI-generated leaf mantis on iNaturalist showed how generative editing now contaminates citizen-science biodiversity records and their verification pipelines.",
+          "category": "Applications",
+          "tags": [
+            "iNaturalist",
+            "Citizen Science",
+            "Biodiversity",
+            "AI-Generated Images",
+            "Data Provenance",
+            "Nature Ecology and Evolution"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-18",
       "title": "AI Daily Digest - 2026-10-18",

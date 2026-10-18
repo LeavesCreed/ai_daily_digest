@@ -24,10 +24,10 @@
     ]
   },
   "Anthropic": {
-    "last_seen": "2026-10-18",
-    "mention_count": 27,
-    "appearances": 20,
-    "mentions": 25,
+    "last_seen": "2026-10-19",
+    "mention_count": 28,
+    "appearances": 21,
+    "mentions": 26,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -44,9 +44,10 @@
       "2026-10-07",
       "2026-10-08",
       "2026-10-09",
-      "2026-10-18"
+      "2026-10-18",
+      "2026-10-19"
     ],
-    "note": "Published NIST ECDSA seed provenance research and privately pitched a draft federal AI safety bill"
+    "note": "Committed 5% of shares, rising with valuation, to the Anthropic Public Benefit Fund ahead of a November IPO."
   },
   "Meta": {
     "last_seen": "2026-10-09",
@@ -328,20 +329,21 @@
   },
   "Microsoft": {
     "first_seen": "2026-07-06",
-    "mention_count": 8,
-    "last_seen": "2026-10-09",
+    "mention_count": 9,
+    "last_seen": "2026-10-19",
     "count": 5,
-    "appearances": 6,
-    "mentions": 5,
+    "appearances": 7,
+    "mentions": 6,
     "dates": [
       "2026-09-20",
       "2026-09-26",
       "2026-09-30",
       "2026-10-05",
       "2026-10-08",
-      "2026-10-09"
+      "2026-10-09",
+      "2026-10-19"
     ],
-    "note": "co-authored the EOS termination-mismatch paper with UNC"
+    "note": "Withdrew as anchor tenant from Nscale Loughton after grid power slipped to the 2030s."
   },
   "Amazon": {
     "first_seen": "2026-07-06",
@@ -357,10 +359,10 @@
   },
   "Google": {
     "count": 7,
-    "last_seen": "2026-10-10",
-    "mention_count": 12,
-    "mentions": 11,
-    "appearances": 11,
+    "last_seen": "2026-10-19",
+    "mention_count": 13,
+    "mentions": 12,
+    "appearances": 12,
     "dates": [
       "2026-09-21",
       "2026-09-22",
@@ -370,7 +372,8 @@
       "2026-10-06",
       "2026-10-07",
       "2026-10-09",
-      "2026-10-10"
+      "2026-10-10",
+      "2026-10-19"
     ]
   },
   "Commerce Department": {
@@ -599,15 +602,16 @@
   },
   "Hugging Face": {
     "first_seen": "2026-07-11",
-    "appearances": 5,
-    "last_seen": "2026-10-05",
+    "appearances": 6,
+    "last_seen": "2026-10-19",
     "count": 10,
-    "mentions": 7,
-    "mention_count": 7,
+    "mentions": 8,
+    "mention_count": 8,
     "dates": [
       "2026-09-29",
       "2026-10-04",
-      "2026-10-05"
+      "2026-10-05",
+      "2026-10-19"
     ]
   },
   "Ed Markey": {
@@ -2191,13 +2195,14 @@
     "count": 1
   },
   "Nscale": {
-    "last_seen": "2026-09-29",
-    "appearances": 2,
-    "mention_count": 2,
-    "mentions": 3,
+    "last_seen": "2026-10-19",
+    "appearances": 3,
+    "mention_count": 3,
+    "mentions": 4,
     "dates": [
       "2026-09-19",
-      "2026-09-29"
+      "2026-09-29",
+      "2026-10-19"
     ]
   },
   "TRACE": {
@@ -4434,12 +4439,13 @@
     ]
   },
   "Gemini 4 Argon": {
-    "last_seen": "2026-10-01",
-    "appearances": 1,
-    "mention_count": 1,
-    "mentions": 1,
+    "last_seen": "2026-10-19",
+    "appearances": 2,
+    "mention_count": 2,
+    "mentions": 2,
     "dates": [
-      "2026-10-01"
+      "2026-10-01",
+      "2026-10-19"
     ]
   },
   "US Senate": {
@@ -5683,5 +5689,77 @@
       "2026-10-18"
     ],
     "note": "Open 5B diffusion transformer base for text rendering and controllable layout generation"
+  },
+  "Public Benefit Fund": {
+    "last_seen": "2026-10-19",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-19"
+    ]
+  },
+  "Tech Against Terrorism": {
+    "last_seen": "2026-10-19",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-19"
+    ]
+  },
+  "Sergey Brin": {
+    "last_seen": "2026-10-19",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-19"
+    ]
+  },
+  "Gladstone AI": {
+    "last_seen": "2026-10-19",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-19"
+    ]
+  },
+  "iNaturalist": {
+    "last_seen": "2026-10-19",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-19"
+    ]
+  },
+  "Nature Ecology & Evolution": {
+    "last_seen": "2026-10-19",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-19"
+    ]
+  },
+  "Mineflayer": {
+    "last_seen": "2026-10-19",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-19"
+    ]
+  },
+  "feder-cr/git-ai": {
+    "last_seen": "2026-10-19",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-19"
+    ]
   }
 }

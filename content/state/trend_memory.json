@@ -1805,5 +1805,41 @@
     "strength": "emerging",
     "status": "emerging",
     "last_updated": "2026-10-18"
+  },
+  "verification_instrumentation_gap": {
+    "last_updated": "2026-10-19",
+    "strength": "critical",
+    "status": "critical",
+    "description": "Across governance, infrastructure and science the binding constraint is evidence rather than capability: Anthropic disclosed an equity structure without share source, baseline or payout terms, Microsoft lost an anchor tenant because no energisation date existed, and iNaturalist found its records rest on an unverified assumption about photographs. Instruments that let a third party trust a claim, not the claim itself, are now the scarce good."
+  },
+  "grid_interconnection_as_binding_constraint": {
+    "last_updated": "2026-10-19",
+    "strength": "critical",
+    "status": "critical",
+    "description": "Power delivery, not accelerator supply, decides when AI capacity exists: the Loughton 50 MW site lost its only anchor tenant after the grid operator pushed connection into the 2030s, extending a pattern that includes behind-the-meter gas, nuclear PPAs and utility-scale deferrals."
+  },
+  "open_weight_safeguard_decay": {
+    "last_updated": "2026-10-19",
+    "strength": "strong",
+    "status": "strong",
+    "description": "Safety behaviour is a property of a checkpoint rather than an architecture: abliterated derivatives of new open-weight models now appear within about three days, versus more than 24 days in 2024, moving the leverage point from training to hosting and distribution."
+  },
+  "rsi_claim_without_measurement": {
+    "last_updated": "2026-10-19",
+    "strength": "medium",
+    "status": "medium",
+    "description": "Recursive self-improvement is moving from denial to claim without a published metric to settle it: executives point at release cadence while the decisive measurements, such as share of research tasks completed end to end and change in time-to-next-model, remain unreleased."
+  },
+  "provenance_layer_for_citizen_science": {
+    "last_updated": "2026-10-19",
+    "strength": "medium",
+    "status": "medium",
+    "description": "Datasets built on user-submitted media now need artifact-level verification rather than submitter trust, as AI-edited imagery reaches biodiversity platforms and clinical-style imaging collections alike."
+  },
+  "equity_as_ai_governance_instrument": {
+    "last_updated": "2026-10-19",
+    "strength": "medium",
+    "status": "medium",
+    "description": "Frontier labs are beginning to answer distributional governance questions with share ownership instead of policy commitments, which makes fund terms, valuation baselines and stockholder votes the next regulatory surface."
   }
 }
