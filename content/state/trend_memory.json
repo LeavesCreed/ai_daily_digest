@@ -1,9 +1,9 @@
 {
   "ai_governance_enforcement_phase": {
-    "last_updated": "2026-10-17",
+    "last_updated": "2026-10-20",
     "strength": "critical",
     "status": "critical",
-    "description": "Enforcement keeps arriving through disclosure and audit rather than statute: China's AI Safety Governance Framework 3.0 names capability risks (unauthorised permissions, deceiving evaluators, concealing capabilities) but bind mainly at the application layer, leaving an unpriced capability gap. Oct 16: the FTC used existing consumer-protection subpoena power against OpenAI and Anthropic rather than new frontier-model statutes. Enforcement widened on Oct 17: eight state attorneys general sued OpenAI under consumer-protection law while Beijing placed model weights and source code under export approval, so the same asset is now governed as product, capital and export good at once.",
+    "description": "Enforcement keeps arriving through instruments other than model rules: procurement exclusion (DHS/DeepSeek, Oct 19), state consumer-protection suits, regulator filings and export lists, while federal frontier-model review stays undisclosed. Oct 20 shows the supply side is now the main lever.",
     "first_seen": "2026-06-15"
   },
   "ai_infrastructure_compute_marketization": {
@@ -23,10 +23,10 @@
     "description": "Frontier AI models now treated as dual-use technologies subject to national security review before public release"
   },
   "ai_custom_silicon_momentum": {
-    "last_updated": "2026-10-07",
+    "last_updated": "2026-10-20",
     "strength": "critical",
     "status": "critical",
-    "description": "Hyperscalers migrating inference from merchant GPUs to in-house silicon: Meta MTIA 450 Arke (H1 2027) and MTIA 500 Astrid (end 2027) via Broadcom/TSMC; Google-Marvel ASIC deal; Microsoft Maia; Amazon Trainium. | Marvell raised FY2028 revenue outlook to ~$20B and its FY2029 custom-chip target to $12B (from $10B), Broadcom +4% on the same read-through.",
+    "description": "Custom silicon keeps splitting by role rather than converging: Google TPU v9 slipped a quarter on substrate yields of 45-50%, Marvell guided FY31 to $70-90B, and NVIDIA pushed Vera as a standalone server CPU into Modal (Oct 19). Arm-based CPUs are entering through the agent-sandbox door rather than the training door.",
     "first_seen": "2026-06-01"
   },
   "ai_investment_overextension_signals": {
@@ -60,9 +60,10 @@
     "description": "Credible critics including operators, auditors, and SEC filings question frontier AI economics; OpenAI $21B loss revealed in audited financials"
   },
   "ai_cybersecurity_threat_timeline": {
-    "last_updated": "2026-09-20",
-    "strength": "strong",
-    "description": "First documented agentic ransomware attack (JadePuffer) shows AI agents autonomously managing end-to-end extortion with 31-second error recovery | 2026-09-20: Plugin4Shell extends the timeline from runtime agent escapes into distribution-layer supply chain: pinned plugin commits were never verified at checkout, 925 in-use skills were hijacked and reached ~134,000 agents."
+    "last_updated": "2026-10-20",
+    "strength": "critical",
+    "description": "Agentic intrusion is cheap and already operational: Oct 19 Reuters documented 100+ breached companies for about $5,000 in tokens, while CERT-In, AISI and multiple vendors reported autonomous agent intrusions through September and October. Detection and remediation remain priced per incident against attacks priced per token.",
+    "status": "critical"
   },
   "ai_infrastructure_delay_risks": {
     "last_updated": "2026-07-07",
@@ -80,9 +81,10 @@
     "description": "EU Cybersecurity and AI Action Plan published; UN inaugural Global Dialogue on AI Governance; multiple concurrent international governance initiatives"
   },
   "ai_frontier_model_price_war": {
-    "last_updated": "2026-07-09",
+    "last_updated": "2026-10-20",
     "strength": "strong",
-    "description": "SpaceXAI Grok 4.5 at $2/$6 vs Opus $5/$25 vs GPT-5.6 Sol $5/$30 - frontier model pricing entering aggressive competition phase with 60-80% cost reduction"
+    "description": "Price competition continued through October: MiniMax M3.1 Flash at $0.15/$0.60 (Oct 19), DeepSeek V4.1 Flash holding price with added retrieval, Claude Haiku 5.5 cutting the small tier ~90%. The new axis is cost per agent task rather than per token.",
+    "status": "strong"
   },
   "ai_inference_infrastructure_banking": {
     "last_updated": "2026-07-09",
@@ -1841,5 +1843,35 @@
     "strength": "medium",
     "status": "medium",
     "description": "Frontier labs are beginning to answer distributional governance questions with share ownership instead of policy commitments, which makes fund terms, valuation baselines and stockholder votes the next regulatory surface."
+  },
+  "agent_crime_unit_economics": {
+    "last_updated": "2026-10-20",
+    "strength": "critical",
+    "status": "critical",
+    "description": "Oct 19: a single operator using off-the-shelf DeepSeek and Claude Code agents breached 100+ companies in four countries on roughly $5,000 of tokens, about $50 per breach and ~23 hours each. Agentic intrusion is now priced as a commodity service, and the exposure was an internet-reachable open-source agent platform (Cairn), not a frontier-lab escape."
+  },
+  "procurement_exclusion_as_ai_control": {
+    "last_updated": "2026-10-20",
+    "strength": "critical",
+    "status": "critical",
+    "description": "Oct 19: DHS ordered DeepSeek removed from federal civilian systems under docket DHS-2026-0628 using 2018 FASCSA supply-chain exclusion authority, covering affiliates. Model diffusion is increasingly governed by what a buyer may procure rather than by what a lab may release; Beijing's Oct 16 export-control draft applies the mirror-image logic."
+  },
+  "agent_sandbox_churn_defines_server_cpu": {
+    "last_updated": "2026-10-20",
+    "strength": "emerging",
+    "status": "emerging",
+    "description": "Oct 19: Modal, previously an all-Intel/all-AMD cloud, adopted NVIDIA Vera for AI agent hosting because agents create and destroy short-lived sandboxes rather than running few long jobs. If the pattern holds, server CPU competition shifts toward per-sandbox startup cost and core density, favoring Arm."
+  },
+  "quantum_error_correction_divergence": {
+    "last_updated": "2026-10-20",
+    "strength": "emerging",
+    "status": "emerging",
+    "description": "Oct 19: Quantinuum reached 99.9995% logical fidelity on Helios, 10x its own September record and ~100x the best published result on any other modality (Google Quantum AI superconducting), by changing error-correcting codes on the same trapped-ion hardware. Code flexibility, not raw device fidelity, is doing the work."
+  },
+  "task_level_model_pricing": {
+    "last_updated": "2026-10-20",
+    "strength": "emerging",
+    "status": "emerging",
+    "description": "Oct 19: MiniMax priced M3.1 Flash at $0.15/$0.60 per million tokens and framed the claim as 70% lower cost per agent task, not per token. If buyers compare task cost, pressure shifts onto orchestration efficiency rather than raw model intelligence."
   }
 }

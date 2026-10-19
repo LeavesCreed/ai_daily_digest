@@ -138,9 +138,9 @@
     "mentions": 1
   },
   "NVIDIA": {
-    "last_seen": "2026-10-09",
-    "mentions": 15,
-    "mention_count": 16,
+    "last_seen": "2026-10-20",
+    "mentions": 16,
+    "mention_count": 17,
     "appearances": 9,
     "dates": [
       "2026-09-19",
@@ -150,7 +150,8 @@
       "2026-10-05",
       "2026-10-06",
       "2026-10-08",
-      "2026-10-09"
+      "2026-10-09",
+      "2026-10-20"
     ]
   },
   "Huawei": {
@@ -169,17 +170,18 @@
     "count": 1
   },
   "DeepSeek": {
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-10-20",
     "count": 8,
-    "mention_count": 9,
+    "mention_count": 10,
     "appearances": 6,
-    "mentions": 4,
+    "mentions": 5,
     "dates": [
       "2026-09-23",
       "2026-10-02",
       "2026-10-09",
       "2026-10-10",
-      "2026-10-18"
+      "2026-10-18",
+      "2026-10-20"
     ],
     "note": "Released V4.1-Flash-1017, an MIT-licensed 552B-backbone agent model with five more weeks of RL post-training"
   },
@@ -202,13 +204,14 @@
     "mention_count": 1
   },
   "Claude Code": {
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-10-20",
     "first_seen": "2026-09-20",
-    "appearances": 1,
-    "mentions": 1,
-    "mention_count": 1,
+    "appearances": 2,
+    "mentions": 2,
+    "mention_count": 2,
     "dates": [
-      "2026-09-20"
+      "2026-09-20",
+      "2026-10-20"
     ],
     "note": "patched Plugin4Shell in version 2.1.179"
   },
@@ -1528,7 +1531,13 @@
   },
   "Arm": {
     "count": 2,
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-10-20",
+    "dates": [
+      "2026-10-20"
+    ],
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1
   },
   "NVIDIA Vera": {
     "last_seen": "2026-08-07",
@@ -1638,8 +1647,14 @@
   },
   "DHS": {
     "count": 1,
-    "last_seen": "2026-08-10",
-    "category": "government"
+    "last_seen": "2026-10-20",
+    "category": "government",
+    "dates": [
+      "2026-10-20"
+    ],
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1
   },
   "alibaba": {
     "count": 2,
@@ -1960,14 +1975,15 @@
     "count": 1
   },
   "MiniMax": {
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-10-20",
     "count": 1,
     "appearances": 3,
-    "mentions": 3,
-    "mention_count": 3,
+    "mentions": 4,
+    "mention_count": 4,
     "dates": [
       "2026-09-28",
-      "2026-10-10"
+      "2026-10-10",
+      "2026-10-20"
     ]
   },
   "Artificial Analysis": {
@@ -2857,14 +2873,15 @@
   },
   "Reuters": {
     "first_seen": "2026-09-13",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-10-20",
     "count": 1,
-    "mention_count": 2,
-    "appearances": 1,
+    "mention_count": 3,
+    "appearances": 2,
     "dates": [
-      "2026-09-20"
+      "2026-09-20",
+      "2026-10-20"
     ],
-    "mentions": 1,
+    "mentions": 2,
     "note": "reported Anthropic is weighing a new model release ahead of its IPO"
   },
   "2026-09-13": {
@@ -4175,13 +4192,14 @@
     ]
   },
   "Apollo": {
-    "last_seen": "2026-10-08",
-    "appearances": 2,
-    "mentions": 2,
-    "mention_count": 2,
+    "last_seen": "2026-10-20",
+    "appearances": 3,
+    "mentions": 3,
+    "mention_count": 3,
     "dates": [
       "2026-09-29",
-      "2026-10-08"
+      "2026-10-08",
+      "2026-10-20"
     ]
   },
   "Citadel": {
@@ -5760,6 +5778,141 @@
     "mentions": 1,
     "dates": [
       "2026-10-19"
+    ]
+  },
+  "Cairn": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
+    ]
+  },
+  "FASCSA": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
+    ]
+  },
+  "Vera CPU": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
+    ]
+  },
+  "Modal": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
+    ]
+  },
+  "Quantinuum": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
+    ]
+  },
+  "M3.1 Flash": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
+    ]
+  },
+  "Space Bunny": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
+    ]
+  },
+  "Deere": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
+    ]
+  },
+  "SharkNinja": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
+    ]
+  },
+  "Cummins": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
+    ]
+  },
+  "HPE": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
+    ]
+  },
+  "Google Quantum AI": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
+    ]
+  },
+  "Automation-Bench": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
+    ]
+  },
+  "Terminal-Bench": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
+    ]
+  },
+  "MadsLorentzen": {
+    "last_seen": "2026-10-20",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-20"
     ]
   }
 }

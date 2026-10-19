@@ -1,7 +1,120 @@
 {
   "version": 1,
-  "generated_at": "2026-10-19T23:20:00Z",
+  "generated_at": "2026-10-20T07:20:00Z",
   "entries": [
+    {
+      "date": "2026-10-20",
+      "title": "AI Daily Digest - 2026-10-20",
+      "summary": {
+        "en": "A single attacker working with off-the-shelf agents and roughly $5,000 of inference breached more than 100 companies across four countries, turning agentic capability into a roughly $50-per-breach commodity. Washington moved on the supply side the same day, ordering DeepSeek stripped from federal civilian systems under a 2018 procurement law. On the compute side, NVIDIA's Vera CPU landed its first widely reported independent customer in Modal, a cloud that had run entirely on Intel and AMD, while Quantinuum extended its trapped-ion error-correction lead to 99.9995% logical fidelity. On the model side, MiniMax's M3.1 Flash put a 428B-parameter MoE at $0.15 per million input tokens and confirmed that the anonymous Space Bunny was an earlier checkpoint of the same model.",
+        "zh": "一名操作者只用现成的商业智能体和约 5000 美元的推理开销，就在四个国家攻破 100 多家企业，把入侵变成大约每起 50 美元的商品。同一天华盛顿从供给侧出手，依据 2018 年的供应链采购法要求联邦民用系统全面移除 DeepSeek。算力侧，英伟达独立形态的 Vera CPU 拿下 Modal——一家此前整柜 Intel 与 AMD 的云厂商；Quantinuum 把离子阱的纠错推到 99.9995% 逻辑保真度。模型侧，MiniMax 的 M3.1 Flash 把 428B MoE 压到输入每百万 token 0.15 美元，并承认匿名霸榜的 Space Bunny 只是它更早的一个版本。"
+      },
+      "categories": [
+        "AI Safety",
+        "Industry",
+        "Infrastructure",
+        "Research",
+        "Models"
+      ],
+      "tags": [
+        "Reuters",
+        "Agentic AI",
+        "Cybercrime",
+        "Cairn",
+        "DeepSeek",
+        "Claude Code",
+        "DHS",
+        "FASCSA",
+        "Supply Chain",
+        "Procurement",
+        "NVIDIA",
+        "Vera CPU",
+        "Modal",
+        "Arm",
+        "Inference",
+        "Quantinuum",
+        "Quantum Error Correction",
+        "Trapped Ion",
+        "Apollo",
+        "MiniMax",
+        "M3.1 Flash",
+        "MoE",
+        "Space Bunny",
+        "Price Cutting"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-20.md",
+        "zh": "./content/daily_zh/2026-10-20.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "A Single Hacker Used Off-the-Shelf AI Agents to Breach 100+ Companies for $5,000",
+          "summary": "Reuters reported on October 19 that one attacker, working with commercial AI agents and roughly $5,000 of token spending, broke into the web properties of more than 100 companies across the United States, Canada, Australia and Japan.",
+          "category": "AI Safety",
+          "tags": [
+            "Reuters",
+            "Agentic AI",
+            "Cybercrime",
+            "Cairn",
+            "DeepSeek",
+            "Claude Code"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "DHS Orders DeepSeek Removed From All Federal Civilian Systems",
+          "summary": "On October 19 the U.S.",
+          "category": "Industry",
+          "tags": [
+            "DHS",
+            "DeepSeek",
+            "FASCSA",
+            "Supply Chain",
+            "Procurement"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "NVIDIA's Vera CPU Wins Modal, a Cloud That Was 100% Intel and AMD",
+          "summary": "Reuters reported on October 19 that Modal, a cloud startup that rents compute to AI developers and had built its entire fleet on Intel and AMD processors, is adding NVIDIA's Vera CPU.",
+          "category": "Infrastructure",
+          "tags": [
+            "NVIDIA",
+            "Vera CPU",
+            "Modal",
+            "Arm",
+            "Inference"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Quantinuum Reports 99.9995% Logical Fidelity, a 10x Jump in Error Correction",
+          "summary": "Quantinuum announced on October 19 that its Helios commercial quantum computer reached 99.9995% logical fidelity, equivalent to about five errors per million operations, using the company's own error-correction architecture.",
+          "category": "Research",
+          "tags": [
+            "Quantinuum",
+            "Quantum Error Correction",
+            "Trapped Ion",
+            "Apollo"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "MiniMax Releases M3.1 Flash: 428B MoE at $0.15 per Million Input Tokens",
+          "summary": "MiniMax released M3.1 Flash on October 19 as an API model at $0.15 per million input tokens and $0.60 per million output tokens, roughly half of M3's per-token rate, with a 1M-token context window and text, image and video inputs.",
+          "category": "Models",
+          "tags": [
+            "MiniMax",
+            "M3.1 Flash",
+            "MoE",
+            "Space Bunny",
+            "Price Cutting"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-19",
       "title": "AI Daily Digest - 2026-10-19",
