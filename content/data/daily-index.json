@@ -1,7 +1,128 @@
 {
   "version": 1,
-  "generated_at": "2026-10-20T07:20:00Z",
+  "generated_at": "2026-10-21T07:20:00Z",
   "entries": [
+    {
+      "date": "2026-10-21",
+      "title": "AI Daily Digest - 2026-10-21",
+      "summary": {
+        "en": "Today's center of gravity moved from weights to the runtime. DeepSeek open-sourced DeepInfer, the engine it runs in production, under Apache 2.0 with no revenue gate, serving NVIDIA SM100 and Huawei Ascend 950 from one tree via a single environment variable. Within 48 hours AWS shipped TorchNeuron and Google open-sourced TorchTPU, both ports of PyTorch to their own silicon, with AWS upstreaming code to decouple the framework from NVIDIA. Anthropic's draft S-1 discloses up to $750 billion of future compute commitments, more than $600 billion in noncancelable cloud agreements and an $80.7 billion first-half net loss. NIST, NSA SISC and CISA published the first incident-readiness practices for super intelligence training and evaluation, and Bria's 8B Fibo 2.0 took the open-weights image-editing lead at a third of the going price.",
+        "zh": "今天重心从权重下移到运行时。DeepSeek 开源了自家生产服务所用的推理引擎 DeepInfer，Apache 2.0 且不设营收门槛，NVIDIA SM100 与华为昇腾 950 同一份代码树，靠一个环境变量切换。48 小时内 AWS 放出 TorchNeuron、Google 开源 TorchTPU，两家都把 PyTorch 接到自家芯片上，AWS 还把解耦代码提交回上游。Anthropic 的 S-1 草稿披露未来最多 7500 亿美元算力承诺、逾 6000 亿美元不可取消云合同，以及上半年 807 亿美元净亏损。NIST、NSA 超智能安全中心与 CISA 发布首份面向超智能训练与评估的事件响应实践，Bria 的 8B 开源模型 Fibo 2.0 以三分之一价格拿下图像编辑开源榜首。"
+      },
+      "categories": [
+        "AI Safety",
+        "Industry",
+        "Infrastructure",
+        "Multimodal",
+        "Open Source"
+      ],
+      "tags": [
+        "AWS",
+        "Anthropic",
+        "Apache 2.0",
+        "Ascend 950",
+        "Bria",
+        "CISA",
+        "CUDA",
+        "Compute Commitments",
+        "DeepGEMM",
+        "DeepInfer",
+        "DeepSeek",
+        "Fibo 2.0",
+        "FlashMLA",
+        "IPO",
+        "Incident Response",
+        "Inference",
+        "NIST",
+        "NSA SISC",
+        "Open Weights",
+        "PyTorch",
+        "S-1",
+        "SM100",
+        "TorchNeuron",
+        "TorchTPU",
+        "Trainium"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-21.md",
+        "zh": "./content/daily_zh/2026-10-21.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "DeepSeek Open-Sources DeepInfer, the Engine That Runs Its Own Serving",
+          "summary": "",
+          "category": "Open Source",
+          "tags": [
+            "DeepSeek",
+            "DeepInfer",
+            "FlashMLA",
+            "DeepGEMM",
+            "Ascend 950",
+            "SM100",
+            "Inference",
+            "Apache 2.0"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "AWS and Google Both Port PyTorch to Their Own Silicon Within Two Days",
+          "summary": "",
+          "category": "Infrastructure",
+          "tags": [
+            "AWS",
+            "TorchNeuron",
+            "Trainium",
+            "PyTorch",
+            "TorchTPU",
+            "CUDA"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Anthropic's Draft S-1 Discloses Up to $750 Billion of Future Compute",
+          "summary": "",
+          "category": "Industry",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "S-1",
+            "Compute Commitments",
+            "OpenAI",
+            "Valuation"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "NIST, NSA SISC and CISA Publish the First Incident-Response Playbook for Super Intelligence",
+          "summary": "",
+          "category": "AI Safety",
+          "tags": [
+            "NIST",
+            "CISA",
+            "NSA SISC",
+            "Incident Response",
+            "Containment",
+            "Governance"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Bria's 8B Fibo 2.0 Takes the Open-Weights Image-Editing Lead",
+          "summary": "",
+          "category": "Multimodal",
+          "tags": [
+            "Bria",
+            "Fibo 2.0",
+            "Open Weights",
+            "Image Editing",
+            "FLUX.2 VAE",
+            "DiT"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-20",
       "title": "AI Daily Digest - 2026-10-20",

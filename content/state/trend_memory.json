@@ -1,15 +1,15 @@
 {
   "ai_governance_enforcement_phase": {
-    "last_updated": "2026-10-20",
+    "last_updated": "2026-10-21",
     "strength": "critical",
     "status": "critical",
-    "description": "Enforcement keeps arriving through instruments other than model rules: procurement exclusion (DHS/DeepSeek, Oct 19), state consumer-protection suits, regulator filings and export lists, while federal frontier-model review stays undisclosed. Oct 20 shows the supply side is now the main lever.",
+    "description": "Enforcement keeps arriving through indirect instruments, and Oct 21 added the operational layer: NIST/CISA/NSA defined an SI control incident with containment verification as a gate, while a draft S-1 and an exclusion order show disclosure itself now carries cost.",
     "first_seen": "2026-06-15"
   },
   "ai_infrastructure_compute_marketization": {
-    "last_updated": "2026-10-01",
+    "last_updated": "2026-10-21",
     "strength": "critical",
-    "description": "Compute keeps being repriced as a contracted and allocated resource: Anthropic's IPO prospectus commits $518 billion to data centers and chips against a roughly $2 trillion target valuation, while Micron's $61.5 billion guidance shows the component layer capturing the shortage directly.",
+    "description": "Anthropic's draft S-1 puts $750B of potential compute commitments and over $600B of noncancelable cloud agreements on the record, against $16.3B of H1 revenue.",
     "status": "critical"
   },
   "ai_sovereign_capital_inflow": {
@@ -23,10 +23,10 @@
     "description": "Frontier AI models now treated as dual-use technologies subject to national security review before public release"
   },
   "ai_custom_silicon_momentum": {
-    "last_updated": "2026-10-20",
+    "last_updated": "2026-10-21",
     "strength": "critical",
     "status": "critical",
-    "description": "Custom silicon keeps splitting by role rather than converging: Google TPU v9 slipped a quarter on substrate yields of 45-50%, Marvell guided FY31 to $70-90B, and NVIDIA pushed Vera as a standalone server CPU into Modal (Oct 19). Arm-based CPUs are entering through the agent-sandbox door rather than the training door.",
+    "description": "Oct 21 moved the bottleneck from silicon to framework: AWS TorchNeuron for Trainium and Google TorchTPU for TPU both shipped, with PyTorch decoupling patches going upstream.",
     "first_seen": "2026-06-01"
   },
   "ai_investment_overextension_signals": {
@@ -1873,5 +1873,40 @@
     "strength": "emerging",
     "status": "emerging",
     "description": "Oct 19: MiniMax priced M3.1 Flash at $0.15/$0.60 per million tokens and framed the claim as 70% lower cost per agent task, not per token. If buyers compare task cost, pressure shifts onto orchestration efficiency rather than raw model intelligence."
+  },
+  "runtime_layer_commoditization": {
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "critical",
+    "strength": "critical",
+    "description": "The layer just below the model is being given away on all fronts: DeepSeek open-sourced its production inference engine DeepInfer under Apache 2.0 with no revenue gate, AWS shipped TorchNeuron and Google open-sourced TorchTPU to run PyTorch on Trainium and TPU, and Bria shipped an 8B open-weights image model at a third of the going API price. License gates at $20M revenue look thinner when the runtime they would constrain is free."
+  },
+  "hardware_portability_as_build_flag": {
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "strong",
+    "strength": "strong",
+    "description": "DeepInfer serves NVIDIA SM100 and Huawei Ascend 950 from one tree selected by the DEEPINFER_ACCELERATOR environment variable, while AWS upstreams PyTorch code that decouples features from NVIDIA silicon. Portability stops being a fork or a partnership and becomes a build target, which turns export control into a question about what compiles."
+  },
+  "compute_commitment_as_balance_sheet_disclosure": {
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "strong",
+    "strength": "strong",
+    "description": "Anthropic's draft S-1 discloses up to $750B of potential future compute including over $600B of noncancelable cloud agreements with Google, Amazon and Microsoft, against $16.3B of H1 revenue and an $80.7B net loss driven by $72B of convertible-note charges. The cost side of the frontier is now auditable, and 20% customer concentration makes it leverage-sensitive."
+  },
+  "agent_incident_formalization": {
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "strong",
+    "strength": "strong",
+    "description": "NIST CAISSI, NSA SISC and CISA published ten voluntary practices for SI training and evaluation, defining an 'SI control incident' and a near-miss, and requiring containment to be verified before agent activity resumes. Rogue-agent handling moves from one-off disclosure to an auditable operational gate with external auditors and third-party notification."
+  },
+  "open_weight_image_parity": {
+    "first_seen": "2026-10-21",
+    "last_updated": "2026-10-21",
+    "status": "medium",
+    "strength": "medium",
+    "description": "Bria's 8B Fibo 2.0 took the open-weights lead on AA-Image-Editing v2.1 and tied Qwen-Image-2.1 on T2I, at $32 per thousand images versus $75-$100 for closed peers, with licensed-only training data as the enterprise differentiator."
   }
 }
