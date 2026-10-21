@@ -1044,5 +1044,12 @@
   "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
   "https://huggingface.co/briaai/Fibo-2.0-edit-turbo",
   "https://arxiv.org/abs/2610.26809",
-  "https://github.com/wheresryan22/anatomy"
+  "https://github.com/wheresryan22/anatomy",
+  "https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-brings-openai-models-to-customers",
+  "https://huggingface.co/RecursiveSI/flint",
+  "https://cloud.google.com/blog/topics/ai-infrastructure/llm-d-1-0-an-open-source-stack-for-distributed-inference",
+  "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx",
+  "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor",
+  "https://doi.org/10.64898/2026.02.23.707551",
+  "https://github.com/google-research/harness2"
 ]

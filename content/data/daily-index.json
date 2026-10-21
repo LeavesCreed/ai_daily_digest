@@ -1,7 +1,161 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T07:20:00Z",
+  "generated_at": "2026-10-21T23:17:42Z",
   "entries": [
+    {
+      "date": "2026-10-22",
+      "title": "AI Daily Digest - 2026-10-22",
+      "summary": {
+        "en": "The day's most consequential move was not a model but a shelf. OpenAI put GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna plus Codex workflows into Google Cloud's Model Garden as a private preview, payable with existing Google Cloud commitments, which makes Google the only hyperscaler carrying all three leading closed models. Recursive shipped Flint, a 39.8B/2.5B-active Apache 2.0 coding MoE that clears 125 tokens per second on an M4 Pro MacBook and, by its own account, was largely engineered by its automated research system. llm-d reached 1.0 under CNCF with cache-aware routing, multi-tenant QoS and zero-downtime upgrades, claiming 5-10x cost reduction on context-heavy agentic workloads. NVIDIA used GTC Berlin to turn carrier networks into distributed AI compute: T-Mobile placed the first live AI-RAN call, nearly 20 operators are on the stack, and DSX MaxLPS claims the same output on 30% less power. Against all that, LiteLLM 1.107.0 shipped from a compromised release pipeline with a credential stealer and a GitHub-polling backdoor, its second such incident this year.",
+        "zh": "今天最要紧的动作不是某个模型，而是一个货架。OpenAI 把 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 连同 Codex 工作流放进 Google Cloud 的 Model Garden（私有预览），可以直接用已承诺的 Google Cloud 额度付款，Google 由此成为唯一同时上架三家头部闭源模型的大厂云。Recursive 放出 Flint：39.8B 总参 /2.5B 激活、Apache 2.0 的编码 MoE，在 M4 Pro 笔记本上跑到 125 token/s 以上，按其自述大部分工程由其自动化研究系统完成。llm-d 在 CNCF 下发布 1.0，带来缓存感知路由、多租户 QoS 与零停机升级，称在上下文重的智能体负载上可把成本压到五到十分之一。NVIDIA 则在 GTC 柏林把运营商网络变成分布式算力：T-Mobile 打通全球首通现网 AI-RAN 通话，近 20 家运营商入栈，DSX MaxLPS 称同等 token 产出下省电 30%。与之对照，LiteLLM 1.107.0 从被入侵的发布流水线出厂，内置凭据窃取器与轮询 GitHub 的后门，这是它今年第二次同类事故。"
+      },
+      "categories": [
+        "AI Safety",
+        "Industry",
+        "Infrastructure",
+        "Models"
+      ],
+      "tags": [
+        "AI Gateway",
+        "AI-RAN",
+        "Apache 2.0",
+        "Backdoor",
+        "CNCF",
+        "Cache-Aware Routing",
+        "Codex",
+        "Coding",
+        "Credential Theft",
+        "DSX",
+        "Distribution",
+        "Edge Inference",
+        "Eureka Machine",
+        "Flint",
+        "GPT-6 Astra",
+        "GPT-6 Luna",
+        "GPT-6.1 Sol",
+        "GTC Berlin",
+        "Google Cloud",
+        "Hyperscaler",
+        "IBM",
+        "Inference",
+        "Kubernetes",
+        "LiteLLM",
+        "Local Inference",
+        "Marketplace",
+        "MoE",
+        "Model Garden",
+        "NVIDIA",
+        "Nokia",
+        "Open Weights",
+        "OpenAI",
+        "Power Efficiency",
+        "Provenance",
+        "PyPI",
+        "Recursive",
+        "Red Hat",
+        "SGLang",
+        "SWE-bench Pro v2",
+        "SafeDep",
+        "Supply Chain",
+        "T-Mobile",
+        "Telecom",
+        "llm-d",
+        "vLLM"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-22.md",
+        "zh": "./content/daily_zh/2026-10-22.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "OpenAI Puts GPT-6 and Codex Inside Google Cloud's Model Garden",
+          "summary": "",
+          "category": "Industry",
+          "tags": [
+            "OpenAI",
+            "Google Cloud",
+            "Model Garden",
+            "GPT-6 Astra",
+            "GPT-6.1 Sol",
+            "GPT-6 Luna",
+            "Codex",
+            "Marketplace",
+            "Distribution",
+            "Hyperscaler"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Recursive Opens Flint: a 39.8B/2.5B Coding MoE Built by Its Own Research Machine",
+          "summary": "",
+          "category": "Models",
+          "tags": [
+            "Recursive",
+            "Flint",
+            "MoE",
+            "Apache 2.0",
+            "SWE-bench Pro v2",
+            "Eureka Machine",
+            "Local Inference",
+            "Coding",
+            "Open Weights"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "llm-d 1.0 Ships Under CNCF: Cache-Aware Routing for Agent Fleets",
+          "summary": "",
+          "category": "Infrastructure",
+          "tags": [
+            "llm-d",
+            "CNCF",
+            "Kubernetes",
+            "vLLM",
+            "SGLang",
+            "Inference",
+            "Cache-Aware Routing",
+            "IBM",
+            "Red Hat",
+            "Google Cloud"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "NVIDIA Turns Cell Towers Into AI Compute as T-Mobile Places First Live AI-RAN Call",
+          "summary": "",
+          "category": "Infrastructure",
+          "tags": [
+            "NVIDIA",
+            "Nokia",
+            "AI-RAN",
+            "GTC Berlin",
+            "DSX",
+            "T-Mobile",
+            "Telecom",
+            "Power Efficiency",
+            "Edge Inference"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "LiteLLM 1.107.0 Ships a Credential Stealer From Its Own Release Pipeline",
+          "summary": "",
+          "category": "AI Safety",
+          "tags": [
+            "LiteLLM",
+            "Supply Chain",
+            "PyPI",
+            "Credential Theft",
+            "Backdoor",
+            "AI Gateway",
+            "SafeDep",
+            "Provenance"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-21",
       "title": "AI Daily Digest - 2026-10-21",

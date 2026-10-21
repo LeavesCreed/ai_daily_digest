@@ -1,6 +1,6 @@
 {
   "ai_governance_enforcement_phase": {
-    "last_updated": "2026-10-21",
+    "last_updated": "2026-10-22",
     "strength": "critical",
     "status": "critical",
     "description": "Enforcement keeps arriving through indirect instruments, and Oct 21 added the operational layer: NIST/CISA/NSA defined an SI control incident with containment verification as a gate, while a draft S-1 and an exclusion order show disclosure itself now carries cost.",
@@ -23,7 +23,7 @@
     "description": "Frontier AI models now treated as dual-use technologies subject to national security review before public release"
   },
   "ai_custom_silicon_momentum": {
-    "last_updated": "2026-10-21",
+    "last_updated": "2026-10-22",
     "strength": "critical",
     "status": "critical",
     "description": "Oct 21 moved the bottleneck from silicon to framework: AWS TorchNeuron for Trainium and Google TorchTPU for TPU both shipped, with PyTorch decoupling patches going upstream.",
@@ -115,7 +115,8 @@
     "level": "strong",
     "note": "NVIDIA-Brookfield-Naver $10B alliance; chip vendors integrating capital and power",
     "strength": "strong",
-    "last_updated": "2026-08-27"
+    "last_updated": "2026-10-22",
+    "first_seen": "2026-10-22"
   },
   "ai_export_geopolitics": {
     "last_updated": "2026-10-17",
@@ -916,8 +917,9 @@
   },
   "inference_architecture_pluralization": {
     "first_seen": "2026-09-11",
-    "status": "emerging",
-    "note": "Diffusion LLMs (Mercury 2.5, Uno) challenge autoregressive default and reshape the cost curve"
+    "status": "high",
+    "note": "Diffusion LLMs (Mercury 2.5, Uno) challenge autoregressive default and reshape the cost curve",
+    "last_updated": "2026-10-22"
   },
   "compute_market_financialization": {
     "first_seen": "2026-09-12",
@@ -1908,5 +1910,40 @@
     "status": "medium",
     "strength": "medium",
     "description": "Bria's 8B Fibo 2.0 took the open-weights lead on AA-Image-Editing v2.1 and tied Qwen-Image-2.1 on T2I, at $32 per thousand images versus $75-$100 for closed peers, with licensed-only training data as the enterprise differentiator."
+  },
+  "routing_layer_as_contested_territory": {
+    "status": "critical",
+    "strength": "critical",
+    "description": "Google hosting OpenAI models, llm-d hardening the inference pool and NVIDIA pushing compute into base stations all target the same layer: where a request is routed. Control is migrating from the model to the router, the cache and the power budget.",
+    "first_seen": "2026-10-22",
+    "last_updated": "2026-10-22"
+  },
+  "harness_as_research_object": {
+    "status": "high",
+    "strength": "high",
+    "description": "Google Research's Harness² treats prompts, tools, memory, skills and orchestration as the unit of study rather than an implementation detail, and topped GitHub Python trending with 17k stars in a week. Harness portability and harness evaluation are becoming shared vocabulary across labs.",
+    "first_seen": "2026-10-22",
+    "last_updated": "2026-10-22"
+  },
+  "model_gateway_as_concentrated_attack_surface": {
+    "status": "critical",
+    "strength": "critical",
+    "description": "LiteLLM 1.107.0 shipped a stealer and backdoor from its own release pipeline, the second such incident this year. Gateways concentrate every provider key in one process, so a single publishing compromise exposes SSH keys, cloud credentials, CI secrets and AI tool tokens at once.",
+    "first_seen": "2026-10-22",
+    "last_updated": "2026-10-22"
+  },
+  "ai_built_model_as_shipping_reality": {
+    "status": "high",
+    "strength": "high",
+    "description": "Recursive's Flint was built in under four months with its Eureka Machine credited for architecture, quantization and kernels. Automated research contributing to shipped artifacts shifts the bottleneck from headcount and compute to the throughput of the research loop.",
+    "first_seen": "2026-10-22",
+    "last_updated": "2026-10-22"
+  },
+  "carrier_network_as_ai_compute_footprint": {
+    "status": "medium",
+    "strength": "high",
+    "description": "T-Mobile placed the first live AI-RAN call and nearly 20 operators are on the NVIDIA-Nokia stack, with commercial services targeted for 2027. Existing towers, power drops and backhaul become inference capacity that must yield to radio traffic, making flexible scheduling the binding constraint.",
+    "first_seen": "2026-10-22",
+    "last_updated": "2026-10-22"
   }
 }

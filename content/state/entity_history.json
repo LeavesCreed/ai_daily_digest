@@ -1,9 +1,9 @@
 {
   "OpenAI": {
-    "last_seen": "2026-10-21",
-    "appearances": 17,
-    "mention_count": 27,
-    "mentions": 25,
+    "last_seen": "2026-10-22",
+    "appearances": 18,
+    "mention_count": 28,
+    "mentions": 26,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -21,7 +21,8 @@
       "2026-10-07",
       "2026-10-08",
       "2026-10-09",
-      "2026-10-21"
+      "2026-10-21",
+      "2026-10-22"
     ]
   },
   "Anthropic": {
@@ -140,10 +141,10 @@
     "mentions": 1
   },
   "NVIDIA": {
-    "last_seen": "2026-10-21",
-    "mentions": 16,
-    "mention_count": 18,
-    "appearances": 10,
+    "last_seen": "2026-10-22",
+    "mentions": 17,
+    "mention_count": 19,
+    "appearances": 11,
     "dates": [
       "2026-09-19",
       "2026-09-24",
@@ -154,7 +155,8 @@
       "2026-10-08",
       "2026-10-09",
       "2026-10-20",
-      "2026-10-21"
+      "2026-10-21",
+      "2026-10-22"
     ]
   },
   "Huawei": {
@@ -1028,14 +1030,15 @@
     "Buzz"
   ],
   "Google Cloud": {
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-22",
     "count": 1,
-    "appearances": 3,
-    "mention_count": 3,
-    "mentions": 2,
+    "appearances": 5,
+    "mention_count": 5,
+    "mentions": 4,
     "dates": [
       "2026-10-07",
-      "2026-10-09"
+      "2026-10-09",
+      "2026-10-22"
     ]
   },
   "NSA": {
@@ -1371,7 +1374,13 @@
   },
   "IBM": {
     "first_seen": "2026-08-03",
-    "mentions": 1
+    "mentions": 2,
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "dates": [
+      "2026-10-22"
+    ]
   },
   "University of Chicago": {
     "first_seen": "2026-08-03",
@@ -1473,8 +1482,13 @@
   },
   "Red Hat": {
     "first_seen": "2026-08-05",
-    "last_seen": "2026-08-05",
-    "mention_count": 1
+    "last_seen": "2026-10-22",
+    "mention_count": 2,
+    "appearances": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
   },
   "asago": {
     "first_seen": "2026-08-05",
@@ -1581,9 +1595,15 @@
     "note": "AI security firm reporting escape"
   },
   "Stanford": {
-    "last_seen": "2026-08-08",
+    "last_seen": "2026-10-22",
     "count": 1,
-    "note": "AI-designed viruses study"
+    "note": "AI-designed viruses study",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
   },
   "Arc Institute": {
     "last_seen": "2026-08-08",
@@ -2504,8 +2524,13 @@
   },
   "GPT-6 Astra": {
     "count": 2,
-    "last_seen": "2026-09-09",
-    "mention_count": 2
+    "last_seen": "2026-10-22",
+    "mention_count": 3,
+    "appearances": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
   },
   "Gottheimer": {
     "count": 1,
@@ -4318,12 +4343,13 @@
     ]
   },
   "GPT-6.1 Sol": {
-    "last_seen": "2026-09-30",
-    "appearances": 1,
-    "mentions": 1,
-    "mention_count": 1,
+    "last_seen": "2026-10-22",
+    "appearances": 2,
+    "mentions": 2,
+    "mention_count": 2,
     "dates": [
-      "2026-09-30"
+      "2026-09-30",
+      "2026-10-22"
     ]
   },
   "Agents API": {
@@ -4336,12 +4362,13 @@
     ]
   },
   "Codex": {
-    "last_seen": "2026-09-30",
-    "appearances": 1,
-    "mentions": 1,
-    "mention_count": 1,
+    "last_seen": "2026-10-22",
+    "appearances": 2,
+    "mentions": 2,
+    "mention_count": 2,
     "dates": [
-      "2026-09-30"
+      "2026-09-30",
+      "2026-10-22"
     ]
   },
   "World Labs": {
@@ -5996,12 +6023,256 @@
     ]
   },
   "vLLM": {
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-22",
+    "appearances": 2,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-21",
+      "2026-10-22"
+    ]
+  },
+  "Model Garden": {
+    "last_seen": "2026-10-22",
     "appearances": 1,
     "mention_count": 1,
     "mentions": 1,
     "dates": [
-      "2026-10-21"
+      "2026-10-22"
+    ]
+  },
+  "GPT-6 Luna": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "Recursive": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "Flint": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "Eureka Machine": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "Richard Socher": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "llm-d": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "CNCF": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "Kubernetes": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "CoreWeave": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "SGLang": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "Nokia": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "AI-RAN": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "T-Mobile": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "BT": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "Deutsche Telekom": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "Elisa": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "Orange": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "DSX": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "LiteLLM": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "PyPI": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "SafeDep": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "BerriAI": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "Science": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "Virtual Biotech": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "harness2": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
+    ]
+  },
+  "Google Research": {
+    "last_seen": "2026-10-22",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-22"
     ]
   }
 }
