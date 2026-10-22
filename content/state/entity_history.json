@@ -1,17 +1,10 @@
 {
   "OpenAI": {
-    "last_seen": "2026-10-22",
-    "appearances": 18,
-    "mention_count": 28,
-    "mentions": 26,
+    "last_seen": "2026-10-23",
+    "appearances": 12,
+    "mention_count": 27,
+    "mentions": 27,
     "dates": [
-      "2026-09-19",
-      "2026-09-21",
-      "2026-09-23",
-      "2026-09-24",
-      "2026-09-26",
-      "2026-09-28",
-      "2026-09-30",
       "2026-10-01",
       "2026-10-02",
       "2026-10-03",
@@ -22,22 +15,16 @@
       "2026-10-08",
       "2026-10-09",
       "2026-10-21",
-      "2026-10-22"
+      "2026-10-22",
+      "2026-10-23"
     ]
   },
   "Anthropic": {
-    "last_seen": "2026-10-21",
-    "mention_count": 29,
-    "appearances": 22,
-    "mentions": 26,
+    "last_seen": "2026-10-23",
+    "mention_count": 27,
+    "appearances": 12,
+    "mentions": 27,
     "dates": [
-      "2026-09-19",
-      "2026-09-21",
-      "2026-09-22",
-      "2026-09-23",
-      "2026-09-24",
-      "2026-09-26",
-      "2026-09-28",
       "2026-09-29",
       "2026-10-01",
       "2026-10-02",
@@ -48,7 +35,8 @@
       "2026-10-09",
       "2026-10-18",
       "2026-10-19",
-      "2026-10-21"
+      "2026-10-21",
+      "2026-10-23"
     ],
     "note": "Committed 5% of shares, rising with valuation, to the Anthropic Public Benefit Fund ahead of a November IPO."
   },
@@ -141,10 +129,10 @@
     "mentions": 1
   },
   "NVIDIA": {
-    "last_seen": "2026-10-22",
-    "mentions": 17,
-    "mention_count": 19,
-    "appearances": 11,
+    "last_seen": "2026-10-23",
+    "mentions": 18,
+    "mention_count": 18,
+    "appearances": 12,
     "dates": [
       "2026-09-19",
       "2026-09-24",
@@ -156,7 +144,8 @@
       "2026-10-09",
       "2026-10-20",
       "2026-10-21",
-      "2026-10-22"
+      "2026-10-22",
+      "2026-10-23"
     ]
   },
   "Huawei": {
@@ -613,16 +602,17 @@
   },
   "Hugging Face": {
     "first_seen": "2026-07-11",
-    "appearances": 6,
-    "last_seen": "2026-10-19",
+    "appearances": 5,
+    "last_seen": "2026-10-23",
     "count": 10,
-    "mentions": 8,
-    "mention_count": 8,
+    "mentions": 9,
+    "mention_count": 9,
     "dates": [
       "2026-09-29",
       "2026-10-04",
       "2026-10-05",
-      "2026-10-19"
+      "2026-10-19",
+      "2026-10-23"
     ]
   },
   "Ed Markey": {
@@ -1412,15 +1402,16 @@
   },
   "METR": {
     "first_seen": "2026-08-03",
-    "mentions": 2,
-    "last_seen": "2026-10-02",
+    "mentions": 3,
+    "last_seen": "2026-10-23",
     "dates": [
       "2026-09-19",
       "2026-10-01",
-      "2026-10-02"
+      "2026-10-02",
+      "2026-10-23"
     ],
-    "appearances": 2,
-    "mention_count": 2
+    "appearances": 4,
+    "mention_count": 3
   },
   "Lean Theorem Prover": {
     "first_seen": "2026-08-03",
@@ -1502,9 +1493,14 @@
   },
   "Vera Rubin": {
     "first_seen": "2026-08-05",
-    "last_seen": "2026-08-27",
-    "mention_count": 2,
-    "count": 3
+    "last_seen": "2026-10-23",
+    "mention_count": 1,
+    "count": 3,
+    "dates": [
+      "2026-10-23"
+    ],
+    "appearances": 1,
+    "mentions": 1
   },
   "Starmind": {
     "first_seen": "2026-08-05",
@@ -1841,12 +1837,13 @@
     "mention_count": 3,
     "trend": "stable",
     "count": 3,
-    "last_seen": "2026-10-10",
-    "appearances": 2,
-    "mentions": 2,
+    "last_seen": "2026-10-23",
+    "appearances": 3,
+    "mentions": 3,
     "dates": [
       "2026-09-23",
-      "2026-10-10"
+      "2026-10-10",
+      "2026-10-23"
     ]
   },
   "Qwen": {
@@ -2433,13 +2430,14 @@
   "CrowdStrike": {
     "first_seen": "2026-09-01",
     "count": 1,
-    "last_seen": "2026-09-29",
-    "appearances": 1,
+    "last_seen": "2026-10-23",
+    "appearances": 2,
     "dates": [
-      "2026-09-29"
+      "2026-09-29",
+      "2026-10-23"
     ],
-    "mentions": 1,
-    "mention_count": 1
+    "mentions": 2,
+    "mention_count": 2
   },
   "Falcon IQ": {
     "first_seen": "2026-09-01",
@@ -3945,13 +3943,14 @@
     ]
   },
   "Palo Alto Networks": {
-    "last_seen": "2026-09-29",
-    "mention_count": 2,
-    "appearances": 2,
-    "mentions": 2,
+    "last_seen": "2026-10-23",
+    "mention_count": 3,
+    "appearances": 3,
+    "mentions": 3,
     "dates": [
       "2026-09-23",
-      "2026-09-29"
+      "2026-09-29",
+      "2026-10-23"
     ]
   },
   "T-Head": {
@@ -6267,12 +6266,148 @@
     ]
   },
   "Google Research": {
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-23",
+    "appearances": 2,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-22",
+      "2026-10-23"
+    ]
+  },
+  "Wiz": {
+    "last_seen": "2026-10-23",
     "appearances": 1,
     "mention_count": 1,
     "mentions": 1,
     "dates": [
-      "2026-10-22"
+      "2026-10-23"
+    ]
+  },
+  "PHP": {
+    "last_seen": "2026-10-23",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-23"
+    ]
+  },
+  "Redwood Research": {
+    "last_seen": "2026-10-23",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-23"
+    ]
+  },
+  "Claude Duet": {
+    "last_seen": "2026-10-23",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-23"
+    ]
+  },
+  "DSX POD": {
+    "last_seen": "2026-10-23",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-23"
+    ]
+  },
+  "Agentic AI Foundation": {
+    "last_seen": "2026-10-23",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-23"
+    ]
+  },
+  "THUSI-Lab": {
+    "last_seen": "2026-10-23",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-23"
+    ]
+  },
+  "miHoYo": {
+    "last_seen": "2026-10-23",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-23"
+    ]
+  },
+  "Tsinghua University": {
+    "last_seen": "2026-10-23",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-23"
+    ]
+  },
+  "Symantec": {
+    "last_seen": "2026-10-23",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-23"
+    ]
+  },
+  "HCLTech": {
+    "last_seen": "2026-10-23",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-23"
+    ]
+  },
+  "Amkor": {
+    "last_seen": "2026-10-23",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-23"
+    ]
+  },
+  "Samsung Electro-Mechanics": {
+    "last_seen": "2026-10-23",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-23"
+    ]
+  },
+  "Ibiden": {
+    "last_seen": "2026-10-23",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-23"
+    ]
+  },
+  "Unimicron": {
+    "last_seen": "2026-10-23",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-23"
     ]
   }
 }

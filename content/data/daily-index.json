@@ -1,7 +1,130 @@
 {
   "version": 1,
-  "generated_at": "2026-10-21T23:17:42Z",
+  "generated_at": "2026-10-22T23:29:02Z",
   "entries": [
+    {
+      "date": "2026-10-23",
+      "title": "AI Daily Digest - 2026-10-23",
+      "summary": {
+        "en": "The day's signal is a collapse in the time constant of attack and oversight. Wiz used three frontier models to find, chain, weaponize and debug two decade-old PHP memory flaws in about a week, the PHP project patched them on 21 October, Unit 42 has already reported exploitation in the wild, and Palo Alto counts 22.6 million potentially exposed instances. The same week CrowdStrike said every threat group it tracked bypassed safeguards in commercial models, and Symantec's honeypot caught an autonomous agent built for up to 100,000 malicious actions. Oversight moved in parallel: METR and Redwood Research published the first public account of an embedded three-week audit of OpenAI's agent monitoring, estimating about 10 percent of eligible internal Codex traffic went unmonitored from May to July, while OpenAI kept redaction rights over a largely unreleased 61-page report. Distribution and delivery were formalized too, with the Agentic AI Foundation taking in four more projects to reach 10 in its first year, and NVIDIA shipping DSX POD to cut AI factory deployment from roughly six months to as little as 14 days.",
+        "zh": "今天的信号是攻防与监督两端的时间常数同时坍缩。Wiz 用三个前沿模型在一周左右走完发现、串联、武器化与调试图中两个十年历史的 PHP 内存漏洞，PHP 项目 21 日发布补丁，Unit 42 已报告野外攻击，Palo Alto 统计 2260 万个可能暴露实例。同一周 CrowdStrike 称其追踪的四个组织都绕过了商用模型的安全控制，Symantec 蜜罐抓到一个被设计为可执行最多 10 万次恶意动作的自主智能体。监督侧同步推进：METR 与 Redwood Research 首次公开在 OpenAI 现场三周的嵌入式审计，估计 5 至 7 月约 10% 的合格内部 Codex 流量未被监控，而 61 页报告中 OpenAI 保留删节权。分发与交付也被制度化，Agentic AI Foundation 一次性接收四个项目、首年达到 10 个，NVIDIA 则推出 DSX POD，把 AI 工厂部署从约六个月压到最快 14 天。"
+      },
+      "categories": [
+        "AI Safety",
+        "Agents",
+        "Infrastructure",
+        "Open Source"
+      ],
+      "tags": [
+        "PHP",
+        "CVE-2026-109618",
+        "Wiz",
+        "Gemini 4 Argon",
+        "GPT-5.6 Sol",
+        "Vulnerability Discovery",
+        "Anthropic",
+        "Claude Duet",
+        "Personal Agent",
+        "NVIDIA",
+        "DSX POD",
+        "Vera Rubin",
+        "Liquid Cooling",
+        "METR",
+        "Redwood Research",
+        "OpenAI",
+        "Codex",
+        "Agent Monitoring",
+        "External Audit",
+        "Agentic AI Foundation",
+        "MCP",
+        "Agent Skills",
+        "Open Responses",
+        "OpenEnv",
+        "OpenSandbox"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-23.md",
+        "zh": "./content/daily_zh/2026-10-23.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "PHP2Shell: Three Frontier Models Turned a Decade-Old PHP Bug Into a Working Exploit in a Week",
+          "summary": "Wiz used Gemini 4 Argon, GPT-5.6 Sol and its own agent Atlas to find, chain and debug CVE-2026-109618 and CVE-2026-109619 within about a week; patched 21 October, with Unit 42 reporting in-the-wild attacks against 22.6 million potentially exposed instances.",
+          "category": "AI Safety",
+          "tags": [
+            "PHP",
+            "CVE-2026-109618",
+            "Wiz",
+            "Gemini 4 Argon",
+            "GPT-5.6 Sol",
+            "Vulnerability Discovery",
+            "CrowdStrike",
+            "Symantec"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Anthropic Opens Claude Duet, a Proactive Personal Agent on Its Own VM",
+          "summary": "Research preview by waitlist for US Pro and Max subscribers, shipping as standalone iOS, Android and web apps with a dedicated VM browser, a morning brief, a confirmation gate before consequential actions and a hard prohibition list that approval cannot override.",
+          "category": "Agents",
+          "tags": [
+            "Anthropic",
+            "Claude Duet",
+            "Personal Agent",
+            "Claude Opus 5.5",
+            "HCLTech"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "NVIDIA Ships DSX POD to Cut AI Factory Deployment From Six Months to 14 Days",
+          "summary": "Containerized modules that integrate compute, networking, rack power and liquid cooling, assembled and tested in a factory, built on Vera Rubin, with 17 partners and substrate and packaging expansion across Samsung Electro-Mechanics, Ibiden and Unimicron.",
+          "category": "Infrastructure",
+          "tags": [
+            "NVIDIA",
+            "DSX POD",
+            "Vera Rubin",
+            "Liquid Cooling",
+            "GTC Berlin",
+            "Dell",
+            "HPE",
+            "Foxconn",
+            "Amkor"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "METR and Redwood Publish the First Embedded Audit of OpenAI's Agent Monitoring",
+          "summary": "A three-week on-premises assessment from 21 July to 11 August estimates roughly 10 percent of eligible internal Codex traffic went unmonitored from May to July because compaction events escaped review, with a redacted exploit that could hide hundreds of actions.",
+          "category": "AI Safety",
+          "tags": [
+            "METR",
+            "Redwood Research",
+            "OpenAI",
+            "Codex",
+            "Agent Monitoring",
+            "External Audit"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Agentic AI Foundation Takes Four More Projects, Reaching 10 in Its First Year",
+          "summary": "Agent Skills from Anthropic, Open Responses from OpenAI, OpenEnv from Hugging Face and OpenSandbox from Alibaba join MCP, goose, AGENTS.md, A2A, Agent Router and agentgateway under neutral governance.",
+          "category": "Open Source",
+          "tags": [
+            "Agentic AI Foundation",
+            "MCP",
+            "Agent Skills",
+            "Open Responses",
+            "OpenEnv",
+            "OpenSandbox",
+            "Linux Foundation"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-22",
       "title": "AI Daily Digest - 2026-10-22",

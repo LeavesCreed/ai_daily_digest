@@ -1,6 +1,6 @@
 {
   "ai_governance_enforcement_phase": {
-    "last_updated": "2026-10-22",
+    "last_updated": "2026-10-23",
     "strength": "critical",
     "status": "critical",
     "description": "Enforcement keeps arriving through indirect instruments, and Oct 21 added the operational layer: NIST/CISA/NSA defined an SI control incident with containment verification as a gate, while a draft S-1 and an exclusion order show disclosure itself now carries cost.",
@@ -60,7 +60,7 @@
     "description": "Credible critics including operators, auditors, and SEC filings question frontier AI economics; OpenAI $21B loss revealed in audited financials"
   },
   "ai_cybersecurity_threat_timeline": {
-    "last_updated": "2026-10-20",
+    "last_updated": "2026-10-23",
     "strength": "critical",
     "description": "Agentic intrusion is cheap and already operational: Oct 19 Reuters documented 100+ breached companies for about $5,000 in tokens, while CERT-In, AISI and multiple vendors reported autonomous agent intrusions through September and October. Detection and remediation remain priced per incident against attacks priced per token.",
     "status": "critical"
@@ -115,7 +115,7 @@
     "level": "strong",
     "note": "NVIDIA-Brookfield-Naver $10B alliance; chip vendors integrating capital and power",
     "strength": "strong",
-    "last_updated": "2026-10-22",
+    "last_updated": "2026-10-23",
     "first_seen": "2026-10-22"
   },
   "ai_export_geopolitics": {
@@ -903,7 +903,7 @@
     "status": "emerging",
     "note": "Frontier labs shift from voluntary pledges to published, verifiable threat-intelligence records and actively request mandatory regulation",
     "description": "Evidence and disclosure keep becoming the operative standard: SemiAnalysis finds only 3.6% of 857 Chinese model releases carry a published safety evaluation matchable to the model, and 93% of reasoning models have none, while arXiv caps submissions to protect its verification pipeline.",
-    "last_updated": "2026-10-10"
+    "last_updated": "2026-10-23"
   },
   "consumer_agent_distribution_war": {
     "first_seen": "2026-09-11",
@@ -1945,5 +1945,47 @@
     "description": "T-Mobile placed the first live AI-RAN call and nearly 20 operators are on the NVIDIA-Nokia stack, with commercial services targeted for 2027. Existing towers, power drops and backhaul become inference capacity that must yield to radio traffic, making flexible scheduling the binding constraint.",
     "first_seen": "2026-10-22",
     "last_updated": "2026-10-22"
+  },
+  "patch_to_exploit_time_constant": {
+    "status": "critical",
+    "strength": "high",
+    "description": "Frontier models compressed vulnerability discovery to weaponized exploit from months to about a week, as Wiz demonstrated on CVE-2026-109618/109619 with Gemini 4 Argon, GPT-5.6 Sol and Atlas. Defensive posture shifts from patch process to inventory accuracy and isolation of unpatched systems.",
+    "first_seen": "2026-10-23",
+    "last_updated": "2026-10-23"
+  },
+  "agent_attack_industrialization": {
+    "status": "high",
+    "strength": "high",
+    "description": "CrowdStrike reports all four tracked groups bypassed commercial model guardrails, Microsoft says the ARTEX framework spread beyond its original operators, and Symantec's honeypot captured an autonomous agent built for 100,000 actions disguising itself as sysadmin work.",
+    "first_seen": "2026-10-23",
+    "last_updated": "2026-10-23"
+  },
+  "embedded_evaluator_legibility_gap": {
+    "status": "medium",
+    "strength": "high",
+    "description": "METR and Redwood's embedded assessment at OpenAI produced a public shape without the substance: a 61-page internal report stays unreleased and the audited party holds redaction discretion, while the published gap numbers carry wide uncertainty and an unnamed worst-case exploit.",
+    "first_seen": "2026-10-23",
+    "last_updated": "2026-10-23"
+  },
+  "agent_stack_layer_standardization": {
+    "status": "medium",
+    "strength": "medium",
+    "description": "Four competing vendors donated four layer-specific projects to neutral governance in one day, covering skills, request format, evaluation environment and sandbox. Portability cost, not model capability, is the contested surface.",
+    "first_seen": "2026-10-23",
+    "last_updated": "2026-10-23"
+  },
+  "capital_expenditure_compression_as_product": {
+    "status": "high",
+    "strength": "medium",
+    "description": "DSX POD treats the lag between capex and revenue as the thing being optimized, moving siting constraints from construction to acceptance of prefabricated modules, cooling contracts and grid-dispatch terms.",
+    "first_seen": "2026-10-23",
+    "last_updated": "2026-10-23"
+  },
+  "ipo_window_narrowed_to_single_name": {
+    "status": "medium",
+    "strength": "medium",
+    "description": "Switch, Nscale, SB Energy, AirTrunk, Firmus and Elice postponed or withdrew listings as rates rose and AI spending faced scrutiny, leaving Anthropic's mid-November offering effectively alone in the window.",
+    "first_seen": "2026-10-23",
+    "last_updated": "2026-10-23"
   }
 }

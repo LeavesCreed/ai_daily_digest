@@ -820,5 +820,16 @@
   "NVIDIA Turns Cell Towers Into AI Compute as T-Mobile Places First Live AI-RAN Call",
   "LiteLLM 1.107.0 Ships a Credential Stealer From Its Own Release Pipeline",
   "The Virtual Biotech: a Multi-Agent AI Framework for Therapeutic Discovery and Development",
-  "google-research/harness2"
+  "google-research/harness2",
+  "PHP2Shell: three frontier models turned a decade-old PHP bug into a working exploit in a week",
+  "Anthropic opens Claude Duet, a proactive personal agent that runs on its own VM",
+  "NVIDIA ships DSX POD to cut AI factory deployment from six months to 14 days",
+  "METR and Redwood publish the first embedded audit of OpenAI's agent monitoring",
+  "Agentic AI Foundation takes four more projects, reaching 10 in its first year",
+  "Claude Duet research preview opens to US Pro and Max subscribers",
+  "DSX POD compresses AI factory deployment to as little as 14 days",
+  "METR embedded assessment finds roughly 10 percent Codex traffic unmonitored",
+  "AAIF adds Agent Skills, Open Responses, OpenEnv and OpenSandbox",
+  "A Personal Health Agent built from specialized agents instead of one model",
+  "THUSI-Lab/GameScaling: eight open checkpoints for embodied agents in games"
 ]
