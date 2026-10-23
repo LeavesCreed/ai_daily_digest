@@ -1,9 +1,9 @@
 {
   "ai_governance_enforcement_phase": {
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "strength": "critical",
     "status": "critical",
-    "description": "Enforcement keeps arriving through indirect instruments, and Oct 21 added the operational layer: NIST/CISA/NSA defined an SI control incident with containment verification as a gate, while a draft S-1 and an exclusion order show disclosure itself now carries cost.",
+    "description": "Enforcement keeps arriving through indirect instruments, and Oct 21 added the operational layer: NIST/CISA/NSA defined an SI control incident with containment verification as a gate, while a draft S-1 and an exclusion order show disclosure itself now carries cost. Oct 24 extended the same pattern into scientific evidence: the MAI-DxO Science paper and CarryoverBench both made verification claims auditable at the layer above the model.",
     "first_seen": "2026-06-15"
   },
   "ai_infrastructure_compute_marketization": {
@@ -903,7 +903,8 @@
     "status": "emerging",
     "note": "Frontier labs shift from voluntary pledges to published, verifiable threat-intelligence records and actively request mandatory regulation",
     "description": "Evidence and disclosure keep becoming the operative standard: SemiAnalysis finds only 3.6% of 857 Chinese model releases carry a published safety evaluation matchable to the model, and 93% of reasoning models have none, while arXiv caps submissions to protect its verification pipeline.",
-    "last_updated": "2026-10-23"
+    "last_updated": "2026-10-24",
+    "notice": "Oct 24: consciousness-science pushback in Nature and agent carryover benchmarks both shift the burden of proof onto verifiable mechanism rather than plausible narration."
   },
   "consumer_agent_distribution_war": {
     "first_seen": "2026-09-11",
@@ -1987,5 +1988,35 @@
     "description": "Switch, Nscale, SB Energy, AirTrunk, Firmus and Elice postponed or withdrew listings as rates rose and AI spending faced scrutiny, leaving Anthropic's mid-November offering effectively alone in the window.",
     "first_seen": "2026-10-23",
     "last_updated": "2026-10-23"
+  },
+  "harness_as_measured_performance_layer": {
+    "last_updated": "2026-10-24",
+    "strength": "critical",
+    "status": "critical",
+    "description": "Oct 22 Science study quantified orchestration separately from the model: MAI-DxO's orchestrator added an average 7.9 points on NEJM conference cases and 4.4 on ED cases across every model tested with minimal prompts, while cutting test-ordering cost by about $3,000 per case. The harness is now a measurable, separable contributor rather than an implementation detail."
+  },
+  "carryover_injection_across_sessions": {
+    "last_updated": "2026-10-24",
+    "strength": "critical",
+    "status": "critical",
+    "description": "CarryoverBench (arXiv 2610.28425) showed planted indirect injections re-firing across five rounds with no measurable decay across five frontier models, because memory files and scheduled tasks persist state the attacker no longer controls. Prompt-level defences gate the first session only; porting to a second runtime attenuated but did not remove the effect, pointing to runtime-layer controls."
+  },
+  "open_weights_as_capability_scoped_release": {
+    "last_updated": "2026-10-24",
+    "strength": "strong",
+    "status": "strong",
+    "description": "Kimi K3.1 Pro ships API-first with weights promised November 4, and Moonshot removed cyber data from both mid-training and RL mixes for the open variant while keeping coding. This is capability-scoped open release executed as a repeatable practice, matching the tiered-release pattern seen from Meta and Mistral this month."
+  },
+  "open_closed_frontier_convergence": {
+    "last_updated": "2026-10-24",
+    "strength": "strong",
+    "status": "strong",
+    "description": "Artificial Analysis projects Kimi K3.1 Pro's weight release narrows the open-versus-proprietary gap on its index from roughly 12 points to roughly 3. As the checkpoint commoditizes, differentiation shifts to harness, distribution and serving economics rather than raw model capability."
+  },
+  "ai_consciousness_as_policy_fault_line": {
+    "last_updated": "2026-10-24",
+    "strength": "medium",
+    "status": "medium",
+    "description": "Seth, Block and Tononi used a Nature comment to argue silicon AI is not conscious and is unlikely to become so, explicitly disputing Anthropic's computational-signatures framing and precautionary AI-welfare spending. This raises the evidentiary burden on model-welfare claims and gives regulators a citable opposing pole."
   }
 }

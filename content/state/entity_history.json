@@ -1,9 +1,9 @@
 {
   "OpenAI": {
-    "last_seen": "2026-10-23",
-    "appearances": 12,
-    "mention_count": 27,
-    "mentions": 27,
+    "last_seen": "2026-10-24",
+    "appearances": 13,
+    "mention_count": 28,
+    "mentions": 28,
     "dates": [
       "2026-10-01",
       "2026-10-02",
@@ -16,7 +16,8 @@
       "2026-10-09",
       "2026-10-21",
       "2026-10-22",
-      "2026-10-23"
+      "2026-10-23",
+      "2026-10-24"
     ]
   },
   "Anthropic": {
@@ -328,11 +329,11 @@
   },
   "Microsoft": {
     "first_seen": "2026-07-06",
-    "mention_count": 9,
-    "last_seen": "2026-10-19",
+    "mention_count": 10,
+    "last_seen": "2026-10-24",
     "count": 5,
-    "appearances": 7,
-    "mentions": 6,
+    "appearances": 8,
+    "mentions": 10,
     "dates": [
       "2026-09-20",
       "2026-09-26",
@@ -340,7 +341,8 @@
       "2026-10-05",
       "2026-10-08",
       "2026-10-09",
-      "2026-10-19"
+      "2026-10-19",
+      "2026-10-24"
     ],
     "note": "Withdrew as anchor tenant from Nscale Loughton after grid power slipped to the 2030s."
   },
@@ -844,15 +846,16 @@
     "count": 1
   },
   "Moonshot AI": {
-    "last_seen": "2026-10-17",
+    "last_seen": "2026-10-24",
     "count": 12,
     "description": "Kimi K3 launched, 0B IPO",
-    "appearances": 4,
-    "mention_count": 2,
-    "mentions": 1,
+    "appearances": 5,
+    "mention_count": 3,
+    "mentions": 3,
     "dates": [
       "2026-10-01",
-      "2026-10-17"
+      "2026-10-17",
+      "2026-10-24"
     ]
   },
   "Kimi K3": {
@@ -6239,12 +6242,13 @@
     ]
   },
   "Science": {
-    "last_seen": "2026-10-22",
-    "appearances": 1,
-    "mention_count": 1,
-    "mentions": 1,
+    "last_seen": "2026-10-24",
+    "appearances": 2,
+    "mention_count": 2,
+    "mentions": 2,
     "dates": [
-      "2026-10-22"
+      "2026-10-22",
+      "2026-10-24"
     ]
   },
   "Virtual Biotech": {
@@ -6408,6 +6412,123 @@
     "mentions": 1,
     "dates": [
       "2026-10-23"
+    ]
+  },
+  "Kimi K3.1 Pro": {
+    "last_seen": "2026-10-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-24"
+    ]
+  },
+  "MAI-DxO": {
+    "last_seen": "2026-10-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-24"
+    ]
+  },
+  "GPT-Rosalind": {
+    "last_seen": "2026-10-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-24"
+    ]
+  },
+  "PerturbAI": {
+    "last_seen": "2026-10-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-24"
+    ]
+  },
+  "Scripps Research": {
+    "last_seen": "2026-10-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-24"
+    ]
+  },
+  "Tenstorrent": {
+    "last_seen": "2026-10-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-24"
+    ]
+  },
+  "RISC-V": {
+    "last_seen": "2026-10-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-24"
+    ]
+  },
+  "Jim Keller": {
+    "last_seen": "2026-10-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-24"
+    ]
+  },
+  "Nature": {
+    "last_seen": "2026-10-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-24"
+    ]
+  },
+  "Anil Seth": {
+    "last_seen": "2026-10-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-24"
+    ]
+  },
+  "Ned Block": {
+    "last_seen": "2026-10-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-24"
+    ]
+  },
+  "Giulio Tononi": {
+    "last_seen": "2026-10-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-24"
+    ]
+  },
+  "Contrastive-LM": {
+    "last_seen": "2026-10-24",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-24"
     ]
   }
 }

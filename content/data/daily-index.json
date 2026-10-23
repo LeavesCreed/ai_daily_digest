@@ -1,7 +1,124 @@
 {
   "version": 1,
-  "generated_at": "2026-10-22T23:29:02Z",
+  "generated_at": "2026-10-24T00:00:00Z",
   "entries": [
+    {
+      "date": "2026-10-24",
+      "title": "AI Daily Digest - 2026-10-24",
+      "summary": {
+        "en": "Moonshot shipped Kimi K3.1 Pro, a 2.8T-parameter open-weight release promised for November 4, closing the open-versus-proprietary gap to single digits on the Moonshot-published Terminal-Bench 4.0. Medicine produced the day's most consequential empirical result: Microsoft's orchestrator MAI-DxO hit 83.2% on 304 NEJM clinicopathological cases against 36.1% for generalist physicians with references, in peer review at Science. OpenAI, PerturbAI and Scripps ran 1,946 GPT-Rosalind agents over a whole-brain CRISPR atlas in 32 minutes. Tenstorrent raised $1.5B at a $6.2B valuation to push RISC-V open compute. And in Nature, Seth, Block and Tononi argued silicon AI is not conscious and is unlikely to become so, urging that it be treated as tools rather than persons - a direct counter to the precautionary AI-welfare framing now circulating in policy.",
+        "zh": "月之暗面放出 Kimi K3.1 Pro，2.8 万亿参数的开放权重承诺 11 月 4 日落地，按厂商自评把开源与闭源在 Terminal-Bench 4.0 上的差距压到个位数。医学侧出了今日最有分量的实证结果：微软的编排系统 MAI-DxO 在 304 个 NEJM 临床病理讨论病例上达到 83.2%，对照组有参考资料的全科医生为 36.1%，论文通过同行评审并发表于 Science。OpenAI、PerturbAI 与 Scripps 用 1,946 个 GPT-Rosalind 智能体在 32 分钟内跑完全脑 CRISPR 图谱。Tenstorrent 以 62 亿美元估值融资 15 亿美元，继续押注 RISC-V 开放算力。Nature 上 Seth、Block 与 Tononi 撰文主张硅基 AI 没有意识且大概率不会有，应被当作工具而非人格主体，正面反驳当前流传的 AI 福利预防式主张。"
+      },
+      "categories": [
+        "Models",
+        "Research",
+        "Agents",
+        "Infrastructure",
+        "AI Safety"
+      ],
+      "tags": [
+        "Moonshot AI",
+        "Kimi K3.1 Pro",
+        "Open Weights",
+        "MoE",
+        "Terminal-Bench",
+        "Microsoft",
+        "MAI-DxO",
+        "Science",
+        "Medical AI",
+        "Agent Orchestration",
+        "OpenAI",
+        "GPT-Rosalind",
+        "PerturbAI",
+        "Scripps Research",
+        "CRISPR",
+        "Distributed Reasoning",
+        "Tenstorrent",
+        "RISC-V",
+        "AI Accelerator",
+        "Funding",
+        "Nature",
+        "Anil Seth",
+        "Ned Block",
+        "Giulio Tononi",
+        "AI Consciousness",
+        "AI Welfare"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-24.md",
+        "zh": "./content/daily_zh/2026-10-24.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Moonshot Ships Kimi K3.1 Pro: 2.8T Parameters, Weights Promised by November 4",
+          "summary": "Moonshot AI released Kimi K3.1 Pro on October 23, 2026, the first entry in a new K3.1 series, alongside a faster companion called K3.1 Pro Highspeed. The model carries roughly 2.8 trillion total parameters with 104 billion active per token through a mixture-of-experts architecture, a 1,048,576-token context window, and text, image and video input. Moonshot describes it as a post-training pass over the Kimi K3 base rather than a new base model, with substantially more compute in that phase and reworked reinforcement learning, long-context inference and agent sandboxes. On Moonshot's own published numbers it scores 65.7% on Terminal-Bench 4.0 against 66.4% for Claude Opus 5.5. API pricing is $2 per million input tokens and $10 per million output tokens. Full open weights are promised by November 4, with no license named yet. The company said it deliberately stripped cyber-related data from both the mid-training corpus and the RL environment mix for the open release, while keeping general coding capability.",
+          "category": "Models",
+          "tags": [
+            "Moonshot AI",
+            "Kimi K3.1 Pro",
+            "Open Weights",
+            "MoE",
+            "Terminal-Bench"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Microsoft's MAI-DxO Beats Generalist Physicians by More Than Twofold in Science",
+          "summary": "A peer-reviewed study published October 22, 2026 in Science reports that Microsoft's MAI Diagnostic Orchestrator (MAI-DxO) reached the correct diagnosis in 83.2% of 304 clinicopathological conference cases drawn from the New England Journal of Medicine, against 36.1% for generalist physicians working with textbooks and internet access. Without reference materials those physicians scored around 22%. On emergency-department admissions from Beth Israel Deaconess, DxO scored 80.3% versus 46.8% for physicians, whose best individual performer reached 62.5%. The system runs on GPT-5 and coordinates a simulated panel of clinical specialists through an orchestrator that decides what history to take, what to examine, and which tests to order. Unconstrained, it cost $5,431 per case; budget-constrained configurations reached 80.9% at $2,241 and 79.6% at $1,303, while an excellence-tuned configuration hit 84.5% at $8,945. Neither the AI nor the physicians had access to physical examination or imaging. A Boston hospital has begun verification on real patients.",
+          "category": "Research",
+          "tags": [
+            "Microsoft",
+            "MAI-DxO",
+            "Science",
+            "Medical AI",
+            "Agent Orchestration"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "OpenAI Runs 1,946 GPT-Rosalind Agents Over a Whole-Brain CRISPR Atlas in 32 Minutes",
+          "summary": "On October 21, 2026, OpenAI, PerturbAI and Scripps Research described what they call distributed biological reasoning: 1,946 agents powered by GPT-Rosalind, a model built for life-sciences research, each assigned a single gene disruption from PerturbAI's whole-brain in vivo CRISPR Perturb-seq atlas. The dataset, hosted on Hugging Face, covers about 7.7 to 8 million mouse brain cells, nearly 2,000 disease-linked genes and roughly 205 GB of single-nucleus profiling. Each agent analysed how cell types responded, searched the scientific literature, and proposed a mechanism; the reports were merged into a public reasoning atlas linking genes, cellular effects, papers and candidate mechanisms. End-to-end runtime was 32 minutes. The team estimates human analysis and literature review at months to a year, built from assumed times of 15 minutes per gene disruption and 10 minutes per paper. In blinded tests, experts preferred the split-agent reports over a single-agent baseline 75% of the time. One flagged lead involves Dctn1, the gene behind Perry syndrome. Results are in a bioRxiv preprint, not yet peer reviewed.",
+          "category": "Agents",
+          "tags": [
+            "OpenAI",
+            "GPT-Rosalind",
+            "PerturbAI",
+            "Scripps Research",
+            "CRISPR",
+            "Distributed Reasoning"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Tenstorrent Raises $1.5B at $6.2B Valuation to Scale RISC-V Open Compute",
+          "summary": "Tenstorrent closed a $1.5 billion Series E at a $6.2 billion post-money valuation, led by Trace Capital and Innovation X with participation from existing and new investors. The Toronto-founded, Austin-based company sells RISC-V CPUs alongside its Tensix AI accelerators, chiplets, software and complete systems, and licenses the underlying IP. The capital goes to ramping Galaxy server production for global deployment, expanding its research team on the RISC-V ecosystem, and hiring. Galaxy servers, which began shipping in April 2026, pack 32 Blackhole processors for 23 petaflops of FP8 compute. CEO Jim Keller's framing is a single architecture sold at every size, with an open-source software strategy aimed at organisations that want to run open-weight models on infrastructure they control rather than renting GPU hours.",
+          "category": "Infrastructure",
+          "tags": [
+            "Tenstorrent",
+            "RISC-V",
+            "AI Accelerator",
+            "Open Compute",
+            "Funding"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "In Nature, Seth, Block and Tononi Argue Silicon AI Is Not Conscious",
+          "summary": "Anil Seth (Sussex Centre for Consciousness Science), Ned Block (NYU philosophy) and Giulio Tononi (Wisconsin Institute for Sleep and Consciousness) published a Nature comment titled \"Three reasons why AI is not conscious and perhaps never will be.\" The core distinction they draw is that consciousness is about being and feeling while intelligence is about doing and performing functions, and that the two can come apart. Their three lines of argument: that consciousness is not necessary for high cognitive performance, so capable behaviour is weak evidence; that the case for conscious AI rests on computational functionalism, the assumption that the right computations suffice regardless of substrate; and that at least two leading theories of consciousness require living tissue as a precondition. They explicitly push back on the precautionary approach of granting AI systems protections against potential suffering, and on Anthropic's framing of possible computational signatures of consciousness in Claude, arguing that misattributing consciousness is far more likely than wrongly denying it, and that attention and resources are better directed at beings whose capacity to suffer is not in question. Their policy conclusion is to treat today's systems as smart tools, not smart people.",
+          "category": "AI Safety",
+          "tags": [
+            "Nature",
+            "Anil Seth",
+            "Ned Block",
+            "Giulio Tononi",
+            "AI Consciousness",
+            "AI Welfare"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-23",
       "title": "AI Daily Digest - 2026-10-23",
