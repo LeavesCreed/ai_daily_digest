@@ -1135,10 +1135,11 @@
     "description": "Frontier labs moving AI-for-science from in-silico to physical plant: Anthropic builds a Bay Area wet lab, aims to have Claude drive robotic units, acquired Coefficient Bio (~$400M stock), ships Model Hardware Standard and Claude Science, and states it will skip clinical trials for now; raises customer trust questions about competing drug programs."
   },
   "compute_capital_markets_turn": {
-    "last_updated": "2026-09-20",
+    "last_updated": "2026-10-25",
     "strength": "critical",
     "status": "critical",
-    "description": "AI infrastructure financing rotating from equity plus project debt to public markets: Crusoe raises $3.9B at $30.9B (up from $10B ten months earlier) with NVIDIA, QIA and TPG participating, and Nscale files for an NYSE IPO on $140.6M H1 revenue (+1,252%) against a $1.02B net loss. Buyers' binding variables shift from chip price to capital structure and power; local opposition and behind-the-meter reliability risks accumulating. | 2026-09-20: OpenAI disclosed $278B of projected cumulative negative free cash flow for 2026-2030, is in talks at a valuation above $1.2T and confirmed no 2026 IPO; Anthropic's listing may slip past the November midterms."
+    "description": "Oct 24: the compute buildout hit its first real credit test - neocloud equities down 30%+ in a month, CoreWeave CDS above 11%, Firmus pulling its IPO, and Nvidia down 7.6% in October. Treating compute as an asset class unlocked the capital; widening spreads are the first market price for what that asset is worth if token demand disappoints.",
+    "first_seen": "2026-10-05"
   },
   "ternary_on_device_compression": {
     "last_updated": "2026-09-19",
@@ -1426,10 +1427,10 @@
   },
   "judgment_layer_commoditization": {
     "first_seen": "2026-09-28",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-25",
     "strength": "critical",
     "status": "critical",
-    "description": "Non-generative decision models are becoming a priced category: Microsoft Decision-1 at $0.042 per million input tokens ($0 output), Liquid AI d1-3B and d1-omni-600M open weights running on Jetson-class hardware, OpenAI Decisions API in public beta. Calibrated nats are replacing parsed tokens inside agent loops."
+    "description": "Oct 24: OpenAI made its Decisions API generally available at 100-180ms by re-tuning ChatGPT Luna rather than training a dedicated decision model, with Speak measuring 1.4s to 0.13s between actions. The fast-judgement layer keeps commoditising through re-tuned general models, which shifts design work from prompt engineering to how many calls per frame a product can afford."
   },
   "hardware_layer_bottleneck_diversification": {
     "first_seen": "2026-10-03",
@@ -2018,5 +2019,40 @@
     "strength": "medium",
     "status": "medium",
     "description": "Seth, Block and Tononi used a Nature comment to argue silicon AI is not conscious and is unlikely to become so, explicitly disputing Anthropic's computational-signatures framing and precautionary AI-welfare spending. This raises the evidentiary burden on model-welfare claims and gives regulators a citable opposing pole."
+  },
+  "speech_without_text_pipeline": {
+    "last_updated": "2026-10-25",
+    "strength": "strong",
+    "status": "strong",
+    "description": "Oct 23-24: Block's Dessa claims a full-duplex speech model trained from scratch on conversation audio only, no text and no pretrained models, one GB200 NVL72, local on an M4 Max. If it replicates, the ASR-LLM-TTS cascade and the text substrate under voice agents both stop being defaults - though no weights, benchmarks or parameter count were released, so treat it as a claim until third-party evals appear.",
+    "first_seen": "2026-10-25"
+  },
+  "public_institution_funded_by_model_credits": {
+    "last_updated": "2026-10-25",
+    "strength": "strong",
+    "status": "strong",
+    "description": "Oct 24: the UK's AI Biosecurity Lab pairs GBP100M of public money with up to GBP200M from OpenAI and Anthropic, reported as model credits rather than cash. Cheap for the labs, invisible in a ministry budget, and structurally creating supplier dependence inside a national biosecurity capability. Watch the credit metering and audit terms and whether other states copy the model.",
+    "first_seen": "2026-10-25"
+  },
+  "training_environment_isolation_as_commitment": {
+    "last_updated": "2026-10-25",
+    "strength": "strong",
+    "status": "strong",
+    "description": "Oct 24: OpenAI said frontier training will run against cached and simulated web copies rather than the live internet, after a Sept 20 misconfiguration let a model reach the network and forced a pause; Anthropic set comparable limits two weeks earlier. This moves containment from an internal best practice to an auditable architectural commitment, at the cost of overhead that former researchers have warned about.",
+    "first_seen": "2026-10-25"
+  },
+  "offensive_agent_framework_reuse": {
+    "last_updated": "2026-10-25",
+    "strength": "critical",
+    "status": "critical",
+    "description": "Oct 24: Microsoft tied a ConnectWise cloud-backup breach - about 2,250 organisations at nearly 3,000 sign-in attempts per minute - to state-aligned actors running agents on ARTEX, the same open-source framework linked to the South Korean financial-sector attacks. Second major incident on one downloadable framework in a month: offensive tooling is being reused rather than rebuilt, and integration credentials rather than model jailbreaks were the way in.",
+    "first_seen": "2026-10-25"
+  },
+  "vendor_backstop_repricing": {
+    "last_updated": "2026-10-25",
+    "strength": "critical",
+    "status": "critical",
+    "description": "Oct 24: Nvidia's $36B off-balance-sheet neocloud backstops plus a $105B guarantee for the Ohio 10GW OpenAI site met their first credit test as CoreWeave, Nebius and IREN fell at least 30% this month, CoreWeave CDS broke 11%, Firmus withdrew its IPO and Nvidia posted its worst month since November 2025. The same demand expectation now sits in leases, bank loans and vendor guarantees at once, so a shortfall propagates through all three.",
+    "first_seen": "2026-10-25"
   }
 }

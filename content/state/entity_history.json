@@ -1,9 +1,9 @@
 {
   "OpenAI": {
-    "last_seen": "2026-10-24",
-    "appearances": 13,
-    "mention_count": 28,
-    "mentions": 28,
+    "last_seen": "2026-10-25",
+    "appearances": 14,
+    "mention_count": 30,
+    "mentions": 30,
     "dates": [
       "2026-10-01",
       "2026-10-02",
@@ -17,14 +17,15 @@
       "2026-10-21",
       "2026-10-22",
       "2026-10-23",
-      "2026-10-24"
+      "2026-10-24",
+      "2026-10-25"
     ]
   },
   "Anthropic": {
-    "last_seen": "2026-10-23",
-    "mention_count": 27,
-    "appearances": 12,
-    "mentions": 27,
+    "last_seen": "2026-10-25",
+    "mention_count": 29,
+    "appearances": 13,
+    "mentions": 29,
     "dates": [
       "2026-09-29",
       "2026-10-01",
@@ -37,7 +38,8 @@
       "2026-10-18",
       "2026-10-19",
       "2026-10-21",
-      "2026-10-23"
+      "2026-10-23",
+      "2026-10-25"
     ],
     "note": "Committed 5% of shares, rising with valuation, to the Anthropic Public Benefit Fund ahead of a November IPO."
   },
@@ -130,10 +132,10 @@
     "mentions": 1
   },
   "NVIDIA": {
-    "last_seen": "2026-10-23",
-    "mentions": 18,
-    "mention_count": 18,
-    "appearances": 12,
+    "last_seen": "2026-10-25",
+    "mentions": 20,
+    "mention_count": 20,
+    "appearances": 13,
     "dates": [
       "2026-09-19",
       "2026-09-24",
@@ -146,7 +148,8 @@
       "2026-10-20",
       "2026-10-21",
       "2026-10-22",
-      "2026-10-23"
+      "2026-10-23",
+      "2026-10-25"
     ]
   },
   "Huawei": {
@@ -329,11 +332,11 @@
   },
   "Microsoft": {
     "first_seen": "2026-07-06",
-    "mention_count": 10,
-    "last_seen": "2026-10-24",
+    "mention_count": 12,
+    "last_seen": "2026-10-25",
     "count": 5,
-    "appearances": 8,
-    "mentions": 10,
+    "appearances": 9,
+    "mentions": 12,
     "dates": [
       "2026-09-20",
       "2026-09-26",
@@ -342,7 +345,8 @@
       "2026-10-08",
       "2026-10-09",
       "2026-10-19",
-      "2026-10-24"
+      "2026-10-24",
+      "2026-10-25"
     ],
     "note": "Withdrew as anchor tenant from Nscale Loughton after grid power slipped to the 2030s."
   },
@@ -1810,9 +1814,14 @@
     "mention_count": 1
   },
   "IREN": {
-    "last_seen": "2026-08-14",
+    "last_seen": "2026-10-25",
     "count": 1,
-    "mention_count": 2
+    "mention_count": 3,
+    "dates": [
+      "2026-10-25"
+    ],
+    "appearances": 1,
+    "mentions": 3
   },
   "Z.ai": {
     "first_seen": "2026-08-15",
@@ -1935,12 +1944,14 @@
     "first_seen": "2026-08-18",
     "count": 2,
     "trend": "rising",
-    "last_seen": "2026-09-22",
-    "appearances": 1,
-    "mention_count": 1,
+    "last_seen": "2026-10-25",
+    "appearances": 2,
+    "mention_count": 2,
     "dates": [
-      "2026-09-22"
-    ]
+      "2026-09-22",
+      "2026-10-25"
+    ],
+    "mentions": 2
   },
   "LG Electronics": {
     "first_seen": "2026-08-18",
@@ -2243,15 +2254,16 @@
     "count": 1
   },
   "Nscale": {
-    "last_seen": "2026-10-21",
-    "appearances": 4,
-    "mention_count": 4,
-    "mentions": 4,
+    "last_seen": "2026-10-25",
+    "appearances": 5,
+    "mention_count": 5,
+    "mentions": 5,
     "dates": [
       "2026-09-19",
       "2026-09-29",
       "2026-10-19",
-      "2026-10-21"
+      "2026-10-21",
+      "2026-10-25"
     ]
   },
   "TRACE": {
@@ -4999,12 +5011,13 @@
     ]
   },
   "Nebius": {
-    "last_seen": "2026-10-05",
-    "appearances": 1,
-    "mention_count": 1,
-    "mentions": 1,
+    "last_seen": "2026-10-25",
+    "appearances": 2,
+    "mention_count": 2,
+    "mentions": 2,
     "dates": [
-      "2026-10-05"
+      "2026-10-05",
+      "2026-10-25"
     ]
   },
   "Beam": {
@@ -5188,12 +5201,13 @@
     ]
   },
   "ARTEX": {
-    "last_seen": "2026-10-07",
-    "appearances": 1,
-    "mention_count": 1,
-    "mentions": 1,
+    "last_seen": "2026-10-25",
+    "appearances": 2,
+    "mention_count": 3,
+    "mentions": 3,
     "dates": [
-      "2026-10-07"
+      "2026-10-07",
+      "2026-10-25"
     ]
   },
   "KB Kookmin Bank": {
@@ -6116,12 +6130,13 @@
     ]
   },
   "CoreWeave": {
-    "last_seen": "2026-10-22",
-    "appearances": 1,
-    "mention_count": 1,
-    "mentions": 1,
+    "last_seen": "2026-10-25",
+    "appearances": 2,
+    "mention_count": 3,
+    "mentions": 3,
     "dates": [
-      "2026-10-22"
+      "2026-10-22",
+      "2026-10-25"
     ]
   },
   "SGLang": {
@@ -6530,5 +6545,95 @@
     "dates": [
       "2026-10-24"
     ]
+  },
+  "Block": {
+    "last_seen": "2026-10-25",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-25"
+    ]
+  },
+  "Dessa": {
+    "last_seen": "2026-10-25",
+    "appearances": 1,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-25"
+    ]
+  },
+  "AI Biosecurity Lab": {
+    "last_seen": "2026-10-25",
+    "appearances": 1,
+    "mention_count": 3,
+    "mentions": 3,
+    "dates": [
+      "2026-10-25"
+    ]
+  },
+  "ConnectWise": {
+    "last_seen": "2026-10-25",
+    "appearances": 1,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-25"
+    ]
+  },
+  "Firmus": {
+    "last_seen": "2026-10-25",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-25"
+    ]
+  },
+  "microduck": {
+    "last_seen": "2026-10-25",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-25"
+    ]
+  },
+  "Pollen Robotics": {
+    "last_seen": "2026-10-25",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-25"
+    ]
+  },
+  "Uber": {
+    "last_seen": "2026-10-25",
+    "appearances": 1,
+    "mention_count": 2,
+    "mentions": 2,
+    "dates": [
+      "2026-10-25"
+    ]
+  },
+  "ChatGPT Luna": {
+    "last_seen": "2026-10-25",
+    "appearances": 1,
+    "mention_count": 1,
+    "mentions": 1,
+    "dates": [
+      "2026-10-25"
+    ]
+  },
+  "UK": {
+    "dates": [
+      "2026-10-25"
+    ],
+    "appearances": 1,
+    "last_seen": "2026-10-25",
+    "mention_count": 3,
+    "mentions": 3
   }
 }

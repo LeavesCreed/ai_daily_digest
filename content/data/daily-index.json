@@ -1,7 +1,119 @@
 {
   "version": 1,
-  "generated_at": "2026-10-24T00:00:00Z",
+  "generated_at": "2026-10-25T00:00:00Z",
   "entries": [
+    {
+      "date": "2026-10-25",
+      "title": "AI Daily Digest - 2026-10-25",
+      "summary": {
+        "en": "Two architecture-level simplifications landed the same weekend. Block's Dessa is a full-duplex speech model trained from scratch on human conversation audio alone, with no text and no pretrained models, on a single GB200 NVL72, running locally on an M4 Max - a direct challenge to the assumption that speech systems need an LLM in the middle. OpenAI went the other way in product form, making its Decisions API generally available at 100-180ms latency by repurposing ChatGPT Luna rather than building a new model, and cut frontier training off the live internet. Governance moved from legislation to institution building: the UK stood up an AI Biosecurity Lab on GBP100M of public money plus up to GBP200M in OpenAI and Anthropic model credits, which is cheap for the labs and creates supplier dependence for the state. Security stayed the sharpest edge - Microsoft attributed a ConnectWise cloud-backup breach to state-aligned actors running AI agents on the open-source ARTEX framework, roughly 2,250 organisations reached at nearly 3,000 sign-in attempts per minute. And capital began pricing the compute story: Nvidia's off-balance-sheet backstops met their first real test as CoreWeave, Nebius and IREN fell at least 30% this month and CoreWeave credit default swaps broke 11%.",
+        "zh": "同一个周末出现两处架构级简化：Block 的 Dessa 用单台 GB200 NVL72 从头只用人声对话训练出全双工语音模型，不用文本也不用预训练模型，推理快于实时并能在 M4 Max 上本地运行，直接挑战「语音系统必须中间挂一个 LLM」的默认假设。OpenAI 走的是产品路线的另一端：把 ChatGPT Luna 重新配置成 Decisions API 并全面开放，延迟压到 100 至 180 毫秒而不是另建新模型，同时宣布前沿训练脱离实时互联网。治理侧从立法转向机构建设：英国以 1 亿英镑公共资金设立 AI 生物安全实验室，OpenAI 与 Anthropic 再补最高 2 亿英镑模型额度，对实验室便宜、对政府则意味着供应商依赖。安全仍是最锋利的一侧：微软把 ConnectWise 云备份被入侵归因于国家关联攻击者用开源框架 ARTEX 驱动 AI 智能体，约 2,250 家组织受影响，每分钟近 3,000 次登录尝试。资本则开始给算力叙事定价：英伟达的表外担保迎来第一场真实压力测试，CoreWeave、Nebius、IREN 本月至少跌三成，CoreWeave 的信用违约互换利差破 11%。"
+      },
+      "categories": [
+        "Models",
+        "AI Safety",
+        "Industry"
+      ],
+      "tags": [
+        "Block",
+        "Dessa",
+        "Speech",
+        "Full-Duplex",
+        "UK",
+        "AIBL",
+        "Biosecurity",
+        "OpenAI",
+        "Anthropic",
+        "Decisions API",
+        "ChatGPT Work",
+        "Uber",
+        "Training Isolation",
+        "Microsoft",
+        "ConnectWise",
+        "ARTEX",
+        "AI Agents",
+        "NVIDIA",
+        "Neocloud",
+        "Credit Risk",
+        "Governance"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-25.md",
+        "zh": "./content/daily_zh/2026-10-25.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Block Releases Dessa, a Full-Duplex Speech Model Trained Only on Human Conversation",
+          "summary": "A speech-to-speech model trained from scratch on human conversation alone, no text and no pretrained models, on one GB200 NVL72.",
+          "category": "Models",
+          "tags": [
+            "Block",
+            "Dessa",
+            "Speech",
+            "Full-Duplex",
+            "Local Inference"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "UK Launches AI Biosecurity Lab Backed by GBP100M and Up to GBP200M in Model Credits",
+          "summary": "GBP100M of public money plus up to GBP200M in OpenAI and Anthropic model credits, inside a National AI Biosecurity Initiative.",
+          "category": "AI Safety",
+          "tags": [
+            "UK",
+            "AIBL",
+            "Biosecurity",
+            "OpenAI",
+            "Anthropic",
+            "Governance"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "OpenAI Opens Decisions API, Deploys ChatGPT Work Across Uber, and Moves Frontier Training Off the Live Internet",
+          "summary": "Decisions API GA at 100-180ms by re-tuning ChatGPT Luna, an Uber-wide rollout, and training moved to cached and simulated web environments.",
+          "category": "Models",
+          "tags": [
+            "OpenAI",
+            "Decisions API",
+            "ChatGPT Work",
+            "Uber",
+            "Training Isolation",
+            "Latency"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Microsoft Ties a ConnectWise Cloud-Backup Breach to AI Agents Running the Open-Source ARTEX Framework",
+          "summary": "Stolen integration credentials used as authorised users, about 2,250 organisations reached at nearly 3,000 sign-in attempts per minute.",
+          "category": "AI Safety",
+          "tags": [
+            "Microsoft",
+            "ConnectWise",
+            "ARTEX",
+            "AI Agents",
+            "Credential Theft",
+            "Supply Chain"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Nvidia's Role as AI Financier Meets Its First Real Test as Neoclouds Sell Off",
+          "summary": "$36B of off-balance-sheet backstops plus a $105B Ohio guarantee, as CoreWeave, Nebius and IREN fall 30% and CDS spreads break 11%.",
+          "category": "Industry",
+          "tags": [
+            "NVIDIA",
+            "Neocloud",
+            "CoreWeave",
+            "Credit Risk",
+            "Data Center",
+            "Vendor Financing"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-24",
       "title": "AI Daily Digest - 2026-10-24",
