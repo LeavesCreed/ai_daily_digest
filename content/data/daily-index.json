@@ -1,7 +1,122 @@
 {
   "version": 1,
-  "generated_at": "2026-10-25T00:00:00Z",
+  "generated_at": "2026-10-26T23:15:38Z",
   "entries": [
+    {
+      "date": "2026-10-26",
+      "title": "AI Daily Digest - 2026-10-26",
+      "summary": {
+        "en": "The compute layer kept tightening while the money layer kept levering. Hugging Face shipped Carbon-X, a 14.8B Apache-2.0 model that reads raw DNA and answers in English, scoring 66.7% on five DNA benchmarks at roughly 1/1800 the per-problem cost of GPT-6.1 Sol. DeepSeek closed about 100B yuan ($15B) from Tencent and CATL after doubling its target, and is aiming at a Shanghai listing early next year. AWS capacity is largely sold out through 2027 with a good chunk of 2028 committed, even after roughly $220B of 2026 capex. Bloomberg traced how a $2.3B CoreWeave loan became the template for chip-backed debt heading toward a $1T market, while CoreWeave carries about $50B of debt and lease obligations against $5.5B of cash. And New York City named the 38 education products its AI policy removes from the largest US school district.",
+        "zh": "算力越卖越前，钱越借越深。Hugging Face 放出 Carbon-X：14.8B、Apache 2.0，能在对话里直接读原始 DNA 并用英文作答，五项 DNA 基准平均 66.7%，单题成本约为 GPT-6.1 Sol 的 1/1800。DeepSeek 以约 1000 亿元人民币（150 亿美元）完成新一轮融资，投资方含腾讯与宁德时代，目标在明年初登陆上海。AWS 的云容量到 2027 年基本售罄、2028 年也已订掉一大块，而 2026 年资本开支约 2200 亿美元。彭博复盘 2023 年那笔 23 亿美元 CoreWeave 贷款如何成为芯片抵押债务的模板，这类结构正走向万亿美元规模，而 CoreWeave 自身约 500 亿美元债务与租赁义务对 55 亿美元现金。纽约市则点名了其 AI 政策下架的 38 款教育产品。"
+      },
+      "categories": [
+        "Open Source",
+        "Industry",
+        "Infrastructure",
+        "AI Safety"
+      ],
+      "tags": [
+        "Hugging Face",
+        "Carbon-X",
+        "DNA",
+        "Open Weights",
+        "DeepSeek",
+        "Tencent",
+        "CATL",
+        "IPO",
+        "AWS",
+        "Amazon",
+        "Cloud Capacity",
+        "CoreWeave",
+        "Private Credit",
+        "AI Capex",
+        "New York City",
+        "Education",
+        "AI Policy",
+        "Governance",
+        "Qwen3",
+        "LLM"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-26.md",
+        "zh": "./content/daily_zh/2026-10-26.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Hugging Face Releases Carbon-X, a 14.8B Open Model That Reads DNA in Chat",
+          "summary": "Hugging Face Bio released Carbon-X, a decoder-only 14.8B model built on Alibaba's Qwen3-14B and mid-trained on roughly 302B tokens of DNA, English text and interleaved biology data, with partner labs at TIGEM and the University of Naples Federico II in Italy and the Zhongguancun Academy in China. Users paste a raw genetic sequence into an ordinary chat and ask questions in natural language; the model answers in English, predicts whether a mutation is benign or pathogenic, flags regulatory regions, classifies organism groups, predicts next bases and explains its reasoning. Weights are Apache 2.0 and fit on a single 80GB GPU.",
+          "category": "Open Source",
+          "tags": [
+            "Hugging Face",
+            "Carbon-X",
+            "DNA",
+            "Qwen3",
+            "Open Weights",
+            "Bioinformatics",
+            "LLM"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "DeepSeek Raises About $15B From Tencent and CATL, Targets Shanghai Listing",
+          "summary": "Bloomberg reported on October 22 that DeepSeek closed roughly 100B yuan ($15B), one of China's largest private rounds, after raising its target twice from 50B yuan to 80B yuan. Battery maker CATL and WeChat operator Tencent were among the largest investors. The Wall Street Journal reported the company is accelerating its IPO timeline and now aims for a Shanghai listing early next year. Neither DeepSeek, Tencent nor CATL has confirmed the round. The capital goes toward data centres and open-source model work, on top of a June round of more than $7B.",
+          "category": "Industry",
+          "tags": [
+            "DeepSeek",
+            "Tencent",
+            "CATL",
+            "Funding",
+            "IPO",
+            "China",
+            "Open Weights"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Jassy: AWS Capacity Largely Sold Out Through 2027, a Good Chunk of 2028 Already Gone",
+          "summary": "Amazon CEO Andy Jassy said AWS cloud capacity is largely sold out through 2027, with substantial commitments extending into 2028, speaking on an a16z video podcast on October 23. He said AWS keeps a reserve for on-demand, Bedrock and EC2 customers but that the large blocks are committed, and that Amazon could invest considerably more than the roughly $220B of 2026 capex without it being a bad use of capital. Amazon reports third-quarter results on October 29.",
+          "category": "Infrastructure",
+          "tags": [
+            "AWS",
+            "Amazon",
+            "Cloud Capacity",
+            "Capex",
+            "Jassy",
+            "AI Infrastructure"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Chip-Backed Debt Heads Toward a $1T Market as CoreWeave's Balance Sheet Draws Scrutiny",
+          "summary": "Bloomberg reported that a $2.3B Blackstone-led private credit loan to CoreWeave in 2023 became the blueprint for chip-backed debt, a structure now tracking toward a $1T market. Forbes separately detailed the AI debt boom on October 22, noting that speculative-grade providers like CoreWeave depend on floating-rate private credit and face rising financing costs plus rapid asset depreciation. Reuters and Barchart put CoreWeave's debt and lease obligations near $50B against about $5.5B of cash, with more than $104B in contracted revenue backlog.",
+          "category": "Industry",
+          "tags": [
+            "CoreWeave",
+            "Blackstone",
+            "Private Credit",
+            "AI Capex",
+            "Data Centers",
+            "Financing Risk"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "New York City Publishes the 38 Ed-Tech Products Its School AI Policy Removes",
+          "summary": "New York City Public Schools published the list of 38 education technology products that officials say violate its generative AI policy for the 2026-27 school year, as reported by Chalkbeat on October 23. The underlying rule is a one-year pause on student-facing generative AI from early childhood through grade 8, covering roughly 600,000 students, with companion chatbots banned in all grades including high school. Teachers may still use approved AI for tasks such as lesson planning and translation. At least one vendor, Magma Math, says it disabled its AI feature in early September and was cleared to keep operating on October 5.",
+          "category": "AI Safety",
+          "tags": [
+            "New York City",
+            "Education",
+            "AI Policy",
+            "Governance",
+            "Ed-Tech",
+            "Minors"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-25",
       "title": "AI Daily Digest - 2026-10-25",
