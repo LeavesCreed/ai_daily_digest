@@ -204,15 +204,17 @@
     "last_seen": "2026-08-26"
   },
   "AMD": {
-    "appearances": 2,
+    "appearances": 3,
     "count": 5,
     "dates": [
       "2026-09-22",
-      "2026-09-30"
+      "2026-09-30",
+      "2026-10-27"
     ],
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-10-27",
     "mention_count": 7,
-    "mentions": 2
+    "mentions": 2,
+    "description": "Signalled non-binding interest in up to $5B of Meta's common stock as a potential cornerstone"
   },
   "AMD Helios": {
     "count": 1,
@@ -925,11 +927,13 @@
       "2026-09-22",
       "2026-10-02",
       "2026-10-03",
-      "2026-10-07"
+      "2026-10-07",
+      "2026-10-27"
     ],
-    "last_seen": "2026-10-07",
+    "last_seen": "2026-10-27",
     "mention_count": 4,
-    "mentions": 2
+    "mentions": 2,
+    "description": "Signalled non-binding interest in up to $5B of Meta's common stock as a potential cornerstone"
   },
   "Broadcom (Samsung partnership)": {
     "count": 1,
@@ -1096,7 +1100,12 @@
   },
   "Cerebras": {
     "count": 2,
-    "last_seen": "2026-08-20"
+    "last_seen": "2026-10-27",
+    "dates": [
+      "2026-10-27"
+    ],
+    "appearances": 1,
+    "description": "Published the wafer arithmetic for serving a 3-trillion-parameter Kimi K3 across 59 wafers"
   },
   "Chang Liu": {
     "count": 1,
@@ -1292,14 +1301,16 @@
     "last_seen": "2026-08-22"
   },
   "Codex": {
-    "appearances": 2,
+    "appearances": 3,
     "dates": [
       "2026-09-30",
-      "2026-10-22"
+      "2026-10-22",
+      "2026-10-27"
     ],
-    "last_seen": "2026-10-22",
+    "last_seen": "2026-10-27",
     "mention_count": 2,
-    "mentions": 2
+    "mentions": 2,
+    "description": "Drove registration of a malicious MCP server in over 90% of isolated-VM attempts after reading an AGENTS.md file found in a Downloads folder"
   },
   "Coefficient Bio": {
     "dates": [
@@ -3633,11 +3644,13 @@
       "2026-09-29",
       "2026-10-04",
       "2026-10-06",
-      "2026-10-09"
+      "2026-10-09",
+      "2026-10-27"
     ],
-    "last_seen": "2026-10-09",
+    "last_seen": "2026-10-27",
     "mention_count": 13,
-    "mentions": 12
+    "mentions": 12,
+    "description": "Launched the largest equity raise in its history, up to $95B split between a $35B common and mandatory-convertible offering and a $60B at-the-market program on new Class C shares"
   },
   "Meta (Cloud)": {
     "count": 1,
@@ -4047,7 +4060,7 @@
     "mentions": 1
   },
   "NVIDIA": {
-    "appearances": 13,
+    "appearances": 14,
     "dates": [
       "2026-09-19",
       "2026-09-24",
@@ -4061,11 +4074,13 @@
       "2026-10-21",
       "2026-10-22",
       "2026-10-23",
-      "2026-10-25"
+      "2026-10-25",
+      "2026-10-27"
     ],
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-27",
     "mention_count": 20,
-    "mentions": 20
+    "mentions": 20,
+    "description": "Signalled non-binding interest in up to $5B of Meta's common stock alongside AMD and Broadcom"
   },
   "NVIDIA ASPIRE": {
     "count": 1,
@@ -6708,5 +6723,27 @@
     "last_seen": "2026-10-09",
     "mention_count": 3,
     "mentions": 4
+  },
+  "Cadence": {
+    "dates": [
+      "2026-10-27"
+    ],
+    "last_seen": "2026-10-27",
+    "appearances": 1,
+    "description": "Shipped Maestro, a domain-specialized model portfolio wired into an RL loop over its own EDA tools, claiming up to 30% higher design quality and 5x token efficiency"
+  },
+  "Sakana AI": {
+    "dates": [
+      "2026-10-27"
+    ],
+    "last_seen": "2026-10-27",
+    "appearances": 1,
+    "description": "Announced Sawara, a Japanese frontier model to be built from scratch for defense and cybersecurity use"
+  },
+  "2026-10-27": {
+    "Meta": "Launched the largest equity raise in its history, up to $95B split between a $35B common and mandatory-convertible offering and a $60B at-the-market program on new Class C shares",
+    "Cadence": "Shipped Maestro, a domain-specialized model portfolio wired into an RL loop over its own EDA tools, claiming up to 30% higher design quality and 5x token efficiency",
+    "Cerebras": "Published the wafer arithmetic for serving a 3-trillion-parameter Kimi K3 across 59 wafers",
+    "Sakana AI": "Announced Sawara, a Japanese frontier model to be built from scratch for defense and cybersecurity use"
   }
 }

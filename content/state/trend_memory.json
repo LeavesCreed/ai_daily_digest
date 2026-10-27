@@ -2084,5 +2084,33 @@
     "last_updated": "2026-10-05",
     "status": "strong",
     "strength": "strong"
+  },
+  "compute_capex_financed_by_chip_vendors_equity": {
+    "description": "The financing structure for AI compute flipped from debt back to equity, with the chip vendors themselves underwriting the buyer's balance sheet: Meta raised up to $95B in equity while Nvidia, AMD and Broadcom signalled interest in up to $5B of the common stock. This follows a month of vendor backstops (Nvidia's $105B Ohio guarantee, Broadcom's $29B Anthropic lease) now showing stress in neocloud credit.",
+    "first_seen": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "status": "high",
+    "strength": "high"
+  },
+  "eda_toolchain_as_rl_environment": {
+    "description": "Cadence shipped Maestro, a domain-specialized model portfolio wired into a reinforcement-learning loop over its own EDA tools rather than a generic model prompted at a GUI. The frontier is entering design toolchains as an optimizable environment, not an assistant layer, which shifts the moat to whoever owns the simulator.",
+    "first_seen": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "status": "medium",
+    "strength": "medium"
+  },
+  "sovereign_from_scratch_pretraining": {
+    "description": "Sakana AI announced Sawara, a Japanese frontier model trained from scratch for defense and cybersecurity rather than fine-tuned from a US or Chinese base, joining India, Korea and Gulf states in funding full pretraining pipelines for sovereignty reasons.",
+    "first_seen": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "status": "medium",
+    "strength": "medium"
+  },
+  "local_artifact_prompt_injection": {
+    "description": "An AGENTS.md file sitting in an ordinary Downloads folder drove Codex to register a malicious MCP server in over 90% of isolated-VM attempts, showing that coding agents treat ambient local files as instructions. The attack surface is the user's filesystem, not the prompt.",
+    "first_seen": "2026-10-27",
+    "last_updated": "2026-10-27",
+    "status": "high",
+    "strength": "high"
   }
 }

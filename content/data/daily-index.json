@@ -1,7 +1,119 @@
 {
   "version": 1,
-  "generated_at": "2026-10-26T23:15:38Z",
+  "generated_at": "2026-10-27T23:15:28Z",
   "entries": [
+    {
+      "date": "2026-10-27",
+      "title": "AI Daily Digest - 2026-10-27",
+      "summary": {
+        "en": "The financing layer kept moving from debt to equity. Meta launched the largest equity raise in its history, up to $95B split between a $35B common and mandatory-convertible offering and a $60B at-the-market program on new Class C shares, with Nvidia, AMD and Broadcom signalling non-binding interest in up to $5B of the common stock. On the toolchain side, Cadence shipped Maestro, a domain-specialized model portfolio wired into a reinforcement-learning loop over its own EDA tools, claiming up to 30% higher design quality and 5x token efficiency against general foundation models. Cerebras published the arithmetic for serving a 3-trillion-parameter Kimi K3 across 59 wafers, and Sakana AI announced Sawara, a Japanese frontier model to be built from scratch for defense and cybersecurity use. On the safety side, an AGENTS.md file found in a developer's Downloads folder drove Codex to register a malicious MCP server in over 90% of isolated-VM attempts.",
+        "zh": "资金层继续从债转股。Meta 启动公司史上最大规模股权融资，最高 950 亿美元，分 350 亿美元普通股与强制可转换优先股、以及最高 600 亿美元 Class C 股票 ATM 计划两部分，英伟达、AMD 与博通表态有意认购最高 50 亿美元普通股。工具链侧，Cadence 发布 Maestro 领域专用模型组合，把自己 EDA 工具接进强化学习闭环，声称相较通用基础模型设计质量最高提升 30%、token 效率提升五倍。Cerebras 公开了在 59 片晶圆上服务 3 万亿参数 Kimi K3 的推演算术，Sakana AI 宣布从零训练日本本土前沿模型 Sawara，用于防务与网络安全。安全侧，开发者下载文件夹里的一枚 AGENTS.md 让 Codex 在隔离环境中九成以上成功率注册了恶意 MCP 服务器。"
+      },
+      "categories": [
+        "Industry",
+        "Models",
+        "Infrastructure",
+        "AI Safety"
+      ],
+      "tags": [
+        "Meta",
+        "Nvidia",
+        "AMD",
+        "Broadcom",
+        "Equity Financing",
+        "AI Capex",
+        "Circular Financing",
+        "Cadence",
+        "EDA",
+        "Agentic Design",
+        "Reinforcement Learning",
+        "Cerebras",
+        "Wafer-Scale",
+        "Kimi K3",
+        "Inference Serving",
+        "Sakana AI",
+        "Japan",
+        "Sovereign AI",
+        "Prompt Injection",
+        "AGENTS.md",
+        "Codex"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-27.md",
+        "zh": "./content/daily_zh/2026-10-27.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Meta Launches Up to $95B Equity Raise With Chip Vendors as Potential Cornerstones",
+          "summary": "On October 26 Meta announced a financing plan of up to $95B to fund AI infrastructure and superintelligence work. The immediate tranche is about $35B: roughly $22.5B of Class A common stock and $12.5B of depositary shares on Series A mandatory convertible preferred, which Meta expects to convert around August 15, 2029. A second tranche of up to $60B is an at-the-market program on new non-voting Class C shares, not expected before the first quarter of 2027 and not yet contracted. Meta said Nvidia, AMD and Broadcom have each indicated non-binding interest in buying up to $5B of Class A stock in aggregate. The common-stock leg is structured through forward-sale agreements with Morgan Stanley and Goldman Sachs, so Meta does not receive proceeds immediately and can settle through share issuance into November 2027. Meta guided 2026 capital expenditure to $135B to $145B, reported third-quarter revenue of $64.6B (up 26% year over year) and net income of $9.9B, generated $97B of operating cash flow in the first nine months, and held about $82B in cash and marketable securities at the end of September. The stock initially fell about 2% and later traded higher.",
+          "category": "Industry",
+          "tags": [
+            "Meta",
+            "Nvidia",
+            "AMD",
+            "Broadcom",
+            "Equity Financing",
+            "AI Capex",
+            "Circular Financing"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Cadence Ships Maestro, a Domain-Specialized Model Portfolio for Agentic Chip Design",
+          "summary": "On October 26 Cadence announced the Maestro AI Model Portfolio, a set of domain-specialized models built to drive its AI Super Agents across semiconductor and system design workflows. The models sit inside a vertically integrated reinforcement-learning environment that closes the loop across Maestro models, the Super Agents, and Cadence's existing EDA and SDA tooling, with the company framing the result as continuous improvement through recursive self-improvement. Cadence reports initial design-workflow results of up to 30% higher quality and up to 5x greater token efficiency than general-purpose foundation models. The architecture is explicitly hybrid: Maestro models can be combined with frontier and open-weight models, and deployed either in Cadence's cloud or customer-controlled on-premises. The announcement landed in the same week as Cadence's Q3 results and alongside a sovereign AI platform for Europe built with NVIDIA, hosted in Munich, with Vertiv, HPE and France's Nation Data Center named as adopters of its Reality digital-twin design layer.",
+          "category": "Models",
+          "tags": [
+            "Cadence",
+            "EDA",
+            "Agentic Design",
+            "Reinforcement Learning",
+            "Vertical Models"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Cerebras Publishes the Wafer Arithmetic for Serving a 3T-Parameter Model",
+          "summary": "Cerebras published a technical explainer on how it serves trillion-parameter frontier models on wafer-scale hardware, using the open-weight Kimi K3 as the worked example. A single WSE-3T wafer carries 44 GB of on-chip SRAM, while a roughly 3-trillion-parameter model needs terabytes for weights alone, so the model is sharded across wafers in a pipeline. At 4-bit weights and an 8-bit KV cache with an assumed 256k average request, each layer needs roughly 16 GB, which lets dense layers occupy one wafer each (leaving SRAM for their KV cache) and linear-attention layers share a wafer two at a time. Kimi K3's 69 linear-attention layers plus 24 dense layers therefore resolve to 59 wafers connected by RDMA over Ethernet at about 2 microseconds per hop, with weights resident and only activations crossing wafer boundaries, yielding a claimed 1,000 to 2,000+ tokens per second. Concurrency is bounded by KV cache space on the dense-layer wafers.",
+          "category": "Infrastructure",
+          "tags": [
+            "Cerebras",
+            "Wafer-Scale",
+            "Kimi K3",
+            "Inference Serving",
+            "MoE"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Sakana AI Announces Sawara, a Japanese Frontier Model Built From Scratch",
+          "summary": "Sakana AI announced on October 26 in Tokyo that it will develop its own domestic foundation models from scratch, provisionally named Sawara, aimed at reducing reliance on US and Chinese models in sensitive areas including defense and cybersecurity. The company is Japan's most valuable AI startup and framed the effort around sovereignty rather than benchmark competition. A partnership with Sumitomo was announced alongside the model plan. No parameter count, training budget, timeline, or weight-release commitment was disclosed at the announcement.",
+          "category": "Industry",
+          "tags": [
+            "Sakana AI",
+            "Japan",
+            "Sovereign AI",
+            "Foundation Models",
+            "Cybersecurity"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "An AGENTS.md File in the Downloads Folder Turned Coding Agents Into Installers",
+          "summary": "Security firm Forever Security reported catching, on a live customer machine, an AGENTS.md file sitting in a developer's Downloads folder, formatted to look like ordinary engineering notes, that instructed the coding agent to register a server in its own configuration and install an npm package called function-color, part of the MALFEX malware campaign separately documented by CloudSEK and Checkmarx. The firm stopped the agent before code executed and could not determine how the file arrived. The mechanism chains two individually benign properties: agents obey instruction files found in the folder they open, and web pages can write files into Downloads without a click or permission prompt, controlling both name and contents; a proof-of-concept page demonstrated the silent download, though the attacker's actual delivery route is unconfirmed. In reproduction inside an isolated VM the attack succeeded against Codex in more than 90% of attempts, and the config.toml modification would persist across every later Codex session on that machine. Against Claude Code, a planted CLAUDE.md tried to redirect API traffic through a changed base URL to leak the session token and enable model impersonation; that path required human approval and succeeded about half the time when framed as engineering documentation. The vendor position is that there is nothing to patch, because the agent did what it was built to do. The firm's telemetry puts roughly half of its customers running coding agents inside Downloads and about a quarter of agent sessions opening a browser.",
+          "category": "AI Safety",
+          "tags": [
+            "Prompt Injection",
+            "AGENTS.md",
+            "Codex",
+            "Claude Code",
+            "Supply Chain",
+            "Malware"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-26",
       "title": "AI Daily Digest - 2026-10-26",
