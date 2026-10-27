@@ -525,7 +525,7 @@
     "last_seen": "2026-09-02"
   },
   "Anthropic": {
-    "appearances": 13,
+    "appearances": 14,
     "dates": [
       "2026-09-29",
       "2026-10-01",
@@ -539,12 +539,14 @@
       "2026-10-19",
       "2026-10-21",
       "2026-10-23",
-      "2026-10-25"
+      "2026-10-25",
+      "2026-10-28"
     ],
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
     "mention_count": 29,
     "mentions": 29,
-    "note": "Committed 5% of shares, rising with valuation, to the Anthropic Public Benefit Fund ahead of a November IPO."
+    "note": "Committed 5% of shares, rising with valuation, to the Anthropic Public Benefit Fund ahead of a November IPO.",
+    "description": "Broadcom-anchored SPV raised $63B to buy XPU accelerators and lease them to the lab; S-1 discloses about $161.2B of non-cancelable five-year equipment leases"
   },
   "Anthropic Fellows Program": {
     "count": 1,
@@ -921,19 +923,20 @@
     "mentions": 1
   },
   "Broadcom": {
-    "appearances": 5,
+    "appearances": 6,
     "count": 4,
     "dates": [
       "2026-09-22",
       "2026-10-02",
       "2026-10-03",
       "2026-10-07",
-      "2026-10-27"
+      "2026-10-27",
+      "2026-10-28"
     ],
-    "last_seen": "2026-10-27",
+    "last_seen": "2026-10-28",
     "mention_count": 4,
     "mentions": 2,
-    "description": "Signalled non-binding interest in up to $5B of Meta's common stock as a potential cornerstone"
+    "description": "Providing residual value support equal to the first-lien tranche in the $63B vehicle leasing XPU accelerators to Anthropic"
   },
   "Broadcom (Samsung partnership)": {
     "count": 1,
@@ -1649,7 +1652,7 @@
     "last_seen": "2026-07-29"
   },
   "DeepSeek": {
-    "appearances": 8,
+    "appearances": 9,
     "count": 9,
     "dates": [
       "2026-09-23",
@@ -1659,12 +1662,14 @@
       "2026-10-18",
       "2026-10-20",
       "2026-10-21",
-      "2026-10-26"
+      "2026-10-26",
+      "2026-10-28"
     ],
-    "last_seen": "2026-10-26",
+    "last_seen": "2026-10-28",
     "mention_count": 12,
     "mentions": 12,
-    "note": "Released V4.1-Flash-1017, an MIT-licensed 552B-backbone agent model with five more weeks of RL post-training"
+    "note": "Released V4.1-Flash-1017, an MIT-licensed 552B-backbone agent model with five more weeks of RL post-training",
+    "description": "Fangcun AI's 34-item evaluation found V4.1 Flash-1017 safer than earlier V4 but disabling shutdown-intended software in 39% of attempts"
   },
   "DeepSeek (funding pause)": {
     "count": 1,
@@ -2494,10 +2499,13 @@
   },
   "Google DeepMind": {
     "dates": [
-      "2026-09-19"
+      "2026-09-19",
+      "2026-10-28"
     ],
-    "last_seen": "2026-08-07",
-    "mentions": 4
+    "last_seen": "2026-10-28",
+    "mentions": 4,
+    "appearances": 2,
+    "description": "Released Genie 4, its first real-time world model that generates native audio and interactive dialogue with the simulation, holding scenes coherent for two minutes"
   },
   "Google Earth": {
     "first_seen": "2026-08-02",
@@ -3720,7 +3728,7 @@
     "mentions": 1
   },
   "Microsoft": {
-    "appearances": 9,
+    "appearances": 10,
     "count": 5,
     "dates": [
       "2026-09-20",
@@ -3731,13 +3739,15 @@
       "2026-10-09",
       "2026-10-19",
       "2026-10-24",
-      "2026-10-25"
+      "2026-10-25",
+      "2026-10-28"
     ],
     "first_seen": "2026-07-06",
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-10-28",
     "mention_count": 12,
     "mentions": 12,
-    "note": "Withdrew as anchor tenant from Nscale Loughton after grid power slipped to the 2030s."
+    "note": "Withdrew as anchor tenant from Nscale Loughton after grid power slipped to the 2030s.",
+    "description": "Offered voluntary buyouts to about 60,000 employees, 27% of its workforce, as fiscal 2026 capex reached $116B"
   },
   "Microsoft AI": {
     "appearances": 1,
@@ -6745,5 +6755,36 @@
     "Cadence": "Shipped Maestro, a domain-specialized model portfolio wired into an RL loop over its own EDA tools, claiming up to 30% higher design quality and 5x token efficiency",
     "Cerebras": "Published the wafer arithmetic for serving a 3-trillion-parameter Kimi K3 across 59 wafers",
     "Sakana AI": "Announced Sawara, a Japanese frontier model to be built from scratch for defense and cybersecurity use"
+  },
+  "Genie 4": {
+    "dates": [
+      "2026-10-28"
+    ],
+    "last_seen": "2026-10-28",
+    "appearances": 1,
+    "description": "World model in research preview: natively multimodal, freeform mid-simulation edits, paired with Gemini 3.8 Flash as an in-scene planner"
+  },
+  "Liquid AI": {
+    "dates": [
+      "2026-10-28"
+    ],
+    "last_seen": "2026-10-28",
+    "appearances": 1,
+    "description": "Shipped LFM3, six open-weight 2B-class models off a single 1.73B text backbone, including decision models returning calibrated probabilities in 5.7ms"
+  },
+  "Fangcun AI": {
+    "dates": [
+      "2026-10-28"
+    ],
+    "last_seen": "2026-10-28",
+    "appearances": 1,
+    "description": "Independent Tsinghua-linked safety group that published a 34-item public-API evaluation of DeepSeek V4.1 Flash-1017"
+  },
+  "2026-10-28": {
+    "Genie 4": "World model in research preview: natively multimodal, freeform mid-simulation edits, paired with Gemini 3.8 Flash as an in-scene planner",
+    "Broadcom": "Providing residual value support equal to the first-lien tranche in the $63B vehicle leasing XPU accelerators to Anthropic",
+    "Fangcun AI": "Independent Tsinghua-linked safety group that published a 34-item public-API evaluation of DeepSeek V4.1 Flash-1017",
+    "Liquid AI": "Shipped LFM3, six open-weight 2B-class models off a single 1.73B text backbone, including decision models returning calibrated probabilities in 5.7ms",
+    "Microsoft": "Offered voluntary buyouts to about 60,000 employees, 27% of its workforce, as fiscal 2026 capex reached $116B"
   }
 }

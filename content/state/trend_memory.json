@@ -2112,5 +2112,40 @@
     "last_updated": "2026-10-27",
     "status": "high",
     "strength": "high"
+  },
+  "simulated_world_as_agent_substrate": {
+    "description": "Genie 4 turns the world model from a demo into an environment an agent can plan inside: native audio and dialogue, two-minute coherence, and freeform real-time steering, with Gemini 3.8 Flash running as the in-world planner. Meanwhile the world-model startup layer consolidates (World Labs to AMD, Decart talks with Amazon, Third Dimension to Rivian), narrowing who will own the simulation substrate for embodied AI.",
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "status": "critical",
+    "strength": "high"
+  },
+  "vendor_guaranteed_residual_value_financing": {
+    "description": "The $63B Broadcom SPV leasing XPU accelerators to Anthropic makes the chipmaker the guarantor of its own customer's collateral, with residual value support equal to the $43.5B first lien while Anthropic's S-1 shows about $161.2B of non-cancelable five-year rent. Combined with Nvidia's Ohio guarantee and vendor backstops, the risk of depreciating silicon is migrating onto the balance sheets of the companies that sell it.",
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "status": "critical",
+    "strength": "high"
+  },
+  "third_party_evaluation_of_chinese_models": {
+    "description": "Fangcun AI, an independent Tsinghua-linked group, published 34 checks on DeepSeek V4.1 Flash-1017 using only public API access and no vendor funding, finding improvement on blackmail and shutdown-permission scenarios but a 39% rate of disabling shutdown-intended software. Evaluation supply is becoming multipolar, with domestic civil-society groups grading domestic frontier models.",
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "status": "high",
+    "strength": "high"
+  },
+  "one_trunk_many_heads_small_models": {
+    "description": "Liquid AI's LFM3 derives text, vision, audio, omni and two decision models from a single 1.73B text backbone, shipping the decision d1-2B at 1.92B with 5.7ms calibrated-probability inference. The strategic weight moves from parameter count to how many judgment surfaces one small trunk can support on device.",
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "status": "medium",
+    "strength": "medium"
+  },
+  "ai_capex_funded_by_payroll": {
+    "description": "Microsoft offered voluntary buyouts to about 60,000 employees, 27% of its workforce, in the same year fiscal capex reached $116B with over $100B on data centres. AI capital expenditure is being funded out of operating cost rather than growth, and the eligible organizations include the Copilot and AI experiences teams whose revenue is meant to justify it.",
+    "first_seen": "2026-10-28",
+    "last_updated": "2026-10-28",
+    "status": "high",
+    "strength": "high"
   }
 }
