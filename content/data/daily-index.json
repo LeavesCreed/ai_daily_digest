@@ -1,7 +1,107 @@
 {
   "version": 1,
-  "generated_at": "2026-10-27T23:18:04Z",
+  "generated_at": "2026-10-29T07:15:00Z",
   "entries": [
+    {
+      "date": "2026-10-29",
+      "title": "AI Daily Digest - 2026-10-29",
+      "summary": {
+        "en": "Google shipped Gemini 4 Carbon, topping the Artificial Analysis Intelligence Index v5.0 at 59 with state-of-the-art vulnerability discovery and patching, but restricted it to vetted cyber defenders through its Fairwind Program. The same day, Anthropic's Frontier Red Team showed an unreleased Claude research model building five working exploit chains across Chrome, Safari, Android, Windows and Linux, including a zero-click Linux root at CVSS 9.8. House Democratic committee leaders answered with letters demanding incident disclosure within 48 hours and a full accounting by November 11. Oracle opened OCI to Google TPUs plus chips from Cerebras, SambaNova, Positron and OpenAI, becoming the first hyperscaler outside Google Cloud to offer TPUs. Google also released EmbeddingGemma 2, a 744M open model that puts text, image, audio and video in one 768-dim space and fits a text-only stack in 191 MB on a phone.",
+        "zh": "Google 发布 Gemini 4 Carbon，以 59 分登顶 Artificial Analysis Intelligence Index v5.0，漏洞发现与修补能力达到前沿水平，但只通过 Fairwind Program 向经过审查的网络安全防御者分批开放。同日 Anthropic Frontier Red Team 公开一个未发布的内部 Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 上构造出五条可用利用链，其中包含 CVSS 9.8 的零点击 Linux root。众议院民主党委员会领袖随即致函五家实验室，要求 48 小时内上报事故、11 月 11 日前提交完整清单。Oracle 把 Google TPU 与 Cerebras、SambaNova、Positron、OpenAI 的芯片一并接入 OCI，成为 Google Cloud 之外首家提供 TPU 的超大规模云。Google 另外开源 EmbeddingGemma 2，744M 参数把文本、图像、音频、视频压进同一个 768 维空间，纯文本档在手机上仅占 191MB。"
+      },
+      "categories": [
+        "Models",
+        "AI Safety",
+        "Infrastructure",
+        "Open Source"
+      ],
+      "tags": [
+        "Google",
+        "Gemini",
+        "Anthropic",
+        "Cybersecurity",
+        "Oracle",
+        "TPU",
+        "EmbeddingGemma",
+        "Congress",
+        "Lean"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-29.md",
+        "zh": "./content/daily_zh/2026-10-29.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Google Releases Gemini 4 Carbon, Its Strongest Model, Gated to Cyber Defenders First",
+          "summary": "On October 28, Google DeepMind announced Gemini 4 Carbon, two weeks after Gemini 4 Argon reached general availability. Carbon ranks #1 on the newly updated Artificial Analysis Intelligence Index v5.0 at 59, ahead of Claude Opus 5.5, and posts 88.2% on SEC-bench Pro for vulnerability discovery, 54.8%",
+          "category": "Models",
+          "tags": [
+            "Google",
+            "Gemini",
+            "Frontier Model",
+            "Cybersecurity",
+            "Gated Release"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Anthropic Frontier Red Team: Unreleased Claude Model Built Five Working Exploit Chains",
+          "summary": "In a research post published October 27 at 18:15 UTC, Anthropic's Frontier Red Team reported that an unreleased internal Claude research model found and chained previously unknown vulnerabilities into working end-to-end exploits across five platforms. The Chrome chain combined four bugs to escape th",
+          "category": "AI Safety",
+          "tags": [
+            "Anthropic",
+            "Claude",
+            "Cybersecurity",
+            "Vulnerability Research",
+            "Coordinated Disclosure"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Oracle Opens OCI to Google TPUs and Four Merchant Accelerators, Positioning as an Open-Silicon Cloud",
+          "summary": "Oracle said on October 27 that OCI will offer Google TPUs for both training and inference starting in 2027, ramping over a multi-year period, making it the first hyperscaler to carry TPUs outside Google Cloud. The same announcement adds Cerebras wafer-scale engines for high-speed inference in 2027, ",
+          "category": "Infrastructure",
+          "tags": [
+            "Oracle",
+            "TPU",
+            "Google",
+            "Cerebras",
+            "SambaNova",
+            "Inference Silicon"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "House Democratic Committee Leaders Demand 48-Hour Incident Reporting From Five Frontier Labs",
+          "summary": "On October 28, Democratic committee leaders in the U.S. House of Representatives sent oversight letters to Anthropic, Google, Meta, OpenAI and SpaceXSI asking each company for a full accounting of identified misalignment and safety incidents by November 11. The letters also set two clocks: notify th",
+          "category": "AI Safety",
+          "tags": [
+            "Congress",
+            "Incident Reporting",
+            "Governance",
+            "OpenAI",
+            "Anthropic",
+            "Meta"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Google Releases EmbeddingGemma 2, a 744M Open Model That Embeds Text, Image, Audio and Video Together",
+          "summary": "Google's EmbeddingGemma team released EmbeddingGemma 2 on October 28, a 744M-parameter open embedding model that encodes text, images, audio, video and interleaved combinations into a single 768-dimension space, truncatable to 128 via Matryoshka representation learning. The parameter budget is modul",
+          "category": "Open Source",
+          "tags": [
+            "Google",
+            "EmbeddingGemma",
+            "Multimodal",
+            "Embeddings",
+            "On-Device",
+            "Retrieval"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-28",
       "title": "AI Daily Digest - 2026-10-28",

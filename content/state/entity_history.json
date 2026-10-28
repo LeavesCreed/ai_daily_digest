@@ -6786,5 +6786,21 @@
     "Fangcun AI": "Independent Tsinghua-linked safety group that published a 34-item public-API evaluation of DeepSeek V4.1 Flash-1017",
     "Liquid AI": "Shipped LFM3, six open-weight 2B-class models off a single 1.73B text backbone, including decision models returning calibrated probabilities in 5.7ms",
     "Microsoft": "Offered voluntary buyouts to about 60,000 employees, 27% of its workforce, as fiscal 2026 capex reached $116B"
+  },
+  "2026-10-29": {
+    "Gemini 4 Carbon": "Google frontier model ranked #1 on Artificial Analysis Intelligence Index v5.0 at 59, SOTA on SEC-bench Pro, ExploitGym and CWE-bench, released first to vetted cyber defenders via Fairwind Program at $2/$10 per million tokens",
+    "Fairwind Program": "Google DeepMind access program through which Gemini 4 Carbon reaches vetted cyber defenders before general availability",
+    "Koray Kavukcuoglu": "Google DeepMind SVP and Chief AI Architect, author of the Gemini 4 Carbon announcement",
+    "Anthropic Frontier Red Team": "Published five working exploit chains built by an unreleased Claude research model across Chrome, Safari, Android, Windows and Linux",
+    "CVE-2026-98432": "CVSS 9.8 zero-click use-after-free in Linux multipath TCP enabling remote root, found and exploited by an Anthropic research model and patched upstream",
+    "CVE-2026-33096": "Windows kernel QUIC remote crash affecting internet-facing HTTP/3 servers, found by reverse-engineering with Ghidra",
+    "Oracle": "Announced OCI will carry Google TPUs plus Cerebras, SambaNova and OpenAI accelerators, positioning as an open-silicon cloud",
+    "SambaNova": "SN50 fifth-generation reconfigurable dataflow unit to be deployed on OCI for agentic workloads",
+    "Cerebras": "Wafer-scale inference engines scheduled for OCI in 2027",
+    "Positron AI": "Atlas inference chip generally available on OCI",
+    "House Democratic committee leaders": "Sent oversight letters to five frontier labs demanding incident disclosure within 48 hours and full accounting by November 11",
+    "Zoe Lofgren": "House Democrat whose office released the frontier lab incident-reporting letters",
+    "SpaceXSI": "One of five frontier labs receiving the House Democratic incident-reporting letters",
+    "EmbeddingGemma 2": "744M open multimodal embedder mapping text, image, audio and video into one 768-dim space, with a 191MB text-only Q4 stack on a Pixel 11 Pro"
   }
 }

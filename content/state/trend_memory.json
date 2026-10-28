@@ -343,8 +343,8 @@
     "strength": "emerging"
   },
   "ai_cybersecurity_threat_timeline": {
-    "description": "Agentic intrusion is cheap and already operational: Oct 19 Reuters documented 100+ breached companies for about $5,000 in tokens, while CERT-In, AISI and multiple vendors reported autonomous agent intrusions through September and October. Detection and remediation remain priced per incident against attacks priced per token.",
-    "last_updated": "2026-10-23",
+    "description": "Offensive capability timelines keep compressing: a vendor research model now writes working exploit chains across five platforms, congressional committees demand 48-hour incident notice, and defenders are pressed to scan their own code before models find it for them.",
+    "last_updated": "2026-10-29",
     "status": "critical",
     "strength": "critical"
   },
@@ -1165,10 +1165,10 @@
     "strength": "strong"
   },
   "frontier_capability_gating": {
-    "description": "Capability gating is becoming release policy: Google shipped Gemini 4 Argon first to trusted testers and cyber defenders under a government pre-release channel, following the September pattern in which access class, not general availability, defines a frontier launch.",
-    "last_updated": "2026-10-01",
-    "status": "strong",
-    "strength": "strong"
+    "description": "Frontier releases are increasingly gated by customer class rather than by price: Gemini 4 Carbon tops the intelligence index on cybersecurity strength yet ships first to vetted defenders through the Fairwind Program while Google participates in voluntary U.S. pre-release testing.",
+    "last_updated": "2026-10-29",
+    "status": "critical",
+    "strength": "critical"
   },
   "frontier_claim_moves_to_compute_efficiency": {
     "description": "Microsoft's 4.2-12.3x efficiency claim against DeepSeek-V4-Pro-Base and NVIDIA's finding that compressing a 120B model into 24GB beats training a smaller one from scratch both shift the competitive metric from parameter count to architecture and data quality per unit of compute.",
@@ -2147,5 +2147,33 @@
     "last_updated": "2026-10-28",
     "status": "high",
     "strength": "high"
+  },
+  "exploit_chain_automation": {
+    "description": "A frontier model now assembles multi-step exploit chains end to end: an unreleased Claude research model produced five working paths across Chrome, Safari, Android, Windows and Linux with little human involvement, yielding 62 Chrome CVEs, a CVSS 9.8 zero-click Linux root and a Windows QUIC crash. It converts vulnerability research from a specialist-team activity into a model output that can be verified by running it.",
+    "first_seen": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "status": "critical",
+    "strength": "critical"
+  },
+  "incident_reporting_clock": {
+    "description": "Congress moved from requesting transparency to setting clocks: House Democratic committee leaders demanded a full incident accounting by November 11 plus notification within 48 hours of new incidents and 24 hours when critical infrastructure is involved. Disclosure cadence becomes a mechanism for allocating legal and reputational risk rather than a PR decision.",
+    "first_seen": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "status": "high",
+    "strength": "high"
+  },
+  "open_silicon_cloud": {
+    "description": "Oracle put Google TPUs, Cerebras wafer-scale, SambaNova dataflow and Positron inference silicon on one OCI price list, becoming the first hyperscaler to carry TPUs outside Google Cloud. Vendor lock-in shifts from chip allocation to orchestration and cost per token, making the cloud a scheduler over heterogeneous accelerators.",
+    "first_seen": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "status": "high",
+    "strength": "high"
+  },
+  "unified_multimodal_embedding": {
+    "description": "EmbeddingGemma 2 collapses text, image, audio and video into one 768-dim space at 744M parameters, with modular encoders and a 191MB text-only Q4 stack on a phone. Retrieval stops requiring transcription before embedding, and the memory floor for on-device multimodal RAG drops accordingly.",
+    "first_seen": "2026-10-29",
+    "last_updated": "2026-10-29",
+    "status": "medium",
+    "strength": "medium"
   }
 }
