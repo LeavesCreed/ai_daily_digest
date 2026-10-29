@@ -1,7 +1,117 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T07:15:00Z",
+  "generated_at": "2026-10-29T23:17:38Z",
   "entries": [
+    {
+      "date": "2026-10-30",
+      "title": "AI Daily Digest - 2026-10-30",
+      "summary": {
+        "en": "Mistral put the full weights of Mistral Large 4 on Hugging Face, making a trillion-parameter European frontier model downloadable on the same day OpenAI rebuilt its Model Spec around five values and Nvidia wrote a $3B equity cheque into Meta's $97.5B raise. Agent infrastructure was the day's real centre of gravity: AgiBot open-sourced an embodied-AI operating system with 200 million lines of code, and OpenAI reportedly moved from renting Google TPUs to planning an outright purchase.",
+        "zh": "Mistral 把 Mistral Large 4 的完整权重放上 Hugging Face，让一个万亿参数的欧洲前沿模型变成可下载的物件；同日 OpenAI 把 Model Spec 重建在五项价值之上，NVIDIA 则用 30 亿美元股本进入 Meta 最高 975 亿美元的融资。真正的主线是智能体基础设施：智元开源了一个含 2 亿行代码的具身智能操作系统，OpenAI 也被报道要从租用谷歌 TPU 转向直接采购。"
+      },
+      "categories": [
+        "Open Source",
+        "AI Safety",
+        "Infrastructure",
+        "Robotics"
+      ],
+      "tags": [
+        "Mistral",
+        "Mistral Large 4",
+        "Le Chonk",
+        "Open Weights",
+        "MoE",
+        "Cybersecurity",
+        "OpenAI",
+        "Model Spec",
+        "Alignment",
+        "Nvidia",
+        "Meta",
+        "Muse",
+        "Vera Rubin",
+        "Agent Security",
+        "AgiBot",
+        "Lingqu OS",
+        "Embodied AI",
+        "Google",
+        "TPU",
+        "Compute Procurement"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-30.md",
+        "zh": "./content/daily_zh/2026-10-30.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Mistral Releases the Full Weights of Mistral Large 4 (Le Chonk)",
+          "summary": "On October 29 Mistral published the weights of Mistral Large 4, nicknamed Le Chonk, on Hugging Face as a collection alongside a model card, GGUF builds and an NVFP4 variant deployable on four B300 GPUs. The model is a multimodal, ",
+          "category": "Open Source",
+          "tags": [
+            "Mistral",
+            "Mistral Large 4",
+            "Le Chonk",
+            "Open Weights",
+            "MoE",
+            "Cybersecurity"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "OpenAI Rewrites the Model Spec Around Five Values",
+          "summary": "On October 29 OpenAI published version 2026.10.29 of its Model Spec, reorganising the public behaviour document around five values: faithfulness to human intent, minimising harm, honesty and transparency, facilitating human agency",
+          "category": "AI Safety",
+          "tags": [
+            "OpenAI",
+            "Model Spec",
+            "Alignment",
+            "Human Agency",
+            "Agent Safety"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Nvidia Puts $3B of Equity Into Meta's $97.5B Raise and Widens the Muse Deal",
+          "summary": "Nvidia said on October 27 that it will invest $3B in Meta's equity offering, part of a raise Meta has sized at up to $97.5B across share sales and a future at-the-market programme. Reports said Nvidia, Broadcom and AMD had togethe",
+          "category": "Infrastructure",
+          "tags": [
+            "Nvidia",
+            "Meta",
+            "Muse",
+            "Vera Rubin",
+            "Agent Security",
+            "AI Capex"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "AgiBot Open-Sources Lingqu OS 1.0 for Embodied Robots",
+          "summary": "At its October 29 innovation day, AgiBot released Lingqu OS 1.0, an operating system built natively for embodied AI. AgiBot co-president Xiong Yan said the system covers the full path from construction to deployment and from hardw",
+          "category": "Robotics",
+          "tags": [
+            "AgiBot",
+            "Lingqu OS",
+            "Embodied AI",
+            "Robotics Middleware",
+            "Deterministic Control"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "OpenAI Reportedly Plans to Buy Google TPUs Instead of Renting",
+          "summary": "Reuters reported on October 28, citing The Information and a person familiar with the matter, that OpenAI plans to buy Google Tensor Processing Units outright. No price, volume or delivery schedule was disclosed; OpenAI declined t",
+          "category": "Infrastructure",
+          "tags": [
+            "OpenAI",
+            "Google",
+            "TPU",
+            "Broadcom",
+            "Compute Procurement"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-29",
       "title": "AI Daily Digest - 2026-10-29",
