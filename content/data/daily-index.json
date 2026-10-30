@@ -1,7 +1,118 @@
 {
   "version": 1,
-  "generated_at": "2026-10-29T23:17:38Z",
+  "generated_at": "2026-10-30T23:18:33Z",
   "entries": [
+    {
+      "date": "2026-10-31",
+      "title": "AI Daily Digest - 2026-10-31",
+      "summary": {
+        "en": "Four of the largest AI companies accepted the same robots.txt opt-out token on the same day, collapsing training-data licensing from per-deal negotiation into one machine-readable flag, while their rollout dates leave the crawling window open. The same month is set to wipe more than $2 trillion from the Nasdaq 100, Microsoft trimmed its capex guidance and Meta reported negative free cash flow, yet Baseten doubled its valuation to $30B on a two-tranche structure. On the deployment side, TCS is positioning an agentic control plane as its own layer, and Haut.AI's SkinBench found six mainstream models flagging absent skin conditions in roughly 95% to 100% of images.",
+        "zh": "四家最大 AI 公司同日接受同一个 robots.txt 退出信号，把训练数据授权从逐家谈判压成一个技术标记，但生效时间差意味着抓取窗口还开着。同月纳斯达克 100 预计蒸发逾 2 万亿美元，微软下调资本开支指引、Meta 自由现金流转负，而 Baseten 以两档定价把估值抬到 300 亿美元。落地侧，TCS 把 agentic control plane 当作新一层基础设施，Haut.AI 的 SkinBench 则显示六个主流模型在本不存在的皮肤问题上报出 95% 以上的假阳性。"
+      },
+      "categories": [
+        "AI Safety",
+        "Industry",
+        "Infrastructure",
+        "Agents",
+        "Research"
+      ],
+      "tags": [
+        "OpenAI",
+        "Google",
+        "Microsoft",
+        "Anthropic",
+        "IETF",
+        "robots.txt",
+        "Data Licensing",
+        "Nasdaq",
+        "Capex",
+        "Private Credit",
+        "Baseten",
+        "Inference Infrastructure",
+        "TCS",
+        "Cognizant",
+        "Agent Governance",
+        "Haut.AI",
+        "SkinBench",
+        "Benchmark Validity"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-10-31.md",
+        "zh": "./content/daily_zh/2026-10-31.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Four Major AI Companies Accept a Single Training Opt-Out Signal",
+          "summary": "On October 30, Google Search Central and OpenAI separately announced support for a shared AI-training control signal drafted by an IETF working group, letting a site use one token in robots.txt to tell multiple AI providers at once that its content should not be used for foundational generative AI training. Anthropic said it has already implemented the signal; Google and Microsoft plan to support it in 2027; OpenAI said it will within the \"coming months.\" Microsoft added finer-grained controls that split AI training from AI grounding — pointing a model at a verified source to reduce hallucination — into two independently opt-outable switches, and noted that sites remain in Bing search results regardless of their choice. The signal was designed by an IETF working group and will be proposed as an international standard once complete. Google's post explicitly ties the approach to the EU Code of Practice for General Purpose AI, which recognises robots.txt as a primary way for publishers to express preferences.",
+          "category": "AI Safety",
+          "tags": [
+            "OpenAI",
+            "Google",
+            "Microsoft",
+            "Anthropic",
+            "IETF",
+            "robots.txt",
+            "Data Licensing"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Nasdaq 100 Set to Shed Over $2 Trillion in October as Microsoft Trims Capex",
+          "summary": "Reuters reported on October 30 that more than $2 trillion in market value is set to be wiped from the Nasdaq 100 this month, as Big Tech earnings intensified investor scrutiny of AI spending. The prior week's results carried concrete signals of tempering: Microsoft cut full-year capex guidance to $170 billion from $175 billion, with CFO Amy Hood saying spending will accelerate in the first half of 2027 on higher component costs and delayed deliveries; Alphabet held its $195 billion to $205 billion guidance; Meta raised the bottom of its full-year range from $130 billion to $135 billion with a $145 billion top, while reporting negative free cash flow; and Amazon spent roughly $77 billion on capex in the quarter, ahead of analyst estimates. Hyperscaler capex as a group is expected to exceed $1 trillion next year. The same day, a report from Reform warned that private equity and private credit are heavily financing the AI infrastructure boom, concentrating risk on the non-bank lending side if returns slip.",
+          "category": "Industry",
+          "tags": [
+            "Nasdaq",
+            "Capex",
+            "Microsoft",
+            "Alphabet",
+            "Meta",
+            "Amazon",
+            "Private Credit"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Baseten Set for $30 Billion Valuation on a Two-Tranche Round",
+          "summary": "Bloomberg reported on October 30, citing people familiar with the effort, that AI infrastructure startup Baseten is raising a round that will more than double its valuation to about $30 billion. The round is structured with two separate prices: the first tranche values the company at $26 billion, the second at $30 billion. Baseten's business is deploying open and proprietary models as callable inference endpoints, billed by usage.",
+          "category": "Infrastructure",
+          "tags": [
+            "Baseten",
+            "Inference Infrastructure",
+            "Valuation",
+            "Funding"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "TCS Treats the Agentic Control Plane as Its Own Layer as 85% of Firms Run More Agents Than Owners",
+          "summary": "On October 30, Indian IT services firms were building governance into both products and services. On its Q2 FY27 earnings call, TCS management said an agentic control plane is becoming a key layer for governance, cost management, agent performance and lifecycle management, framing enterprise demand around \"safe, secure and responsible deployment of agentic AI.\" The same reporting cited a Cognizant survey: 83% had experienced an AI-related security incident in the previous 24 months, 82% had paused an AI deployment over security concerns in the past year, and 86% said AI had accelerated the identification of new vulnerabilities. A separate survey of 251 security leaders conducted by Zentera with TrendCandy put sharper numbers on it: 85% acknowledged running more AI agents than they have approved human owners for, 81% said internal disputes over agent ownership are actively delaying critical governance decisions, 75% cited the \"right task in the wrong place\" scenario as their primary operational concern, and 84% said agents cross project boundaries far more easily than human employees.",
+          "category": "Agents",
+          "tags": [
+            "TCS",
+            "Cognizant",
+            "Zentera",
+            "Agent Governance",
+            "Control Plane",
+            "Shadow AI"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Haut.AI's SkinBench Finds Six Major Models Report Skin Conditions in 95% to 100% of Images Without Them",
+          "summary": "On October 27, Haut.AI published SkinBench, an AI skin analysis benchmark, alongside the release of its Skin Foundation Model (SkinFM). It ran six leading AI models through 19 tests and found they frequently reported skin concerns that were not present: on images with no eye puffiness, they returned a positive in roughly 95% to 100% of cases. The benchmark's conclusion is that a model able to describe a photo is not necessarily one able to measure skin, and that a false positive becomes a wrong product recommendation the moment it reaches a consumer.",
+          "category": "Research",
+          "tags": [
+            "Haut.AI",
+            "SkinBench",
+            "Benchmark Validity",
+            "False Positive",
+            "Vision Models"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-30",
       "title": "AI Daily Digest - 2026-10-30",
