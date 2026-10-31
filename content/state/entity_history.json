@@ -6882,5 +6882,32 @@
     "SkinFM",
     "lexmount/moli",
     "OpenConjecture"
+  ],
+  "2026-11-01": [
+    "OpenAI",
+    "Anthropic",
+    "Impagliazzo",
+    "Paturi",
+    "Ryan Williams",
+    "Exponential Time Hypothesis",
+    "Lean",
+    "nanoda",
+    "Comparator",
+    "Claude",
+    "Emergent Misalignment",
+    "Training Data Monitoring",
+    "Alignment Science",
+    "NVIDIA",
+    "Nemotron 3.5 Transcribe",
+    "Granary v2",
+    "Mixture of Experts",
+    "Amazon",
+    "Dark GPUs",
+    "Morgan Stanley",
+    "MGX",
+    "Financial Times",
+    "AI2",
+    "Novelty-Bench",
+    "deepseek-ai/dsh-superagent-prototype"
   ]
 }

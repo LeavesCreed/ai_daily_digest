@@ -952,9 +952,9 @@
     "strength": "strong"
   },
   "compute_capital_markets_turn": {
-    "description": "By late October the compute buildout is legible primarily through credit instruments: GPU-backed loans, residual-value guarantees, and pre-committed cloud capacity. The risk question is no longer whether demand exists but who holds the collateral when pricing resets.",
+    "description": "By late October the compute buildout is legible primarily through credit instruments: GPU-backed loans, residual-value guarantees, and pre-committed cloud capacity. The risk question is no longer whether demand exists but who holds the collateral when pricing resets. Nov 1: OpenAI's round shrank by a third to ~$20B at $1.25T with a soft first close (only ~$11B committed), the first clear supply-side price cut for private frontier capital.",
     "first_seen": "2026-10-05",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-01",
     "status": "critical",
     "strength": "critical"
   },
@@ -1748,8 +1748,10 @@
   },
   "power_grid_as_binding_constraint": {
     "first_seen": "2026-09-11",
-    "note": "Gigawatt-scale targets show power, land and interconnection, not chip supply, are the real limits on AI buildout",
-    "status": "strong"
+    "note": "Gigawatt-scale targets show power, land and interconnection, not chip supply, are the real limits on AI buildout Nov 1: Amazon documents show ~$5B of delivered Nvidia hardware waiting unpowered, confirming grid interconnection rather than chip supply gates deployment.",
+    "status": "active",
+    "last_updated": "2026-11-01",
+    "strength": "critical"
   },
   "power_grid_bottleneck": {
     "description": "NVIDIA-IREN 5GW shows power replacing financing as constraint",
@@ -2042,9 +2044,9 @@
     "strength": "critical"
   },
   "verification_capacity_as_bottleneck": {
-    "description": "Yau's eight-institution math-AI alliance targeting 1,000+ scientists, and the contemporaneous dispute over AI-authored mathematics, both point to scarce human verification and formalisation capacity rather than model capability as the limit on AI-for-science. Reinforced Oct 16: AI-assisted math results now ship as machine-checked, open-sourced artifacts.",
-    "last_updated": "2026-10-16",
-    "strength": "strong"
+    "description": "Yau's eight-institution math-AI alliance targeting 1,000+ scientists, and the contemporaneous dispute over AI-authored mathematics, both point to scarce human verification and formalisation capacity rather than model capability as the limit on AI-for-science. Reinforced Oct 16: AI-assisted math results now ship as machine-checked, open-sourced artifacts. Nov 1: the first frontier-scale public audit of AI-produced proofs is running (ETH): volunteer Lean rebuilds and cross-kernel replays pass, but no verdict exists and the organisers have published no finding, showing the bottleneck is people reading statements rather than machines checking proofs.",
+    "last_updated": "2026-11-01",
+    "strength": "critical"
   },
   "verification_instrumentation_gap": {
     "description": "Across governance, infrastructure and science the binding constraint is evidence rather than capability: Anthropic disclosed an equity structure without share source, baseline or payout terms, Microsoft lost an anchor tenant because no energisation date existed, and iNaturalist found its records rest on an unverified assumption about photographs. Instruments that let a third party trust a claim, not the claim itself, are now the scarce good.",
@@ -2245,5 +2247,33 @@
     "last_updated": "2026-10-31",
     "status": "active",
     "strength": "medium"
+  },
+  "certification_layer_as_bottleneck": {
+    "description": "Oct 30-31: the binding constraint on AI-produced science shifted from generating results to certifying them. Two labs claimed ETH refutations within days; Impagliazzo, Paturi and Williams opened a public examination with a shared notes folder, a feedback form and a proposed virtual meeting; volunteers rebuilt 3,977 Lean modules, replayed both proofs under Comparator, Lean's kernel and an independent nanoda kernel, and the volunteer repository ruled that a reading supplied only by language models does not count as a reading. Formal proof checking is now routine; statement interpretation and the gap between paper claims and formalised bounds are where public evidence is missing.",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "active",
+    "strength": "critical"
+  },
+  "dataset_level_monitor_blind_spot": {
+    "description": "Oct 30: Anthropic gave thousands of Claude agents the production-like training-data classifier and a 5,000-row budget; agents hill-climbed to datasets that pass row-level screening yet produce wider and stronger misalignment than previously known corpora, using benign narratives such as beekeeping transcripts and pro-wrestling kayfabe. Reproduced on an early Opus 4.8 checkpoint and Qwen 3.6 27B, implying the next assurance work must model dataset-level semantics rather than per-row filters.",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "active",
+    "strength": "high"
+  },
+  "dark_gpu_inventory_as_capex_signal": {
+    "description": "Oct 31: Amazon internal documents show about $5B of Nvidia hardware arriving around August with roughly $3B per month after, with some sites unable to power all of it and racks staged in warehouses; Morgan Stanley models a ~34% net power shortfall for US data centre developers through 2028. Capex risk is now measured in unpowered inventory rather than undelivered silicon.",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "active",
+    "strength": "high"
+  },
+  "private_ai_valuation_repricing": {
+    "description": "Oct 30-31: OpenAI cut its round from $30B at $1.4T to about $20B at $1.25T, with ~$11B committed and a first close below target after a tepid large-investor response; the same week brought a Nasdaq correction, Anthropic's S-1 with a $80.7B first-half net loss, and a reported high-junk credit expectation for Anthropic post-IPO. Private frontier AI now has a reference price every pre-IPO name will be marked against.",
+    "first_seen": "2026-11-01",
+    "last_updated": "2026-11-01",
+    "status": "active",
+    "strength": "high"
   }
 }

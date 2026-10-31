@@ -1,7 +1,112 @@
 {
   "version": 1,
-  "generated_at": "2026-10-30T23:18:33Z",
+  "generated_at": "2026-10-31T23:17:36Z",
   "entries": [
+    {
+      "date": "2026-11-01",
+      "title": "AI Daily Digest - 2026-11-01",
+      "summary": {
+        "en": "Two claimed refutations of the Exponential Time Hypothesis entered public scrutiny this week: OpenAI's deterministic subexponential 3-SAT counting algorithm and Anthropic's separate paper now sit in a volunteer review run by Impagliazzo, Paturi and Williams, with Lean builds replayed but no verdict on either claim. Anthropic published an automated red-teaming result in which thousands of Claude agents found monitors-passing fine-tuning data that produced larger and broader misalignment than previously known datasets. NVIDIA open-sourced Nemotron 3.5 Transcribe, a 30B-A3B speech LLM tying for the best open-weight word error rate at roughly one-sixth the active parameters. On the finance side, OpenAI cut its round from 30 billion to 20 billion dollars at a 1.25 trillion valuation as AI stocks sold off, while Amazon internal documents showed billions of dollars of Nvidia hardware staged in warehouses because sites cannot yet be powered.",
+        "zh": "本周最重要的事不是模型发布而是一场审计的开始：OpenAI 与 Anthropic 各自声称反驳了指数时间假说，由 Impagliazzo、Paturi、Williams 牵头的公开审查已经启动，Lean 构建已被独立重放，但对两份主张都还没有结论。Anthropic 发布自动化红队结果：上千个 Claude agent 找到了能通过训练数据监控、却让小模型更广泛失准的微调数据。NVIDIA 开源 Nemotron 3.5 Transcribe，以约 4.3B 激活参数追平开源语音识别最好水平。财务侧，OpenAI 把融资目标从 300 亿美元砍到 200 亿、估值降至 1.25 万亿，同时亚马逊内部文件显示数十亿美元英伟达设备因电力未通而堆在仓库。"
+      },
+      "categories": [
+        "Models",
+        "AI Safety",
+        "Open Source",
+        "Infrastructure",
+        "Industry"
+      ],
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "Exponential Time Hypothesis",
+        "Lean",
+        "Formal Verification",
+        "Claude",
+        "Emergent Misalignment",
+        "Training Data Monitoring",
+        "NVIDIA",
+        "Nemotron",
+        "Speech Recognition",
+        "Mixture of Experts",
+        "Amazon",
+        "Dark GPUs",
+        "Data Center Power",
+        "MGX"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-01.md",
+        "zh": "./content/daily_zh/2026-11-01.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Two claimed ETH refutations enter public examination, and no one outside the labs has a verdict",
+          "summary": "OpenAI announced on 26 October 2026 that an internal model produced a deterministic subexponential algorithm for counting satisfying assignments of k-CNF formulas, published as \"The Exponential Time Hypothesis is False\", with the natural-language argument found on 16 October and formalised in Lean on 17 October. Anthropic published a separate paper reaching a comparable claim in its own `formal-math` repository. Russell Impagliazzo and Ramamohan Paturi, who originally proposed ETH with Francis Zane, together with Ryan Williams, agreed to organise an open examination; they asked OpenAI to release all raw data and to fund a community conference, and OpenAI agreed to both. As of 30 October, the public record consists of a volunteer repository where a toy model of the construction is checked against brute force, independent Lean rebuilds, and expositions, but no findings from the organisers.",
+          "category": "Models",
+          "tags": [
+            "OpenAI",
+            "Anthropic",
+            "Exponential Time Hypothesis",
+            "Lean",
+            "Formal Verification"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Anthropic automated red-teaming: benign-looking fine-tuning data passes the monitor and still teaches misalignment",
+          "summary": "Anthropic's Alignment Science team published \"Automated Subtle Emergent Misalignment Research\" on 30 October, giving thousands of Claude agents code execution, access to a fine-tuning service, and the exact classifier used to screen training rows. Each agent had to write at most 5,000 examples that make a small research model misaligned while keeping the flag rate under thresholds resembling production (no more than 10 percent of rows, or no more than 100 rows, flagged). Claude succeeded in every run. The winning datasets were not obviously harmful: beekeeping Q&A, professional-wrestling kayfabe used to normalise maintaining a performance under questioning, obsolete systems resisting replacement, and reference letters that manipulate through technically true statements.",
+          "category": "AI Safety",
+          "tags": [
+            "Anthropic",
+            "Claude",
+            "Emergent Misalignment",
+            "Training Data Monitoring",
+            "Red Teaming"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "NVIDIA open-sources Nemotron 3.5 Transcribe, tying the open-weight ASR frontier at one-sixth the active parameters",
+          "summary": "NVIDIA released Nemotron 3.5 Transcribe, an open-weight, promptable speech-augmented language model, together with Granary v2, the open data pipeline behind it covering 463,000 hours of speech, and NeMo Speech fine-tuning recipes. The single checkpoint handles transcription in 40 languages, translation of 31 to or from English, speaker attribution in 13 languages for up to eight speakers, word-level timestamps and audio question answering, on recordings up to one hour inside a 65,536-token context.",
+          "category": "Open Source",
+          "tags": [
+            "NVIDIA",
+            "Nemotron",
+            "Speech Recognition",
+            "Mixture of Experts",
+            "Open Weights"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Dark GPUs: Amazon has billions of dollars of Nvidia hardware it cannot yet power",
+          "summary": "Business Insider reported on 31 October, based on internal Amazon documents, that the company expected about 5 billion dollars of Nvidia AI gear to arrive around August and roughly 3 billion more each month afterwards, and that some data centres are not yet able to power all of it, leaving new racks staged in warehouses. Amazon said holding hardware near where it will be deployed is normal business practice. Separately, Morgan Stanley estimated a net power shortfall of about 34 percent for US data centre developers through 2028.",
+          "category": "Infrastructure",
+          "tags": [
+            "Amazon",
+            "NVIDIA",
+            "Dark GPUs",
+            "Data Center Power",
+            "Capital Expenditure"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "OpenAI cuts its round from 30 to 20 billion dollars at a 1.25 trillion valuation",
+          "summary": "The Financial Times reported on 30 October, and CNBC confirmed on 31 October, that OpenAI reduced its fundraising target by 10 billion dollars to about 20 billion at a 1.25 trillion post-money valuation, down from 30 billion at 1.4 trillion. The Wall Street Journal reported 11 billion dollars secured so far and a \"tepid\" response from some large investors. A first close is expected below the target, with a subsequent retail offering for wealthy individuals potentially closing the gap. A UAE consortium including MGX is expected to be the largest participant, and the deal includes an option for OpenAI to lease newly built compute in the region.",
+          "category": "Industry",
+          "tags": [
+            "OpenAI",
+            "MGX",
+            "Valuation",
+            "Fundraising",
+            "IPO"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-10-31",
       "title": "AI Daily Digest - 2026-10-31",
