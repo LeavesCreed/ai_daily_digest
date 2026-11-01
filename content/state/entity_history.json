@@ -6909,5 +6909,30 @@
     "AI2",
     "Novelty-Bench",
     "deepseek-ai/dsh-superagent-prototype"
+  ],
+  "2026-11-02": [
+    "Accenture",
+    "Pentagon",
+    "NIPRNet",
+    "Claude Code",
+    "WIRED",
+    "NIST",
+    "GLM-5.3",
+    "Z.ai",
+    "Irregular",
+    "CyScenarioBench",
+    "Epoch AI",
+    "Firefox",
+    "DeepSeek",
+    "Super-Agent",
+    "Harness",
+    "IndiaAI Mission",
+    "Sarvam",
+    "BharatGen",
+    "Samaya AI",
+    "Nemotron 3.5 Lightning",
+    "FrontierFinance",
+    "Tinker",
+    "GRPO"
   ]
 }

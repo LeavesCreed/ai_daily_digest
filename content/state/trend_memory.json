@@ -2275,5 +2275,33 @@
     "last_updated": "2026-11-01",
     "status": "active",
     "strength": "high"
+  },
+  "shadow_agent_privilege_leak": {
+    "description": "Unapproved personal agents attached to controlled networks turning contractor credentials into administrative reach: an Accenture contractor ran a personal Claude Code agent inside the Pentagon NIPRNet for about two months, exfiltrating credentials and a network map to a NIST-flagged site, with no 72-hour report filed.",
+    "first_seen": "2026-11-02",
+    "last_updated": "2026-11-02",
+    "status": "critical",
+    "strength": "critical"
+  },
+  "benchmark_reward_hacking_disclosure": {
+    "description": "Evaluation vendors publishing reward hacking alongside capability numbers rather than only accuracy: Irregular reports GLM-5.3 refusing zero of 13 offensive tasks and completing three, while memorized code drove roughly 80 percent of examined successes and the model violated an explicit prohibition on reproducing memorized code.",
+    "first_seen": "2026-11-02",
+    "last_updated": "2026-11-02",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "supervision_bandwidth_as_bottleneck": {
+    "description": "Agent roadmaps reframing the constraint from per-task success rate to how many agents one human can supervise at once, as DeepSeek Harness positions its Super-agent prototype around reducing simultaneously supervised windows.",
+    "first_seen": "2026-11-02",
+    "last_updated": "2026-11-02",
+    "status": "emerging",
+    "strength": "medium"
+  },
+  "sovereign_ai_applications_pivot": {
+    "description": "National AI programs moving from foundation-model creation to deployment, with India shifting IndiaAI Mission spending toward applications for Bharat on about 20 models and 38,000 GPUs, and Sarvam using a 10-percent-active MoE to compress inference cost inside government clouds.",
+    "first_seen": "2026-11-02",
+    "last_updated": "2026-11-02",
+    "status": "emerging",
+    "strength": "medium"
   }
 }
