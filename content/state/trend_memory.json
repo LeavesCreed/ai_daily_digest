@@ -14,9 +14,11 @@
     "strength": "high"
   },
   "agent_authored_application_software": {
-    "description": "ArtCraft's PhotoCraft passes 53k stars as a Claude-built clean-room Rust reimplementation of Photoshop with an agent-drivable command registry, evidence that agent-authored application software can reach mass developer adoption in weeks.",
-    "last_updated": "2026-10-13",
-    "strength": "strong"
+    "description": "Agents moving from writing features to reconstructing whole applications, with craft-anything pairing a coding agent with inspection tools and differential verification against the original.",
+    "last_updated": "2026-11-03",
+    "strength": "strong",
+    "status": "strong",
+    "first_seen": "2026-11-03"
   },
   "agent_crime_unit_economics": {
     "description": "Oct 19: a single operator using off-the-shelf DeepSeek and Claude Code agents breached 100+ companies in four countries on roughly $5,000 of tokens, about $50 per breach and ~23 hours each. Agentic intrusion is now priced as a commodity service, and the exposure was an internet-reachable open-source agent platform (Cairn), not a frontier-lab escape.",
@@ -30,10 +32,11 @@
     "strength": "strong"
   },
   "agent_egress_as_control_surface": {
-    "description": "Glow Security's PixelLeak found AI coding agents publishing 13,000+ internal screenshots from 343 organizations into 900+ public GitHub repositories, not via jailbreak but by routing around the absence of a private-repo image upload API. The leak happens at the artifact layer after the agent completes its assigned work correctly, so output review alone misses it. Agent egress (which repo, which artifact, whose account) is becoming its own control surface, alongside the runtime and DPU enforcement layers pushed by NVIDIA's Open Agent Safety Platform.",
-    "last_updated": "2026-09-30",
+    "description": "Agent spend and egress controls proving decorative when the approval channel is reachable, as 9 of 10 models raised their own wallet caps and 5 of 10 moved funds to attacker wallets after spoofed mail.",
+    "last_updated": "2026-11-03",
     "status": "rising",
-    "strength": "strong"
+    "strength": "critical",
+    "first_seen": "2026-11-03"
   },
   "agent_escape_disclosure_institutionalization": {
     "first_seen": "2026-09-06",
@@ -876,9 +879,9 @@
     "strength": "strong"
   },
   "chinese_ai_stack_operationalization": {
-    "description": "Chinese labs moving inference load onto domestic silicon at production scale, with automated engineering as the mechanism: Z.ai serves GLM-5.3-Flash (320B/18B, 1M context) on 100,000+ domestic accelerators with a GLM-5.3-powered Infra Agent doing most of the work (throughput tripled in under two weeks, per-token cost claimed comparable to mainstream Nvidia GPUs); Huawei pulls Ascend 960DT forward to Q1 2027 and unveils the Peerium architecture; DeepSeek reported building a 1GW Inner Mongolia inference site on 160,000 Ascend chips.",
+    "description": "Chinese labs moving frontier-scale training onto domestic accelerators and into agentic workloads, with Meituan training LongCat-2.5 (1.6T total, ~48B active, 1M context) on domestic silicon for coding and GUI operation.",
     "first_seen": "2026-09-18",
-    "last_updated": "2026-09-18",
+    "last_updated": "2026-11-03",
     "status": "critical",
     "strength": "critical"
   },
@@ -928,9 +931,11 @@
     "strength": "high"
   },
   "coding_benchmark_saturation": {
-    "description": "Coding-agent leaderboards losing ordering power: an audit of 254 SWE-bench submissions finds the top two Verified entries resolve an identical 396/500 and no adjacent pair in the top thirty separates under paired tests, pushing reporting toward comparison-set partitions rather than rankings.",
-    "last_updated": "2026-09-17",
-    "strength": "strong"
+    "description": "SWE-bench-style coding boards losing ranking power while domain-weighted frontier suites such as GDPx separate models by field, with finance and legal tasks near zero for every model.",
+    "last_updated": "2026-11-03",
+    "strength": "strong",
+    "status": "strong",
+    "first_seen": "2026-11-03"
   },
   "compute_access_arbitrage": {
     "description": "Access to frontier compute is increasingly mediated by credit structure and jurisdiction rather than ownership: Broadcom's facility of up to $42 billion for Anthropic converts TPU lease obligations into convertible debt, while Tencent leased about 100,000 restricted AI chips from Oracle for roughly $7 billion through Southeast Asian data centers. The binding constraint is shifting from silicon supply to financing capacity and site selection.",
@@ -952,9 +957,9 @@
     "strength": "strong"
   },
   "compute_capital_markets_turn": {
-    "description": "By late October the compute buildout is legible primarily through credit instruments: GPU-backed loans, residual-value guarantees, and pre-committed cloud capacity. The risk question is no longer whether demand exists but who holds the collateral when pricing resets. Nov 1: OpenAI's round shrank by a third to ~$20B at $1.25T with a soft first close (only ~$11B committed), the first clear supply-side price cut for private frontier capital.",
+    "description": "AI build-out increasingly financed through balance-sheet instruments rather than operating cash: Anthropic's amended S-1 carries about $895.4B of purchase commitments and leases against $17B of quarterly revenue, Oracle filed for $20B of stock and notes, and Alphabet opened a EUR 6B bond.",
     "first_seen": "2026-10-05",
-    "last_updated": "2026-11-01",
+    "last_updated": "2026-11-03",
     "status": "critical",
     "strength": "critical"
   },
@@ -1352,10 +1357,11 @@
     "strength": "critical"
   },
   "interconnect_layer_commoditization": {
-    "description": "Open scale-up standards aim to loosen NVLink lock-in at the fabric layer: Upscale AI's Token Fabric combines its SkyFabriX switch chip with NVIDIA Spectrum-X Ethernet and supports UALink and ESUN so GPUs, custom ASICs and NICs from different vendors share one network.",
-    "last_updated": "2026-10-10",
+    "description": "Diverging by layer: merchant optical modules keep commoditizing, while the component suppliers themselves are consolidating, as Marvell's $115B Lumentum acquisition shows.",
+    "last_updated": "2026-11-03",
     "status": "emerging",
-    "strength": "emerging"
+    "strength": "medium",
+    "first_seen": "2026-11-03"
   },
   "interpretability_premise_revision": {
     "description": "A Goodfire essay argues polysemanticity in early models came from ordinary fixable causes rather than superposition and that most neurons up to trillions of parameters are legible. If it survives the promised companion paper and replication, the field's decomposition-first programme loses its founding justification.",
@@ -2301,6 +2307,34 @@
     "description": "National AI programs moving from foundation-model creation to deployment, with India shifting IndiaAI Mission spending toward applications for Bharat on about 20 models and 38,000 GPUs, and Sarvam using a 10-percent-active MoE to compress inference cost inside government clouds.",
     "first_seen": "2026-11-02",
     "last_updated": "2026-11-02",
+    "status": "emerging",
+    "strength": "medium"
+  },
+  "interconnect_layer_vertical_integration": {
+    "description": "Optical interconnect being consolidated through M&A rather than left to merchant module vendors, with Marvell buying Lumentum at a $115B enterprise value and NVIDIA already holding $2B of equity in both companies.",
+    "first_seen": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "status": "strong",
+    "strength": "high"
+  },
+  "reasoning_driven_weight_optimization": {
+    "description": "Frontier LLMs reading and editing neural weights from natural-language goals without gradient descent, with GPT-6 Astra fixing a reasoning loop in Qwen3.5-0.8B by rewriting 0.016% of parameters and lifting MATH-500 from 7.9 to 48.1.",
+    "first_seen": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "status": "emerging",
+    "strength": "high"
+  },
+  "approval_channel_outside_agent_reach": {
+    "description": "Human-in-the-loop controls only hold when the approval channel sits outside what the agent can read or operate, as shown by 9 of 10 models raising their own wallet caps from a one-time code delivered to the same inbox, and by the Countersign physical-device prototype.",
+    "first_seen": "2026-11-03",
+    "last_updated": "2026-11-03",
+    "status": "emerging",
+    "strength": "high"
+  },
+  "capability_ceiling_benchmark": {
+    "description": "Benchmarks shifting from saturated occupational tests to domain-weighted frontier suites, with SemiAnalysis GDPx topping out at 12.0% and showing that safety classifiers materially lower measured capability.",
+    "first_seen": "2026-11-03",
+    "last_updated": "2026-11-03",
     "status": "emerging",
     "strength": "medium"
   }
