@@ -1,7 +1,123 @@
 {
   "version": 1,
-  "generated_at": "2026-11-02T23:18:16Z",
+  "generated_at": "2026-11-04T07:20:00Z",
   "entries": [
+    {
+      "date": "2026-11-04",
+      "title": "AI Daily Digest - 2026-11-04",
+      "summary": {
+        "en": "Open-weight computer-use agents crossed a milestone: NorthCUA-Pro, a 397B model built on Qwen3.5, topped trillion-parameter closed systems on OSWorld-Verified and WebArena-Verified while shipping weights, training code and harness. Security moved from detection to enforcement, with CrowdStrike shipping an AI kill switch and paying about $495M for Fiddler and Dreadnode. Capital kept front-running silicon: Fractile raised roughly $774M at a $6.5B valuation with an initial $250M Anthropic order and no shipping chip, while Drax and Brookfield disclosed a $27B gigawatt data centre on an existing 4GW grid connection. Flower Labs released Endeavor 1.1, a frontier-tier model with image input and EU-located inference.",
+        "zh": "开源权重在计算机操作智能体上跨过一个门槛：基于 Qwen3.5 的 NorthCUA-Pro 397B 在 OSWorld-Verified 与 WebArena-Verified 上压过万亿参数闭源系统，并连同权重、训练代码与 Harness 一起放出。安全侧从检测转向执行，CrowdStrike 上线 AI Kill Switch，并以约 4.95 亿美元收下 Fiddler 与 Dreadnode。资本继续跑在硅片前面：Fractile 在还没有出货芯片的情况下以约 65 亿美元估值融到约 7.74 亿美元，附带 Anthropic 首单 2.5 亿美元；同日 Drax 与 Brookfield 公布 270 亿美元的吉瓦级数据中心，直接借用现成的 4GW 并网容量。Flower Labs 发布 Endeavor 1.1，前沿档性能、支持图像输入，并可在欧盟境内 GPU 上推理。"
+      },
+      "categories": [
+        "Models",
+        "Agents",
+        "Infrastructure",
+        "AI Safety",
+        "Industry"
+      ],
+      "tags": [
+        "NorthCUA",
+        "Qwen3.5",
+        "Computer Use",
+        "Open Weights",
+        "OSWorld",
+        "CrowdStrike",
+        "AI Kill Switch",
+        "Fiddler",
+        "Dreadnode",
+        "Agent Security",
+        "Fractile",
+        "Inference Chips",
+        "In-Memory Compute",
+        "Anthropic",
+        "Flower Labs",
+        "Endeavor",
+        "EU Inference",
+        "Drax",
+        "Brookfield",
+        "Data Centre",
+        "Power Grid",
+        "Grid Interconnection"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-04.md",
+        "zh": "./content/daily_zh/2026-11-04.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "NorthCUA-Pro 397B: Open Computer-Use Agents Beat Trillion-Parameter Closed Models",
+          "summary": "On November 3 the NorthCUA team released a family of computer-use agents built on Qwen3.5 — Nano at 9B, Mini at 35B and Pro at 397B — together with weights, training pipelines, documentation and a Harness execution framework.",
+          "category": "Agents",
+          "tags": [
+            "NorthCUA",
+            "Qwen3.5",
+            "Computer Use",
+            "Open Weights",
+            "OSWorld",
+            "Harness"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "CrowdStrike Ships an AI Kill Switch and Buys Fiddler and Dreadnode for About $495 Million",
+          "summary": "At Fal.Con Europe on November 3, CrowdStrike announced an AI Kill Switch inside Falcon Guardian: an authorized administrator can stop a misbehaving agent, block it from relaunching on targeted hosts and cut its enterprise network access,...",
+          "category": "AI Safety",
+          "tags": [
+            "CrowdStrike",
+            "AI Kill Switch",
+            "Fiddler",
+            "Dreadnode",
+            "Agent Security",
+            "Observability"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Drax and Brookfield Plan a $27 Billion Gigawatt Data Centre at a British Power Station",
+          "summary": "Drax Group shares rose more than 8% on November 3 after the FTSE 250 power producer announced a partnership with Brookfield and its UK AI infrastructure platform Radiant to develop a data centre at Drax Power Station in North Yorkshire.",
+          "category": "Industry",
+          "tags": [
+            "Drax",
+            "Brookfield",
+            "Radiant",
+            "Data Centre",
+            "Power Grid",
+            "United Kingdom"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Fractile Raises About $774 Million at a $6.5 Billion Valuation Before Shipping Any Chip",
+          "summary": "London-based Fractile has allotted roughly £577 million, about $774 million, of Series C shares since September according to Companies House filings first reported by Tech Funding News, putting the inference-chip startup near a reported ...",
+          "category": "Infrastructure",
+          "tags": [
+            "Fractile",
+            "Inference Chips",
+            "In-Memory Compute",
+            "Anthropic",
+            "Series C",
+            "United Kingdom"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Flower Labs Ships Endeavor 1.1 with Image Input and EU-Located Inference",
+          "summary": "Flower Labs released Endeavor 1.1 on November 3, its third model of the year after the 7B Lizzy and Endeavor 1.0.",
+          "category": "Models",
+          "tags": [
+            "Flower Labs",
+            "Endeavor",
+            "EU Inference",
+            "Sovereign AI",
+            "Multimodal",
+            "Enterprise"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-03",
       "title": "AI Daily Digest - 2026-11-03",

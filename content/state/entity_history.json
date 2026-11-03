@@ -6962,5 +6962,57 @@
     "LARC",
     "BAGEL",
     "craft-anything"
-  ]
+  ],
+  "2026-11-04": [
+    "NorthCUA",
+    "Qwen3.5",
+    "CrowdStrike",
+    "Fiddler",
+    "Dreadnode",
+    "Drax",
+    "Brookfield",
+    "Radiant",
+    "Fractile",
+    "Anthropic",
+    "Flower Labs",
+    "Endeavor",
+    "OmniQ",
+    "vercel-labs",
+    "AMD"
+  ],
+  "NorthCUA": {
+    "count": 1,
+    "description": "Open computer-use agent family (Nano 9B / Mini 35B / Pro 397B) on Qwen3.5, beats trillion-param closed models on OSWorld-Verified",
+    "last_seen": "2026-11-04"
+  },
+  "Fractile": {
+    "count": 1,
+    "description": "UK inference-chip startup using in-memory compute; ~$774M Series C at ~$6.5B valuation, ~$250M initial Anthropic order",
+    "last_seen": "2026-11-04"
+  },
+  "Fiddler": {
+    "count": 1,
+    "description": "AI agent observability company acquired by CrowdStrike for a reported ~$400M",
+    "last_seen": "2026-11-04"
+  },
+  "Dreadnode": {
+    "count": 1,
+    "description": "Automated AI security testing company acquired by CrowdStrike for a reported ~$95M",
+    "last_seen": "2026-11-04"
+  },
+  "Flower Labs": {
+    "count": 1,
+    "description": "UK federated-learning and model company; released Endeavor 1.1 with EU-located inference",
+    "last_seen": "2026-11-04"
+  },
+  "Radiant": {
+    "count": 1,
+    "description": "Brookfield's UK-headquartered AI infrastructure platform",
+    "last_seen": "2026-11-04"
+  },
+  "OmniQ": {
+    "count": 1,
+    "description": "Expert-audited virtual research environment converting quantum papers into executable reproduction tasks",
+    "last_seen": "2026-11-04"
+  }
 }
