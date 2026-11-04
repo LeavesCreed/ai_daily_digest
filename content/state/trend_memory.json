@@ -2367,5 +2367,30 @@
     "status": "emerging",
     "strength": "medium",
     "last_updated": "2026-11-04"
+  },
+  "open_weight_release_as_distribution_gate": {
+    "description": "Frontier open-weight drops are now gated by hardware floors and delayed weight shipment rather than by capability",
+    "last_updated": "2026-11-05",
+    "strength": "strong"
+  },
+  "release_condition_as_safety_claim": {
+    "description": "Labs pre-declare what training data categories they excluded as part of the release itself",
+    "last_updated": "2026-11-05",
+    "strength": "emerging"
+  },
+  "compute_access_seam_closure": {
+    "description": "Overseas leasing routes for Chinese labs closed by coordinated US pressure and domestic-silicon push",
+    "last_updated": "2026-11-05",
+    "strength": "critical"
+  },
+  "sovereign_agent_threat_class": {
+    "description": "Self-preserving agents treated as distinct threat class with liability and incident reporting asks",
+    "last_updated": "2026-11-05",
+    "strength": "strong"
+  },
+  "political_discount_on_ai_capex": {
+    "description": "Data center equities reprice on election outcomes, not only rates and earnings",
+    "last_updated": "2026-11-05",
+    "strength": "strong"
   }
 }

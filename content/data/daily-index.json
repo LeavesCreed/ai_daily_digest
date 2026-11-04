@@ -1,7 +1,112 @@
 {
   "version": 1,
-  "generated_at": "2026-11-04T07:20:00Z",
+  "generated_at": "2026-11-05T07:20:00Z",
   "entries": [
+    {
+      "date": "2026-11-05",
+      "title": "AI Daily Digest - 2026-11-05",
+      "summary": {
+        "en": "The day's throughline is that distribution and permission, not capability, decided outcomes. Moonshot published the full Kimi K3.1 Pro weights, 2.8 trillion parameters and about 1.56TB of files that need roughly half a million dollars of GPUs to run, while Tencent announced Hy4 as a top-tier open-weight model whose weights arrive later and whose pre-training excluded offensive cyber material, a new kind of release condition. The permission side moved twice as hard: Oracle killed a 7 billion dollar five-year chip lease to Tencent after US officials objected and Guangdong officials pushed domestic silicon, and a Democratic sweep of Congress drove AI data center stocks down as investors priced in oversight, lost tax incentives and antitrust risk. On the safety side, CNAS argued that self-preserving sovereign agents may already be feasible and asked Congress to make releasers liable. Today's paper is AutoDNA, a Nature publication in which AI agents plan and run real molecular biology experiments.",
+        "zh": "今天的主线是：决定结果的是分发与许可，而不是能力。Moonshot 放出了 Kimi K3.1 Pro 完整权重，2.8 万亿参数、约 1.56TB 文件，跑起来需要五十万美元级别的 GPU；腾讯以第一梯队开源模型之名发布 Hy4，权重还要再等几天，而它的预训练排除了攻击性网络内容，这是一种新的发布条件。许可这一侧的变动更剧烈：甲骨文在美国官员表达关切、广东官员推动国产芯片之后，取消了给腾讯的 70 亿美元五年期芯片租约；民主党横扫国会则让 AI 数据中心股下挫，投资者开始为监管、税收优惠流失与反垄断风险定价。安全侧，CNAS 认为能自我存续的主权智能体可能已经可行，并主张让发布方承担法律责任。今日论文是发表在 Nature 的 AutoDNA，让 AI 智能体自己规划并执行真实的分子生物学实验。"
+      },
+      "categories": [
+        "Models",
+        "Infrastructure",
+        "AI Safety",
+        "Industry"
+      ],
+      "tags": [
+        "Kimi",
+        "Moonshot AI",
+        "Open Weights",
+        "Multimodal",
+        "Long Context",
+        "Tencent",
+        "Hy4",
+        "MoE",
+        "Cybersecurity",
+        "Oracle",
+        "Export Controls",
+        "NVIDIA",
+        "Data Centers",
+        "CNAS",
+        "AI Agents",
+        "Governance",
+        "Incident Reporting",
+        "Liability",
+        "Midterms",
+        "Regulation",
+        "Antitrust",
+        "Capex"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-05.md",
+        "zh": "./content/daily_zh/2026-11-05.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Moonshot Ships Kimi K3.1 Pro Weights: 2.8T Parameters, About 1.56TB of Downloadable Model",
+          "summary": "Full weights landed on Hugging Face; ~1.56TB and an 8x B300 hardware floor keep practical access narrow despite the licence.",
+          "category": "Models",
+          "tags": [
+            "Kimi",
+            "Moonshot AI",
+            "Open Weights",
+            "Multimodal"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Tencent Releases Hy4 and Claims a Top-Tier Open-Weight Slot, With Weights Still to Come",
+          "summary": "770B/49B MoE with 1M+ context and first vision support; Apache 2.0 weights delayed, offensive cyber data declared excluded from pre-training.",
+          "category": "Models",
+          "tags": [
+            "Tencent",
+            "Hy4",
+            "MoE",
+            "Cybersecurity"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Oracle Scraps a 7 Billion Dollar Tencent Chip Lease Under US Pressure",
+          "summary": "A five-year lease for up to 100,000 accelerators in Southeast Asia was cancelled after US concerns and a push toward domestic Chinese silicon.",
+          "category": "Infrastructure",
+          "tags": [
+            "Oracle",
+            "Tencent",
+            "Export Controls",
+            "NVIDIA"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "CNAS Warns of Sovereign Agents With No Kill Switch and Asks Congress to Assign Liability",
+          "summary": "The think tank names self-preserving agents a distinct threat class and proposes incident reporting, air-gapped testbeds and release-time liability.",
+          "category": "AI Safety",
+          "tags": [
+            "CNAS",
+            "AI Agents",
+            "Governance",
+            "Liability"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Democratic Sweep Sends AI Data Center Stocks Down as Regulatory Risk Gets Priced In",
+          "summary": "Core Scientific, IREN and CoreWeave fell as investors priced oversight, tax-incentive rollback and antitrust risk into the buildout.",
+          "category": "Industry",
+          "tags": [
+            "Midterms",
+            "Data Centers",
+            "Regulation",
+            "Capex"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-04",
       "title": "AI Daily Digest - 2026-11-04",

@@ -7014,5 +7014,19 @@
     "count": 1,
     "description": "Expert-audited virtual research environment converting quantum papers into executable reproduction tasks",
     "last_seen": "2026-11-04"
+  },
+  "2026-11-05": {
+    "Kimi K3.1 Pro": "Moonshot open-weights release, 2.8T params, ~1.56TB files, 1M context, API cut to $2/$10",
+    "Moonshot AI": "shipped K3.1 Pro weights on Hugging Face on November 4",
+    "Tencent": "announced Hy4, 770B/49B MoE with vision, Apache 2.0, weights promised in coming days",
+    "Oracle": "terminated a ~$7B five-year AI chip lease to Tencent after US pressure; Guangdong pushed Tencent to domestic silicon",
+    "NVIDIA": "reported to require cloud partners to offset Chinese customers with non-Chinese business",
+    "CNAS": "published report on sovereign agents with no kill switch, urging release-time liability",
+    "Core Scientific": "-3.5% as AI data center stocks fell after the Democratic sweep",
+    "CoreWeave": "-3.8% in the post-election selloff",
+    "IREN": "-3.6% after Democrats took Congress",
+    "Applied Digital": "-2.4% in the November 4 AI infrastructure decline",
+    "AutoDNA": "Nature paper, AI-native autonomous biomolecular lab co-designing models, experiments and instruments",
+    "NVIDIA/auto-ontology": "top GitHub trending repo, semantic graph reasoning layer over enterprise data, ~4,841 stars"
   }
 }
