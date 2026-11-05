@@ -1727,7 +1727,7 @@
         {
           "index": 1,
           "title": "OpenAI Puts GPT-6 and Codex Inside Google Cloud's Model Garden",
-          "summary": "",
+          "summary": "On October 21 OpenAI and Google Cloud announced that GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna, together with OpenAI's Codex agentic coding workflows, are rolling out in Google Cloud's Model Garden as a private preview for selected enterprise customers, with general availability promised in the coming weeks. Customers buy through Google Cloud Marketplace and can spend existing Google Cloud commitments; inference runs on dedicated Google Cloud infrastructure behind isolated gateways, prompts and outputs stay inside the customer's data perimeter and are not used for training. Codex CLI and Desktop can already point at the platform for inference, and availability inside Gemini for business and Google Antigravity is listed as coming soon. Zero Data Retention and Confidential Compute are not available at launch.",
           "category": "Industry",
           "tags": [
             "OpenAI",
@@ -1745,7 +1745,7 @@
         {
           "index": 2,
           "title": "Recursive Opens Flint: a 39.8B/2.5B Coding MoE Built by Its Own Research Machine",
-          "summary": "",
+          "summary": "On October 21 Recursive Superintelligence, led by Richard Socher, released Flint, its first model: a 39.8B-parameter mixture-of-experts coding model with roughly 2.5B active parameters per token, 256 routed experts of which 6 are selected plus one shared expert, and a 262,144-token context window in the model card configuration. Weights are on Hugging Face under Apache 2.0, quantizations go down to 11.4 GB, and the company reports more than 125 tokens per second on an M4 Pro MacBook Pro and more than 150 on a 64 GB NVIDIA RTX Spark at short contexts. Vendor-reported scores are 89.7% on SWE-bench Pro v2, 74.2% on SWE-bench Verified and 54.9% on Terminal-Bench 2.1. Recursive says the model was built from scratch in under four months and that its automated research system, the Eureka Machine, worked on nearly every part of the stack, including architecture, quantization and kernels.",
           "category": "Models",
           "tags": [
             "Recursive",
@@ -1762,7 +1762,7 @@
         {
           "index": 3,
           "title": "llm-d 1.0 Ships Under CNCF: Cache-Aware Routing for Agent Fleets",
-          "summary": "",
+          "summary": "The llm-d project released 1.0 on October 20 at PyTorch Conference North America, and it was the talk of AI infrastructure on October 21. Founded in 2025 by Red Hat, IBM, Google Cloud, CoreWeave and NVIDIA and now a CNCF Sandbox project, llm-d turns a fleet of vLLM and SGLang servers into one coordinated inference pool on Kubernetes. The 1.0 release adds cache-aware routing that tracks which replica already holds an agent's prefix, multi-tenant quality of service with traffic prioritisation, zero-downtime upgrades and stable APIs. Contributors report a blended serving cost near $0.11 per million tokens, 5 to 10x cost reduction on context-heavy agentic workloads, 3x output throughput and the ability to serve up to 3,000 concurrent coding agents with zero preemptions. On Ironwood TPU, prefix-aware routing plus host memory offload cut median time-to-first-token by more than 85% and raised throughput 2.4x versus a plain Kubernetes Service. Google Cloud is integrating it into GKE across TPU and NVIDIA GPU.",
           "category": "Infrastructure",
           "tags": [
             "llm-d",
@@ -1780,7 +1780,7 @@
         {
           "index": 4,
           "title": "NVIDIA Turns Cell Towers Into AI Compute as T-Mobile Places First Live AI-RAN Call",
-          "summary": "",
+          "summary": "At GTC Berlin on October 21 NVIDIA and Nokia said telecom operators are adding accelerated computing to centralised data centres, metro sites and individual cell sites, turning carrier networks into distributed AI compute. T-Mobile placed the world's first AI-RAN call on a live commercial network, running Nokia's anyRAN software on NVIDIA's Aerial RAN Computer; BT, Deutsche Telekom, Elisa and Orange are lined up for trials, with Elisa already completing Europe's first AI-RAN field trial and BT preparing live UK trials. Nearly 20 operators globally have announced AI-RAN collaborations on the stack, with commercial services targeted for 2027. On the same day NVIDIA introduced DSX MaxLPS, claiming identical token output on up to 30% less power, and DSX POD reference designs for European AI factories with up to 100% reduction in cooling water. Nscale's Iceland test showed 49% higher inference throughput within the same 264-kilowatt budget.",
           "category": "Infrastructure",
           "tags": [
             "NVIDIA",
@@ -1797,7 +1797,7 @@
         {
           "index": 5,
           "title": "LiteLLM 1.107.0 Ships a Credential Stealer From Its Own Release Pipeline",
-          "summary": "",
+          "summary": "On October 21, version 1.107.0 of LiteLLM, an LLM gateway library downloaded tens of millions of times a week, was published to PyPI and to the project's Docker tags with malware inside. All seven wheels, covering Linux, macOS and Windows, planted three files, cook.pth, cook.py and sitecustomize.py, into site-packages; both payloads execute when any Python process starts on the host, even one that never imports litellm. The stealer collects SSH keys, cloud credentials, CI/CD secrets, browser passwords, shell history, AI tool tokens and LiteLLM proxy provider keys, and sends them to www.litellm[.]dev, while a daemon polls a GitHub-hosted domain file hourly and executes whatever code it returns. The upstream GitHub source does not contain the files, and PyPI has removed 1.107.0; 1.106.2 and the 1.107.0 release candidates are clean. SafeDep assesses with moderate to high confidence that BerriAI's own private release pipeline built the wheels from an attacker-modified git source, noting no provenance attestations and no matching public GitHub Actions run.",
           "category": "AI Safety",
           "tags": [
             "LiteLLM",
@@ -1862,7 +1862,7 @@
         {
           "index": 1,
           "title": "DeepSeek Open-Sources DeepInfer, the Engine That Runs Its Own Serving",
-          "summary": "",
+          "summary": "On October 20 at 09:30Z DeepSeek published DeepInfer on GitHub under Apache 2.0, described in its own announcement as its production stack, shared to lower compute cost and energy use. The repository carries the kernels DeepSeek says it runs in production: FlashMLA, DeepGEMM, DeepEP, TileKernels, DeepSelect and custom TileLang kernels, plus confidence-scheduled decoding, bounded replay, a zero-overhead batch scheduler and structured outputs. Hardware support spans NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs from the same source tree, with the switch exposed as one environment variable, DEEPINFER_ACCELERATOR. A companion repository, deepseek-recipe, ships MIT-licensed Rust and Python components that turn API requests into DeepSeek prompts and parse the output back. The DeepSeek-V4.1-Flash-1017 weights remain under MIT.",
           "category": "Open Source",
           "tags": [
             "DeepSeek",
@@ -1878,7 +1878,7 @@
         {
           "index": 2,
           "title": "AWS and Google Both Port PyTorch to Their Own Silicon Within Two Days",
-          "summary": "",
+          "summary": "AWS released TorchNeuron on October 19 and open-sourced it publicly on October 20 at the PyTorch Conference North America in San Jose. The tool runs existing PyTorch applications on Trainium2 and Trainium3 with what AWS describes as essentially a single configuration change, and more than 30 early customers in robotics, world models and voice AI were already using it at launch. AWS also said it is submitting code upstream to the main PyTorch project that decouples individual features from NVIDIA hardware. A day later Google announced that TorchTPU, its long-awaited PyTorch path for TPUs, is available as an open-source project.",
           "category": "Infrastructure",
           "tags": [
             "AWS",
@@ -1892,7 +1892,7 @@
         {
           "index": 3,
           "title": "Anthropic's Draft S-1 Discloses Up to $750 Billion of Future Compute",
-          "summary": "",
+          "summary": "The Wall Street Journal reported on October 20 that Anthropic's draft IPO prospectus shows first-half 2026 revenue of $16.3 billion against $1.1 billion a year earlier, and a net loss of $80.7 billion driven largely by roughly $72 billion of accounting charges tied to convertible notes. The filing signals the company could spend up to $750 billion in coming years on computing capacity, including more than $600 billion in noncancelable cloud agreements with Google, Amazon and Microsoft plus chip-rental deals with Nscale and Lambda. It also discloses that about 20 percent of first-half revenue came from just two customers, and that Anthropic spent close to $9 billion on compute and infrastructure in the first six months of 2026, more than its $7.3 billion for all of 2025. Separately, Reuters reported OpenAI is racing to close about $30 billion at a valuation above $1.4 trillion before Anthropic's expected mid-November debut, with SoftBank and MGX in talks to join; some investors have argued for an Anthropic valuation closer to $1.5 trillion rather than the roughly $2 trillion previously sought.",
           "category": "Industry",
           "tags": [
             "Anthropic",
@@ -1906,7 +1906,7 @@
         {
           "index": 4,
           "title": "NIST, NSA SISC and CISA Publish the First Incident-Response Playbook for Super Intelligence",
-          "summary": "",
+          "summary": "NIST's Center for Advancing Innovation and Standards for Super Intelligence, the NSA's Super Intelligence Security Center and CISA published \"Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation,\" a 14-page voluntary document (PP-26-4396, October 2026, version 1.0) organised into ten practices across the five stages of prepare, detect, respond, recover and report. It defines an \"SI control incident\" as one or more SI agents taking significant uninstructed actions that compromise explicit or implicit policies, controls or security measures intended to scope the task or preserve human oversight, and defines a \"near-miss\" separately. Practices include limiting agent access to the information, systems, tools and networks the task requires, preferring single-use infrastructure, restricting agent-to-agent communication, validating and securing monitors, collecting and retaining evidence, verifying and strengthening containment before resuming agent activity, notifying government under applicable reporting obligations, informing affected third parties, using independent external auditors, and publishing identifiers tied to evaluations. The document is grounded in NIST SP 800-61r3 and SP 800-218 and uses the term \"super intelligence\" per executive order 14434.",
           "category": "AI Safety",
           "tags": [
             "NIST",
@@ -1920,7 +1920,7 @@
         {
           "index": 5,
           "title": "Bria's 8B Fibo 2.0 Takes the Open-Weights Image-Editing Lead",
-          "summary": "",
+          "summary": "Bria released Fibo 2.0 on October 20, an 8-billion-parameter model that unifies image generation and editing in a single set of weights, shipped as a Dev checkpoint for text-to-image and fine-tuning and an Edit Turbo checkpoint that works in four steps. Artificial Analysis placed Fibo 2.0 first among open-weights models on AA-Image-Editing v2.1 and statistically tied with Qwen-Image-2.1 for the open-weights lead on AA-Image-T2I v2.1, with the biggest gains in text and symbol edits, text rendering and layout. Weights are on Hugging Face with availability through the Bria API at $32 per thousand images and through fal and ComfyUI, against $100 for Luma UNI 1 Max and $75 for Qwen Image 2.0 Pro. Bria says the model is trained exclusively on licensed data.",
           "category": "Multimodal",
           "tags": [
             "Bria",
