@@ -1,7 +1,110 @@
 {
   "version": 1,
-  "generated_at": "2026-11-05T07:20:00Z",
+  "generated_at": "2026-11-05T23:18:23Z",
   "entries": [
+    {
+      "date": "2026-11-06",
+      "title": "AI Daily Digest - 2026-11-06",
+      "summary": {
+        "en": "Chip and AI infrastructure stocks sold off hard as markets began pricing political risk rather than demand; OpenAI answered with a voluntary community compact while Senator Cantwell proposed a statutory pre-release audit gate; USTC published structRFM in Nature with a 21-million-pair RNA dataset and open weights; Meta and OpenAI each bought a piece of the agent-to-codebase layer; and Anthropic opened a read-only personal finance beta inside Claude.",
+        "zh": "芯片与 AI 基础设施股单日重挫，市场开始为政策风险而不是需求定价；OpenAI 以自愿社区契约回应，参议员 Cantwell 则提出法定的发布前审计闸口；中科大 structRFM 登上 Nature，2100 万对 RNA 序列-结构数据与权重全开源；Meta 与 OpenAI 同日各买下智能体到代码库之间的一层；Anthropic 在 Claude 内上线只读的个人财务测试版。"
+      },
+      "categories": [
+        "Infrastructure",
+        "AI Safety",
+        "Research",
+        "Industry",
+        "Applications"
+      ],
+      "tags": [
+        "Nasdaq",
+        "Micron",
+        "Qualcomm",
+        "Arm",
+        "Data Centers",
+        "OpenAI",
+        "NIST",
+        "Governance",
+        "structRFM",
+        "RNA",
+        "AlphaFold3",
+        "Meta",
+        "Conductor",
+        "Pierre Computer",
+        "Anthropic",
+        "Plaid",
+        "Personal Finance"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-06.md",
+        "zh": "./content/daily_zh/2026-11-06.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "AI Chip Complex Sells Off as Markets Start Pricing Political Risk",
+          "summary": "On November 5 the Dow fell 3.44% to 51,523.06 and the Nasdaq Composite dropped 5.52% to 24,315.00, one of its worst sessions of the year, with the Philadelphia Semiconductor Index down 9.7% and several outlets reporting intraday declines near 12%. Qualcomm fell 14% after a profit forecast that disappointed, Arm dropped 12% to 15% as weak smartphone royalties offset data center growth, SanDisk lost about 15%, and Micron fell 13% to 17% after pausing an approximately 4.5 billion dollar DRAM plant in Taoyuan, Taiwan, over an unresolved labor dispute. AMD, which had just beaten with 13.38 billion dollars of quarterly revenue and 97% data center growth, still fell double digits. The trigger was not an earnings miss but the read-through of midterm results and political rhetoric about halting or slowing data center construction.",
+          "category": "Infrastructure",
+          "tags": [
+            "Nasdaq",
+            "Micron",
+            "Qualcomm",
+            "Arm",
+            "Data Centers"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "OpenAI Offers a Voluntary Compact While Cantwell Proposes a Statutory Audit Gate",
+          "summary": "On November 5 OpenAI published a National Community Compact covering every future compute campus it owns and operates, alongside a Compute Campus Policy Blueprint addressed to lawmakers. The compact promises that OpenAI pays the full cost of the electricity it uses and the infrastructure that serves it, prioritizes closed-loop water systems, reports water and power use publicly, stops signing nondisclosure agreements with public officials, publishes expected job creation, engages building trades unions and community colleges on training, and assigns a single community contact for the life of the campus. The blueprint asks federal, state and local governments for large-load tariffs that make big electricity users pay the incremental grid costs they create, rules for demand-flexibility programs, and protections if a project is abandoned. The same week, Senator Maria Cantwell of Washington, in line to chair the Senate Commerce Committee after the Democratic sweep, circulated a six-principle frontier AI framework: NIST-developed risk-based standards covering AI-enabled cyberattacks and loss of human control; no release of covered models until an independent audit confirms compliance; access for qualified testers and auditors; public disclosure of material safety and security risks in the manner of securities filings; prompt incident reporting; retained liability for foreseeable harm; and whistleblower protection.",
+          "category": "AI Safety",
+          "tags": [
+            "OpenAI",
+            "NIST",
+            "Governance",
+            "Data Centers"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "USTC's structRFM Lands in Nature With Base Pairing Built Into Pretraining",
+          "summary": "A team at the University of Science and Technology of China, with a collaborator from Zhejiang University, published structRFM in Nature on November 4. Most RNA language models learn from sequence alone; structRFM injects base-pairing information into a task-agnostic masked language modelling objective, so the pretraining signal encodes which bases pair rather than only which bases appear. Training used 21 million RNA sequence-structure pairs with ensemble base-pair annotations. Zfold, the variant adapted for 3D structure prediction, is reported to be on par with AlphaFold3. The team released the full suite: the dataset, the pretrained model, fine-tuned models for structural and functional tasks, and source code.",
+          "category": "Research",
+          "tags": [
+            "structRFM",
+            "RNA",
+            "AlphaFold3",
+            "Foundation Models"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Meta Buys Conductor and OpenAI Buys Pierre Computer on the Same Day",
+          "summary": "Meta acquired Conductor, the startup that lets developers run several coding agents in parallel across isolated workspaces and review the results in one interface. Conductor launched its core product in July 2025 and raised a 22 million dollar Series A in March 2026 from Spark Capital and Matrix; the price was not disclosed, and the CEO confirmed the deal publicly. The Conductor Cloud service shuts down on November 20 and the desktop app stops receiving new models in early 2027. On the same day OpenAI agreed to acquire Pierre Computer, whose Code Storage is a hosted Git service built for agent-generated code and artifacts at scale and which Codex already depends on; OpenAI had earlier planned to buy Ona for cloud coding environments. Both follow SpaceX closing its 60 billion dollar Cursor acquisition in August and Anthropic buying Stainless in May. Engineering posts from OpenAI and Anthropic this autumn described agent-generated changes overwhelming the source control systems they had been running.",
+          "category": "Industry",
+          "tags": [
+            "Meta",
+            "Conductor",
+            "OpenAI",
+            "Pierre Computer",
+            "Coding Agents"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Claude Gets a Read-Only Personal Finance Beta Through Plaid",
+          "summary": "Anthropic launched Personal Finance in Claude on November 5 as a US beta on the Pro, Max and Ultra plans. Users connect bank and card accounts through Plaid and Claude answers from their own balances and up to 24 months of transactions rather than from general knowledge. Access is read-only: the feature cannot move, manage or invest money and is not designed to give investment advice, and Anthropic states plainly that answers can contain mistakes. Visible fields include account names and types, usually the last four digits, balances, credit limits and transaction amount, date, merchant, category and the bank's description. There are no ads or sponsored recommendations, Anthropic sells no first-party credit cards, loans or savings products, and financial conversations are not used to train models. ChatGPT shipped an equivalent Finances feature in May.",
+          "category": "Applications",
+          "tags": [
+            "Anthropic",
+            "Plaid",
+            "Personal Finance",
+            "Permissions"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-05",
       "title": "AI Daily Digest - 2026-11-05",

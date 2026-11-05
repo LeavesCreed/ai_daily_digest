@@ -7028,5 +7028,22 @@
     "Applied Digital": "-2.4% in the November 4 AI infrastructure decline",
     "AutoDNA": "Nature paper, AI-native autonomous biomolecular lab co-designing models, experiments and instruments",
     "NVIDIA/auto-ontology": "top GitHub trending repo, semantic graph reasoning layer over enterprise data, ~4,841 stars"
+  },
+  "2026-11-06": {
+    "Nasdaq": "fell 5.52% to 24,315 on Nov 5 as AI capex repriced on political risk",
+    "Micron": "paused ~$4.5B Taoyuan DRAM plant over labor dispute; shares -13% to -17%",
+    "Qualcomm": "-14% on weak profit forecast",
+    "Arm": "-12% to -15% as smartphone royalties offset data center growth",
+    "AMD": "$13.38B Q3 revenue, data center +97%, still fell 13%; to invest $1B in Meta stock sale",
+    "OpenAI": "published National Community Compact and Compute Campus Policy Blueprint on Nov 5",
+    "Cantwell": "six-principle frontier AI framework: NIST standards, pre-release independent audit, incident reporting, liability",
+    "structRFM": "USTC RNA foundation model in Nature, 21M sequence-structure pairs, open weights and code",
+    "Zfold": "structRFM variant for 3D structure prediction, reported on par with AlphaFold3",
+    "Meta": "acquired Conductor for parallel coding-agent orchestration",
+    "Conductor": "multi-agent orchestration startup, $22M Series A March 2026, cloud shuts Nov 20",
+    "Pierre Computer": "hosted Git for agent-generated code; OpenAI agreed to acquire",
+    "Anthropic": "launched read-only Personal Finance in Claude via Plaid",
+    "Plaid": "tokenized bank account access powering Claude Personal Finance",
+    "NIST": "named as standards body in Cantwell frontier framework"
   }
 }
