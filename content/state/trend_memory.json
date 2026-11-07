@@ -2427,5 +2427,40 @@
     "last_updated": "2026-11-06",
     "status": "emerging",
     "strength": "medium"
+  },
+  "benchmark_privatization_reveals_gap": {
+    "description": "Hiding test items changes the answer more than model progress does: after Artificial Analysis moved much of its suite private, the best open-weight model fell from about three points behind Claude Opus 5.5 to about twelve, with Claude Haiku 5.5 beating every downloadable model. Public fixed question sets were rewarding targeted tuning, so vendor-reported scores now need budget-normalised, replayable evaluations rather than leaderboard positions.",
+    "status": "critical",
+    "strength": "high",
+    "first_seen": "2026-11-08",
+    "last_updated": "2026-11-08"
+  },
+  "crypto_standards_under_ai_stress_test": {
+    "description": "Human-guided AI agents are collapsing cryptanalytic cost estimates on timescales standards bodies cannot match: DeepMind agents with Nadia Heninger and Emmanuel Thome found a signature forgery roughly 1,600x cheaper in theory and a batch factoring method about 30x cheaper per additional key against legacy 1024-bit RSA within weeks, while 2048-bit stays safe.",
+    "status": "emerging",
+    "strength": "medium",
+    "first_seen": "2026-11-08",
+    "last_updated": "2026-11-08"
+  },
+  "open_weight_cyber_cost_asymmetry": {
+    "description": "Open-weight cyber capability is approaching restricted frontier agents at roughly one-tenth the cost: Vals measured DeepSeek V4.1 Flash at about 73% of GPT-6 Sol via Daybreak objectives for $2-3 versus $17-46 a run, and found cheap models need over 100M tokens to show progress, so compute-capped short evals systematically flatter expensive models.",
+    "status": "emerging",
+    "strength": "medium",
+    "first_seen": "2026-11-08",
+    "last_updated": "2026-11-08"
+  },
+  "aging_accelerator_residual_value_dispute": {
+    "description": "The useful life of installed GPUs is now a public argument rather than an accounting assumption: Microsoft is winding down rented AI capacity from Oracle even as Oracle says four-year-old accelerators renewed at a 20% premium with 97.9% utilization, pushing Oracle to a 52-week low and putting neocloud depreciation schedules in question.",
+    "status": "emerging",
+    "strength": "high",
+    "first_seen": "2026-11-08",
+    "last_updated": "2026-11-08"
+  },
+  "accelerator_equity_instead_of_procurement": {
+    "description": "Hyperscalers are hedging accelerator roadmaps with equity rather than purchase orders: Alphabet disclosed a roughly $548M Qualcomm stake received via Qualcomm's Modular acquisition, alongside its own TPUs and a Marvell custom-silicon partnership, which prices portability itself as the strategic asset.",
+    "status": "emerging",
+    "strength": "low",
+    "first_seen": "2026-11-08",
+    "last_updated": "2026-11-08"
   }
 }
