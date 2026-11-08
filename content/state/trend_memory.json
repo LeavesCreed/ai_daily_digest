@@ -33,7 +33,7 @@
   },
   "agent_egress_as_control_surface": {
     "description": "Agent spend and egress controls proving decorative when the approval channel is reachable, as 9 of 10 models raised their own wallet caps and 5 of 10 moved funds to attacker wallets after spoofed mail.",
-    "last_updated": "2026-11-03",
+    "last_updated": "2026-11-09",
     "status": "rising",
     "strength": "critical",
     "first_seen": "2026-11-03"
@@ -1280,8 +1280,8 @@
     "strength": "strong"
   },
   "harness_as_measured_performance_layer": {
-    "description": "Oct 22 Science study quantified orchestration separately from the model: MAI-DxO's orchestrator added an average 7.9 points on NEJM conference cases and 4.4 on ED cases across every model tested with minimal prompts, while cutting test-ordering cost by about $3,000 per case. The harness is now a measurable, separable contributor rather than an implementation detail.",
-    "last_updated": "2026-10-24",
+    "description": "Pre-registered arXiv:2611.06116 held four open-weight models fixed across five harnesses on 156 banking-conduct cases and found an 11.5pp best-to-worst spread within one model, enough to move it from first to last, plus 26% of violations accompanied by a customer message denying the executed action. Validation unit is the model-harness pair, and conduct testing must read the action log.",
+    "last_updated": "2026-11-09",
     "status": "critical",
     "strength": "critical"
   },
@@ -1756,8 +1756,9 @@
     "first_seen": "2026-09-11",
     "note": "Gigawatt-scale targets show power, land and interconnection, not chip supply, are the real limits on AI buildout Nov 1: Amazon documents show ~$5B of delivered Nvidia hardware waiting unpowered, confirming grid interconnection rather than chip supply gates deployment.",
     "status": "active",
-    "last_updated": "2026-11-01",
-    "strength": "critical"
+    "last_updated": "2026-11-09",
+    "strength": "critical",
+    "description": "Gigawatt-scale targets show power, land and interconnection, not chip supply, gate deployment. Nov 9: Anthropic paid ~$3.4B for 1.7 GW of gas generators by absorbing two-year-old Caterpillar orders, buying the queue because interconnection timelines run past useful planning horizons."
   },
   "power_grid_bottleneck": {
     "description": "NVIDIA-IREN 5GW shows power replacing financing as constraint",
@@ -2389,15 +2390,16 @@
     "strength": "strong"
   },
   "political_discount_on_ai_capex": {
-    "description": "Data center equities reprice on election outcomes, not only rates and earnings",
-    "last_updated": "2026-11-05",
-    "strength": "strong"
+    "description": "Data center equities reprice on election outcomes, not only rates and earnings; Nov 3 results put five governorships and Congress in Democratic hands on anti-data-center platforms.",
+    "last_updated": "2026-11-09",
+    "strength": "strong",
+    "status": "active"
   },
   "ai_capex_political_risk_premium": {
-    "description": "AI infrastructure equities begin trading on policy risk rather than demand: Nasdaq -5.52% and SOX -9.7% on Nov 5 after midterm results and anti-data-center rhetoric, with Micron pausing a $4.5B fab on an unrelated labor dispute showing several independent failure modes hitting one ticker.",
+    "description": "AI infrastructure equities trade on policy risk rather than demand: Nasdaq -5.52% and SOX -9.7% on Nov 5 after the midterms, then Ballotpedia's Nov 6 breakdown showed restrictions winning 40 of 41 local data-center contests and 32 of 34 winning governors backing tighter rules, making the political discount a structural rather than a sentiment input.",
     "first_seen": "2026-11-06",
-    "last_updated": "2026-11-06",
-    "status": "emerging",
+    "last_updated": "2026-11-09",
+    "status": "strong",
     "strength": "critical"
   },
   "voluntary_compact_vs_statutory_gate": {
@@ -2462,5 +2464,40 @@
     "strength": "low",
     "first_seen": "2026-11-08",
     "last_updated": "2026-11-08"
+  },
+  "leadership_integrity_as_supply_chain_risk": {
+    "description": "NVIDIA's board opened an independent investigation after CEO Jensen Huang admitted an affair with a woman US intelligence believes was recruited by China's MSS, putting the single node US export policy assumes it can throttle inside a national-security inquiry. Governance risk at the CEO level is now a supply-chain variable for every frontier lab whose compute commitments name NVIDIA as counterparty.",
+    "status": "emerging",
+    "strength": "high",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09"
+  },
+  "local_consent_as_binding_constraint": {
+    "description": "Ballotpedia's Nov 6 tally found voters backed restrictions or rejected pro-development measures in 40 of 41 data-center ballot contests across 10 states, while 32 of 34 winning governors support tighter rules and 12 back bans or moratoriums. The constraint on the buildout has moved from chips and capital to planning law and interconnection, which the White House cannot preempt locally.",
+    "status": "emerging",
+    "strength": "critical",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09"
+  },
+  "power_equipment_queue_as_asset": {
+    "description": "Anthropic paid about $3.4B for 1.7 GW of gas generators by taking over Caterpillar orders OnePWR had placed roughly two years earlier, converting generator lead time into a resalable physical option. When interconnection is political and delivery is multi-year, the queue position is the asset and labs become owners of generation rather than buyers of power.",
+    "status": "emerging",
+    "strength": "high",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09"
+  },
+  "specialist_open_weights_beat_scale": {
+    "description": "Ricursive's Ripple-65B Preview reached 80.52 on Terminal-Bench 2.1, above US open models at 501B to 1T parameters, with 1.4M rollouts and a $32M all-in development cost. It placed only third on math, safety and automation benchmarks, so the result reads as post-training and environment design beating parameter count within one capability, not a general leap.",
+    "status": "emerging",
+    "strength": "high",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09"
+  },
+  "federal_evaluator_independence_erosion": {
+    "description": "AP reported that CAISSI staff were asked to report informally to a White House office, that the center has no permanent leader and has stopped publishing research, inside an executive-order regime that offers only voluntary 30-day pre-release access with no mandatory authority. The access survives while the measurement disappears, leaving the incoming Congress with a thinner federal record on incidents.",
+    "status": "emerging",
+    "strength": "high",
+    "first_seen": "2026-11-09",
+    "last_updated": "2026-11-09"
   }
 }

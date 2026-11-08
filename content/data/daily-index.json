@@ -1,7 +1,119 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T00:20:00Z",
+  "generated_at": "2026-11-08T23:18:53Z",
   "entries": [
+    {
+      "date": "2026-11-09",
+      "title": "AI Daily Digest - 2026-11-09",
+      "summary": {
+        "en": "NVIDIA's board opened an independent investigation after Jensen Huang told employees he was unfaithful to his wife, following reports that US intelligence believes the woman was a Chinese state-security asset. The same week, voters backed data-center restrictions in 40 of 41 local measures and Democrats took Congress plus five governorships, turning local consent and grid interconnection into the binding constraint on the buildout. Anthropic answered by paying $3.4 billion for 1.7 GW of gas generators, buying queue position instead of waiting for power. On the model side, Ricursive's Ripple-65B Preview reached 80.5 on Terminal-Bench 2.1 at $32 million all-in, while the federal AI safety center was asked to report informally to the White House.",
+        "zh": "NVIDIA 董事会在黄仁勋向员工承认对妻子不忠后启动独立调查，起因是有报道称美国情报部门认为该女性是中国国家安全部招募的人员。同一周，美国中期选举中 40 项地方数据中心议案被选民否决或通过限制，民主党拿下国会与五个州长席位，地方同意与电网接入取代资本成为扩建的真约束。Anthropic 的回应是花 34 亿美元买下 1.7GW 燃气发电机，直接买排队位置。模型侧，Ricursive 的 Ripple-65B Preview 以 3200 万美元总成本在 Terminal-Bench 2.1 拿到 80.5 分；而联邦 AI 安全中心被曝改为向白宫非正式汇报，且已停止发表研究。"
+      },
+      "categories": [
+        "Industry",
+        "Infrastructure",
+        "Models",
+        "AI Safety"
+      ],
+      "tags": [
+        "NVIDIA",
+        "Jensen Huang",
+        "National Security",
+        "Espionage",
+        "Data Centers",
+        "Midterms",
+        "Local Ballot",
+        "AI Infrastructure",
+        "Policy",
+        "Anthropic",
+        "Power",
+        "Gas Turbines",
+        "OnePWR",
+        "Caterpillar",
+        "Ricursive",
+        "Ripple-65B",
+        "Open Weights",
+        "Terminal-Bench",
+        "Recursive Self-Improvement",
+        "CAISSI",
+        "NIST",
+        "AI Safety Institute",
+        "Governance",
+        "White House"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-09.md",
+        "zh": "./content/daily_zh/2026-11-09.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "NVIDIA Board Opens Independent Investigation Into CEO Huang Over Alleged Chinese Intelligence Targeting",
+          "summary": "Board committee plus outside counsel to examine whether Huang was the target of a foreign intelligence effort after he admitted an affair; NVIDIA says no reason to believe secrets were compromised.",
+          "category": "Industry",
+          "tags": [
+            "NVIDIA",
+            "Jensen Huang",
+            "National Security",
+            "Espionage"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Voters Backed Data-Center Limits in 40 of 41 Local Measures, and the Governorships Flipped",
+          "summary": "Ballotpedia tally across 10 states: 27 restricting measures approved, 13 pro-development measures rejected; Democrats took Congress and five governorships, putting 13 GW of Texas load at risk.",
+          "category": "Industry",
+          "tags": [
+            "Data Centers",
+            "Midterms",
+            "Local Ballot",
+            "AI Infrastructure",
+            "Policy"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Anthropic Pays $3.4 Billion for 1.7 GW of Gas Generators, Buying the Queue Instead of the Power",
+          "summary": "Takes over two-year-old Caterpillar order commitments via OnePWR to bypass multi-year interconnection lead times; largest known single power-equipment purchase by an AI lab.",
+          "category": "Infrastructure",
+          "tags": [
+            "Anthropic",
+            "Power",
+            "Gas Turbines",
+            "OnePWR",
+            "Caterpillar",
+            "Data Centers"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Ricursive's Ripple-65B Preview Hits 80.5 on Terminal-Bench 2.1 for $32 Million",
+          "summary": "65B open-weight agentic coder beats US open models five to fifteen times larger with 1.4M rollouts, but places third on math, safety and automation benchmarks.",
+          "category": "Models",
+          "tags": [
+            "Ricursive",
+            "Ripple-65B",
+            "Open Weights",
+            "Terminal-Bench",
+            "Recursive Self-Improvement"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Federal AI Safety Center Asked to Report Informally to the White House",
+          "summary": "AP reports CAISSI has no permanent leader and has stopped publishing research, while sitting inside an executive-order system that grants only voluntary 30-day pre-release access.",
+          "category": "AI Safety",
+          "tags": [
+            "CAISSI",
+            "NIST",
+            "AI Safety Institute",
+            "Governance",
+            "White House"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-08",
       "title": "AI Daily Digest - 2026-11-08",

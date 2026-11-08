@@ -3042,11 +3042,11 @@
   },
   "Jensen Huang": {
     "appearances": 1,
-    "count": 1,
+    "count": 2,
     "dates": [
       "2026-09-30"
     ],
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-11-09",
     "mention_count": 2,
     "mentions": 2
   },
@@ -4100,10 +4100,11 @@
       "2026-10-25",
       "2026-10-27"
     ],
-    "last_seen": "2026-10-27",
+    "last_seen": "2026-11-09",
     "mention_count": 20,
     "mentions": 20,
-    "description": "Signalled non-binding interest in up to $5B of Meta's common stock alongside AMD and Broadcom"
+    "description": "Signalled non-binding interest in up to $5B of Meta's common stock alongside AMD and Broadcom",
+    "count": 1
   },
   "NVIDIA ASPIRE": {
     "count": 1,
@@ -7184,5 +7185,100 @@
     "count": 1,
     "description": "",
     "last_seen": "2026-11-08"
+  },
+  "Alice Huang": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "Megaspeed": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "Marco Rubio": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "Ballotpedia": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "Gina Hinojosa": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "Amy Acton": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "Keisha Lance Bottoms": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "Greg Abbott": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "OnePWR Solutions": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "Caterpillar": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "Piper Sandler": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "Ricursive Intelligence": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "Ripple-65B": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "Terminal-Bench 2.1": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "CAISSI": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "Executive Order 14409": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "The Harness Is the Model": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "heydamir/unslop": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
+  },
+  "Data Center Watch": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-09"
   }
 }
