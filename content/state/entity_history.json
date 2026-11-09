@@ -204,17 +204,19 @@
     "last_seen": "2026-08-26"
   },
   "AMD": {
-    "appearances": 3,
+    "appearances": 4,
     "count": 5,
     "dates": [
       "2026-09-22",
       "2026-09-30",
-      "2026-10-27"
+      "2026-10-27",
+      "2026-11-10"
     ],
-    "last_seen": "2026-10-27",
-    "mention_count": 7,
+    "last_seen": "2026-11-10",
+    "mention_count": 8,
     "mentions": 2,
-    "description": "Signalled non-binding interest in up to $5B of Meta's common stock as a potential cornerstone"
+    "description": "Signalled non-binding interest in up to $5B of Meta's common stock as a potential cornerstone",
+    "note": "EPYC x86 hosts selected for Google's confidential TPU system over its own Axion Arm cores"
   },
   "AMD Helios": {
     "count": 1,
@@ -525,7 +527,7 @@
     "last_seen": "2026-09-02"
   },
   "Anthropic": {
-    "appearances": 14,
+    "appearances": 15,
     "dates": [
       "2026-09-29",
       "2026-10-01",
@@ -540,12 +542,13 @@
       "2026-10-21",
       "2026-10-23",
       "2026-10-25",
-      "2026-10-28"
+      "2026-10-28",
+      "2026-11-10"
     ],
-    "last_seen": "2026-11-07",
-    "mention_count": 29,
+    "last_seen": "2026-11-10",
+    "mention_count": 30,
     "mentions": 29,
-    "note": "Committed 5% of shares, rising with valuation, to the Anthropic Public Benefit Fund ahead of a November IPO.",
+    "note": "Closed-model lab; shipped Claude Fable 5.2 and Mythos 5.2 with a 20% price cut ahead of its listing",
     "description": "Broadcom-anchored SPV raised $63B to buy XPU accelerators and lease them to the lab; S-1 discloses about $161.2B of non-cancelable five-year equipment leases",
     "count": 3
   },
@@ -2468,7 +2471,7 @@
     "note": "Interpretability lab that published Cammarata's essay at already-clean.goodfire.com"
   },
   "Google": {
-    "appearances": 13,
+    "appearances": 14,
     "count": 9,
     "dates": [
       "2026-09-21",
@@ -2481,12 +2484,14 @@
       "2026-10-09",
       "2026-10-10",
       "2026-10-19",
-      "2026-10-21"
+      "2026-10-21",
+      "2026-11-10"
     ],
-    "last_seen": "2026-10-31",
-    "mention_count": 14,
+    "last_seen": "2026-11-10",
+    "mention_count": 15,
     "mentions": 12,
-    "description": "reported TPU buyer OpenAI; TPU v8 8t/8i co-designed with Broadcom"
+    "description": "reported TPU buyer OpenAI; TPU v8 8t/8i co-designed with Broadcom",
+    "note": "Added TPU 8tx with hardware-enforced confidential computing and dual-chip TPU 8i Max"
   },
   "Google Cloud": {
     "appearances": 5,
@@ -3648,7 +3653,7 @@
     "mentions": 1
   },
   "Meta": {
-    "appearances": 9,
+    "appearances": 10,
     "dates": [
       "2026-09-19",
       "2026-09-21",
@@ -3658,13 +3663,15 @@
       "2026-10-04",
       "2026-10-06",
       "2026-10-09",
-      "2026-10-27"
+      "2026-10-27",
+      "2026-11-10"
     ],
-    "last_seen": "2026-10-31",
-    "mention_count": 13,
+    "last_seen": "2026-11-10",
+    "mention_count": 14,
     "mentions": 12,
     "description": "raising up to $97.5B; deploying Vera Rubin, Vera CPU, Spectrum-X and BlueField-4",
-    "count": 2
+    "count": 2,
+    "note": "Released Muse Ember, its lightest model, at $0.10 per million input tokens"
   },
   "Meta (Cloud)": {
     "count": 1,
@@ -5715,7 +5722,15 @@
   },
   "Stargate": {
     "count": 1,
-    "first_seen": "2026-08-09"
+    "first_seen": "2026-08-09",
+    "appearances": 2,
+    "mention_count": 2,
+    "mentions": 2,
+    "last_seen": "2026-11-10",
+    "dates": [
+      "2026-11-10"
+    ],
+    "note": "OpenAI-linked data center program; a $25M loan tied to its New Mexico campus is in the ING portfolio"
   },
   "Starmind": {
     "first_seen": "2026-08-05",
@@ -6545,16 +6560,17 @@
     "type": "project"
   },
   "arXiv": {
-    "appearances": 3,
+    "appearances": 4,
     "count": 2,
     "dates": [
       "2026-09-20",
-      "2026-10-10"
+      "2026-10-10",
+      "2026-11-10"
     ],
-    "last_seen": "2026-10-10",
-    "mention_count": 3,
+    "last_seen": "2026-11-10",
+    "mention_count": 4,
     "mentions": 2,
-    "note": "published paper 2609.20511 on length inflation in on-policy distillation"
+    "note": "Preprint server; hosted the formally verified quantum program paper and the AlphaProof-style follow-ups"
   },
   "asago": {
     "first_seen": "2026-08-05",
@@ -7280,5 +7296,112 @@
     "count": 1,
     "description": "",
     "last_seen": "2026-11-09"
-  }
+  },
+  "Claude Fable 5.2": {
+    "appearances": 1,
+    "dates": [
+      "2026-11-10"
+    ],
+    "last_seen": "2026-11-10",
+    "mention_count": 1,
+    "mentions": 1,
+    "note": "Anthropic flagship at $8/$40 per million tokens, 65 on the Artificial Analysis Intelligence Index v5"
+  },
+  "Claude Mythos 5.2": {
+    "appearances": 1,
+    "dates": [
+      "2026-11-10"
+    ],
+    "last_seen": "2026-11-10",
+    "mention_count": 1,
+    "mentions": 1,
+    "note": "Safeguard-free configuration of Fable 5.2 restricted to vetted cyber and life-sciences organizations"
+  },
+  "TPU 8tx": {
+    "appearances": 1,
+    "dates": [
+      "2026-11-10"
+    ],
+    "last_seen": "2026-11-10",
+    "mention_count": 1,
+    "mentions": 1,
+    "note": "First TPU with hardware-enforced confidential computing, paired with AMD EPYC x86 hosts"
+  },
+  "TPU 8i Max": {
+    "appearances": 1,
+    "dates": [
+      "2026-11-10"
+    ],
+    "last_seen": "2026-11-10",
+    "mention_count": 1,
+    "mentions": 1,
+    "note": "Dual-chip TPU package for very large context windows and maximum per-rack density"
+  },
+  "Muse Ember": {
+    "appearances": 1,
+    "dates": [
+      "2026-11-10"
+    ],
+    "last_seen": "2026-11-10",
+    "mention_count": 1,
+    "mentions": 1,
+    "note": "Meta executor model for repeated agent work; text, image and audio input"
+  },
+  "Aletheia": {
+    "appearances": 1,
+    "dates": [
+      "2026-11-10"
+    ],
+    "last_seen": "2026-11-10",
+    "mention_count": 1,
+    "mentions": 1,
+    "note": "Research firm whose analyst Stefan Chang cut Nvidia to hold and dropped the $340 target"
+  },
+  "ING": {
+    "appearances": 1,
+    "dates": [
+      "2026-11-10"
+    ],
+    "last_seen": "2026-11-10",
+    "mention_count": 1,
+    "mentions": 1,
+    "note": "Dutch bank auctioning about $500M across twelve data center loans, including a Stargate slice"
+  },
+  "Open Markets Institute": {
+    "appearances": 1,
+    "dates": [
+      "2026-11-10"
+    ],
+    "last_seen": "2026-11-10",
+    "mention_count": 1,
+    "mentions": 1,
+    "note": "Washington antitrust group; published the 71-page agent gatekeeper report"
+  },
+  "OpenMausBot": {
+    "appearances": 1,
+    "dates": [
+      "2026-11-10"
+    ],
+    "last_seen": "2026-11-10",
+    "mention_count": 1,
+    "mentions": 1,
+    "note": "Open-source desktop client that treats local Claude and Codex agents as contacts"
+  },
+  "2026-11-10": [
+    "Anthropic",
+    "Claude Fable 5.2",
+    "Claude Mythos 5.2",
+    "Google",
+    "TPU 8tx",
+    "TPU 8i Max",
+    "AMD",
+    "Meta",
+    "Muse Ember",
+    "Aletheia",
+    "ING",
+    "Stargate",
+    "Open Markets Institute",
+    "OpenMausBot",
+    "arXiv"
+  ]
 }

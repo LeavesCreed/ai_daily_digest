@@ -352,8 +352,9 @@
     "strength": "critical"
   },
   "ai_datacenter_credit_repricing": {
-    "description": "AI build-out debt is repricing in public: CoreWeave's 2031 bonds yielded past 16% and its shares fell ~15%, with Gartner projecting ~80% of neoclouds could fold by 2030 and $3.5T of spend at impairment risk.",
-    "last_updated": "2026-10-16",
+    "description": "AI build-out debt is repricing in public, and the repricing has moved from yields to liquidity. CoreWeave's 2031 bonds yielded past 16% in October; on 9 November Reuters reported banks and credit investors reluctant to add AI exposure even with big-tech guarantees, ING auctioned ~$500M of data center loans (including a $25M Stargate New Mexico slice, bids due 19 November), and Aletheia cut Nvidia to hold while estimating its AI Computing Partner commitments grew more than tenfold to ~$165B. The stated problem is structural: loan tenors can outlive the useful life of the chips securing them.",
+    "first_seen": "2026-10-16",
+    "last_updated": "2026-11-10",
     "status": "critical",
     "strength": "critical"
   },
@@ -411,10 +412,11 @@
     "strength": "emerging"
   },
   "ai_frontier_model_price_war": {
-    "description": "Price competition continued through October: MiniMax M3.1 Flash at $0.15/$0.60 (Oct 19), DeepSeek V4.1 Flash holding price with added retrieval, Claude Haiku 5.5 cutting the small tier ~90%. The new axis is cost per agent task rather than per token.",
-    "last_updated": "2026-10-20",
-    "status": "strong",
-    "strength": "strong"
+    "description": "Price competition now runs in both directions at once. Anthropic cut Fable 5.2 to $8/$40 (20% under GPT-6 Astra, cached input $0.20 vs $1.00) while claiming Opus 5.5-level results at half the cost per task; Meta put Muse Ember at $0.10/M input, matching DeepSeek V4.1 Flash and GLM 5.3 Flash. The axis is cost per completed agent task, and the executor tier is converging toward the Chinese open-weight floor.",
+    "first_seen": "2026-10-20",
+    "last_updated": "2026-11-10",
+    "status": "critical",
+    "strength": "critical"
   },
   "ai_gateway_as_attack_surface": {
     "description": "AI-specific infrastructure becomes a first-class attack surface: GitLab's CVE-2026-90970 (CVSS 9.9) let an authenticated user escape the prompt-template sandbox in its self-hosted AI Gateway and run arbitrary commands, the same CWE-1336 class as CVE-2026-1868 fixed in the same component in February.",
@@ -2499,5 +2501,33 @@
     "strength": "high",
     "first_seen": "2026-11-09",
     "last_updated": "2026-11-09"
+  },
+  "frontier_tier_economics_reset": {
+    "description": "Flagship tiers are being re-justified by price cuts rather than capability gaps. For seven weeks Opus 5.5 beat Fable 5.1 on ten of eleven benchmarks at 40% of the price, hollowing out the top tier; Fable 5.2 answers by beating Opus on the same ten and cutting list price 20%, while admitting that at High effort or below it matches Opus for half the per-task cost. Vendors are now selling finished work, not chat quality.",
+    "first_seen": "2026-11-10",
+    "last_updated": "2026-11-10",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "executor_tier_commoditization": {
+    "description": "The executor layer of agent stacks is commoditizing on price. Meta's Muse Ember at $0.10/M input is pitched as 'Wonder plans, Ember handles the volume' and priced against Haiku, GPT-6 Luna and the Chinese open-weight tier, while Google and Anthropic both push multi-tier harnesses with effort knobs. Value migrates to the planner, the harness and the default-distribution position rather than to per-token margins at the executor tier.",
+    "first_seen": "2026-11-10",
+    "last_updated": "2026-11-10",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "confidential_compute_as_procurement_gate": {
+    "description": "Confidential computing is becoming the question regulated buyers actually ask. Google's TPU 8tx protects data and weights during computation, and notably pairs TPU silicon with AMD EPYC x86 hosts because their SEV stack has years of production history with auditors, abandoning its own Axion cores for this segment. Security attestation, not throughput, is the entry ticket for banking and government agent workloads.",
+    "first_seen": "2026-11-10",
+    "last_updated": "2026-11-10",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "agent_distribution_antitrust_turn": {
+    "description": "Agent policy is rotating from hijack risk to market structure. Open Markets Institute's 71-page report argues that control of cloud, models, OS, browsers and search lets incumbents self-preference their agents across owned services and capture standards, and proposes fiduciary loyalty duties, interoperability, non-discriminatory access and structural separation. Evidence cited includes Anthropic cutting Windsurf's Claude access in under five days and Google cutting off Cursor after its acquisition was announced.",
+    "first_seen": "2026-11-10",
+    "last_updated": "2026-11-10",
+    "status": "strong",
+    "strength": "strong"
   }
 }

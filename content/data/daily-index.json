@@ -1,7 +1,115 @@
 {
   "version": 1,
-  "generated_at": "2026-11-08T23:18:53Z",
+  "generated_at": "2026-11-09T23:18:26Z",
   "entries": [
+    {
+      "date": "2026-11-10",
+      "title": "AI Daily Digest - 2026-11-10",
+      "summary": {
+        "en": "Anthropic restored its flagship tier with Claude Fable 5.2 and Mythos 5.2, taking the top of the Intelligence Index while cutting price 20 percent, and Meta answered from the other end with Muse Ember at 10 cents per million input tokens. Google added TPU 8tx, the first TPU with hardware-enforced confidential computing, plus a dual-chip 8i Max, reaching four TPU systems in one year. The cheap end of the ladder and the expensive end both moved on the same day that lenders started backing away from AI debt, with ING auctioning 500 million dollars of data center loans and an analyst marking Nvidia down. Open Markets Institute published a 71-page case that agent distribution, not model capability, is the next chokepoint.",
+        "zh": "Anthropic 用 Claude Fable 5.2 与 Mythos 5.2 重新撑起旗舰价位，一边拿下智能指数榜首一边降价两成；Meta 从另一头回应，Muse Ember 把输入价压到每百万 token 十美分。Google 补上 TPU 8tx，首款硬件级机密计算 TPU，另加双芯封装 8i Max，一年内凑齐四套 TPU 系统。价格阶梯两端同一天移动的同时，债权人开始从 AI 债务里后撤，ING 拍卖五亿美元数据中心贷款，一位分析师把英伟达降级。Open Markets Institute 用 71 页报告主张，智能体的下一个瓶颈是分发而不是能力。"
+      },
+      "categories": [
+        "Models",
+        "Infrastructure",
+        "Industry",
+        "AI Safety"
+      ],
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Fable 5.2",
+        "Mythos 5.2",
+        "Pricing",
+        "Google",
+        "TPU",
+        "Confidential Computing",
+        "AMD",
+        "Meta",
+        "Muse Ember",
+        "Agent Execution",
+        "AI Debt",
+        "Private Credit",
+        "NVIDIA",
+        "Open Markets Institute",
+        "Antitrust"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-10.md",
+        "zh": "./content/daily_zh/2026-11-10.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Anthropic Releases Claude Fable 5.2 and Mythos 5.2, Cutting Price 20 Percent",
+          "summary": "Fable 5.2 tops the Artificial Analysis Intelligence Index at 65 and beats Opus 5.5 on ten of eleven benchmarks while list price falls to $8/$40 per million tokens.",
+          "category": "Models",
+          "tags": [
+            "Anthropic",
+            "Claude",
+            "Fable 5.2",
+            "Mythos 5.2",
+            "Pricing",
+            "Benchmarks"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Google Adds TPU 8tx With Confidential Computing and a Dual-Chip 8i Max",
+          "summary": "First TPU with hardware-enforced confidential computing, built on AMD EPYC hosts, plus a two-chip 8i Max for long context; four TPU systems in one year and nearly 100 customers.",
+          "category": "Infrastructure",
+          "tags": [
+            "Google",
+            "TPU",
+            "Confidential Computing",
+            "AMD",
+            "Silicon",
+            "Data Center"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Meta Releases Muse Ember, a 10-Cent Executor Model for Agent Volume",
+          "summary": "Meta's lightest model yet prices input at $0.10 per million tokens for tool calls, routing and parsing, positioned as the volume half of a Wonder-plans-Ember-executes harness.",
+          "category": "Models",
+          "tags": [
+            "Meta",
+            "Muse Ember",
+            "Agent Execution",
+            "Cost per Task",
+            "Multimodal"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Lenders Start Pulling Back From AI Debt",
+          "summary": "Banks grow wary after the selloff, ING auctions $500M of data center loans including a Stargate slice, and Aletheia cuts Nvidia to hold on $165B of partner commitments.",
+          "category": "Industry",
+          "tags": [
+            "AI Debt",
+            "Private Credit",
+            "Stargate",
+            "NVIDIA",
+            "Data Center",
+            "Financing"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Open Markets Institute Argues Agent Distribution Is the Next Chokepoint",
+          "summary": "A 71-page report argues incumbents controlling cloud, models, OS and search can dominate agents through self-preferencing, and proposes interoperability and structural separation.",
+          "category": "AI Safety",
+          "tags": [
+            "Open Markets Institute",
+            "Antitrust",
+            "AI Agents",
+            "Governance",
+            "Distribution"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-09",
       "title": "AI Daily Digest - 2026-11-09",
