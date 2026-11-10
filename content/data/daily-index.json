@@ -1,7 +1,116 @@
 {
   "version": 1,
-  "generated_at": "2026-11-09T23:18:26Z",
+  "generated_at": "2026-11-10T23:17:33Z",
   "entries": [
+    {
+      "date": "2026-11-11",
+      "title": "AI Daily Digest - 2026-11-11",
+      "summary": {
+        "en": "Australian Prime Minister Anthony Albanese said on November 10 that AI companies operating in the country will have to meet mandatory safety standards, with the Prime Minister's Department accepting all 18 recommendations from the joint select committee: mandatory reporting of misalignment and cyber incidents, a new regulator with penalty powers, and legislation that puts third-party model evaluation on a statutory footing. Google Cloud open-sourced TPU Sync, a native C++ model-state layer that treats TPU HBM, host DRAM, shared storage and the data center network as one memory hierarchy and claims a 90% cut in KV transfer latency and time to first token for 235B to 480B-parameter MoE models. NVIDIA introduced GR00T 2 at CoRL, a roughly 2-billion-parameter world action model pretrained on 100,000 hours of egocentric human video that reaches 71% average success across 50 tasks from a single demonstration. Fireworks AI disclosed a second breach in a month that reached customer datasets and partial model weights. Apple is reportedly building Harbor, a Mac app that pools unified memory across machines over Thunderbolt 5 to serve open-weight models locally.",
+        "zh": "澳大利亚总理阿尔巴尼斯11月10日宣布，在澳运营的AI公司必须遵守强制性安全标准，总理内阁部全盘接受联合专责委员会18项建议：强制上报失准（misalignment）与网络安全事件、设立有处罚权的新监管机构、并以立法形式确立第三方模型评测。Google Cloud 开源 TPU Sync，用原生C++把TPU的HBM、主机DRAM、共享存储与数据中心网络当作统一内存层级，声称在235B至480B参数的MoE模型上把KV传输延迟与首token时间（TTFT）各降约九成。NVIDIA 在CoRL发布GR00T 2，约20亿参数的世界动作模型，用10万小时第一人称人类视频预训练，50个任务仅凭单次示范平均成功率71%。Fireworks AI 披露一个月内第二起入侵，触达客户数据集与部分模型权重。Apple 据爆料在做一个叫Harbor的Mac应用，用雷雳5把多台Mac的统一内存池化，本地提供开源权重模型推理。"
+      },
+      "categories": [
+        "AI Safety",
+        "Infrastructure",
+        "Robotics",
+        "Applications"
+      ],
+      "tags": [
+        "Australia",
+        "AI Safety Regulation",
+        "Third-Party Evaluation",
+        "Incident Reporting",
+        "Google Cloud",
+        "TPU",
+        "KV Cache",
+        "Inference Serving",
+        "Open Source",
+        "NVIDIA",
+        "GR00T",
+        "World Action Model",
+        "Isaac Lab",
+        "Humanoid",
+        "Fireworks AI",
+        "LLMjacking",
+        "Supply Chain Security",
+        "Model Weights",
+        "Apple",
+        "Harbor",
+        "On-Device AI",
+        "Thunderbolt 5",
+        "Enterprise Inference"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-11.md",
+        "zh": "./content/daily_zh/2026-11-11.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Australia Turns AI Safety Standards Into Law, With a Regulator and Legislated Third-Party Evaluation",
+          "summary": "Prime Minister Anthony Albanese said on November 10 that companies operating AI in Australia will have to comply with mandatory safety and security standards, and that his department has fully accepted all 18 recommendations from parliament's Joint Select Committee on Artificial Intelligence.",
+          "category": "AI Safety",
+          "tags": [
+            "Australia",
+            "AI Safety Regulation",
+            "Third-Party Evaluation",
+            "Incident Reporting"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Google Cloud Open-Sources TPU Sync, Treating KV Cache and Weights as One Memory Hierarchy",
+          "summary": "Google Cloud released TPU Sync as an open-source native C++ library that acts as the model-state layer across TPU clusters.",
+          "category": "Infrastructure",
+          "tags": [
+            "Google Cloud",
+            "TPU",
+            "KV Cache",
+            "Inference Serving",
+            "Open Source"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "NVIDIA GR00T 2 Reframes Robot Learning as a World Action Model Trained on Human Video",
+          "summary": "NVIDIA introduced GR00T 2 at the Conference on Robot Learning in Austin on November 9, alongside Isaac Lab 3.0.",
+          "category": "Robotics",
+          "tags": [
+            "NVIDIA",
+            "GR00T",
+            "World Action Model",
+            "Isaac Lab",
+            "Humanoid"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Fireworks AI's Second Breach in a Month Reached Customer Datasets and Partial Model Weights",
+          "summary": "In a customer notice dated November 9, Fireworks AI said an intrusion on October 24 reached billing records and, for a limited set of accounts, stored secrets, datasets and a subset of incomplete model weights.",
+          "category": "AI Safety",
+          "tags": [
+            "Fireworks AI",
+            "LLMjacking",
+            "Supply Chain Security",
+            "Model Weights"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Apple Is Reportedly Building Harbor to Pool Mac Unified Memory Into a Private Inference Server",
+          "summary": "Leaker Aaron Perris reported on November 10 that Apple is developing a Mac app called Harbor, described in the leaked material as turning a Mac into a private AI inference server: open-weight models run locally on Apple silicon, data never leaves the hardware and nothing reaches the cloud, and multiple Macs can be connected over Thunderbolt 5 to pool unified memory so that models and concurrency e",
+          "category": "Applications",
+          "tags": [
+            "Apple",
+            "Harbor",
+            "On-Device AI",
+            "Thunderbolt 5",
+            "Enterprise Inference"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-10",
       "title": "AI Daily Digest - 2026-11-10",

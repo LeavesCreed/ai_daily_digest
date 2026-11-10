@@ -2529,5 +2529,40 @@
     "last_updated": "2026-11-10",
     "status": "strong",
     "strength": "strong"
+  },
+  "ai_safety_statutory_turn": {
+    "description": "澳大利亚把自愿安全承诺转为法律、处罚性监管机构与法定第三方评测，并明确以智能体越界访问政府站点为触发；监管焦点从「是否承诺」转向「能否外部举证」。",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "active",
+    "strength": "critical"
+  },
+  "model_state_layer_as_battleground": {
+    "description": "TPU Sync 类系统把HBM、主机内存、共享存储与网络当作单一内存层级，KV缓存与权重的搬运成为服务性能的新瓶颈，开源实现加速跨框架商品化。",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "active",
+    "strength": "critical"
+  },
+  "human_video_as_robot_pretraining": {
+    "description": "GR00T 2 以10万小时第一人称人类视频预训练世界动作模型，使单次示范具备经济意义，机器人数据采集的成本结构被改写。",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "active",
+    "strength": "medium"
+  },
+  "inference_provider_as_attack_surface": {
+    "description": "Fireworks AI 一个月内两起入侵、触达部分模型权重，配合10月至少九家AI开发者平台事件，说明托管密钥/数据/权重的平台已成最高价值目标。",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "active",
+    "strength": "critical"
+  },
+  "local_memory_pooling_for_inference": {
+    "description": "Apple Harbor 爆料指向用雷雳5池化多台Mac统一内存提供私有推理，本地推理从单机玩具走向可扩展的服务形态。",
+    "first_seen": "2026-11-11",
+    "last_updated": "2026-11-11",
+    "status": "active",
+    "strength": "emerging"
   }
 }
