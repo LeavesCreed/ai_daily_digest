@@ -7422,5 +7422,22 @@
     "UBC",
     "SIGGRAPH Asia",
     "cjpais/Handy"
-  ]
+  ],
+  "2026-11-12": {
+    "Alibaba": "opened Qwen4-Max as a Token Plan preview, cloud-only, no weights, preview ends Nov 25",
+    "Qwen4-Max": "preview with 1M context and 393,216 output tokens; circulating 1.2T/56B and $1/$4 specs unconfirmed",
+    "Epoch AI": "measured open-weight GLM 5.3 breaking six Firefox versions at ~$1,000 each from unshipped patches",
+    "GLM 5.3": "used in Epoch controlled test for patch-gap exploit generation",
+    "Claude Fable 5.2": "set ECI record at 174, above pre-Astra trend",
+    "Silent Lynx": "Kazakhstan-linked group used Hermes agent framework to steal 2,000+ Tajik national security documents",
+    "Hermes": "open-source autonomous agent framework repurposed for espionage intrusion",
+    "CloudSek": "published report on agent-driven espionage against Tajikistan",
+    "CoreWeave": "Q3 revenue $3.66B up 168% YoY, backlog $132.5B, FY guide raised to $13.0-13.3B; stock +25%",
+    "NVIDIA": "downgraded by Baird to Neutral, target $500 to $200; down ~14% in November",
+    "Baird": "cut NVDA citing 2027 hyperscaler capex growth near 40% and CEO tenure uncertainty",
+    "arXiv": "received ~42,000 submissions in October despite per-author cap",
+    "Continual-ARC": "Daniel Lenton benchmark scoring memory-based and weight-based learners on one scale over a lifelong ARC stream",
+    "dsh-Go": "DeepSeek Harness mobile client, 19,685 stars, AGPL-3.0, Dart",
+    "Daniel Lenton": "author of Continual-ARC lifelong skill-acquisition benchmark"
+  }
 }

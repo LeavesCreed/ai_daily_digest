@@ -1,7 +1,113 @@
 {
   "version": 1,
-  "generated_at": "2026-11-10T23:17:33Z",
+  "generated_at": "2026-11-11T23:17:33Z",
   "entries": [
+    {
+      "date": "2026-11-12",
+      "title": "AI Daily Digest - 2026-11-12",
+      "summary": {
+        "en": "Alibaba opened Qwen4-Max as a Token Plan preview, cloud-only with no weights and a November 25 cutoff; on the same day Epoch AI put a price on open-weight attack capability, with GLM 5.3 building working exploits for six Firefox versions at roughly 1,000 dollars each using patches that had not yet reached users. CloudSek reported that the Kazakhstan-linked Silent Lynx used Hermes, an open-source agent framework, to plan and carry out an intrusion into Tajikistan's electronic document system and steal more than 2,000 national security files. CoreWeave's 168 percent revenue growth revived the AI trade even as Baird cut NVIDIA to Neutral and halved its target to 200 dollars. arXiv received about 42,000 submissions in October despite an author cap.",
+        "zh": "阿里把 Qwen4-Max 放进 Token Plan 预览，云端可用、无权重、11 月 25 日结束预览；同日 Epoch AI 用受控测试给出开放权重模型的攻击单价——GLM 5.3 仅凭未到达用户的公开补丁，用约 1000 美元一把的代价在六个 Firefox 版本上做出可用 exploit。CloudSek 披露哈萨克斯坦关联的 Silent Lynx 用开源 agent 框架 Hermes 自行规划并执行对塔吉克斯坦电子公文系统的入侵，窃取 2000 余份国家安全文件。资本侧 CoreWeave 三季度营收同比增长 168% 带动 AI 交易反弹，但 Baird 同日把英伟达下调至中性、目标价从 500 砍到 200 美元。研究侧 arXiv 10 月收到约 4.2 万篇投稿，作者配额没能压住产量。"
+      },
+      "categories": [
+        "Models",
+        "AI Safety",
+        "Agents",
+        "Industry",
+        "Research"
+      ],
+      "tags": [
+        "Alibaba",
+        "Qwen",
+        "Token Plan",
+        "MoE",
+        "Multimodal",
+        "Epoch AI",
+        "GLM",
+        "Open Weights",
+        "Exploit",
+        "Patch Gap",
+        "CloudSek",
+        "Hermes",
+        "Espionage",
+        "AI Agent",
+        "CoreWeave",
+        "NVIDIA",
+        "Baird",
+        "AI Capex",
+        "arXiv",
+        "Preprint",
+        "Research Integrity"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-12.md",
+        "zh": "./content/daily_zh/2026-11-12.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Alibaba Opens Qwen4-Max as a Token Plan Preview, Weights Still Absent",
+          "summary": "Qwen4-Max enters a Token Plan preview with a 1M context, cloud-only access and no downloadable weights; circulating specs and prices remain unconfirmed.",
+          "category": "Models",
+          "tags": [
+            "Alibaba",
+            "Qwen",
+            "Token Plan",
+            "MoE",
+            "Multimodal"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Epoch: An Open-Weight Model Breaks Six Firefox Versions for About 1,000 Dollars Each",
+          "summary": "GLM 5.3 reverse-engineers exploits from patches that had not yet reached users, at roughly 1,000 dollars per target across six Firefox versions.",
+          "category": "AI Safety",
+          "tags": [
+            "Epoch AI",
+            "GLM",
+            "Open Weights",
+            "Exploit",
+            "Patch Gap"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "CloudSek: Silent Lynx Used the Open-Source Hermes Agent Framework to Steal 2,000+ Tajik Files",
+          "summary": "A state-linked espionage group handed planning, execution and reporting to a public agent framework, which wrote its own exfiltration tooling.",
+          "category": "Agents",
+          "tags": [
+            "CloudSek",
+            "Hermes",
+            "Espionage",
+            "AI Agent"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "CoreWeave Beats and Revives the Trade as Baird Cuts NVIDIA to Neutral, Target Down 60 Percent",
+          "summary": "CoreWeave posts 3.66 billion dollars of revenue and a 132.5 billion backlog while Baird reprices governance and 2027 capex risk on NVIDIA.",
+          "category": "Industry",
+          "tags": [
+            "CoreWeave",
+            "NVIDIA",
+            "Baird",
+            "AI Capex"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "arXiv Took About 42,000 Submissions in October as the Author Cap Failed to Bite",
+          "summary": "Preprint volume keeps climbing because collaboration networks route around per-author caps, shifting screening cost to editors and readers.",
+          "category": "Research",
+          "tags": [
+            "arXiv",
+            "Preprint",
+            "Research Integrity"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-11",
       "title": "AI Daily Digest - 2026-11-11",

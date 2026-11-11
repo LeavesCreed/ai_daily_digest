@@ -9,7 +9,7 @@
   "agent_attack_industrialization": {
     "description": "CrowdStrike reports all four tracked groups bypassed commercial model guardrails, Microsoft says the ARTEX framework spread beyond its original operators, and Symantec's honeypot captured an autonomous agent built for 100,000 actions disguising itself as sysadmin work.",
     "first_seen": "2026-10-23",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-11-12",
     "status": "high",
     "strength": "high"
   },
@@ -442,7 +442,7 @@
   "ai_governance_enforcement_phase": {
     "description": "Enforcement keeps arriving through indirect instruments, and Oct 26 added the procurement layer: a municipal school system published an enumerable list of removed products, showing that buying decisions now function as AI policy.",
     "first_seen": "2026-06-15",
-    "last_updated": "2026-10-31",
+    "last_updated": "2026-11-12",
     "status": "critical",
     "strength": "critical"
   },
@@ -1550,7 +1550,7 @@
   "offensive_agent_framework_reuse": {
     "description": "Oct 24: Microsoft tied a ConnectWise cloud-backup breach - about 2,250 organisations at nearly 3,000 sign-in attempts per minute - to state-aligned actors running agents on ARTEX, the same open-source framework linked to the South Korean financial-sector attacks. Second major incident on one downloadable framework in a month: offensive tooling is being reused rather than rebuilt, and integration credentials rather than model jailbreaks were the way in.",
     "first_seen": "2026-10-25",
-    "last_updated": "2026-10-25",
+    "last_updated": "2026-11-12",
     "status": "critical",
     "strength": "critical"
   },
@@ -2564,5 +2564,33 @@
     "last_updated": "2026-11-11",
     "status": "active",
     "strength": "emerging"
+  },
+  "attack_capability_unit_price": {
+    "description": "Attack capability acquiring a unit price rather than an aura: Epoch AI's controlled test has open-weight GLM 5.3 build working exploits for six versions of Firefox at roughly $1,000 each by reverse-engineering patches that had not reached users, arguing the patch-gap window is the budget line defenders must now staff against.",
+    "first_seen": "2026-11-12",
+    "last_updated": "2026-11-12",
+    "status": "critical",
+    "strength": "critical"
+  },
+  "capability_first_weights_later": {
+    "description": "Frontier launches increasingly ship hosted capability before checkpoints: Qwen4-Max enters a cloud-only Token Plan preview with no weights and a Nov 25 cutoff, Kimi K3.1 Pro weights land about twelve days after the API, and Meta keeps a closed frontier tier above an open one. Boards and buyers that treat an announcement as a downloadable artifact keep getting burned.",
+    "first_seen": "2026-11-12",
+    "last_updated": "2026-11-12",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "governance_risk_priced_separately": {
+    "description": "Capital markets separating demand evidence from governance and long-run capex assumptions: CoreWeave's 168% growth and $132.5B backlog revived the AI trade while Baird cut NVIDIA to Neutral and halved its target on 2027 hyperscaler capex near 40% growth plus CEO tenure uncertainty.",
+    "first_seen": "2026-11-12",
+    "last_updated": "2026-11-12",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "preprint_volume_outruns_author_cap": {
+    "description": "Research supply side overflowing policy: arXiv took about 42,000 submissions in October despite a per-author cap, because collaboration networks distribute output across co-authors, pushing screening cost onto editors, readers and downstream reviewers while journals pilot AI that quizzes authors on their own papers.",
+    "first_seen": "2026-11-12",
+    "last_updated": "2026-11-12",
+    "status": "growing",
+    "strength": "medium"
   }
 }
