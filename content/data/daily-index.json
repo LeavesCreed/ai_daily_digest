@@ -1,7 +1,119 @@
 {
   "version": 1,
-  "generated_at": "2026-11-11T23:17:33Z",
+  "generated_at": "2026-11-12T23:16:30Z",
   "entries": [
+    {
+      "date": "2026-11-13",
+      "title": "AI Daily Digest - 2026-11-13",
+      "summary": {
+        "en": "Nov 12 was a day about who controls the machinery rather than what it can do. NVIDIA's board announced Jensen Huang's immediate resignation as CEO after a spy-affair scandal, naming CFO Colette Kress interim chief and former Symantec CEO Harvey Jones the board's first independent chair, with shares down about 14% at the open and three House committees asking for a closed-door briefing. Google shipped Gemini 4 Hydrogen, a fast-tier model that finishes tasks 2.5 times faster than 3.8 Flash and scores 51 on a general intelligence index, one point above its own frontier sibling. Anthropic told investors in its IPO prospectus that its models have crossed its own recursive-self-improvement threshold, which lets it delay releases and requires human sign-off on some research decisions. SpaceX filed $74 billion of AI campuses in Texas and Arizona while leading with water, power bills and jobs instead of compute. AMD took equity in PsiQuantum to build the quantum-to-classical interface.",
+        "zh": "11 月 12 日的主题不是模型能做什么，而是谁握着机器。英伟达董事会宣布黄仁勋因间谍丑闻即刻辞任 CEO，首席财务官 Colette Kress 任临时 CEO，前赛门铁克 CEO Harvey Jones 出任首位独立董事会主席，股价开盘跌约 14%，三个众议院委员会要求闭门简报。谷歌发布快档模型 Gemini 4 Hydrogen，任务速度是 3.8 Flash 的 2.5 倍，通用智能指数 51 分，比自家前沿兄弟还高一分。Anthropic 在招股书里告诉投资人，其模型已越过自家递归自我改进阈值，这让它可以推迟发布，并要求人类对部分研究决策签字。SpaceX 报出德州与亚利桑那合计 740 亿美元的 AI 园区，开场讲的是水、电费和就业而不是算力。AMD 入股 PsiQuantum，做量子与经典算力的衔接层。"
+      },
+      "categories": [
+        "Industry",
+        "Models",
+        "AI Safety",
+        "Infrastructure"
+      ],
+      "tags": [
+        "NVIDIA",
+        "Jensen Huang",
+        "CEO Transition",
+        "Export Controls",
+        "Governance",
+        "Google DeepMind",
+        "Gemini 4",
+        "Model Release",
+        "Inference Cost",
+        "Agents",
+        "Anthropic",
+        "Recursive Self-Improvement",
+        "Safety Threshold",
+        "IPO",
+        "SpaceX",
+        "Data Centers",
+        "Power Grid",
+        "Vertical Integration",
+        "Water",
+        "AMD",
+        "PsiQuantum",
+        "Quantum Computing",
+        "Heterogeneous Compute",
+        "Interconnect"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-13.md",
+        "zh": "./content/daily_zh/2026-11-13.md"
+      },
+      "news": [
+        {
+          "title": "Jensen Huang Resigns as NVIDIA CEO After Spy Affair Revelations",
+          "summary": "On November 12 the NVIDIA board announced that Jensen Huang resigned as president, CEO and board member effective immediately, ending 33 years at the company he co-founded in 1993 and grew into a roughly $4 trillion supplier of AI accelerators. CFO Colette Kress was named interim CEO and former Syma",
+          "category": "Industry",
+          "tags": [
+            "NVIDIA",
+            "Jensen Huang",
+            "CEO Transition",
+            "Export Controls",
+            "Governance"
+          ],
+          "index": 1
+        },
+        {
+          "title": "Google Ships Gemini 4 Hydrogen as a Fast-Tier Execution Model",
+          "summary": "Google DeepMind launched Gemini 4 Hydrogen on November 12, positioning it not as a smaller frontier model but as the execution tier of the Gemini 4 family. Google says it finishes tasks about 2.5 times faster than Gemini 3.8 Flash at the default high thinking setting, and scores 51 on the Artificial",
+          "category": "Models",
+          "tags": [
+            "Google DeepMind",
+            "Gemini 4",
+            "Model Release",
+            "Inference Cost",
+            "Agents"
+          ],
+          "index": 2
+        },
+        {
+          "title": "Anthropic Says Its Own AI Has Crossed the RSI Safety Threshold",
+          "summary": "In its November 10 IPO prospectus, Anthropic disclosed that its models have crossed the threshold in its own safety policy for AI that sharply speeds up research on AI itself — the recursive self-improvement tripwire. Crossing it commits the company to stronger safeguards and may affect the timing o",
+          "category": "AI Safety",
+          "tags": [
+            "Anthropic",
+            "Recursive Self-Improvement",
+            "Safety Threshold",
+            "IPO",
+            "Governance"
+          ],
+          "index": 3
+        },
+        {
+          "title": "SpaceX Files $74 Billion in AI Data Centers in Texas and Arizona",
+          "summary": "SpaceX unveiled plans for two large AI supercomputing campuses in Texas and Arizona with more than $74 billion in investment. The announcement leads on drinking water, electricity bills, tax revenue and local jobs rather than on chips or delivered compute — a sign of where the bottleneck now sits. T",
+          "category": "Infrastructure",
+          "tags": [
+            "SpaceX",
+            "Data Centers",
+            "Power Grid",
+            "Vertical Integration",
+            "Water"
+          ],
+          "index": 4
+        },
+        {
+          "title": "AMD Takes Equity in PsiQuantum to Build Quantum-Classical Infrastructure",
+          "summary": "Reuters reported on November 12 that AMD plans an equity investment in PsiQuantum as part of an expanded partnership to develop the infrastructure required to connect quantum systems with classical compute. The arrangement pairs PsiQuantum's photonic, fab-based approach to fault-tolerant quantum com",
+          "category": "Infrastructure",
+          "tags": [
+            "AMD",
+            "PsiQuantum",
+            "Quantum Computing",
+            "Heterogeneous Compute",
+            "Interconnect"
+          ],
+          "index": 5
+        }
+      ]
+    },
     {
       "date": "2026-11-12",
       "title": "AI Daily Digest - 2026-11-12",

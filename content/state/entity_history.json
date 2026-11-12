@@ -205,17 +205,17 @@
   },
   "AMD": {
     "appearances": 4,
-    "count": 5,
+    "count": 6,
     "dates": [
       "2026-09-22",
       "2026-09-30",
       "2026-10-27",
       "2026-11-10"
     ],
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-13",
     "mention_count": 8,
     "mentions": 2,
-    "description": "Signalled non-binding interest in up to $5B of Meta's common stock as a potential cornerstone",
+    "description": "plans equity investment in PsiQuantum for quantum-classical infrastructure",
     "note": "EPYC x86 hosts selected for Google's confidential TPU system over its own Axion Arm cores"
   },
   "AMD Helios": {
@@ -545,12 +545,12 @@
       "2026-10-28",
       "2026-11-10"
     ],
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-13",
     "mention_count": 30,
     "mentions": 29,
     "note": "Closed-model lab; shipped Claude Fable 5.2 and Mythos 5.2 with a 20% price cut ahead of its listing",
-    "description": "Broadcom-anchored SPV raised $63B to buy XPU accelerators and lease them to the lab; S-1 discloses about $161.2B of non-cancelable five-year equipment leases",
-    "count": 3
+    "description": "prospectus discloses models crossed its own recursive self-improvement safety threshold",
+    "count": 4
   },
   "Anthropic Fellows Program": {
     "count": 1,
@@ -2319,9 +2319,11 @@
       "2026-10-01",
       "2026-10-19"
     ],
-    "last_seen": "2026-10-19",
+    "last_seen": "2026-11-13",
     "mention_count": 2,
-    "mentions": 2
+    "mentions": 2,
+    "count": 2,
+    "description": "Google frontier model used as the comparison point; scored 50 on AA index at defaults"
   },
   "Gemini 4 Pro": {
     "appearances": 1,
@@ -3047,13 +3049,14 @@
   },
   "Jensen Huang": {
     "appearances": 1,
-    "count": 2,
+    "count": 3,
     "dates": [
       "2026-09-30"
     ],
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-13",
     "mention_count": 2,
-    "mentions": 2
+    "mentions": 2,
+    "description": "resigned as president, CEO and director effective immediately; 33 years at company"
   },
   "Jesse Vincent": {
     "count": 1,
@@ -4107,11 +4110,11 @@
       "2026-10-25",
       "2026-10-27"
     ],
-    "last_seen": "2026-11-09",
+    "last_seen": "2026-11-13",
     "mention_count": 20,
     "mentions": 20,
-    "description": "Signalled non-binding interest in up to $5B of Meta's common stock alongside AMD and Broadcom",
-    "count": 1
+    "description": "CEO Jensen Huang resigned Nov 12 after spy-affair scandal; Colette Kress interim CEO",
+    "count": 2
   },
   "NVIDIA ASPIRE": {
     "count": 1,
@@ -5636,14 +5639,15 @@
   },
   "SpaceX": {
     "appearances": 3,
-    "count": 6,
+    "count": 7,
     "dates": [
       "2026-10-05",
       "2026-10-08"
     ],
-    "last_seen": "2026-10-08",
+    "last_seen": "2026-11-13",
     "mention_count": 3,
-    "mentions": 2
+    "mentions": 2,
+    "description": "announced two AI supercomputing campuses in Texas and Arizona, over $74B combined"
   },
   "SpaceX Cursor": {
     "count": 1,
@@ -7203,14 +7207,14 @@
     "last_seen": "2026-11-08"
   },
   "Alice Huang": {
-    "count": 1,
-    "description": "",
-    "last_seen": "2026-11-09"
+    "count": 2,
+    "description": "businesswoman formerly at NVIDIA customer Megaspeed; US intelligence suspected Chinese spy",
+    "last_seen": "2026-11-13"
   },
   "Megaspeed": {
-    "count": 1,
-    "description": "",
-    "last_seen": "2026-11-09"
+    "count": 2,
+    "description": "Singapore-based cloud company and NVIDIA customer at center of the intelligence allegations",
+    "last_seen": "2026-11-13"
   },
   "Marco Rubio": {
     "count": 1,
@@ -7439,5 +7443,63 @@
     "Continual-ARC": "Daniel Lenton benchmark scoring memory-based and weight-based learners on one scale over a lifelong ARC stream",
     "dsh-Go": "DeepSeek Harness mobile client, 19,685 stars, AGPL-3.0, Dart",
     "Daniel Lenton": "author of Continual-ARC lifelong skill-acquisition benchmark"
+  },
+  "2026-11-13": {
+    "NVIDIA": "CEO Jensen Huang resigned Nov 12 after spy-affair scandal; Colette Kress interim CEO",
+    "Jensen Huang": "resigned as president, CEO and director effective immediately; 33 years at company",
+    "Colette Kress": "CFO since 2013, now interim CEO of NVIDIA",
+    "Harvey C. Jones": "first-ever independent chair of the NVIDIA board",
+    "Alice Huang": "businesswoman formerly at NVIDIA customer Megaspeed; US intelligence suspected Chinese spy",
+    "Megaspeed": "Singapore-based cloud company and NVIDIA customer at center of the intelligence allegations",
+    "Gemini 4 Hydrogen": "Google fast-tier Gemini 4 model, 2.5x faster than 3.8 Flash, AA index 51 default / 54 max",
+    "Gemini 4 Argon": "Google frontier model used as the comparison point; scored 50 on AA index at defaults",
+    "Anthropic": "prospectus discloses models crossed its own recursive self-improvement safety threshold",
+    "Project Glasswing": "limited-release program used for Claude Mythos 5.2 before wider access",
+    "SpaceX": "announced two AI supercomputing campuses in Texas and Arizona, over $74B combined",
+    "Terafab": "SpaceX's roughly $100B chip plant in Grimes County, Texas",
+    "AMD": "plans equity investment in PsiQuantum for quantum-classical infrastructure",
+    "PsiQuantum": "photonic, fab-based fault-tolerant quantum computing company",
+    "ProofCoder": "agentic Rocq prover with continuous reasoning and MCP interface (arXiv:2611.14106)",
+    "DIYgod/pinky": "Apache-2.0 Go project letting agents use a phone with human in the loop"
+  },
+  "Colette Kress": {
+    "count": 1,
+    "description": "CFO since 2013, now interim CEO of NVIDIA",
+    "last_seen": "2026-11-13"
+  },
+  "Harvey C. Jones": {
+    "count": 1,
+    "description": "first-ever independent chair of the NVIDIA board",
+    "last_seen": "2026-11-13"
+  },
+  "Gemini 4 Hydrogen": {
+    "count": 1,
+    "description": "Google fast-tier Gemini 4 model, 2.5x faster than 3.8 Flash, AA index 51 default / 54 max",
+    "last_seen": "2026-11-13"
+  },
+  "Project Glasswing": {
+    "count": 1,
+    "description": "limited-release program used for Claude Mythos 5.2 before wider access",
+    "last_seen": "2026-11-13"
+  },
+  "Terafab": {
+    "count": 1,
+    "description": "SpaceX's roughly $100B chip plant in Grimes County, Texas",
+    "last_seen": "2026-11-13"
+  },
+  "PsiQuantum": {
+    "count": 1,
+    "description": "photonic, fab-based fault-tolerant quantum computing company",
+    "last_seen": "2026-11-13"
+  },
+  "ProofCoder": {
+    "count": 1,
+    "description": "agentic Rocq prover with continuous reasoning and MCP interface (arXiv:2611.14106)",
+    "last_seen": "2026-11-13"
+  },
+  "DIYgod/pinky": {
+    "count": 1,
+    "description": "Apache-2.0 Go project letting agents use a phone with human in the loop",
+    "last_seen": "2026-11-13"
   }
 }
