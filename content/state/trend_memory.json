@@ -336,9 +336,9 @@
   "ai_custom_silicon_momentum": {
     "description": "Oct 21 moved the bottleneck from silicon to framework: AWS TorchNeuron for Trainium and Google TorchTPU for TPU both shipped, with PyTorch decoupling patches going upstream.",
     "first_seen": "2026-06-01",
-    "last_updated": "2026-11-04",
-    "status": "critical",
-    "strength": "critical"
+    "last_updated": "2026-11-14",
+    "status": "strong",
+    "strength": "high"
   },
   "ai_cybersecurity_dedicated_models": {
     "description": "Microsoft launches first cybersecurity-dedicated AI model, marking vertical specialization trend in foundation models",
@@ -347,9 +347,9 @@
   },
   "ai_cybersecurity_threat_timeline": {
     "description": "Offensive capability timelines keep compressing: a vendor research model now writes working exploit chains across five platforms, congressional committees demand 48-hour incident notice, and defenders are pressed to scan their own code before models find it for them.",
-    "last_updated": "2026-10-29",
+    "last_updated": "2026-11-14",
     "status": "critical",
-    "strength": "critical"
+    "strength": "high"
   },
   "ai_datacenter_credit_repricing": {
     "description": "AI build-out debt is repricing in public, and the repricing has moved from yields to liquidity. CoreWeave's 2031 bonds yielded past 16% in October; on 9 November Reuters reported banks and credit investors reluctant to add AI exposure even with big-tech guarantees, ING auctioned ~$500M of data center loans (including a $25M Stargate New Mexico slice, bids due 19 November), and Aletheia cut Nvidia to hold while estimating its AI Computing Partner commitments grew more than tenfold to ~$165B. The stated problem is structural: loan tenors can outlive the useful life of the chips securing them.",
@@ -442,9 +442,9 @@
   "ai_governance_enforcement_phase": {
     "description": "Enforcement keeps arriving through indirect instruments, and Oct 26 added the procurement layer: a municipal school system published an enumerable list of removed products, showing that buying decisions now function as AI policy.",
     "first_seen": "2026-06-15",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "status": "critical",
-    "strength": "critical"
+    "strength": "high"
   },
   "ai_governance_mandatory_vs_voluntary": {
     "note": "EU AI Act enforcement begins vs US voluntary White House framework",
@@ -961,9 +961,9 @@
   "compute_capital_markets_turn": {
     "description": "AI build-out increasingly financed through balance-sheet instruments rather than operating cash: Anthropic's amended S-1 carries about $895.4B of purchase commitments and leases against $17B of quarterly revenue, Oracle filed for $20B of stock and notes, and Alphabet opened a EUR 6B bond.",
     "first_seen": "2026-10-05",
-    "last_updated": "2026-11-13",
+    "last_updated": "2026-11-14",
     "status": "critical",
-    "strength": "critical"
+    "strength": "high"
   },
   "compute_commitment_as_balance_sheet_disclosure": {
     "description": "Anthropic's draft S-1 discloses up to $750B of potential future compute including over $600B of noncancelable cloud agreements with Google, Amazon and Microsoft, against $16.3B of H1 revenue and an $80.7B net loss driven by $72B of convertible-note charges. The cost side of the frontier is now auditable, and 20% customer concentration makes it leverage-sensitive.",
@@ -1636,8 +1636,9 @@
   },
   "open_weight_intelligence_parity": {
     "description": "GLM-5.3 scores 60 AAII tying Kimi K3, 3 points behind Claude Opus 5",
-    "last_updated": "2026-08-19",
-    "strength": "strong"
+    "last_updated": "2026-11-14",
+    "strength": "high",
+    "status": "strong"
   },
   "open_weight_localization_war": {
     "first_seen": "2026-08-18",
@@ -2627,5 +2628,47 @@
     "last_updated": "2026-11-13",
     "status": "emerging",
     "strength": "medium"
+  },
+  "network_issued_agent_authority": {
+    "description": "Agent payment authority moves out of the model into the card network: OpenAI ChatGPT Wallet issues a fresh network token per purchase and requires biometric approval, so the merchant and the agent never see real card details and the security properties inherit from card networks rather than prompt discipline.",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "emerging",
+    "strength": "medium"
+  },
+  "hbm_scarcity_reshapes_accelerator_design": {
+    "description": "HBM shortage is now a design constraint rather than a procurement annoyance: Intel D270 ships up to 480GB of LPDDR5X with no HBM at all, trading bandwidth for capacity and explicitly targeting long-document and high-concurrency inference instead of training.",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "emerging",
+    "strength": "medium"
+  },
+  "end_use_enforcement_gap": {
+    "description": "Export controls block sales but not procurement specifications: 23bn yuan of Chinese compute projects are still written around restricted H100 and H200 parts, moving the policy question from who buys to who operates installed capacity.",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "strong",
+    "strength": "high"
+  },
+  "open_weights_without_red_team_receipts": {
+    "description": "Open-weight releases now routinely promise external red-teaming as a precondition and then publish weights without the findings: Thinking Machines opened Inkling 2 Small under Apache 2.0 with no red-team report, turning a safety gate into a scheduling beat.",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "emerging",
+    "strength": "medium"
+  },
+  "energy_descent_as_reasoning_alternative": {
+    "description": "Learned energy minimisation is being posed as a cheaper alternative to looped reasoning: CRAM solves Sudoku-Extreme at 99.996% after 42ms of single-GPU training with 282x fewer inference FLOPs, and the authors warn that Sudoku and Maze cannot validate looped-model scaling.",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "emerging",
+    "strength": "medium"
+  },
+  "agentic_intrusion_as_commodity": {
+    "description": "The FBI now publishes IOCs for an open-source agentic intrusion framework: ARTEX is reused across financially motivated and state-linked actors, so the defensive question shifts from attribution to which rented console is operating.",
+    "first_seen": "2026-11-14",
+    "last_updated": "2026-11-14",
+    "status": "strong",
+    "strength": "high"
   }
 }

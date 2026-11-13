@@ -1,7 +1,123 @@
 {
   "version": 1,
-  "generated_at": "2026-11-12T23:16:30Z",
+  "generated_at": "2026-11-13T23:17:24Z",
   "entries": [
+    {
+      "date": "2026-11-14",
+      "title": "AI Daily Digest - 2026-11-14",
+      "summary": {
+        "en": "November 13 gave agents a wallet and re-litigated the silicon underneath them. OpenAI launched ChatGPT Wallet with American Express, Mastercard and Visa: a network-issued payment token per purchase, a biometric approval, and no card details handed to the business or the agent. Thinking Machines published Inkling 2 Small weights on Hugging Face under Apache 2.0 after a week of hosted-only access, and did not report the external red-team results it had promised to complete first. Reuters counted 23 billion yuan of Chinese computing projects still designed around restricted H100 and H200 parts. Intel opened a 23-company Korean alliance and showed an HBM-free inference GPU carrying 480GB of LPDDR5X. The FBI issued a FLASH on ARTEX, treating an open-source agentic intrusion framework as commodity attack infrastructure.",
+        "zh": "11 月 13 日给智能体发了钱包，也把下面的硅重算了一遍。OpenAI 联合美国运通、万事达和 Visa 推出 ChatGPT Wallet：每笔消费由卡组织发一次性支付令牌，用户用生物识别批准，商家和智能体都看不到真实卡号。Thinking Machines 结束一周仅托管访问，把 Inkling 2 Small 的权重以 Apache 2.0 放到 Hugging Face，却没有公布此前承诺的外部红队结果。路透统计出 230 亿元人民币的中国算力项目仍在按受限的 H100 与 H200 设计。英特尔拉 23 家韩国企业组成联盟，并拿出不带 HBM、配备 480GB LPDDR5X 的推理 GPU。FBI 就 ARTEX 发布 FLASH 通报，把开源智能体入侵框架当作商品化攻击基础设施。"
+      },
+      "categories": [
+        "Agents",
+        "Models",
+        "Industry",
+        "Infrastructure",
+        "AI Safety"
+      ],
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Agentic Payments",
+        "Payments",
+        "Thinking Machines",
+        "Inkling",
+        "MoE",
+        "Open Weights",
+        "Apache 2.0",
+        "Fine-tuning",
+        "NVIDIA",
+        "Export Controls",
+        "H100",
+        "H200",
+        "Data Centers",
+        "Intel",
+        "D-Series",
+        "LPDDR5X",
+        "Inference",
+        "Korea",
+        "FBI",
+        "ARTEX",
+        "Agentic Intrusion",
+        "Cybersecurity"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-14.md",
+        "zh": "./content/daily_zh/2026-11-14.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Thinking Machines Opens Inkling 2 Small Weights After a Hosted-Only Week",
+          "summary": "On November 12 Thinking Machines Lab published downloadable weights for Inkling 2 Small, ending the model's first week as a hosted-only offering on its Tinker platform. The model is now on Hugging Face alongside additional API providers and serving and training integrations; Together AI lists it under Apache 2.0 at 0.30 dollars per million input tokens and 1.00 dollar per million output tokens. Inkling 2 Small is a 48-layer decoder-only transformer with a sparse mixture-of-experts feed-forward backbone, routing each token to 8 of 384 experts, with hybrid local and global attention and a vision transformer that projects images into the same hidden space as text. It carries 594 billion total parameters with 17 billion active per token and a one million token context window. Thinking Machines reports 30.6 to 31 on the Artificial Analysis Intelligence Index, a large jump over the July Inkling Small, which had 276 billion total and 12 billion active parameters. At launch the lab said weights would follow external safety testing and red-teaming; the publication update does not report those findings.",
+          "category": "Models",
+          "tags": [
+            "Thinking Machines",
+            "Inkling",
+            "MoE",
+            "Open Weights",
+            "Apache 2.0",
+            "Fine-tuning"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "FBI Issues FLASH on ARTEX, an Open-Source Agentic Intrusion Framework",
+          "summary": "The FBI released a FLASH advisory on November 13 covering the tactics, techniques, procedures and indicators of compromise associated with ARTEX, an open-source large-language-model-driven agentic platform that automates multiple phases of a cyber intrusion at machine speed. The bureau states that since at least August 2026 a variety of malicious actors have used ARTEX in campaigns against organizations worldwide across financial services, government and technology, and that the framework sharply reduces the time needed to chain techniques, letting actors with minimal technical expertise run complex multi-target operations simultaneously. The advisory ships with mitigations. ARTEX already appeared in incident reporting this autumn: Microsoft attributed a ConnectWise backup compromise to an actor using it, Korean financial-sector intrusions were linked to it, and CrowdStrike described instances configured to run on DeepSeek V4.1-Flash with other sessions on GLM-5.3 and Grok 4.6.",
+          "category": "AI Safety",
+          "tags": [
+            "FBI",
+            "ARTEX",
+            "Agentic Intrusion",
+            "Cybersecurity",
+            "Open Source"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Reuters Finds 23 Billion Yuan of Chinese Compute Projects Still Designed Around Restricted Nvidia Parts",
+          "summary": "Reuters reported on November 13 that a review of more than 150 Chinese procurement notices, investment plans, construction contracts and corporate disclosures found over 23 billion yuan, about 3.2 billion dollars, of computing projects and equipment agreements designed around Nvidia processors restricted by US export controls. The total spans planned investment, signed contracts and completed installations, and covers buildings and power systems rather than chips alone. Examples include a 6.2 billion yuan center in Xianyou county, Fujian, that specifies H100 chips; a 3 billion yuan Shaanxi project tied to a Sinomach subsidiary specifying H100 and H200; a 2.26 billion yuan Jilin project mixing H100 with domestic chips and expecting bank loans for about 80 percent of investment; a 1.5 billion yuan Inner Mongolia development proposing 625 H200 servers; and a 1.16 billion yuan Gansu contract planning roughly 3,072 H100 and H200 processors. Some facilities already run restricted hardware, including an H800 cluster in Jiangsu reported in March 2025. The documents do not establish whether processors were delivered, and the projects are not linked to Megaspeed or to the allegations around Jensen Huang, who resigned as Nvidia chief executive on November 12.",
+          "category": "Industry",
+          "tags": [
+            "NVIDIA",
+            "Export Controls",
+            "China",
+            "H100",
+            "H200",
+            "Data Centers"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Intel Opens a 23-Company Korean Alliance and Pitches an HBM-Free Inference GPU",
+          "summary": "At the 2026 Intel AI Summit Seoul, held at COEX, Intel Korea chief executive Bae Tae-won announced the K-AI Full Stack Alliance with 23 South Korean companies, aimed at building AI systems on Korean-designed servers. Intel said the event drew 52 companies including Samsung Electronics, SK Hynix and LG Electronics plus AI chip startups FuriosaAI and DeepX, model developer Upstage, Nota AI, Megazone Cloud and server maker KTNF, and about 1,000 attendees. Intel also signed a memorandum of understanding with the Seoul AI Hub. On the hardware side, Anil Nanduri showed the physical D-Series chip, the GPU D270 code-named Crescent Island: 350 watts, up to 26,200 teraflops at FP4, and up to 480GB of LPDDR5X, the low-power DRAM used in phones, which Intel says is up to five times the 96GB on Nvidia's RTX Pro 6000 Blackwell Server Edition. Intel cited pre-production internal tests showing FP64 throughput 1.92 to 5.9 times comparable Nvidia parts on four financial simulations, 30 percent lower latency on Google's Gemma and 2.2 times faster agent execution, none independently verified, with no date or price given.",
+          "category": "Infrastructure",
+          "tags": [
+            "Intel",
+            "D-Series",
+            "LPDDR5X",
+            "Inference",
+            "Korea",
+            "Sovereign AI"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "OpenAI Launches ChatGPT Wallet for Agentic Payments",
+          "summary": "OpenAI introduced ChatGPT Wallet on November 13, built with American Express, Mastercard and Visa, and initially available through dots for ChatGPT Pro subscribers aged 18 and older in the US with eligible US-issued cards. OpenAI describes it as the first wallet that lets agents pay without access to a user's actual card details and that requires a security check for every purchase. A user adds a card once, then reviews items, total and selected card before approving each purchase with Face ID or a fingerprint scan; the approval creates an authorization record. After approval the payment network issues a payment token with its own number, security code and expiration date, so the merchant and the agent never see the real card. Eligible disputes and existing card rewards are preserved, and the user transacts directly with the business. OpenAI also published a Commerce Partner Playbook covering business claiming, Web Bot Auth signed requests, WebMCP tools and coordination with fraud vendors including Forter, Riskified, Sardine and Signifyd and payment service providers including Adyen, Checkout.com and Stripe.",
+          "category": "Agents",
+          "tags": [
+            "OpenAI",
+            "ChatGPT",
+            "Agentic Payments",
+            "Payments",
+            "Agents"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-13",
       "title": "AI Daily Digest - 2026-11-13",

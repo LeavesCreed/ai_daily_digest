@@ -247,9 +247,11 @@
       "2026-10-07",
       "2026-10-25"
     ],
-    "last_seen": "2026-10-25",
+    "last_seen": "2026-11-14",
     "mention_count": 3,
-    "mentions": 3
+    "mentions": 3,
+    "count": 2,
+    "description": "open-source LLM-driven agentic intrusion framework; used by multiple actors since at least Aug 2026"
   },
   "ASPIRE": {
     "count": 1,
@@ -1468,15 +1470,16 @@
   },
   "CrowdStrike": {
     "appearances": 2,
-    "count": 1,
+    "count": 2,
     "dates": [
       "2026-09-29",
       "2026-10-23"
     ],
     "first_seen": "2026-09-01",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-14",
     "mention_count": 2,
-    "mentions": 2
+    "mentions": 2,
+    "description": "linked ARTEX instances to DeepSeek V4.1-Flash, GLM-5.3 and Grok 4.6 sessions"
   },
   "Crusoe": {
     "dates": [
@@ -2000,9 +2003,10 @@
     "mentions": 1
   },
   "FBI": {
-    "count": 1,
-    "last_seen": "2026-09-12",
-    "mention_count": 1
+    "count": 2,
+    "last_seen": "2026-11-14",
+    "mention_count": 1,
+    "description": "released FLASH advisory on ARTEX Nov 13, 2026"
   },
   "FCA": {
     "count": 1,
@@ -2917,9 +2921,10 @@
     "first_seen": "2026-08-28"
   },
   "Intel": {
-    "count": 4,
-    "last_seen": "2026-09-13",
-    "mention_count": 1
+    "count": 5,
+    "last_seen": "2026-11-14",
+    "mention_count": 1,
+    "description": "formed K-AI Full Stack Alliance with 23 Korean firms; pitched D-Series GPU D270"
   },
   "InterPositive": {
     "count": 1,
@@ -4548,11 +4553,11 @@
       "2026-10-24",
       "2026-10-25"
     ],
-    "last_seen": "2026-11-07",
+    "last_seen": "2026-11-14",
     "mention_count": 30,
     "mentions": 30,
-    "count": 3,
-    "description": "rewrote Model Spec around five values; reported plan to buy Google TPUs"
+    "count": 4,
+    "description": "launched ChatGPT Wallet Nov 13 with Amex, Mastercard and Visa"
   },
   "OpenAI Astra": {
     "count": 4,
@@ -5286,10 +5291,11 @@
   },
   "SK Hynix": {
     "appearances": 2,
-    "count": 7,
-    "last_seen": "2026-09-17",
+    "count": 8,
+    "last_seen": "2026-11-14",
     "mention_count": 2,
-    "mentions": 1
+    "mentions": 1,
+    "description": "Korean memory maker, member of K-AI Full Stack Alliance"
   },
   "SK Hynix ($500B Nvidia deal)": {
     "count": 1,
@@ -7212,9 +7218,9 @@
     "last_seen": "2026-11-13"
   },
   "Megaspeed": {
-    "count": 2,
-    "description": "Singapore-based cloud company and NVIDIA customer at center of the intelligence allegations",
-    "last_seen": "2026-11-13"
+    "count": 3,
+    "description": "Singapore cloud company at center of Nvidia export allegations; no public finding of wrongdoing",
+    "last_seen": "2026-11-14"
   },
   "Marco Rubio": {
     "count": 1,
@@ -7501,5 +7507,128 @@
     "count": 1,
     "description": "Apache-2.0 Go project letting agents use a phone with human in the loop",
     "last_seen": "2026-11-13"
+  },
+  "Thinking Machines Lab": {
+    "count": 1,
+    "description": "US lab founded by Mira Murati; released Inkling 2 Small open weights Nov 12",
+    "last_seen": "2026-11-14"
+  },
+  "Inkling 2 Small": {
+    "count": 1,
+    "description": "594B/17B MoE, 1M context, Apache 2.0 weights on Hugging Face from Nov 12",
+    "last_seen": "2026-11-14"
+  },
+  "Tinker": {
+    "count": 1,
+    "description": "Thinking Machines hosted fine-tuning and sampling platform",
+    "last_seen": "2026-11-14"
+  },
+  "Mira Murati": {
+    "count": 1,
+    "description": "former OpenAI CTO, CEO of Thinking Machines Lab",
+    "last_seen": "2026-11-14"
+  },
+  "H100": {
+    "count": 1,
+    "description": "restricted Nvidia accelerator still specified in Chinese procurement documents",
+    "last_seen": "2026-11-14"
+  },
+  "H200": {
+    "count": 1,
+    "description": "restricted Nvidia accelerator; licenses now reviewed case by case",
+    "last_seen": "2026-11-14"
+  },
+  "Sinomach": {
+    "count": 1,
+    "description": "Chinese state machinery group whose subsidiary won a 3bn yuan compute contract",
+    "last_seen": "2026-11-14"
+  },
+  "D270": {
+    "count": 1,
+    "description": "Intel GPU code-named Crescent Island: 350W, 26,200 TFLOPS FP4, 480GB LPDDR5X, no HBM",
+    "last_seen": "2026-11-14"
+  },
+  "FuriosaAI": {
+    "count": 1,
+    "description": "Korean AI chip startup, member of K-AI Full Stack Alliance",
+    "last_seen": "2026-11-14"
+  },
+  "DeepX": {
+    "count": 1,
+    "description": "Korean edge AI chip startup, member of K-AI Full Stack Alliance",
+    "last_seen": "2026-11-14"
+  },
+  "Upstage": {
+    "count": 1,
+    "description": "Korean LLM developer, member of K-AI Full Stack Alliance",
+    "last_seen": "2026-11-14"
+  },
+  "ChatGPT Wallet": {
+    "count": 1,
+    "description": "agentic payment wallet issuing network tokens per purchase, gated by biometric approval",
+    "last_seen": "2026-11-14"
+  },
+  "American Express": {
+    "count": 1,
+    "description": "card network partner for ChatGPT Wallet",
+    "last_seen": "2026-11-14"
+  },
+  "Mastercard": {
+    "count": 1,
+    "description": "card network partner for ChatGPT Wallet",
+    "last_seen": "2026-11-14"
+  },
+  "Visa": {
+    "count": 1,
+    "description": "card network partner for ChatGPT Wallet",
+    "last_seen": "2026-11-14"
+  },
+  "dots": {
+    "count": 1,
+    "description": "OpenAI always-on agent surface where ChatGPT Wallet launched first",
+    "last_seen": "2026-11-14"
+  },
+  "CRAM": {
+    "count": 1,
+    "description": "learned Hopfield-Tank energy model solving Sudoku-Extreme at 99.996% after 42ms of training",
+    "last_seen": "2026-11-14"
+  },
+  "SuperMimic": {
+    "count": 1,
+    "description": "humanoid whole-body motion tracker trained with one differentiable world model",
+    "last_seen": "2026-11-14"
+  },
+  "mjlab": {
+    "count": 1,
+    "description": "MuJoCo-based RL library used by SuperMimic",
+    "last_seen": "2026-11-14"
+  },
+  "2026-11-14": {
+    "Thinking Machines Lab": "US lab founded by Mira Murati; released Inkling 2 Small open weights Nov 12",
+    "Inkling 2 Small": "594B/17B MoE, 1M context, Apache 2.0 weights on Hugging Face from Nov 12",
+    "Tinker": "Thinking Machines hosted fine-tuning and sampling platform",
+    "Mira Murati": "former OpenAI CTO, CEO of Thinking Machines Lab",
+    "FBI": "released FLASH advisory on ARTEX Nov 13, 2026",
+    "ARTEX": "open-source LLM-driven agentic intrusion framework; used by multiple actors since at least Aug 2026",
+    "CrowdStrike": "linked ARTEX instances to DeepSeek V4.1-Flash, GLM-5.3 and Grok 4.6 sessions",
+    "Megaspeed": "Singapore cloud company at center of Nvidia export allegations; no public finding of wrongdoing",
+    "H100": "restricted Nvidia accelerator still specified in Chinese procurement documents",
+    "H200": "restricted Nvidia accelerator; licenses now reviewed case by case",
+    "Sinomach": "Chinese state machinery group whose subsidiary won a 3bn yuan compute contract",
+    "Intel": "formed K-AI Full Stack Alliance with 23 Korean firms; pitched D-Series GPU D270",
+    "D270": "Intel GPU code-named Crescent Island: 350W, 26,200 TFLOPS FP4, 480GB LPDDR5X, no HBM",
+    "FuriosaAI": "Korean AI chip startup, member of K-AI Full Stack Alliance",
+    "DeepX": "Korean edge AI chip startup, member of K-AI Full Stack Alliance",
+    "Upstage": "Korean LLM developer, member of K-AI Full Stack Alliance",
+    "SK Hynix": "Korean memory maker, member of K-AI Full Stack Alliance",
+    "OpenAI": "launched ChatGPT Wallet Nov 13 with Amex, Mastercard and Visa",
+    "ChatGPT Wallet": "agentic payment wallet issuing network tokens per purchase, gated by biometric approval",
+    "American Express": "card network partner for ChatGPT Wallet",
+    "Mastercard": "card network partner for ChatGPT Wallet",
+    "Visa": "card network partner for ChatGPT Wallet",
+    "dots": "OpenAI always-on agent surface where ChatGPT Wallet launched first",
+    "CRAM": "learned Hopfield-Tank energy model solving Sudoku-Extreme at 99.996% after 42ms of training",
+    "SuperMimic": "humanoid whole-body motion tracker trained with one differentiable world model",
+    "mjlab": "MuJoCo-based RL library used by SuperMimic"
   }
 }
