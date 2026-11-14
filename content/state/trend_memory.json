@@ -129,8 +129,8 @@
     "strength": "emerging"
   },
   "agent_scale_breaks_human_tooling": {
-    "description": "Anthropic replaced git with in-house Scion after agent-driven merges rose 12x to 30,000+/day, and Linus Torvalds merged a Claude Code-coauthored page-cache rework; developer infrastructure built for human commit rates is now the binding constraint on agent-driven engineering.",
-    "last_updated": "2026-10-14",
+    "description": "Agent-scale output breaks tools designed around human review cadence: 28,800 subagent invocations producing 1.8M lines of proof cannot be read, only checked.",
+    "last_updated": "2026-11-15",
     "strength": "critical"
   },
   "agent_scale_economics": {
@@ -709,9 +709,9 @@
     "strength": "strong"
   },
   "ai_safety_evidentiary_turn": {
-    "description": "Evidence and disclosure keep becoming the operative standard: SemiAnalysis finds only 3.6% of 857 Chinese model releases carry a published safety evaluation matchable to the model, and 93% of reasoning models have none, while arXiv caps submissions to protect its verification pipeline.",
+    "description": "Safety claims keep migrating into evidence-producing institutions: courts, auditors and central banks, rather than voluntary commitments.",
     "first_seen": "2026-09-11",
-    "last_updated": "2026-11-06",
+    "last_updated": "2026-11-15",
     "note": "Frontier labs shift from voluntary pledges to published, verifiable threat-intelligence records and actively request mandatory regulation",
     "notice": "Nov 6: OpenAI publishes verifiable water/power reporting and Cantwell proposes pre-release independent audits, moving the evidentiary burden from pledge to procedure.",
     "status": "emerging"
@@ -2054,9 +2054,10 @@
     "strength": "critical"
   },
   "verification_capacity_as_bottleneck": {
-    "description": "Yau's eight-institution math-AI alliance targeting 1,000+ scientists, and the contemporaneous dispute over AI-authored mathematics, both point to scarce human verification and formalisation capacity rather than model capability as the limit on AI-for-science. Reinforced Oct 16: AI-assisted math results now ship as machine-checked, open-sourced artifacts. Nov 1: the first frontier-scale public audit of AI-produced proofs is running (ETH): volunteer Lean rebuilds and cross-kernel replays pass, but no verdict exists and the organisers have published no finding, showing the bottleneck is people reading statements rather than machines checking proofs.",
-    "last_updated": "2026-11-01",
-    "strength": "critical"
+    "description": "The scarce input in frontier research is shifting from generation to checking: proof corpora, third-party evaluators and audit trails rather than raw model scores.",
+    "last_updated": "2026-11-15",
+    "strength": "high",
+    "status": "critical"
   },
   "verification_instrumentation_gap": {
     "description": "Across governance, infrastructure and science the binding constraint is evidence rather than capability: Anthropic disclosed an equity structure without share source, baseline or payout terms, Microsoft lost an anchor tenant because no energisation date existed, and iNaturalist found its records rest on an unverified assumption about photographs. Instruments that let a third party trust a claim, not the claim itself, are now the scarce good.",
@@ -2670,5 +2671,40 @@
     "last_updated": "2026-11-14",
     "status": "strong",
     "strength": "high"
+  },
+  "verified_artifacts_replace_scores": {
+    "description": "When a kernel can reject a candidate, the unit of comparison shifts from benchmark scores to machine-checked artifacts. Google's /teamwork results are evaluable without trusting the vendor, which is a different kind of claim than a vendor-reported win rate.",
+    "first_seen": "2026-11-15",
+    "last_updated": "2026-11-15",
+    "status": "strong",
+    "strength": "high"
+  },
+  "capability_freeze_as_litigation_remedy": {
+    "description": "Four nonprofits are asking a state court, not a legislature, to cap frontier capability. The immediate product is discovery: safety eval records, red-team findings and oversight promises become litigable, which changes what labs write down.",
+    "first_seen": "2026-11-15",
+    "last_updated": "2026-11-15",
+    "status": "emerging",
+    "strength": "medium"
+  },
+  "privilege_boundary_moves_into_tokenizer": {
+    "description": "IBM's LLMON puts exec permission into reserved special tokens rather than prose, cutting indirect injection from 53-100% to 0.02-5.6%. The fix moves to the layer an attacker cannot rephrase, but learned behavior is not enforcement.",
+    "first_seen": "2026-11-15",
+    "last_updated": "2026-11-15",
+    "status": "emerging",
+    "strength": "medium"
+  },
+  "ai_named_top_systemic_financial_risk": {
+    "description": "87% of Fed survey contacts now cite AI as a salient financial-stability risk, up from 50% in spring, with advanced-computing debt at $680B of issuance and roughly a third of nonfinancial investment-grade supply. Concentration, not an equity drawdown, is the transmission channel.",
+    "first_seen": "2026-11-15",
+    "last_updated": "2026-11-15",
+    "status": "critical",
+    "strength": "high"
+  },
+  "world_model_bottleneck_is_planning": {
+    "description": "A 600-experiment study on Meta's LeWM reports that exact physics buys ~20 points while a better planner buys ~58, implying world-model benchmark gains may be search-budget artifacts rather than representation quality.",
+    "first_seen": "2026-11-15",
+    "last_updated": "2026-11-15",
+    "status": "emerging",
+    "strength": "medium"
   }
 }

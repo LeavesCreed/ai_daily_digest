@@ -1,7 +1,125 @@
 {
   "version": 1,
-  "generated_at": "2026-11-13T23:17:24Z",
+  "generated_at": "2026-11-14T23:18:06Z",
   "entries": [
+    {
+      "date": "2026-11-15",
+      "title": "AI Daily Digest - 2026-11-15",
+      "summary": {
+        "en": "Google Research published a status report on /teamwork, the multi-agent harness inside Antigravity, and the deliverables are machine-checked artifacts rather than benchmark scores: an end-to-end Lean 4 formalization of the Weil conjectures in about 1.8 million lines across 28,800 subagent invocations, a 919,000-line formalization of Hilbert's tenth problem over rings of integers, and a 50-million-line Lean formalization of the 2013 Courtade-Kumar conjecture. Four US nonprofits sued OpenAI, Anthropic, Google, Meta and SpaceX Super Intelligence in San Francisco Superior Court seeking to freeze frontier development at current capability. IBM released Granite 4.1 LLMON previews in 3B and 8B, where prompt blocks carry explicit exec permissions and indirect injection success falls from 53-100 percent to 0.02-5.6 percent. The Fed's Financial Stability Report put AI at the top of systemic risk for the first time, cited by 87 percent of market contacts. And an independent 600-experiment study on Meta's LeWM JEPA argues the world-model bottleneck is planning, not prediction.",
+        "zh": "Google Research 发布 /teamwork 状态报告，交付物是机器校验的产物而非基准分数：Weil 猜想端到端 Lean 4 形式化约 180 万行、跨 28800 次子智能体调用，整数环上希尔伯特第十问题首次形式化 91.9 万行，2013 年 Courtade-Kumar 猜想的完整证明形式化到 5000 万行。四家美国非营利机构在旧金山高等法院起诉 OpenAI、Anthropic、Google、Meta 与 SpaceX Super Intelligence，请求把前沿开发冻结在当前能力水平。IBM 放出 Granite 4.1 LLMON 预览版 3B 与 8B，提示块自带 exec 权限标记，间接注入成功率从 53 至 100 个百分点降到 0.02 至 5.6 个百分点。美联储金融稳定报告首次把 AI 列为系统性风险首位，87 个百分点的市场联系人这样认为。另有一份 600 次实验的独立研究认为，Meta LeWM 这类 JEPA 世界模型的瓶颈是规划而不是预测。"
+      },
+      "categories": [
+        "Research",
+        "AI Safety",
+        "Models",
+        "Industry"
+      ],
+      "tags": [
+        "Google",
+        "Antigravity",
+        "Teamwork",
+        "Gemini 4",
+        "Lean 4",
+        "Formal Verification",
+        "Multi-Agent",
+        "Weil Conjectures",
+        "Courtade-Kumar",
+        "Hilbert Tenth Problem",
+        "Public Citizen",
+        "Litigation",
+        "Frontier AI",
+        "Regulation",
+        "IBM",
+        "Granite",
+        "LLMON",
+        "Prompt Injection",
+        "Open Weights",
+        "Apache 2.0",
+        "Federal Reserve",
+        "Financial Stability",
+        "AI Debt",
+        "JEPA",
+        "World Models",
+        "Planning",
+        "Robotics"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-15.md",
+        "zh": "./content/daily_zh/2026-11-15.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Google's /teamwork Turns Multi-Agent Harnesses Into Machine-Checked Proof",
+          "summary": "On 13 November, Google Research published a status report on /teamwork, the multi-agent feature inside its Antigravity platform, which pairs Gemini 4 models with dedicated falsifiers. The reported results are artifacts rather than scores.",
+          "category": "Research",
+          "tags": [
+            "Google",
+            "Antigravity",
+            "Teamwork",
+            "Gemini 4",
+            "Lean 4",
+            "Formal Verification",
+            "Multi-Agent",
+            "Weil Conjectures",
+            "Courtade-Kumar"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Four Nonprofits Ask a Court to Freeze Frontier Development",
+          "summary": "On 12 November, four US nonprofits filed suit in San Francisco Superior Court against OpenAI, Anthropic, Google, Meta and SpaceX Super Intelligence, asking for an injunction that would bar the defendants from developing or deploying AI systems more capable than their most advanced existing models until independent certification, third-party red-teaming and systemic-risk auditing are in place. The plaintiffs are the I",
+          "category": "AI Safety",
+          "tags": [
+            "Public Citizen",
+            "Litigation",
+            "Frontier AI",
+            "Regulation",
+            "Red Teaming"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "IBM Puts the Instruction-Data Boundary Into Structure With LLMON",
+          "summary": "On 12 November, IBM released two experimental preview models, granite-4.1-3b-llmon-preview and granite-4.1-8b-llmon-preview, under Apache 2.0. They are fine-tuned from Granite 4.1 base models to consume LLMON (LLM Object Notation), a markup that replaces the conventional chat template.",
+          "category": "Models",
+          "tags": [
+            "IBM",
+            "Granite",
+            "LLMON",
+            "Prompt Injection",
+            "Open Weights",
+            "Apache 2.0"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "The Fed Puts AI at the Top of Its Financial-Stability Risk List",
+          "summary": "The Federal Reserve's semiannual Financial Stability Report, released 13 November, found AI to be the most-cited risk to the US financial system for the first time. Of the 23 market contacts surveyed in September and October, 87 percent named AI as a salient risk, up from 50 percent in the spring 2026 survey and 30 percent in fall 2025.",
+          "category": "Industry",
+          "tags": [
+            "Federal Reserve",
+            "Financial Stability",
+            "AI Debt",
+            "Data Centers"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "A 600-Experiment Study Says the World-Model Bottleneck Is Planning",
+          "summary": "An independent researcher, Haddy Alchaer, published a 600-experiment study of Meta's LeWM, a joint-embedding predictive architecture world model, and reported that the limiting factor is planning rather than prediction. The study first replaced the learned predictor with the simulator's exact physics and found long-horizon Push-T success improved by only about 20 points.",
+          "category": "Research",
+          "tags": [
+            "JEPA",
+            "World Models",
+            "Planning",
+            "Robotics"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-14",
       "title": "AI Daily Digest - 2026-11-14",

@@ -7630,5 +7630,31 @@
     "CRAM": "learned Hopfield-Tank energy model solving Sudoku-Extreme at 99.996% after 42ms of training",
     "SuperMimic": "humanoid whole-body motion tracker trained with one differentiable world model",
     "mjlab": "MuJoCo-based RL library used by SuperMimic"
+  },
+  "2026-11-15": {
+    "Google Research": "published /teamwork status report Nov 13, 2026",
+    "Antigravity": "Google's agent-first coding platform; hosts the /teamwork multi-agent feature",
+    "/teamwork": "multi-agent harness pairing Gemini 4 models with falsifier agents and verifiers",
+    "LEAP": "/teamwork-LEAP, informal-to-Lean translation pipeline behind the Weil conjectures formalization",
+    "Weil conjectures": "formalized end-to-end in Lean 4 at ~1.8M lines across 28,800 subagent invocations",
+    "Courtade-Kumar conjecture": "2013 information-theory conjecture proved in full generality, formalized at ~50M lines of Lean 4",
+    "Hilbert's tenth problem": "first formalization over general rings of integers, >919K lines of Lean",
+    "Public Citizen": "co-plaintiff in Nov 12, 2026 suit seeking to freeze frontier AI capability",
+    "Irreplaceable Education Fund": "lead plaintiff in the San Francisco frontier-freeze suit",
+    "Heat Initiative": "co-plaintiff in the frontier-freeze suit",
+    "Alliance for Secure AI": "co-plaintiff in the frontier-freeze suit",
+    "San Francisco Superior Court": "venue for the Nov 12, 2026 nonprofit suit against five frontier labs",
+    "SpaceX Super Intelligence": "named defendant alongside OpenAI, Anthropic, Google and Meta in the freeze suit",
+    "IBM": "released Granite 4.1 LLMON preview models Nov 12, 2026 under Apache 2.0",
+    "Granite 4.1 LLMON": "3B and 8B preview models trained to consume LLMON markup instead of chat templates",
+    "LLMON": "LLM Object Notation; block markup with exec-permission tags and reserved special-token delimiters",
+    "OPI benchmark": "IBM prompt-injection benchmark used to report 53-100% -> 0.02-5.6% attack success drop",
+    "Federal Reserve": "Nov 13, 2026 Financial Stability Report ranked AI the top salient risk at 87% of contacts",
+    "Financial Stability Report": "semiannual Fed survey; box on leverage in the data center buildout",
+    "JEPA": "joint-embedding predictive architecture family; LeWM used as the test subject",
+    "LeWM": "Meta JEPA-family latent world model evaluated in a 600-experiment study",
+    "Haddy Alchaer": "independent researcher behind the 600-experiment JEPA planning study",
+    "David Bau": "co-author of Goal Encoding in LLMs (arXiv:2611.17297)",
+    "claude-mem": "thedotmack/claude-mem, Apache-2.0 cross-session memory layer for coding agents"
   }
 }
