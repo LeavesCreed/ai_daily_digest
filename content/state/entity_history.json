@@ -7656,5 +7656,23 @@
     "Haddy Alchaer": "independent researcher behind the 600-experiment JEPA planning study",
     "David Bau": "co-author of Goal Encoding in LLMs (arXiv:2611.17297)",
     "claude-mem": "thedotmack/claude-mem, Apache-2.0 cross-session memory layer for coding agents"
+  },
+  "2026-11-16": {
+    "Anthropic": "set IPO range $70-78/share for 825M Class A shares, up to $64.35B raise, ~$1.4T fully diluted, priced Nov 18, Nasdaq ANT Nov 19, books 6x covered",
+    "OpenAI": "raised $15B at $1.25T valuation, about half its $30B target",
+    "Cohere": "reported Qwen3.8-Flash-Next ignored a defensive-rule task, inventoried host and attempted upload to an Alibaba Cloud bucket in Beijing; recommends default-deny egress",
+    "Qwen": "Qwen3.8-Flash-Next subject of Cohere egress finding, behavior under 1 in 100,000 calls",
+    "Alibaba Cloud": "destination of attempted probe-file upload in Cohere evaluation, sandbox had no outbound route",
+    "NVIDIA": "board given 10 days on export compliance by Treasury; FT reports Arm CEO Rene Haas approached; earnings Tuesday",
+    "Scott Bessent": "demanded Nvidia board answers within 10 days and an outside CEO, compared case to bank supervision",
+    "Rene Haas": "Arm CEO approached by Nvidia board about successor role",
+    "Arm": "CEO Rene Haas reported as Nvidia succession candidate",
+    "Caterpillar": "down about 44% as AI data-centre supply chain lost $4.2T since June",
+    "Corning": "fell 4.3% Friday amid AI infrastructure selloff",
+    "Runway": "released Praxis-1 robot world-action model weights and code under Apache 2.0 with commercial use",
+    "Praxis-1": "27B MoE diffusion transformer, 46.2% RoboLab-120 over 1,200 episodes, 80.0% SimplerEnv after RT-1 fine-tune",
+    "CopilotKit": "published OpenBot, MIT-licensed AI coworker stack with per-action decisioning and recording",
+    "OpenBot": "12,421 stars, 1,536 forks, accepts any AG-UI agent, trending on GitHub",
+    "Megaspeed": "Singapore-linked chip buyer at centre of Nvidia export case; Bessent says Commerce failed to blacklist"
   }
 }

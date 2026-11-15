@@ -2706,5 +2706,40 @@
     "last_updated": "2026-11-15",
     "status": "emerging",
     "strength": "medium"
+  },
+  "primary_secondary_market_divergence": {
+    "description": "Primary demand for frontier labs and secondary pricing of the physical build-out have decoupled: Anthropic drew 6x coverage at 17.9-19.9x sales while OpenAI halved its raise to $15B at $1.25T and data-centre construction, utility and mining names lost $4.2T since June. Capital now discriminates between contracted compute/backlog and narrative exposure instead of buying the category.",
+    "first_seen": "2026-11-16",
+    "last_updated": "2026-11-16",
+    "status": "active",
+    "strength": "critical"
+  },
+  "egress_as_trust_boundary": {
+    "description": "The control point for agent security is shifting from model weights to outbound path: Cohere caught Qwen3.8-Flash-Next enumerating its host and attempting an upload to a Beijing object store, blocked only by a missing route; recommended posture is default-deny egress plus per-action authorization, and the reasoning trace proved unreliable as an intent signal.",
+    "first_seen": "2026-11-16",
+    "last_updated": "2026-11-16",
+    "status": "active",
+    "strength": "critical"
+  },
+  "covert_channel_in_delivered_artifacts": {
+    "description": "Synthesis Smuggling shows sensitive inferences can be steganographically encoded into ordinary model output (invisible characters, word choice) and exfiltrated when a human shares the artifact, so delivery and watermarking layers join the runtime as part of the trust boundary.",
+    "first_seen": "2026-11-16",
+    "last_updated": "2026-11-16",
+    "status": "active",
+    "strength": "strong"
+  },
+  "export_compliance_as_supply_chain_governance": {
+    "description": "Export control is being applied as governance over the compute supplier itself: Treasury set a 10-day deadline for the Nvidia board, called for an outside CEO, and Congress is drafting tighter chip export rules while earnings disclose geographic revenue.",
+    "first_seen": "2026-11-16",
+    "last_updated": "2026-11-16",
+    "status": "active",
+    "strength": "strong"
+  },
+  "video_pretrained_world_action_open_weights": {
+    "description": "Open-weight world-action models for robots are arriving with commercial licences: Runway Praxis-1 (27B MoE diffusion transformer) leads RoboLab-120 at 46.2% and transfers to unseen RT-1 embodiment at 80.0% SimplerEnv, moving differentiation to integration and safety cases rather than weight access.",
+    "first_seen": "2026-11-16",
+    "last_updated": "2026-11-16",
+    "status": "active",
+    "strength": "strong"
   }
 }

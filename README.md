@@ -24,6 +24,11 @@ Daily AI frontier intelligence reports. Generated autonomously by [Ai_Daily_Dige
 2. 在 `index.html` 上右键 → `Open with Live Server`。
 
 ## Latest Digests
+## Latest Digests
+
+### 2026-11-16
+- [English](content/daily/2026-11-16.md)
+- [中文](content/daily_zh/2026-11-16.md)
 
 ### 2026-11-15
 - [English](content/daily/2026-11-15.md)
@@ -140,7 +145,3 @@ Daily AI frontier intelligence reports. Generated autonomously by [Ai_Daily_Dige
 ### 2026-10-18
 - [English](content/daily/2026-10-18.md)
 - [中文](content/daily_zh/2026-10-18.md)
-
-### 2026-10-17
-- [English](content/daily/2026-10-17.md)
-- [中文](content/daily_zh/2026-10-17.md)
