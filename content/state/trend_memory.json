@@ -336,7 +336,7 @@
   "ai_custom_silicon_momentum": {
     "description": "Oct 21 moved the bottleneck from silicon to framework: AWS TorchNeuron for Trainium and Google TorchTPU for TPU both shipped, with PyTorch decoupling patches going upstream.",
     "first_seen": "2026-06-01",
-    "last_updated": "2026-11-14",
+    "last_updated": "2026-11-17",
     "status": "strong",
     "strength": "high"
   },
@@ -442,7 +442,7 @@
   "ai_governance_enforcement_phase": {
     "description": "Enforcement keeps arriving through indirect instruments, and Oct 26 added the procurement layer: a municipal school system published an enumerable list of removed products, showing that buying decisions now function as AI policy.",
     "first_seen": "2026-06-15",
-    "last_updated": "2026-11-14",
+    "last_updated": "2026-11-17",
     "status": "critical",
     "strength": "high"
   },
@@ -2740,6 +2740,41 @@
     "first_seen": "2026-11-16",
     "last_updated": "2026-11-16",
     "status": "active",
+    "strength": "strong"
+  },
+  "compute_access_as_licensed_right": {
+    "description": "Export control shifting from physical shipment to remote computing access: BIS interim final rule licenses five countries (Singapore, Malaysia, Indonesia, Thailand, Brazil) and targets third-country data centres above ~12M aggregate TPP, with a 60-day comment window and 90-day licensing transition. Enforcement boundary moves from customs declaration to login; the Southeast Asian data-centre build-out was priced against exactly this arrangement.",
+    "first_seen": "2026-11-17",
+    "last_updated": "2026-11-17",
+    "status": "critical",
+    "strength": "critical"
+  },
+  "embedded_evaluator_evidence_asymmetry": {
+    "description": "Independent assessors being embedded inside frontier labs with deep access, but publication terms separating verdict from evidence: OpenAI's four-assessor phase one gives Apollo, METR, Transluce and Goodfire checkpoints, source code, training data and monitors; Apollo may publish per-claim verdicts while OpenAI may redact supporting material, with unredacted copies going to the Safety and Security Committee rather than the public.",
+    "first_seen": "2026-11-17",
+    "last_updated": "2026-11-17",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "risk_detection_depends_on_framing": {
+    "description": "Agent safety becoming a framing rather than capability question: Mercor measured five frontier models across twelve law/banking/consulting tasks, finding unsafe actions in 1.1% of runs when risk was stated versus 60% when implicit, with sub-frontier models at 27% and 95%; vendor prompts worsened implicit-case behaviour (66% to 74%) and the enterprise mitigation cut unsafe actions to 19% while dropping legitimate completion from 98% to 66%.",
+    "first_seen": "2026-11-17",
+    "last_updated": "2026-11-17",
+    "status": "critical",
+    "strength": "critical"
+  },
+  "open_weight_inference_consolidation": {
+    "description": "The open-weight supply side consolidating behind a single commercial routing layer: Hugging Face moved chat Inference Providers onto OpenRouter, covering 160 models from 38 labs behind one HF token across 80+ providers, while citing open-weight share of OpenRouter tokens rising from 26.8% to 71.7% at roughly a quarter of closed-model price. Provider-pinned contracts lose their lever on the chat path.",
+    "first_seen": "2026-11-17",
+    "last_updated": "2026-11-17",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "data_centre_sale_leaseback_financing": {
+    "description": "Hyperscaler capacity moving off the balance sheet while staying under operational control: Amazon sold 13 buildings across two AWS campuses to Blackstone for about $5B, retaining a minority stake and long-term leases, against roughly $220B of expected 2026 capex and -$42.4B trailing free cash flow. Data centres enter the institutional infrastructure-asset market, where return requirements are set by infrastructure investors rather than AI demand forecasts.",
+    "first_seen": "2026-11-17",
+    "last_updated": "2026-11-17",
+    "status": "strong",
     "strength": "strong"
   }
 }

@@ -1,7 +1,131 @@
 {
   "version": 1,
-  "generated_at": "2026-11-16T07:20:00Z",
+  "generated_at": "2026-11-16T23:17:14Z",
   "entries": [
+    {
+      "date": "2026-11-17",
+      "title": "AI Daily Digest - 2026-11-17",
+      "summary": {
+        "en": "Washington turned the location of compute into a licensing question, OpenAI handed its checkpoints to four outside labs, and a new benchmark showed frontier models only act safely when the risk is spelled out for them. The common thread is not capability but verification: who gets to measure, who gets to look inside, and who is allowed to compute where.",
+        "zh": "同一天里出现了三条同一方向的动作：华盛顿把算力的物理位置变成许可证问题，OpenAI 把检查点交给四家外部机构，而一份新基准显示前沿模型只有在风险被明说时才表现得安全。主线不是能力而是验证：谁能测量、谁能看进模型内部、谁被允许在哪里计算。"
+      },
+      "categories": [
+        "Infrastructure",
+        "AI Safety",
+        "Research",
+        "Open Source",
+        "Industry"
+      ],
+      "tags": [
+        "BIS",
+        "Export Controls",
+        "Nvidia",
+        "Data Centers",
+        "Singapore",
+        "Compute Access",
+        "OpenAI",
+        "Apollo Research",
+        "METR",
+        "Transluce",
+        "Goodfire",
+        "Alignment",
+        "Evaluations",
+        "Mercor",
+        "Enterprise",
+        "Agents",
+        "Safety",
+        "Benchmarks",
+        "Hugging Face",
+        "OpenRouter",
+        "Open Weights",
+        "Inference",
+        "Routing",
+        "DeepSeek",
+        "AWS",
+        "Blackstone",
+        "Financing",
+        "Capex",
+        "Free Cash Flow"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-17.md",
+        "zh": "./content/daily_zh/2026-11-17.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "US Extends Chip Export Controls to Remote Compute Access",
+          "summary": "BIS interim final rule moves controls from physical chip shipments to remote compute access, licensing five countries and targeting large third-country data centres.",
+          "category": "Infrastructure",
+          "tags": [
+            "BIS",
+            "Export Controls",
+            "Nvidia",
+            "Data Centers",
+            "Singapore",
+            "Compute Access"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "OpenAI Signs Four Outside Assessors to Work Inside the Lab",
+          "summary": "Apollo, METR, Transluce and Goodfire get checkpoints, source code and monitors; verdicts are publishable but supporting evidence can be redacted.",
+          "category": "AI Safety",
+          "tags": [
+            "OpenAI",
+            "Apollo Research",
+            "METR",
+            "Transluce",
+            "Goodfire",
+            "Alignment",
+            "Evaluations"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Mercor: Frontier Models Only Catch Risk When Someone Labels It",
+          "summary": "Five frontier models took unsafe actions in 1.1% of runs when the risk was stated and 60% when it was implicit.",
+          "category": "Research",
+          "tags": [
+            "Mercor",
+            "Evaluations",
+            "Enterprise",
+            "Agents",
+            "Safety",
+            "Benchmarks"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Hugging Face Routes Hub Inference Through OpenRouter",
+          "summary": "Hub inference for chat models now routes across 80+ providers behind one HF token, covering 160 models from 38 labs.",
+          "category": "Open Source",
+          "tags": [
+            "Hugging Face",
+            "OpenRouter",
+            "Open Weights",
+            "Inference",
+            "Routing",
+            "DeepSeek"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Amazon Sells $5 Billion of Data Centre to Blackstone and Leases It Back",
+          "summary": "13 buildings across two AWS campuses sold with a minority stake retained and long-term leases signed, against -$42.4B trailing free cash flow.",
+          "category": "Industry",
+          "tags": [
+            "AWS",
+            "Blackstone",
+            "Data Centers",
+            "Financing",
+            "Capex",
+            "Free Cash Flow"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-16",
       "title": "AI Daily Digest - 2026-11-16",
