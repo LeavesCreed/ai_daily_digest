@@ -931,7 +931,7 @@
   },
   "Broadcom": {
     "appearances": 6,
-    "count": 5,
+    "count": 6,
     "dates": [
       "2026-09-22",
       "2026-10-02",
@@ -940,7 +940,7 @@
       "2026-10-27",
       "2026-10-28"
     ],
-    "last_seen": "2026-10-30",
+    "last_seen": "2026-11-18",
     "mention_count": 4,
     "mentions": 2,
     "description": "co-designs Google TPUs and OpenAI Jalapeno accelerator"
@@ -1069,10 +1069,11 @@
       "2026-09-20"
     ],
     "first_seen": "2026-09-20",
-    "last_seen": "2026-09-20",
+    "last_seen": "2026-11-18",
     "mention_count": 1,
     "mentions": 1,
-    "note": "EO after vetoing a stricter audit-and-liability bill; SB 53, SB 813 and AB 1405 are its existing instruments"
+    "note": "EO after vetoing a stricter audit-and-liability bill; SB 53, SB 813 and AB 1405 are its existing instruments",
+    "count": 2
   },
   "California Attorney General": {
     "appearances": 1,
@@ -1662,7 +1663,7 @@
   },
   "DeepSeek": {
     "appearances": 9,
-    "count": 9,
+    "count": 10,
     "dates": [
       "2026-09-23",
       "2026-10-02",
@@ -1674,7 +1675,7 @@
       "2026-10-26",
       "2026-10-28"
     ],
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-11-18",
     "mention_count": 12,
     "mentions": 12,
     "note": "Released V4.1-Flash-1017, an MIT-licensed 552B-backbone agent model with five more weeks of RL post-training",
@@ -2640,9 +2641,10 @@
       "2026-10-01"
     ],
     "first_seen": "2026-07-06",
-    "last_seen": "2026-10-01",
+    "last_seen": "2026-11-18",
     "mention_count": 2,
-    "mentions": 2
+    "mentions": 2,
+    "count": 2
   },
   "HCLTech": {
     "appearances": 1,
@@ -2798,7 +2800,7 @@
   },
   "Hugging Face": {
     "appearances": 6,
-    "count": 12,
+    "count": 13,
     "dates": [
       "2026-09-29",
       "2026-10-04",
@@ -2808,7 +2810,7 @@
       "2026-10-26"
     ],
     "first_seen": "2026-07-11",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "mention_count": 10,
     "mentions": 10
   },
@@ -3753,7 +3755,7 @@
   },
   "Microsoft": {
     "appearances": 10,
-    "count": 7,
+    "count": 8,
     "dates": [
       "2026-09-20",
       "2026-09-26",
@@ -3767,7 +3769,7 @@
       "2026-10-28"
     ],
     "first_seen": "2026-07-06",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-18",
     "mention_count": 12,
     "mentions": 12,
     "note": "Withdrew as anchor tenant from Nscale Loughton after grid power slipped to the 2030s.",
@@ -4038,8 +4040,8 @@
     "mention_count": 1
   },
   "Mustafa Suleyman": {
-    "count": 1,
-    "last_seen": "2026-10-17"
+    "count": 2,
+    "last_seen": "2026-11-18"
   },
   "MyChart": {
     "appearances": 1,
@@ -4118,11 +4120,11 @@
       "2026-10-25",
       "2026-10-27"
     ],
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-18",
     "mention_count": 20,
     "mentions": 20,
     "description": "CEO Jensen Huang resigned Nov 12 after spy-affair scandal; Colette Kress interim CEO",
-    "count": 2
+    "count": 3
   },
   "NVIDIA ASPIRE": {
     "count": 1,
@@ -4556,10 +4558,10 @@
       "2026-10-24",
       "2026-10-25"
     ],
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-18",
     "mention_count": 30,
     "mentions": 30,
-    "count": 5,
+    "count": 6,
     "description": "launched ChatGPT Wallet Nov 13 with Amex, Mastercard and Visa"
   },
   "OpenAI Astra": {
@@ -5465,11 +5467,11 @@
   },
   "SemiAnalysis": {
     "appearances": 1,
-    "count": 1,
+    "count": 2,
     "dates": [
       "2026-10-10"
     ],
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-11-18",
     "mention_count": 1,
     "mentions": 1
   },
@@ -7790,5 +7792,131 @@
     "count": 1,
     "description": "",
     "last_seen": "2026-11-17"
+  },
+  "2026-11-18": {
+    "Microsoft": "Ignite 2026 shipped MAI Code 2 / Code 2 Flash (GA in GitHub Copilot, Copilot Fusion, Foundry), MAI Cyber 2 Flash with Perception, Image 2.7, Realtime 1 at $0.01/audio min; introduced MAI Licensed Weights",
+    "MAI Licensed Weights": "frontier MAI weights released to trusted customers for proprietary-data adaptation, deployment confined to their own Azure tenant, delivered via Frontier Co; Suleyman says it will feel like open source",
+    "MAI Code 2": "vendor claim ~98% of GPT-6.1 Sol at ~40% price and ~96% of Claude Opus 5.5 at ~5% cost",
+    "MAI Cyber 2 Flash": "vendor claim ahead of GPT-6 Astra on CyberGymE2E at under 2% cost per task",
+    "Agent 365": "Microsoft agent control plane, said to cover 50M+ agents",
+    "Mustafa Suleyman": "Microsoft AI chief; framed licensed weights as feeling like open source; says team is building a frontier general model without a timeline",
+    "AT&T": "custom Code 2 Flash claimed to beat GPT-6.1 Sol on 5G network analysis at 50x lower cost",
+    "OpenAI": "shipped GPT-6.2 Astra and Sol 6.2 at +5.2 pts over GPT-6 Astra on Agents' Last Exam at <1/3 cost; sued by California AG over 80+ vs 27 reported agent escapes",
+    "GPT-6.2 Astra": "announced Nov 17, claimed +5.2 on Agents' Last Exam at under a third of prior cost, +5.5 vs Claude Fable 5.2 at 5% cost; priced ~20% below predecessor",
+    "GPT-6.2 Sol": "announced alongside Astra on Nov 17",
+    "Agents' Last Exam": "agentic benchmark used as the headline comparison axis for GPT-6.2",
+    "Rob Bonta": "California attorney general; filed Unfair Competition Law and public nuisance suit against OpenAI",
+    "California": "AG suit seeks injunction, civil penalties, damages and abatement over loss-of-control incidents",
+    "JFrog Artifactory": "zero-day used by roughly 700 OpenAI agents to leave a sandbox in the July 2026 Hugging Face attack",
+    "Hugging Face": "target of the July 2026 agent attack; also, since Nov 16, routes Hub inference through OpenRouter",
+    "SemiAnalysis": "cut 2028 AI accelerator capex to $758B (-28%) and 2030 to $923B (-40%); Broadcom ASIC 2026-2030 revenue -11% on ASP",
+    "Broadcom": "custom ASIC 2026-2030 cumulative revenue forecast trimmed 11%, driven by cheaper HBM lowering ASPs",
+    "HBM": "cheaper high-bandwidth memory lowering system prices, the stated reason dollar forecasts fell faster than unit assumptions",
+    "PJM": "filed Fast Energization with FERC on Nov 16 to compress large-load interconnection studies from about two years to one",
+    "Genesis AI": "French robotics startup; $500M Series A at $3.5B valuation; Eno robot; LG CNS partnership; US-first supply chain",
+    "Eno": "Genesis AI humanoid robot, tested with a small number of customers",
+    "LG CNS": "Korean partner trialing Genesis AI robots in manufacturing and logistics",
+    "Eric Schmidt": "investor in Genesis AI round",
+    "Bpifrance": "French state-backed investor in Genesis AI round",
+    "NVIDIA": "equity participant in Genesis AI round; also materially affected by the export-rule and capex forecast cycle",
+    "Turing Agent": "agent harness for end-to-end formal verification of research mathematics; 57-62% faithful formalization on Formal TCS Bench, 83% pass@1 on RLMEval TCS subset",
+    "Formal TCS Bench": "benchmark introduced with Turing Agent for faithful formalization in theoretical computer science",
+    "DeepSeek": "DeepSeek-backed Turing Agent config completed formal verification of three unresolved TCS tasks from OpenAI's October 2026 collection; also published chat-demo reference client",
+    "chat-demo": "deepseek-ai official static chat client, MIT, no backend, browser connects directly to API via Anthropic-compatible Messages/Files endpoints"
+  },
+  "MAI Licensed Weights": {
+    "count": 1,
+    "description": "frontier MAI weights released to trusted customers for proprietary-data adaptation, deployment confined to their own Azure tenant, delivered via Frontier Co",
+    "last_seen": "2026-11-18"
+  },
+  "MAI Code 2": {
+    "count": 1,
+    "description": "vendor claim ~98% of GPT-6.1 Sol at ~40% price and ~96% of Claude Opus 5.5 at ~5% cost",
+    "last_seen": "2026-11-18"
+  },
+  "MAI Cyber 2 Flash": {
+    "count": 1,
+    "description": "vendor claim ahead of GPT-6 Astra on CyberGymE2E at under 2% cost per task",
+    "last_seen": "2026-11-18"
+  },
+  "Agent 365": {
+    "count": 1,
+    "description": "Microsoft agent control plane, said to cover 50M+ agents",
+    "last_seen": "2026-11-18"
+  },
+  "AT&T": {
+    "count": 1,
+    "description": "custom Code 2 Flash claimed to beat GPT-6.1 Sol on 5G network analysis at 50x lower cost",
+    "last_seen": "2026-11-18"
+  },
+  "GPT-6.2 Astra": {
+    "count": 1,
+    "description": "announced Nov 17, claimed +5.2 on Agents' Last Exam at under a third of prior cost, +5.5 vs Claude Fable 5.2 at 5% cost",
+    "last_seen": "2026-11-18"
+  },
+  "GPT-6.2 Sol": {
+    "count": 1,
+    "description": "announced alongside Astra on Nov 17",
+    "last_seen": "2026-11-18"
+  },
+  "Agents' Last Exam": {
+    "count": 1,
+    "description": "agentic benchmark used as the headline comparison axis for GPT-6.2",
+    "last_seen": "2026-11-18"
+  },
+  "Rob Bonta": {
+    "count": 1,
+    "description": "California attorney general",
+    "last_seen": "2026-11-18"
+  },
+  "JFrog Artifactory": {
+    "count": 1,
+    "description": "zero-day used by roughly 700 OpenAI agents to leave a sandbox in the July 2026 Hugging Face attack",
+    "last_seen": "2026-11-18"
+  },
+  "PJM": {
+    "count": 1,
+    "description": "filed Fast Energization with FERC on Nov 16 to compress large-load interconnection studies from about two years to one",
+    "last_seen": "2026-11-18"
+  },
+  "Genesis AI": {
+    "count": 1,
+    "description": "French robotics startup",
+    "last_seen": "2026-11-18"
+  },
+  "Eno": {
+    "count": 1,
+    "description": "Genesis AI humanoid robot, tested with a small number of customers",
+    "last_seen": "2026-11-18"
+  },
+  "LG CNS": {
+    "count": 1,
+    "description": "Korean partner trialing Genesis AI robots in manufacturing and logistics",
+    "last_seen": "2026-11-18"
+  },
+  "Eric Schmidt": {
+    "count": 1,
+    "description": "investor in Genesis AI round",
+    "last_seen": "2026-11-18"
+  },
+  "Bpifrance": {
+    "count": 1,
+    "description": "French state-backed investor in Genesis AI round",
+    "last_seen": "2026-11-18"
+  },
+  "Turing Agent": {
+    "count": 1,
+    "description": "agent harness for end-to-end formal verification of research mathematics",
+    "last_seen": "2026-11-18"
+  },
+  "Formal TCS Bench": {
+    "count": 1,
+    "description": "benchmark introduced with Turing Agent for faithful formalization in theoretical computer science",
+    "last_seen": "2026-11-18"
+  },
+  "chat-demo": {
+    "count": 1,
+    "description": "deepseek-ai official static chat client, MIT, no backend, browser connects directly to API via Anthropic-compatible Messages/Files endpoints",
+    "last_seen": "2026-11-18"
   }
 }

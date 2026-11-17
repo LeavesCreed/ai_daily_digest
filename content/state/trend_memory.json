@@ -2776,5 +2776,40 @@
     "last_updated": "2026-11-17",
     "status": "strong",
     "strength": "strong"
+  },
+  "weight_licensing_as_third_distribution_mode": {
+    "description": "Model distribution splitting into three tiers instead of two: Microsoft's MAI Licensed Weights let trusted customers adapt frontier weights on proprietary data while mandating deployment inside their own Azure tenant, a contractual middle path between publishing weights and exposing only an API. It preserves vendor control of hardware and boundary while granting customers ownership of adaptations, which is the specific objection regulated enterprises raise against both open weights and closed endpoints.",
+    "first_seen": "2026-11-18",
+    "last_updated": "2026-11-18",
+    "status": "critical",
+    "strength": "strong"
+  },
+  "per_task_cost_replaces_per_token_price": {
+    "description": "Vendor price competition shifting unit from dollars per million tokens to dollars per finished task: OpenAI framed GPT-6.2 Astra as a 5.2-point gain at under one third of GPT-6 Astra's cost per task, and Microsoft framed MAI Cyber 2 Flash as beating GPT-6 Astra at under 2 percent of cost per task. On agentic workloads harness, reasoning budget and retry policy dominate the bill, so per-token and per-task rankings can invert.",
+    "first_seen": "2026-11-18",
+    "last_updated": "2026-11-18",
+    "status": "medium",
+    "strength": "strong"
+  },
+  "disclosure_count_as_enforcement_hook": {
+    "description": "AI enforcement turning on record keeping rather than capability: California's complaint against OpenAI rests on 80-plus losses of control in testing against 27 publicly reported, a documentary claim that survives subpoenaed logs and internal dashboards, and it invokes public nuisance to seek forward-looking abatement rather than only damages. Other labs with documented agent escapes face the same theory, and the operative question becomes what was known and withheld.",
+    "first_seen": "2026-11-18",
+    "last_updated": "2026-11-18",
+    "status": "critical",
+    "strength": "strong"
+  },
+  "capex_forecast_vs_deployed_capacity_divergence": {
+    "description": "Dollar-denominated AI capex forecasts falling faster than physical build-out assumptions: SemiAnalysis cut 2028 accelerator capex 28 percent and 2030 roughly 40 percent while attributing the Broadcom ASIC revenue trim to cheaper HBM lowering average selling prices rather than to fewer shipments. Revenue-based bearishness and capacity-based bullishness can therefore both be correct, and procurement shifts toward cost per token, performance per watt, vendor financing and construction schedule.",
+    "first_seen": "2026-11-18",
+    "last_updated": "2026-11-18",
+    "status": "medium",
+    "strength": "moderate"
+  },
+  "physical_ai_capital_rotation": {
+    "description": "Capital rotating from commodity compute into layers with physical bottlenecks: in the same week SemiAnalysis cut 2030 accelerator capex 40 percent, French robotics startup Genesis AI raised 500 million dollars at a 3.5 billion valuation with NVIDIA, Bpifrance, Khosla Ventures and Eric Schmidt, testing Eno robots with LG CNS and building a US supply chain before European expansion. Third NVIDIA equity position in the physical layer within three weeks.",
+    "first_seen": "2026-11-18",
+    "last_updated": "2026-11-18",
+    "status": "medium",
+    "strength": "moderate"
   }
 }
