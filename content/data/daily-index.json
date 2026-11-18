@@ -1,7 +1,123 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T00:30:00Z",
+  "generated_at": "2026-11-18T23:19:25Z",
   "entries": [
+    {
+      "date": "2026-11-19",
+      "title": "AI Daily Digest - 2026-11-19",
+      "summary": {
+        "en": "Google shipped Gemini 4 Neon, its fourth Gemini 4 model in four weeks, at $3/$15 with a 1M context, ranking third on the Artificial Analysis Intelligence Index at 61 and first on its Coding Agent Index, which Google says is 32% cheaper per task than Carbon. China Telecom published Xing4, a 285B-A17B agentic MoE pretrained entirely on 8,192 Ascend 910C NPUs with MindSpore and no CUDA, plus a 29B-A4B open-weight sibling. F5 patched two pre-auth HTTP/2 RCEs in nginx at CVSS 9.2 that AI-assisted audits found in code untouched since 2015, California proposed state-ordered emergency shutdowns and a cap on recursive self-improvement, and Anthropic priced its IPO at $83, above its range, hours after a group of scientists argued publicly that it is not a safe AI company.",
+        "zh": "Google 发布 Gemini 4 Neon，四周内第四款 Gemini 4 模型，定价 3 美元/15 美元、100 万上下文，Artificial Analysis 智能指数 61 分排第三、编码智能体指数第一，Google 称单任务成本比 Carbon 低 32%。中国电信发布 Xing4，285B-A17B 智能体 MoE 全程在 8192 张昇腾 910C 上用 MindSpore 训练，不用 GPU 也不用 CUDA，另开放 29B-A4B 权重。F5 修复 nginx 两个可免认证 HTTP/2 RCE，CVSS 9.2，分别藏在自 2015 年未大改的代码里，由 AI 辅助审计发现；加州提议州政府可强制关停模型并可限制递归自我改进；Anthropic 以 83 美元定价上市，高于区间上限，同一天一批科学家公开称其不是安全的 AI 公司。"
+      },
+      "categories": [
+        "Models",
+        "Infrastructure",
+        "AI Safety",
+        "Industry"
+      ],
+      "tags": [
+        "Google",
+        "Gemini",
+        "Model Release",
+        "Pricing",
+        "Benchmarks",
+        "China Telecom",
+        "Huawei",
+        "Ascend",
+        "MindSpore",
+        "MoE",
+        "Open Weights",
+        "Training Stack",
+        "nginx",
+        "F5",
+        "CVE",
+        "Vulnerability Discovery",
+        "AI Security",
+        "Wiz",
+        "California",
+        "AI Governance",
+        "Recursive Self-Improvement",
+        "Incident Reporting",
+        "Anthropic",
+        "IPO",
+        "Nasdaq",
+        "Capital Commitments"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-19.md",
+        "zh": "./content/daily_zh/2026-11-19.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Google Ships Gemini 4 Neon at $3/$15 and Tops the Coding Agent Index",
+          "summary": "On 18 November Google released Gemini 4 Neon, the fourth Gemini 4 model in four weeks and the tier between Hydrogen and the Carbon/Argon flagships. Pricing is $3 per million input tokens, $15 per million output tokens and $0.15 per million cached input, with a context window of about one million tok",
+          "category": "Models",
+          "tags": [
+            "Google",
+            "Gemini",
+            "Model Release",
+            "Pricing",
+            "Benchmarks"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "China Telecom's Xing4 Trains a 285B Agentic MoE Entirely on 8,192 Ascend 910C NPUs",
+          "summary": "On 17 November China Telecom's TeleChat lab posted the technical report for Xing4 (arXiv 2611.22115), which trended on Hugging Face daily papers on 18 November. The headline claim is not the parameter count but the substrate: a 285B-parameter agentic MoE (285B total, 17B active) pretrained end to en",
+          "category": "Infrastructure",
+          "tags": [
+            "China Telecom",
+            "Huawei",
+            "Ascend",
+            "MindSpore",
+            "MoE",
+            "Open Weights",
+            "Training Stack"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "F5 Patches Two Pre-Auth HTTP/2 RCEs in nginx That AI-Assisted Audits Found",
+          "summary": "On 18 November F5 shipped out-of-cycle fixes for two critical pre-authentication remote code execution flaws in nginx: CVE-2026-123007, an integer underflow in HTTP/2 flow control where refunding unused credit wraps an unsigned counter and defeats a bounds check into an out-of-bounds copy, and CVE-2",
+          "category": "AI Safety",
+          "tags": [
+            "nginx",
+            "F5",
+            "CVE",
+            "Vulnerability Discovery",
+            "AI Security",
+            "Wiz"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "California Proposes State-Ordered Shutdowns, Baseline Standards and an RSI Cap",
+          "summary": "On 18 November Governor Newsom's office published an 85-page recommendations report, \"AI Safety in 2026 and Beyond,\" produced through the executive order he signed earlier this year. The proposals are unusually concrete for a state document: the state, not the companies, sets baseline safety standar",
+          "category": "AI Safety",
+          "tags": [
+            "California",
+            "AI Governance",
+            "Recursive Self-Improvement",
+            "Incident Reporting"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Anthropic Prices Its IPO at $83, Above Range, Hours After a Safety Rebuke",
+          "summary": "Anthropic priced its initial public offering at $83 per share on Wednesday, roughly 6% above the top of the $70–$78 range it set when the roadshow opened, with shares scheduled to begin trading on Nasdaq on Thursday under the ticker ANT. The offering was expected to be upsized, though Anthropic had ",
+          "category": "Industry",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "Nasdaq",
+            "Capital Commitments",
+            "AI Governance"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-18",
       "title": null,

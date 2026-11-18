@@ -529,7 +529,7 @@
     "last_seen": "2026-09-02"
   },
   "Anthropic": {
-    "appearances": 15,
+    "appearances": 16,
     "dates": [
       "2026-09-29",
       "2026-10-01",
@@ -545,10 +545,11 @@
       "2026-10-23",
       "2026-10-25",
       "2026-10-28",
-      "2026-11-10"
+      "2026-11-10",
+      "2026-11-19"
     ],
-    "last_seen": "2026-11-13",
-    "mention_count": 30,
+    "last_seen": "2026-11-19",
+    "mention_count": 31,
     "mentions": 29,
     "note": "Closed-model lab; shipped Claude Fable 5.2 and Mythos 5.2 with a 20% price cut ahead of its listing",
     "description": "prospectus discloses models crossed its own recursive self-improvement safety threshold",
@@ -1064,13 +1065,14 @@
     "mentions": 1
   },
   "California": {
-    "appearances": 1,
+    "appearances": 2,
     "dates": [
-      "2026-09-20"
+      "2026-09-20",
+      "2026-11-19"
     ],
     "first_seen": "2026-09-20",
-    "last_seen": "2026-11-18",
-    "mention_count": 1,
+    "last_seen": "2026-11-19",
+    "mention_count": 2,
     "mentions": 1,
     "note": "EO after vetoing a stricter audit-and-liability bill; SB 53, SB 813 and AB 1405 are its existing instruments",
     "count": 2
@@ -2295,7 +2297,7 @@
     "note": "signed an executive order accelerating third-party AI audits and floating a kill switch"
   },
   "Gemini": {
-    "appearances": 6,
+    "appearances": 7,
     "count": 1,
     "dates": [
       "2026-09-21",
@@ -2303,10 +2305,11 @@
       "2026-10-07",
       "2026-10-08",
       "2026-10-09",
-      "2026-10-10"
+      "2026-10-10",
+      "2026-11-19"
     ],
-    "last_seen": "2026-10-10",
-    "mention_count": 8,
+    "last_seen": "2026-11-19",
+    "mention_count": 9,
     "mentions": 6
   },
   "Gemini 3.8 Flash": {
@@ -2481,7 +2484,7 @@
     "count": 2
   },
   "Google": {
-    "appearances": 14,
+    "appearances": 13,
     "count": 9,
     "dates": [
       "2026-09-21",
@@ -2495,10 +2498,11 @@
       "2026-10-10",
       "2026-10-19",
       "2026-10-21",
-      "2026-11-10"
+      "2026-11-10",
+      "2026-11-19"
     ],
-    "last_seen": "2026-11-10",
-    "mention_count": 15,
+    "last_seen": "2026-11-19",
+    "mention_count": 16,
     "mentions": 12,
     "description": "reported TPU buyer OpenAI; TPU v8 8t/8i co-designed with Broadcom",
     "note": "Added TPU 8tx with hardware-enforced confidential computing and dual-chip TPU 8i Max"
@@ -2787,15 +2791,16 @@
     "mention_count": 1
   },
   "Huawei": {
-    "appearances": 5,
+    "appearances": 4,
     "count": 4,
     "dates": [
       "2026-09-24",
       "2026-10-02",
-      "2026-10-21"
+      "2026-10-21",
+      "2026-11-19"
     ],
-    "last_seen": "2026-11-17",
-    "mention_count": 4,
+    "last_seen": "2026-11-19",
+    "mention_count": 5,
     "mentions": 2
   },
   "Hugging Face": {
@@ -6444,12 +6449,13 @@
     "mentions": 2
   },
   "Wiz": {
-    "appearances": 1,
+    "appearances": 2,
     "dates": [
-      "2026-10-23"
+      "2026-10-23",
+      "2026-11-19"
     ],
-    "last_seen": "2026-10-23",
-    "mention_count": 1,
+    "last_seen": "2026-11-19",
+    "mention_count": 2,
     "mentions": 1
   },
   "Workiva": {
@@ -7918,5 +7924,18 @@
     "count": 1,
     "description": "deepseek-ai official static chat client, MIT, no backend, browser connects directly to API via Anthropic-compatible Messages/Files endpoints",
     "last_seen": "2026-11-18"
+  },
+  "2026-11-19": {
+    "Google": "Gemini 4 Neon at $3/$15, 1M context, AAII 61 third overall and first on AAII Coding Agent Index, four thinking levels, 32% lower cost per task than Carbon claimed",
+    "Gemini 4 Neon": "fourth Gemini 4 model in four weeks; middle tier between Hydrogen and Carbon/Argon; undercuts Carbon standard $4/$20 by 25% from Dec 1",
+    "China Telecom": "TeleChat lab published Xing4 technical report, 285B-A17B agentic MoE pretrained on 8,192 Ascend 910C with MindSpore HyperParallel, no GPU or CUDA",
+    "Huawei": "Ascend 910C as the substrate for a 285B frontier-scale pretraining run; 8,192-NPU mesh without pipeline parallelism",
+    "nginx": "CVE-2026-123007 (HTTP/2 flow-control integer underflow, present since 1.9.5 in 2015) and CVE-2026-123633, both CVSS 4.0 9.2 pre-auth RCE; fixed in 1.31.9 and 1.30.7",
+    "F5": "out-of-cycle patch release on 18 Nov for two pre-auth nginx RCEs plus NGINX Plus 37.0.8.1 and 37.3.0.1",
+    "Wiz": "Wiz Atlas harness discovered both nginx HTTP/2 RCEs and validated impact with Gemini 4 Carbon and ChatGPT 5.6 Sol; built PoCs but withheld them",
+    "Xint": "automated scan found four of five nginx2root CVEs with GPT-6.1 Sol and GPT-6 Luna in ~90 minutes for ~$1,000 of tokens",
+    "California": "85-page AI safety recommendations: state-set baseline standards, independent testing at all stages, emergency shutdown authority, cap on recursive self-improvement, embedded monitors",
+    "Anthropic": "IPO priced at $83 per share, ~6% above the $70-78 range; Nasdaq debut Thursday as ANT; upsizing expected; $26B private placement from seven chip and cloud suppliers",
+    "CAIS": "MisAnthropic Statement published hours before pricing, signed by Hart, Pearl, Pinker, Lessig, Tegmark, Hendrycks, Wolf and Hotz"
   }
 }

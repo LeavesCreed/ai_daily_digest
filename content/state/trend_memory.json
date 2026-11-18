@@ -346,8 +346,8 @@
     "strength": "emerging"
   },
   "ai_cybersecurity_threat_timeline": {
-    "description": "Offensive capability timelines keep compressing: a vendor research model now writes working exploit chains across five platforms, congressional committees demand 48-hour incident notice, and defenders are pressed to scan their own code before models find it for them.",
-    "last_updated": "2026-11-14",
+    "description": "AI-assisted code audit now lands pre-auth RCEs in decade-old code in mature projects; the nginx HTTP/2 pair follows GitHub and Microsoft disclosures within a week, moving discovery from red team to automated scan.",
+    "last_updated": "2026-11-19",
     "status": "critical",
     "strength": "high"
   },
@@ -412,9 +412,9 @@
     "strength": "emerging"
   },
   "ai_frontier_model_price_war": {
-    "description": "Price competition now runs in both directions at once. Anthropic cut Fable 5.2 to $8/$40 (20% under GPT-6 Astra, cached input $0.20 vs $1.00) while claiming Opus 5.5-level results at half the cost per task; Meta put Muse Ember at $0.10/M input, matching DeepSeek V4.1 Flash and GLM 5.3 Flash. The axis is cost per completed agent task, and the executor tier is converging toward the Chinese open-weight floor.",
+    "description": "Gemini 4 Neon shifts the fight from per-token rates to cost per completed task, explicitly claiming 32 percent lower cost than Carbon at default high thinking while undercutting the flagship tiers by 25 percent once promotional pricing ends.",
     "first_seen": "2026-10-20",
-    "last_updated": "2026-11-10",
+    "last_updated": "2026-11-19",
     "status": "critical",
     "strength": "critical"
   },
@@ -440,9 +440,9 @@
     "note": "AI Kill Switch Act and White House 30-day pre-review framework advancing"
   },
   "ai_governance_enforcement_phase": {
-    "description": "Enforcement keeps arriving through indirect instruments, and Oct 26 added the procurement layer: a municipal school system published an enumerable list of removed products, showing that buying decisions now function as AI policy.",
+    "description": "California escalates from disclosure to capability control, proposing emergency shutdown authority and an RSI cap while the federal government argues states should not regulate; enforcement now runs through state agencies, verification bodies and pre-IPO disclosure.",
     "first_seen": "2026-06-15",
-    "last_updated": "2026-11-17",
+    "last_updated": "2026-11-19",
     "status": "critical",
     "strength": "high"
   },
@@ -601,8 +601,8 @@
     "strength": "strong"
   },
   "ai_ipo_valuation_escalation": {
-    "description": "Anthropic targets $2T+ IPO (Oct), largest in history; TAM claim $30T; annualized revenue $46.4B exceeds OpenAI | 2026-09-20: Anthropic run rate topped $65B by end of July (from ~$9B at end of 2025) with 2028 revenue projected at $190-200B, and is weighing a pre-IPO model release to counter GPT-6 Astra's enterprise momentum.",
-    "last_updated": "2026-09-20",
+    "description": "Anthropic priced above range at $83 with a $26 billion strategic placement, pushing the listing into the $1.5-1.6 trillion band and making compute suppliers into shareholders at the moment of the first frontier-lab listing.",
+    "last_updated": "2026-11-19",
     "status": "strong",
     "strength": "strong"
   },
@@ -1613,8 +1613,8 @@
     "updated": "2026-08-04"
   },
   "open_weight_geopolitical_export_track": {
-    "description": "China proposes a BRICS AI Open Source Zone and routes Global South demand through WAICO (Shanghai, 29 founding members) while the US debates open-weight export controls and distillation enforcement; 27 open-weight releases logged in August alone.",
-    "last_updated": "2026-09-15",
+    "description": "Xing4 publishes a no-CUDA pretraining stack with an open 29B-A4B checkpoint in the same week the US licenses remote compute access in five countries, giving the open-weight track a hardware-independence argument it did not have before.",
+    "last_updated": "2026-11-19",
     "strength": "strong"
   },
   "open_weight_geopolitics": {
@@ -2811,5 +2811,40 @@
     "last_updated": "2026-11-18",
     "status": "medium",
     "strength": "moderate"
+  },
+  "mid_tier_price_schedule_as_product": {
+    "description": "Google shipped Gemini 4 Neon at $3/$15, the fourth Gemini 4 model in four weeks, slotting a defensible middle band between Hydrogen ($1.50/$7.50) and Carbon/Argon (reverting to $4/$20 on Dec 1) and undercutting the flagships by 25 percent from that date. The pitch is cost per completed task rather than per token, which is the same metric enterprise buyers and IPO comparables now argue over.",
+    "first_seen": "2026-11-19",
+    "last_updated": "2026-11-19",
+    "status": "active",
+    "strength": "high"
+  },
+  "non_nvidia_frontier_training_recipe": {
+    "description": "China Telecom published Xing4, a 285B-A17B agentic MoE pretrained end to end on 8,192 Ascend 910C NPUs with MindSpore HyperParallel and no CUDA, plus a 29B-A4B open-weight sibling. The same week Washington extended licensing to remote compute access in five countries, which shifts the binding constraint from acquiring silicon to writing the training stack down.",
+    "first_seen": "2026-11-19",
+    "last_updated": "2026-11-19",
+    "status": "critical",
+    "strength": "high"
+  },
+  "ai_discovery_with_vendor_gated_disclosure": {
+    "description": "F5 patched two pre-auth HTTP/2 RCEs in nginx (CVSS 9.2) that Wiz Atlas and Xint automated scans found in code untouched since 2015; models compressed discovery to about 90 minutes and a four-figure token bill while vendors retained release timing, CVE assignment and exploit withholding. Third AI-assisted CVE cycle in a week after GitHub and Microsoft.",
+    "first_seen": "2026-11-19",
+    "last_updated": "2026-11-19",
+    "status": "active",
+    "strength": "high"
+  },
+  "state_shutdown_and_rsi_authority": {
+    "description": "California proposed state-set baseline standards, independent verification across training and deployment, verified containment protocols with emergency shutdown authority, and an explicit power to cap recursive self-improvement, plus 48-hour incident reporting and monitors embedded in labs. First statutory attempt to license RSI rather than merely disclose it.",
+    "first_seen": "2026-11-19",
+    "last_updated": "2026-11-19",
+    "status": "critical",
+    "strength": "high"
+  },
+  "retail_absorption_of_frontier_listings": {
+    "description": "Anthropic priced at $83, roughly 6 percent above its $70-78 range, with about $400 billion of institutional and $100 billion of retail interest cited and Vanda estimating ~$250 million net retail buying on debut, double the comparable SpaceX figure. Demand is absorbing a frontier listing at a valuation band of $1.5 to 1.6 trillion before any public track record exists.",
+    "first_seen": "2026-11-19",
+    "last_updated": "2026-11-19",
+    "status": "active",
+    "strength": "medium"
   }
 }
