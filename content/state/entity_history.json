@@ -205,14 +205,14 @@
   },
   "AMD": {
     "appearances": 4,
-    "count": 7,
+    "count": 8,
     "dates": [
       "2026-09-22",
       "2026-09-30",
       "2026-10-27",
       "2026-11-10"
     ],
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-20",
     "mention_count": 8,
     "mentions": 2,
     "description": "plans equity investment in PsiQuantum for quantum-classical infrastructure",
@@ -548,12 +548,12 @@
       "2026-11-10",
       "2026-11-19"
     ],
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "mention_count": 31,
     "mentions": 29,
     "note": "Closed-model lab; shipped Claude Fable 5.2 and Mythos 5.2 with a 20% price cut ahead of its listing",
     "description": "prospectus discloses models crossed its own recursive self-improvement safety threshold",
-    "count": 4
+    "count": 5
   },
   "Anthropic Fellows Program": {
     "count": 1,
@@ -932,7 +932,7 @@
   },
   "Broadcom": {
     "appearances": 6,
-    "count": 6,
+    "count": 7,
     "dates": [
       "2026-09-22",
       "2026-10-02",
@@ -941,7 +941,7 @@
       "2026-10-27",
       "2026-10-28"
     ],
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "mention_count": 4,
     "mentions": 2,
     "description": "co-designs Google TPUs and OpenAI Jalapeno accelerator"
@@ -1387,9 +1387,10 @@
     "dates": [
       "2026-09-29"
     ],
-    "last_seen": "2026-09-29",
+    "last_seen": "2026-11-20",
     "mention_count": 1,
-    "mentions": 1
+    "mentions": 1,
+    "count": 1
   },
   "ConnectWise": {
     "appearances": 1,
@@ -2485,7 +2486,7 @@
   },
   "Google": {
     "appearances": 13,
-    "count": 9,
+    "count": 10,
     "dates": [
       "2026-09-21",
       "2026-09-22",
@@ -2501,7 +2502,7 @@
       "2026-11-10",
       "2026-11-19"
     ],
-    "last_seen": "2026-11-19",
+    "last_seen": "2026-11-20",
     "mention_count": 16,
     "mentions": 12,
     "description": "reported TPU buyer OpenAI; TPU v8 8t/8i co-designed with Broadcom",
@@ -2645,10 +2646,10 @@
       "2026-10-01"
     ],
     "first_seen": "2026-07-06",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-20",
     "mention_count": 2,
     "mentions": 2,
-    "count": 2
+    "count": 3
   },
   "HCLTech": {
     "appearances": 1,
@@ -3624,12 +3625,12 @@
   },
   "MediaTek": {
     "appearances": 1,
-    "count": 1,
+    "count": 2,
     "dates": [
       "2026-10-04"
     ],
     "first_seen": "2026-09-01",
-    "last_seen": "2026-10-04",
+    "last_seen": "2026-11-20",
     "mention_count": 1,
     "mentions": 1
   },
@@ -3742,13 +3743,13 @@
   },
   "Micron": {
     "appearances": 2,
-    "count": 2,
+    "count": 3,
     "dates": [
       "2026-10-01",
       "2026-10-10"
     ],
     "first_seen": "2026-07-06",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-20",
     "mention_count": 4,
     "mentions": 4
   },
@@ -4198,8 +4199,8 @@
     "mentions": 1
   },
   "Nasdaq": {
-    "count": 2,
-    "last_seen": "2026-10-31",
+    "count": 3,
+    "last_seen": "2026-11-20",
     "mention_count": 1,
     "mentions": 1
   },
@@ -4494,7 +4495,7 @@
   },
   "Nvidia": {
     "appearances": 6,
-    "count": 5,
+    "count": 6,
     "dates": [
       "2026-09-21",
       "2026-09-22",
@@ -4502,7 +4503,7 @@
       "2026-10-03",
       "2026-10-07"
     ],
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-20",
     "mention_count": 8,
     "mentions": 4,
     "description": "invested $3B in Meta equity offering and widened Muse collaboration"
@@ -4749,9 +4750,10 @@
       "2026-09-29",
       "2026-10-23"
     ],
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-20",
     "mention_count": 3,
-    "mentions": 3
+    "mentions": 3,
+    "count": 1
   },
   "Pathway": {
     "count": 1,
@@ -7937,5 +7939,72 @@
     "California": "85-page AI safety recommendations: state-set baseline standards, independent testing at all stages, emergency shutdown authority, cap on recursive self-improvement, embedded monitors",
     "Anthropic": "IPO priced at $83 per share, ~6% above the $70-78 range; Nasdaq debut Thursday as ANT; upsizing expected; $26B private placement from seven chip and cloud suppliers",
     "CAIS": "MisAnthropic Statement published hours before pricing, signed by Hart, Pearl, Pinker, Lessig, Tegmark, Hendrycks, Wolf and Hotz"
-  }
+  },
+  "GAO": {
+    "count": 1,
+    "description": "Entity surfaced in 2026-11-20 digest",
+    "last_seen": "2026-11-20"
+  },
+  "Maggie Hassan": {
+    "count": 1,
+    "description": "Entity surfaced in 2026-11-20 digest",
+    "last_seen": "2026-11-20"
+  },
+  "SAFE AI Act": {
+    "count": 1,
+    "description": "Entity surfaced in 2026-11-20 digest",
+    "last_seen": "2026-11-20"
+  },
+  "Sanjay Mehrotra": {
+    "count": 1,
+    "description": "Entity surfaced in 2026-11-20 digest",
+    "last_seen": "2026-11-20"
+  },
+  "Applied Compute": {
+    "count": 1,
+    "description": "Entity surfaced in 2026-11-20 digest",
+    "last_seen": "2026-11-20"
+  },
+  "Yash Patil": {
+    "count": 1,
+    "description": "Entity surfaced in 2026-11-20 digest",
+    "last_seen": "2026-11-20"
+  },
+  "Ortelan": {
+    "count": 1,
+    "description": "Entity surfaced in 2026-11-20 digest",
+    "last_seen": "2026-11-20"
+  },
+  "Praus": {
+    "count": 1,
+    "description": "Entity surfaced in 2026-11-20 digest",
+    "last_seen": "2026-11-20"
+  },
+  "JUP-Eval": {
+    "count": 1,
+    "description": "Entity surfaced in 2026-11-20 digest",
+    "last_seen": "2026-11-20"
+  },
+  "2026-11-20": [
+    "Anthropic",
+    "Nasdaq",
+    "GAO",
+    "Congress",
+    "Maggie Hassan",
+    "SAFE AI Act",
+    "Micron",
+    "Sanjay Mehrotra",
+    "Google",
+    "MediaTek",
+    "Broadcom",
+    "HBM",
+    "Palo Alto Networks",
+    "Applied Compute",
+    "Yash Patil",
+    "Ortelan",
+    "Praus",
+    "JUP-Eval",
+    "Nvidia",
+    "AMD"
+  ]
 }

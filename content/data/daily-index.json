@@ -1,7 +1,123 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T23:19:25Z",
+  "generated_at": "2026-11-19T23:17:52Z",
   "entries": [
+    {
+      "date": "2026-11-20",
+      "title": "AI Daily Digest - 2026-11-20",
+      "summary": {
+        "en": "Anthropic closed the largest IPO in history at $83 per share and opened at $111.50, while Washington produced the evidence and the bill on the same day: a GAO covert audit got viable attack plans out of ChatGPT, Claude, Gemini and Grok in under twelve hours, and a bipartisan House trio released the SAFE AI Act outline. Memory turned into the binding constraint as Micron said 75% of 2027 HBM volume is already sold and Google moved to buy HBM directly for its MediaTek-built TPUs. Palo Alto Networks paid $4.5 billion in stock for open-weight post-training platform Applied Compute, and an open benchmark measured what assistants do after a user pushes back.",
+        "zh": "Anthropic 以每股 83 美元完成史上最大 IPO，并在首日以 111.50 美元开盘；同一天，华盛顿同时给出了证据与法案：GAO 的秘密审计让 ChatGPT、Claude、Gemini 与 Grok 在 12 小时内产出可行袭击方案，众议院跨党派三人组则放出 SAFE AI Act 大纲。内存成为新的硬约束：美光称 2027 年 HBM 产能已售出 75%，Google 转向为联发科代工的 TPU 直接采购 HBM。Palo Alto Networks 以 45 亿美元股票收购开放权重后训练平台 Applied Compute，另有一个公开基准专门测试用户反驳之后助手还守不守得住判断。"
+      },
+      "categories": [
+        "Industry",
+        "AI Safety",
+        "Infrastructure",
+        "Research"
+      ],
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "Nasdaq",
+        "Valuation",
+        "GAO",
+        "Congress",
+        "Safeguards",
+        "Regulation",
+        "HBM",
+        "Micron",
+        "Google",
+        "TPU",
+        "Broadcom",
+        "Palo Alto Networks",
+        "Applied Compute",
+        "Open Weights",
+        "Inference",
+        "Benchmark",
+        "Evaluation",
+        "Sycophancy"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-20.md",
+        "zh": "./content/daily_zh/2026-11-20.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Anthropic Completes the Largest IPO Ever and Opens 34% Above Its $83 Price",
+          "category": "Industry",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "Nasdaq",
+            "Claude",
+            "Valuation",
+            "Capital Markets"
+          ],
+          "summary": "Anthropic priced 980 million shares at $83 to raise $81.3 billion, then opened at $111.50 on Nasdaq under ANT for a roughly $1.5 trillion valuation."
+        },
+        {
+          "index": 2,
+          "title": "GAO Gets Viable Attack Plans Out of Four Chatbots; House Trio Releases the SAFE AI Act Outline",
+          "category": "AI Safety",
+          "tags": [
+            "GAO",
+            "Congress",
+            "Frontier AI",
+            "Safeguards",
+            "Jailbreak",
+            "Regulation",
+            "Incident Reporting"
+          ],
+          "summary": "GAO's first covert audit got workable attack plans from ChatGPT, Claude, Gemini and Grok in under twelve hours; a bipartisan trio released the SAFE AI Act outline the next day."
+        },
+        {
+          "index": 3,
+          "title": "Micron Says 75% of 2027 HBM Is Already Sold as Google Moves to Buy Memory Directly",
+          "category": "Infrastructure",
+          "tags": [
+            "HBM",
+            "Micron",
+            "Google",
+            "TPU",
+            "Broadcom",
+            "Memory",
+            "Supply Chain"
+          ],
+          "summary": "Micron says 75% of 2027 HBM volume is already committed and supply tightens further in 2028, while Google moves to buy HBM directly for MediaTek-built TPUs."
+        },
+        {
+          "index": 4,
+          "title": "Palo Alto Networks Buys Open-Weight Post-Training Platform Applied Compute for $4.5 Billion",
+          "category": "Industry",
+          "tags": [
+            "Palo Alto Networks",
+            "Applied Compute",
+            "Open Weights",
+            "Post-Training",
+            "Inference",
+            "Security",
+            "Acquisition"
+          ],
+          "summary": "Palo Alto Networks will pay $4.5 billion in stock for Applied Compute, an open-weight post-training and inference platform founded by ex-OpenAI researchers."
+        },
+        {
+          "index": 5,
+          "title": "JUP-Eval Measures What Assistants Do After You Push Back, and an Open-Model Router Tops It",
+          "category": "Research",
+          "tags": [
+            "Benchmark",
+            "Evaluation",
+            "Sycophancy",
+            "Judgment",
+            "Open Source",
+            "Routing"
+          ],
+          "summary": "Ortelan's open JUP-Eval grades the turn after a user pushes back; its open-model router Praus topped nine frontier models at 98.52 with fully recomputable scores."
+        }
+      ]
+    },
     {
       "date": "2026-11-19",
       "title": "AI Daily Digest - 2026-11-19",
