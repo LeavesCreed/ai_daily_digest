@@ -347,7 +347,7 @@
   },
   "ai_cybersecurity_threat_timeline": {
     "description": "AI-assisted code audit now lands pre-auth RCEs in decade-old code in mature projects; the nginx HTTP/2 pair follows GitHub and Microsoft disclosures within a week, moving discovery from red team to automated scan.",
-    "last_updated": "2026-11-19",
+    "last_updated": "2026-11-22",
     "status": "critical",
     "strength": "high"
   },
@@ -442,7 +442,7 @@
   "ai_governance_enforcement_phase": {
     "description": "California escalates from disclosure to capability control, proposing emergency shutdown authority and an RSI cap while the federal government argues states should not regulate; enforcement now runs through state agencies, verification bodies and pre-IPO disclosure.",
     "first_seen": "2026-06-15",
-    "last_updated": "2026-11-19",
+    "last_updated": "2026-11-22",
     "status": "critical",
     "strength": "high"
   },
@@ -2921,6 +2921,48 @@
     "description": "Anthropic's greenshoe lifts total proceeds to $93.5 billion while the stock slides nearly 10% the next session and the Nasdaq erases its 2026 gains, widening the gap between primary-market demand and secondary-market pricing of AI infrastructure.",
     "first_seen": "2026-11-21",
     "last_updated": "2026-11-21",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "agent_discovered_zero_day_in_live_intrusion": {
+    "description": "Adversary-controlled agents moving from chaining documented bugs to discovering and weaponizing previously unknown vulnerabilities during live intrusions: Amazon reports a China-nexus actor's Cairn agents found a path-traversal zero-day in MONAI Label, wrote arbitrary files within about eleven minutes and later obtained root, then pivoted to a second university network.",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "critical",
+    "strength": "critical"
+  },
+  "retention_promise_unverifiable_past_first_hop": {
+    "description": "Privacy and retention commitments in the inference supply chain failing measurement: Dragos' two-million-prompt canary audit found at least three providers compromised, marketplace resellers reading prompts via standard logging, and a Chinese lab fetching secret URLs from more than half of prompts including most marked Zero Data Retention.",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "critical",
+    "strength": "critical"
+  },
+  "export_control_moves_to_node_presumption": {
+    "description": "Export enforcement shifting from entity lists to process-node presumptions and burden-of-proof reversal: the Commerce remote-access rule effective November 19 led TSMC and Samsung to suspend previously permitted 16nm-and-below orders from Chinese designers, with licence queues becoming the binding constraint.",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "looped_depth_over_parameter_scale": {
+    "description": "Efficiency frontier defined by depth per token rather than parameter count: Thinking Machines' Inkling 2 Mini runs its middle layers three times per token to reach 26.4B total / 3.4B active with a 1M context in roughly 20GB, landing within a few questions of larger U.S. open-weight models on a third-party data-analysis exam.",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "executable_objections_as_review_primitive": {
+    "description": "Agent research ecosystems turning peer-review objections into runnable tests: in the Agent AlphaXiv experiment, converting 156 major reviewer objections into executable checks overturned 77 headline conclusions, reframing autonomous science as a verification rather than generation problem.",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "compaction_as_distinct_model_ability": {
+    "description": "Working-context compaction treated as a measurable capability gap: CompAct-Bench shows frontier models remain highly lossy under aggressive compaction, and failures include distorted task state such as unresolved issues flipped into apparent conclusions, not just omitted facts.",
+    "first_seen": "2026-11-22",
+    "last_updated": "2026-11-22",
     "status": "strong",
     "strength": "strong"
   }

@@ -1060,9 +1060,10 @@
     "dates": [
       "2026-10-20"
     ],
-    "last_seen": "2026-10-20",
+    "last_seen": "2026-11-22",
     "mention_count": 1,
-    "mentions": 1
+    "mentions": 1,
+    "count": 2
   },
   "California": {
     "appearances": 2,
@@ -1378,9 +1379,9 @@
     "mention_count": 1
   },
   "Commerce Department": {
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-07-06",
-    "last_seen": "2026-11-17",
+    "last_seen": "2026-11-22",
     "mention_count": 1
   },
   "Congress": {
@@ -4882,8 +4883,8 @@
     "last_seen": "2026-09-02"
   },
   "Prime Intellect": {
-    "count": 1,
-    "last_seen": "2026-07-09"
+    "count": 2,
+    "last_seen": "2026-11-22"
   },
   "Prior Labs": {
     "appearances": 1,
@@ -5355,11 +5356,11 @@
   },
   "Samsung": {
     "appearances": 1,
-    "count": 4,
+    "count": 5,
     "dates": [
       "2026-10-10"
     ],
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-11-22",
     "mention_count": 2,
     "mentions": 1
   },
@@ -5918,9 +5919,9 @@
   },
   "TSMC": {
     "appearances": 1,
-    "count": 3,
+    "count": 4,
     "first_seen": "2026-07-11",
-    "last_seen": "2026-09-16"
+    "last_seen": "2026-11-22"
   },
   "TabPFN-3.5": {
     "appearances": 1,
@@ -7534,9 +7535,9 @@
     "last_seen": "2026-11-14"
   },
   "Tinker": {
-    "count": 1,
+    "count": 2,
     "description": "Thinking Machines hosted fine-tuning and sampling platform",
-    "last_seen": "2026-11-14"
+    "last_seen": "2026-11-22"
   },
   "Mira Murati": {
     "count": 1,
@@ -8029,5 +8030,67 @@
     "Trump",
     "Nasdaq",
     "Google"
-  ]
+  ],
+  "2026-11-22": [
+    "Amazon Threat Intelligence",
+    "Cairn",
+    "MONAI Label",
+    "Dragos",
+    "HD Moore",
+    "Thinking Machines",
+    "Inkling 2 Mini",
+    "AlphaXiv",
+    "TSMC",
+    "Samsung",
+    "Commerce Department",
+    "Zero Data Retention",
+    "Tinker",
+    "Plotly",
+    "Prime Intellect"
+  ],
+  "Amazon Threat Intelligence": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-22"
+  },
+  "MONAI Label": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-22"
+  },
+  "Dragos": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-22"
+  },
+  "HD Moore": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-22"
+  },
+  "Thinking Machines": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-22"
+  },
+  "Inkling 2 Mini": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-22"
+  },
+  "AlphaXiv": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-22"
+  },
+  "Zero Data Retention": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-22"
+  },
+  "Plotly": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-22"
+  }
 }

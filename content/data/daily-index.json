@@ -1,7 +1,117 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T23:15:31Z",
+  "generated_at": "2026-11-21T23:18:12Z",
   "entries": [
+    {
+      "date": "2026-11-22",
+      "title": "AI Daily Digest - 2026-11-22",
+      "summary": {
+        "en": "Attackers' agents went from chaining known bugs to finding a new one: Amazon says a China-nexus actor used open-source Cairn agents to map MONAI Label, discover a path-traversal zero-day and get a root shell in about eleven minutes. Dragos seeded two million prompts with canary secrets and found three inference providers compromised, marketplace resellers reading customer prompts with standard logging, and Zero Data Retention ignored downstream. TSMC and Samsung began suspending previously permitted 16nm-and-below orders from Chinese designers as the Commerce Department's remote-access rule took effect. Thinking Machines released Inkling 2 Mini's weights, and the Agent AlphaXiv experiment reports 936 agents publishing 936 preprints in twelve weeks.",
+        "zh": "攻方的智能体从串联已知漏洞进化到现场发现新漏洞：Amazon 称一个中国关联行为体用开源的 Cairn 智能体摸清 MONAI Label，自主发现路径穿越零日并在约十一分钟内拿到 root。Dragos 用两百万条带金丝雀的提示词做审计，发现三家推理服务商被入侵、市场上转售商用标准日志就能看到客户提示词、Zero Data Retention 在第二跳就被无视。Commerce 远程访问规则生效后，TSMC 与三星开始暂停此前允许的 16nm 及以下中国客户订单。Thinking Machines 放出 Inkling 2 Mini 权重；Agent AlphaXiv 实验称 936 个智能体在十二周内产出 936 篇预印本。"
+      },
+      "categories": [
+        "AI Safety",
+        "Industry",
+        "Infrastructure",
+        "Models",
+        "Research"
+      ],
+      "tags": [
+        "Cairn",
+        "MONAI Label",
+        "Zero-Day",
+        "Amazon Threat Intelligence",
+        "Agentic Exploitation",
+        "Medical Imaging",
+        "Dragos",
+        "Canary Tokens",
+        "Inference Marketplace",
+        "Zero Data Retention",
+        "Data Privacy",
+        "Thinking Machines",
+        "Inkling 2 Mini",
+        "Looped Transformer",
+        "Open Weights",
+        "AlphaXiv",
+        "Autonomous Science",
+        "Peer Review",
+        "Agent Research",
+        "TSMC",
+        "Samsung",
+        "Export Controls",
+        "BIS"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-22.md",
+        "zh": "./content/daily_zh/2026-11-22.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Amazon: Cairn Agents Found a MONAI Label Zero-Day and Had Root in About Eleven Minutes",
+          "summary": "Amazon Threat Intelligence published an account on November 20 of a campaign it detected in September, in which a suspected China-nexus actor ran the open-source Cairn framework — a legitimate platform for autonomous penetration-testing agents — against internet-exposed instances of MONAI Label, an open-source tool for AI-assisted annotation of medical images.",
+          "category": "AI Safety",
+          "tags": [
+            "Cairn",
+            "MONAI Label",
+            "Zero-Day",
+            "Amazon Threat Intelligence",
+            "Agentic Exploitation",
+            "Medical Imaging"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Dragos Seeded Two Million Prompts With Canaries and Found Three Inference Providers Compromised",
+          "summary": "Dragos chief research officer HD Moore published a study on November 19 built on roughly two million prompts sent to widely used inference services between July and November 2026, each carrying canary material: a working AWS key tied to an empty account with full logging, a DNS name, and a URL, all unique per request so that any hit maps back to the exact prompt, model, router and privacy setting that carried it.",
+          "category": "Infrastructure",
+          "tags": [
+            "Dragos",
+            "Canary Tokens",
+            "Inference Marketplace",
+            "Zero Data Retention",
+            "Data Privacy"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Thinking Machines Puts Inkling 2 Mini Weights Out at 26.4B in a Laptop Footprint",
+          "summary": "Thinking Machines released Inkling 2 Mini on November 20 with open weights on Hugging Face under Apache 2.0: a looped-transformer mixture-of-experts model with 26.4 billion total parameters and 3.4 billion active, a one-million-token context window, and text-plus-image input with text output, in a memory footprint of roughly 20GB that the company demonstrated running offline on a MacBook Pro.",
+          "category": "Models",
+          "tags": [
+            "Thinking Machines",
+            "Inkling 2 Mini",
+            "Looped Transformer",
+            "Open Weights"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Agent AlphaXiv: 936 Agents Published 936 Preprints in Twelve Weeks, and Most Headline Claims Did Not Survive Testing",
+          "summary": "A preprint describing the Agent AlphaXiv experiment reports what happened when 936 autonomous agents, released by 35 human-run laboratories including Stanford, MIT and ETH Zurich, were given an isolated research ecosystem with its own preprint server for twelve weeks starting in mid-August.",
+          "category": "Research",
+          "tags": [
+            "AlphaXiv",
+            "Autonomous Science",
+            "Peer Review",
+            "Agent Research"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "TSMC and Samsung Suspend Some 16nm-and-Below Orders From Chinese Designers as the Remote-Access Rule Bites",
+          "summary": "The Commerce Department's interim final rule on remote access to advanced semiconductors took effect on November 19, and foundries moved within hours.",
+          "category": "Industry",
+          "tags": [
+            "TSMC",
+            "Samsung",
+            "Export Controls",
+            "BIS"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-21",
       "title": "AI Daily Digest - 2026-11-21",
