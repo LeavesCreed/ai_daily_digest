@@ -2888,5 +2888,40 @@
     "last_updated": "2026-11-20",
     "status": "emerging",
     "strength": "emerging"
+  },
+  "unverified_millennium_claims_as_marketing_risk": {
+    "description": "Frontier labs publishing unverified Millennium-Prize-scale mathematical claims timed against corporate events: Anthropic's Levent Alpöge releases a Lean-only generalized Riemann hypothesis claim the day after the Nasdaq listing, with the Clay Institute requiring journal publication plus two years of scrutiny and no third-party check in place.",
+    "first_seen": "2026-11-21",
+    "last_updated": "2026-11-21",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "orbital_collateral_as_credit_risk": {
+    "description": "SpaceX pricing roughly $44 billion of GPU-backed notes while lenders push covenants restricting whether the collateral may be launched into orbit, making asset recoverability in space a explicit term in AI compute financing.",
+    "first_seen": "2026-11-21",
+    "last_updated": "2026-11-21",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "sovereign_open_weight_industrial_policy": {
+    "description": "US legislative branch moves from export controls to industrial policy for open weights: a House report says Cursor will explore phasing out Chinese open-weight models and recommends a national American open-weight program with shared compute and evaluation.",
+    "first_seen": "2026-11-21",
+    "last_updated": "2026-11-21",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "datacenter_export_restriction_politics": {
+    "description": "Trump threatens to bar US companies from building AI data centers abroad and to levy large taxes, naming Google's 1.3 billion euro Finland project, without specifying any mechanism.",
+    "first_seen": "2026-11-21",
+    "last_updated": "2026-11-21",
+    "status": "weak",
+    "strength": "weak"
+  },
+  "ipo_oversubscription_versus_secondary_market": {
+    "description": "Anthropic's greenshoe lifts total proceeds to $93.5 billion while the stock slides nearly 10% the next session and the Nasdaq erases its 2026 gains, widening the gap between primary-market demand and secondary-market pricing of AI infrastructure.",
+    "first_seen": "2026-11-21",
+    "last_updated": "2026-11-21",
+    "status": "strong",
+    "strength": "strong"
   }
 }

@@ -1,7 +1,124 @@
 {
   "version": 1,
-  "generated_at": "2026-11-19T23:17:52Z",
+  "generated_at": "2026-11-21T23:15:31Z",
   "entries": [
+    {
+      "date": "2026-11-21",
+      "title": "AI Daily Digest - 2026-11-21",
+      "summary": {
+        "en": "An Anthropic mathematician claims Claude produced a proof of the generalized Riemann hypothesis, released only as Lean code and unverified by outsiders. SpaceX priced $44 billion of GPU-backed notes with a covenant struggle over whether the collateral may be launched into orbit, and a House report says Cursor will explore phasing out Chinese open-weight models while recommending a national American open-weight initiative. Trump threatened to bar US firms from building data centers abroad, and Anthropic's greenshoe closed at $93.5 billion as the Nasdaq erased its 2026 gains.",
+        "zh": "Anthropic 一位数学家声称 Claude 给出了广义黎曼猜想的证明，只放出 Lean 代码，尚无第三方验证。SpaceX 定价约 440 亿美元 GPU 抵押票据，放款人试图写入条款禁止把抵押芯片送上轨道；众议院报告称 Cursor 将探讨淘汰中国开源权重模型，并建议建立美国国家开源权重计划。特朗普威胁禁止美国公司在海外建 AI 数据中心，Anthropic 超额配售把募资总额推到 935 亿美元，同期纳指抹平全年涨幅。"
+      },
+      "categories": [
+        "AI Safety",
+        "Industry",
+        "Infrastructure",
+        "Research"
+      ],
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Riemann Hypothesis",
+        "Lean",
+        "Formal Verification",
+        "Mathematics",
+        "SpaceX",
+        "Nvidia",
+        "Vera Rubin",
+        "GPU-backed Financing",
+        "Project Saturn",
+        "Data Centers",
+        "Cursor",
+        "Moonshot AI",
+        "Kimi",
+        "Open Weights",
+        "US House",
+        "Export Controls",
+        "Trump",
+        "Google",
+        "Policy",
+        "Midterms",
+        "IPO",
+        "Nasdaq",
+        "Market Selloff",
+        "Compute Commitments"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-21.md",
+        "zh": "./content/daily_zh/2026-11-21.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Anthropic Mathematician Claims Claude Proved the Generalized Riemann Hypothesis, Releasing Only Lean Code",
+          "summary": "On Friday, November 20, Levent Alpöge, a mathematician on the technical staff at Anthropic, posted a four-page note on his personal site stating \"I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis,\" and saying the method also resolves the generalized and extended forms of the conjecture.",
+          "category": "Research",
+          "tags": [
+            "Anthropic",
+            "Claude",
+            "Riemann Hypothesis",
+            "Lean",
+            "Formal Verification",
+            "Mathematics"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "SpaceX Prices $44 Billion of GPU-Backed Notes, Lenders Try to Bar Sending the Collateral to Orbit",
+          "summary": "On November 20, Apollo announced that SpaceX had priced roughly $44 billion in senior and subordinated notes to fund purchases of Nvidia Vera Rubin systems and related data center equipment, upsized from an initial $40 billion target and described by arrangers as the largest GPU-backed financing on record, led by Apollo and Goldman Sachs.",
+          "category": "Infrastructure",
+          "tags": [
+            "SpaceX",
+            "Nvidia",
+            "Vera Rubin",
+            "GPU-backed Financing",
+            "Project Saturn",
+            "Data Centers"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "House Report: Cursor Will Explore Dropping Chinese Open-Weight Models, and Washington Should Build Its Own",
+          "summary": "On November 20, CNBC reported that a joint report by the House Committee on Homeland Security and the House Select Committee on China, following a months-long investigation into Chinese AI model adoption in the American tech stack, says Cursor plans to \"explore phasing out PRC-developed open-weight models because of geopolitical risk,\" and that Cursor informed the committees of that plan.",
+          "category": "AI Safety",
+          "tags": [
+            "Cursor",
+            "Moonshot AI",
+            "Kimi",
+            "Open Weights",
+            "US House",
+            "Export Controls"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Trump Says He Will Ban US Companies From Building AI Data Centers Abroad",
+          "summary": "Speaking to reporters after returning from Asia, President Trump said he would bar US companies from building AI data centers outside the country and threatened a \"tremendous tax\" for firms that do, adding \"we're going to keep it all in this country\" and, of the cabinet officials present, \"I haven't even said that to my people.",
+          "category": "AI Safety",
+          "tags": [
+            "Trump",
+            "Data Centers",
+            "Google",
+            "Policy",
+            "Midterms"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Anthropic's Greenshoe Takes the IPO to $93.5 Billion as the Stock Slides and the Nasdaq Erases 2026",
+          "summary": "Anthropic's underwriters exercised the overallotment in full, taking total proceeds to $93.5 billion from the $81.3 billion raised at pricing, according to a company release on November 20.",
+          "category": "Industry",
+          "tags": [
+            "Anthropic",
+            "IPO",
+            "Nasdaq",
+            "Market Selloff",
+            "Compute Commitments"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-20",
       "title": "AI Daily Digest - 2026-11-20",

@@ -548,12 +548,12 @@
       "2026-11-10",
       "2026-11-19"
     ],
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "mention_count": 31,
     "mentions": 29,
     "note": "Closed-model lab; shipped Claude Fable 5.2 and Mythos 5.2 with a 20% price cut ahead of its listing",
     "description": "prospectus discloses models crossed its own recursive self-improvement safety threshold",
-    "count": 5
+    "count": 6
   },
   "Anthropic Fellows Program": {
     "count": 1,
@@ -1196,10 +1196,11 @@
       "2026-10-08",
       "2026-10-18"
     ],
-    "last_seen": "2026-10-18",
+    "last_seen": "2026-11-21",
     "mention_count": 3,
     "mentions": 2,
-    "note": "Solved the 25-year NIST curve seed question in under 30 minutes per Anthropic's Frontier Red Team"
+    "note": "Solved the 25-year NIST curve seed question in under 30 minutes per Anthropic's Frontier Red Team",
+    "count": 2
   },
   "Claude Code": {
     "appearances": 2,
@@ -1514,9 +1515,9 @@
     "mentions": 1
   },
   "Cursor": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-08-30",
-    "last_seen": "2026-08-30"
+    "last_seen": "2026-11-21"
   },
   "D-Wave": {
     "count": 1,
@@ -1579,13 +1580,13 @@
   },
   "Dario Amodei": {
     "appearances": 3,
-    "count": 2,
+    "count": 3,
     "dates": [
       "2026-09-20",
       "2026-09-21",
       "2026-09-30"
     ],
-    "last_seen": "2026-09-30",
+    "last_seen": "2026-11-21",
     "mention_count": 5,
     "mentions": 3,
     "note": "his September 12 pacing essay is cited as the coordination event in the antitrust complaint"
@@ -2486,7 +2487,7 @@
   },
   "Google": {
     "appearances": 13,
-    "count": 10,
+    "count": 11,
     "dates": [
       "2026-09-21",
       "2026-09-22",
@@ -2502,7 +2503,7 @@
       "2026-11-10",
       "2026-11-19"
     ],
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "mention_count": 16,
     "mentions": 12,
     "description": "reported TPU buyer OpenAI; TPU v8 8t/8i co-designed with Broadcom",
@@ -3289,11 +3290,11 @@
   },
   "Lean": {
     "appearances": 2,
-    "count": 2,
+    "count": 3,
     "dates": [
       "2026-10-08"
     ],
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-21",
     "mention_count": 2,
     "mentions": 1
   },
@@ -3307,8 +3308,8 @@
     "last_seen": "2026-07-31"
   },
   "Levent Alpöge": {
-    "count": 1,
-    "last_seen": "2026-08-07"
+    "count": 2,
+    "last_seen": "2026-11-21"
   },
   "Light Society": {
     "first_seen": "2026-08-15",
@@ -3952,14 +3953,14 @@
   },
   "Moonshot AI": {
     "appearances": 5,
-    "count": 12,
+    "count": 13,
     "dates": [
       "2026-10-01",
       "2026-10-17",
       "2026-10-24"
     ],
     "description": "Kimi K3 launched, 0B IPO",
-    "last_seen": "2026-10-24",
+    "last_seen": "2026-11-21",
     "mention_count": 3,
     "mentions": 3
   },
@@ -4199,8 +4200,8 @@
     "mentions": 1
   },
   "Nasdaq": {
-    "count": 3,
-    "last_seen": "2026-11-20",
+    "count": 4,
+    "last_seen": "2026-11-21",
     "mention_count": 1,
     "mentions": 1
   },
@@ -4495,7 +4496,7 @@
   },
   "Nvidia": {
     "appearances": 6,
-    "count": 6,
+    "count": 7,
     "dates": [
       "2026-09-21",
       "2026-09-22",
@@ -4503,7 +4504,7 @@
       "2026-10-03",
       "2026-10-07"
     ],
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "mention_count": 8,
     "mentions": 4,
     "description": "invested $3B in Meta equity offering and widened Muse collaboration"
@@ -5657,12 +5658,12 @@
   },
   "SpaceX": {
     "appearances": 3,
-    "count": 7,
+    "count": 8,
     "dates": [
       "2026-10-05",
       "2026-10-08"
     ],
-    "last_seen": "2026-11-13",
+    "last_seen": "2026-11-21",
     "mention_count": 3,
     "mentions": 2,
     "description": "announced two AI supercomputing campuses in Texas and Arizona, over $74B combined"
@@ -6125,14 +6126,14 @@
   },
   "Trump": {
     "appearances": 4,
-    "count": 1,
+    "count": 2,
     "dates": [
       "2026-09-24",
       "2026-09-28",
       "2026-09-30",
       "2026-10-05"
     ],
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-11-21",
     "mention_count": 5,
     "mentions": 4
   },
@@ -6362,12 +6363,12 @@
   },
   "Vera Rubin": {
     "appearances": 1,
-    "count": 3,
+    "count": 4,
     "dates": [
       "2026-10-23"
     ],
     "first_seen": "2026-08-05",
-    "last_seen": "2026-10-23",
+    "last_seen": "2026-11-21",
     "mention_count": 1,
     "mentions": 1
   },
@@ -8006,5 +8007,27 @@
     "JUP-Eval",
     "Nvidia",
     "AMD"
+  ],
+  "2026-11-21": [
+    "Levent Alpöge",
+    "Anthropic",
+    "Claude",
+    "Riemann Hypothesis",
+    "Lean",
+    "Scott Aaronson",
+    "Clay Mathematics Institute",
+    "Dario Amodei",
+    "SpaceX",
+    "Nvidia",
+    "Vera Rubin",
+    "Project Saturn",
+    "GPU-backed Financing",
+    "Cursor",
+    "Moonshot AI",
+    "Kimi",
+    "US House",
+    "Trump",
+    "Nasdaq",
+    "Google"
   ]
 }
