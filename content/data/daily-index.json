@@ -1,7 +1,116 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T23:18:12Z",
+  "generated_at": "2026-11-22T23:17:45Z",
   "entries": [
+    {
+      "date": "2026-11-23",
+      "title": "AI Daily Digest - 2026-11-23",
+      "summary": {
+        "en": "The Lean and Mathlib communities certified that Alpöge's Claude-assisted Riemann Hypothesis proof states and proves the real theorem, closing the one gap the announcement itself could not close. OpenAI published its models' pretraining log-perplexity and proposed industry-wide thresholds. Two agent security disclosures landed together: NebuSec's three-stage chain through Meta Muse's Sentinel egress gate, and OpenRouter off-boarding three inference providers while removing 125 endpoints from Zero Data Retention after Dragos' canary audit. China's AI equity trade shed about $1.7 trillion in market value since June.",
+        "zh": "Lean 与 Mathlib 社区联合认证 Alpöge 那份 Claude 辅助的黎曼猜想证明：陈述就是 Mathlib 里那个真陈述，证明也确实证出了它，原始公告里没能自己闭合的那一个缺口由此补上。OpenAI 首次公开预训练 log-perplexity 数值并提出行业共同上限。智能体安全同日两起：NebuSec 三段式绕过 Meta Muse 的 Sentinel 出网闸门直达 VM root；OpenRouter 在 Dragos 金丝雀审计之后下线三家推理供应商，并把 125 个端点移出零数据留存资格。中国 AI 股票自 6 月底以来蒸发约 1.7 万亿美元市值。"
+      },
+      "categories": [
+        "Research",
+        "AI Safety",
+        "Infrastructure",
+        "Industry"
+      ],
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "Lean",
+        "Mathlib",
+        "Formal Verification",
+        "OpenAI",
+        "Perplexity",
+        "Frontier Safety",
+        "Meta",
+        "Muse",
+        "Agent Security",
+        "Sandbox Escape",
+        "OpenRouter",
+        "Dragos",
+        "Data Retention",
+        "Inference Providers",
+        "China",
+        "Markets",
+        "Z.AI"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-23.md",
+        "zh": "./content/daily_zh/2026-11-23.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Lean and Mathlib Communities Certify the Claude-Assisted Riemann Hypothesis Proof",
+          "summary": "On November 20, mathematician Levent Alpöge, employed at Anthropic, announced a Lean library proving the Riemann Hypothesis, developed with Claude, spanning roughly 17 million lines across about 175,000 files. On November 21 the Lean and Mathlib communities issued a joint statement, endorsed by the Lean FRO, certifying both the statement and the proof. The verification was layered rather than single-pass:",
+          "category": "Research",
+          "tags": [
+            "Anthropic",
+            "Claude",
+            "Lean",
+            "Mathlib",
+            "Formal Verification",
+            "Riemann Hypothesis"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "OpenAI Publishes Log-Perplexity Numbers and Proposes Shared Development Limits",
+          "summary": "On November 22, OpenAI chief scientist Jakub Pachocki published internal pretraining log-perplexity figures for the first time: GPT-3.5 around 0.99, GPT-4 around 0.91, recent models below 0.8 where cybersecurity and mathematics capabilities emerged, and roughly 0.76 for the open-mathematics results. On that basis he proposed that frontier developers jointly set evaluation norms for models landing in the 0.68 to 0.7",
+          "category": "AI Safety",
+          "tags": [
+            "OpenAI",
+            "Perplexity",
+            "Frontier Safety",
+            "Governance",
+            "Monitoring"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "NebuSec Chains a Webpage to Root in a Meta Muse VM and Walks Past the Sentinel Egress Gate",
+          "summary": "On November 20, security research group NebuSec published two write-ups describing a three-stage chain against Meta's Muse personal agent, which runs each user in a 2-vCPU, 8 GiB Cloud Hypervisor VM with the agent as root inside a systemd-nspawn container and a gatekeeper called Sentinel mediating egress. Stage one: Muse's bundled Chromium backend was still on version 152 in early",
+          "category": "AI Safety",
+          "tags": [
+            "Meta",
+            "Muse",
+            "Agent Security",
+            "Sandbox Escape",
+            "Sentinel",
+            "Chromium"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "OpenRouter Off-Boards Three Providers and Pulls 125 Endpoints From Zero Data Retention",
+          "summary": "On November 22, OpenRouter disclosed that it had off-boarded three inference providers, removed 125 endpoints from Zero Data Retention eligibility, and notified all potentially affected customers, after Dragos published an audit on November 19 in which roughly two million prompts seeded with unique URLs and canary credentials were sent to widely used AI services from July through November. OpenRouter said",
+          "category": "Infrastructure",
+          "tags": [
+            "OpenRouter",
+            "Dragos",
+            "Inference Providers",
+            "Data Retention",
+            "Privacy"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "China's AI Equity Trade Gives Back About $1.7 Trillion",
+          "summary": "Bloomberg reported on November 22 that stocks on three tech-focused Chinese indexes have shed a combined $1.7 trillion in market value since the end of June. The first half of 2026 produced multifold gains that carried model developer Z.AI and optical module maker Zhongji Innolight to record highs; those have largely reversed, turning what had been the year's consensus trade",
+          "category": "Industry",
+          "tags": [
+            "China",
+            "Markets",
+            "Z.AI",
+            "Export Controls",
+            "Nvidia"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-22",
       "title": "AI Daily Digest - 2026-11-22",

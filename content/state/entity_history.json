@@ -2985,10 +2985,11 @@
     "last_seen": "2026-07-07"
   },
   "Jakub Pachocki": {
-    "count": 1,
+    "count": 2,
     "first_seen": "2026-09-07",
-    "last_seen": "2026-09-07",
-    "type": "person"
+    "last_seen": "2026-11-23",
+    "type": "person",
+    "description": "OpenAI chief scientist; published internal log-perplexity values and proposed shared development limits"
   },
   "James Manyika": {
     "appearances": 1,
@@ -3291,13 +3292,14 @@
   },
   "Lean": {
     "appearances": 2,
-    "count": 3,
+    "count": 4,
     "dates": [
       "2026-10-08"
     ],
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-23",
     "mention_count": 2,
-    "mentions": 1
+    "mentions": 1,
+    "description": "Proof assistant whose kernel and FRO endorsed the certification of the Riemann proof"
   },
   "Lean Theorem Prover": {
     "first_seen": "2026-08-03",
@@ -3309,8 +3311,9 @@
     "last_seen": "2026-07-31"
   },
   "Levent Alpöge": {
-    "count": 2,
-    "last_seen": "2026-11-21"
+    "count": 3,
+    "last_seen": "2026-11-23",
+    "description": "Anthropic mathematician; released a Lean proof of the Riemann Hypothesis developed with Claude"
   },
   "Light Society": {
     "first_seen": "2026-08-15",
@@ -4642,8 +4645,9 @@
     "mention_count": 1
   },
   "OpenRouter": {
-    "count": 4,
-    "last_seen": "2026-11-17"
+    "count": 5,
+    "last_seen": "2026-11-23",
+    "description": "Model gateway that off-boarded three inference providers and pulled 125 endpoints from ZDR eligibility"
   },
   "OpenSRE": {
     "appearances": 1,
@@ -6047,9 +6051,10 @@
     "mention_count": 1
   },
   "Together AI": {
-    "count": 2,
-    "last_seen": "2026-08-14",
-    "mention_count": 1
+    "count": 3,
+    "last_seen": "2026-11-23",
+    "mention_count": 1,
+    "description": "Inference provider that disclosed prompt leakage for June and July requests"
   },
   "Tomek Korbak": {
     "appearances": 1,
@@ -6539,9 +6544,10 @@
     "last_seen": "2026-07-04"
   },
   "Z.AI": {
-    "count": 2,
-    "last_seen": "2026-09-16",
-    "mention_count": 1
+    "count": 3,
+    "last_seen": "2026-11-23",
+    "mention_count": 1,
+    "description": "Chinese model developer whose share price reversed from 2026 highs"
   },
   "Z.ai": {
     "appearances": 2,
@@ -8059,9 +8065,9 @@
     "last_seen": "2026-11-22"
   },
   "Dragos": {
-    "count": 1,
-    "description": "",
-    "last_seen": "2026-11-22"
+    "count": 2,
+    "description": "Industrial cybersecurity firm whose canary-token audit exposed inference provider data handling",
+    "last_seen": "2026-11-23"
   },
   "HD Moore": {
     "count": 1,
@@ -8092,5 +8098,45 @@
     "count": 1,
     "description": "",
     "last_seen": "2026-11-22"
+  },
+  "Mathlib": {
+    "count": 1,
+    "description": "Lean mathematics library whose definition of the Riemann Hypothesis was the reference for statement equivalence",
+    "last_seen": "2026-11-23"
+  },
+  "NebuSec": {
+    "count": 1,
+    "description": "Security research group that published the three-stage Meta Muse exploit chain",
+    "last_seen": "2026-11-23"
+  },
+  "Meta Muse": {
+    "count": 1,
+    "description": "Meta consumer personal agent running per-user Cloud Hypervisor VMs; sentinel egress gate bypassed",
+    "last_seen": "2026-11-23"
+  },
+  "Sentinel": {
+    "count": 1,
+    "description": "Meta Muse egress gatekeeper combining Rego policies, taint checks and per-domain budgets",
+    "last_seen": "2026-11-23"
+  },
+  "Phala": {
+    "count": 1,
+    "description": "Inference provider that published a November preliminary incident report",
+    "last_seen": "2026-11-23"
+  },
+  "Novita": {
+    "count": 1,
+    "description": "Inference provider whose notice concerns MiniMax requests forwarded back to MiniMax",
+    "last_seen": "2026-11-23"
+  },
+  "Zhongji Innolight": {
+    "count": 1,
+    "description": "Chinese optical module maker that hit record highs before the AI equity reversal",
+    "last_seen": "2026-11-23"
+  },
+  "ROGUE-AI": {
+    "count": 1,
+    "description": "Multi-agent replication framework for auditing agentic security incidents with matched controls",
+    "last_seen": "2026-11-23"
   }
 }

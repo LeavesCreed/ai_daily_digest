@@ -2965,5 +2965,47 @@
     "last_updated": "2026-11-22",
     "status": "strong",
     "strength": "strong"
+  },
+  "verification_anchor_outside_component": {
+    "description": "Verification keeps migrating outside the component being verified: statement-equivalence checked from a minimal Mathlib-only file rather than the kernel, egress enforced outside the guest rather than in the container cgroup, retention policy audited at the router rather than promised by the provider. In each case the existing control was present, audited and off the data path.",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "critical",
+    "strength": "critical"
+  },
+  "measurement_before_governance": {
+    "description": "Frontier safety is being instrumented before it is governed: a lab published a common scalar (log-perplexity) and proposed bands as release gates while no shared enforcement body exists. Risk is that the measurement layer matures faster than the consequence layer.",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "agent_sandbox_architecture_failure": {
+    "description": "Multi-layer agent sandbox failures are architectural rather than missing checks: NebuSec's Muse chain used no prompt injection, only a stale bundled browser plus enforcement living in a cgroup the VM's own route bypassed. Per-user VM isolation with an in-guest gate is not a boundary.",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "critical",
+    "strength": "critical"
+  },
+  "zero_retention_as_policy_not_control": {
+    "description": "Zero Data Retention is being reclassified from technical guarantee to contractual promise: OpenRouter stripped 125 endpoints of ZDR eligibility as a policy action after canary audits, without any technical change to provider logging.",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "verification_understanding_decoupling": {
+    "description": "Machine verification now outruns human comprehension: the Riemann proof is certified but has no readable exposition or peer review. Formal certification resolves whether the object is the theorem; it does not establish understanding.",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "emerging",
+    "strength": "emerging"
+  },
+  "china_ai_equity_repricing": {
+    "description": "China's AI equity complex repricing roughly $1.7 trillion off June-end highs after the remote-access export rule and supplier shipment suspensions, distinguishing compute-path financing cost from model capability.",
+    "first_seen": "2026-11-23",
+    "last_updated": "2026-11-23",
+    "status": "strong",
+    "strength": "strong"
   }
 }
