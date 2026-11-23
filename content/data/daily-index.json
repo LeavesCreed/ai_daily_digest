@@ -1,7 +1,115 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T23:17:45Z",
+  "generated_at": "2026-11-23T23:20:00Z",
   "entries": [
+    {
+      "date": "2026-11-24",
+      "title": "AI Daily Digest - 2026-11-24",
+      "summary": {
+        "en": "Z.ai shipped GLM-5.4, its first flagship on a Loop Transformer: 28 layers of GLM-5 run twice for about 750B parameters, with vision and a 1M context but no published benchmarks, no API and no weights. CrowdStrike agreed to buy Zscaler for $43.9 billion in stock, folding zero-trust network access into Falcon and calling AI agents the new weakest link. The UN and Barbados co-hosted the Bridgetown summit, opening debate on a multilateral risk framework without any negotiated outcome. Infrastructure capital split: Firmus cut its debt target from $7.5 billion to $1.5 billion while Applied Digital signed a $5.4 billion lease. Google connected Wallet spending data to AI Mode.",
+        "zh": "Z.ai 发布 GLM-5.4，首款采用 Loop Transformer 的旗舰：把 GLM-5 的 28 层跑两遍，约 7500 亿参数，加了视觉与 100 万上下文，但基准未公开、API 与权重都还没放。CrowdStrike 以 439 亿美元全股票收购 Zscaler，把零信任网络访问并入 Falcon，并把 AI 智能体称作新的最薄弱环节。联合国与巴巴多斯共同主办布里奇顿峰会，开启多边风险管理框架讨论，不产出谈判文本。算力资本同一天分岔：Firmus 把债务目标从 75 亿美元砍到 15 亿，Applied Digital 签下 54 亿美元租约。Google 把 Wallet 消费数据接进 AI Mode。"
+      },
+      "categories": [
+        "Models",
+        "Industry",
+        "AI Safety",
+        "Infrastructure",
+        "Applications"
+      ],
+      "tags": [
+        "Z.ai",
+        "GLM-5.4",
+        "Loop Transformer",
+        "Open Weights",
+        "CrowdStrike",
+        "Zscaler",
+        "Cybersecurity",
+        "Zero Trust",
+        "UN",
+        "Barbados",
+        "AI Governance",
+        "Firmus",
+        "Nvidia",
+        "Data Center Finance",
+        "Applied Digital",
+        "Google",
+        "AI Mode",
+        "Google Wallet",
+        "Personal Intelligence"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-24.md",
+        "zh": "./content/daily_zh/2026-11-24.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Z.ai Releases GLM-5.4, a 750B Model Built on a Loop Transformer",
+          "summary": "Z.ai launched GLM-5.4 on November 23, the first flagship in its GLM line built on a Loop Transformer: 28 layers of the GLM-5 base run twice with gating and a bounded second-pass cache, for roughly 750 billion total parameters, adding vision, a 1M-token context and 50 percent more weekly quota than GLM-5.3. No benchmarks are published, API access is gated behind a safety evaluation and open weights behind safety hardening, both without dates. Z.ai concedes looped models trained from scratch still trail unshared-layer models at equal compute budget.",
+          "category": "Models",
+          "tags": [
+            "Z.ai",
+            "GLM-5.4",
+            "Loop Transformer",
+            "Open Weights",
+            "Vision"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "CrowdStrike to Acquire Zscaler for $43.9 Billion in Stock",
+          "summary": "CrowdStrike agreed to buy Zscaler in an all-stock deal valued at about $43.9 billion, the largest in cybersecurity: 1.135 CRWD shares per ZS share, an implied $260 with a 34 percent premium, CrowdStrike holders owning 84.1 percent. Founder Jay Chaudhry, whose affiliates hold roughly 34 percent, signed voting agreements and will lead the Zscaler business on the board. The announcement frames AI agents as the new weakest link, and the market moved the two stocks in opposite directions at the open.",
+          "category": "Industry",
+          "tags": [
+            "CrowdStrike",
+            "Zscaler",
+            "Cybersecurity",
+            "Zero Trust",
+            "Agents"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Bridgetown Summit Opens a Multilateral AI Risk Framework Without a Negotiated Text",
+          "summary": "The UN and Barbados co-hosted the Bridgetown Special Summit on AI Safety on November 23, convened by Guterres and Mottley with about 150 participants and two roundtables on risk management, evaluation and national capacity. No negotiated outcome was planned; calls to action and pledges were expected. The framing number from the World Development Report 2026: high-income countries run about 500 incident response teams, low-income countries six, while Norway and Finland's frontier-control call now has 32 states and the European Commission.",
+          "category": "AI Safety",
+          "tags": [
+            "UN",
+            "Barbados",
+            "AI Governance",
+            "Frontier Safety",
+            "Incident Response"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Infrastructure Capital Splits: Firmus Cuts Its Debt Target While Applied Digital Signs a $5.4B Lease",
+          "summary": "Nvidia-backed Firmus Grid launched a $1.5 billion bond inside a roughly $4 billion package, down from a $7.5 billion target set two months earlier, with BBB ratings, funding GB300 purchases for an Indonesian AI factory with DayOne. The same day Applied Digital signed an 18-year lease worth about $5.4 billion with an investment-grade hyperscale customer, lifting portfolio contracted base-term revenue above $41 billion and its shares about 22 percent. Capital is available for backlog, scarce for inventory.",
+          "category": "Infrastructure",
+          "tags": [
+            "Firmus",
+            "Nvidia",
+            "Data Center Finance",
+            "Applied Digital",
+            "Leasing"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Google Connects Wallet Spending Data to AI Mode's Personal Intelligence",
+          "summary": "Google enabled AI Mode to read a user's Google Wallet purchase history and card data where opted in, so answers reflect actual spending and budgets. The integration joins Gmail, Calendar and Photos in Personal Intelligence in AI Mode, with Drive and the Gemini app to follow in the coming weeks. The stated use is budgeting and cross-session continuity; the practical effect is that transaction history now feeds commercial intent inference inside the surface that already captures search intent.",
+          "category": "Applications",
+          "tags": [
+            "Google",
+            "AI Mode",
+            "Google Wallet",
+            "Personal Intelligence",
+            "Consumer AI"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-23",
       "title": "AI Daily Digest - 2026-11-23",

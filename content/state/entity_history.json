@@ -1477,16 +1477,16 @@
   },
   "CrowdStrike": {
     "appearances": 2,
-    "count": 2,
+    "count": 3,
     "dates": [
       "2026-09-29",
       "2026-10-23"
     ],
     "first_seen": "2026-09-01",
-    "last_seen": "2026-11-14",
+    "last_seen": "2026-11-24",
     "mention_count": 2,
     "mentions": 2,
-    "description": "linked ARTEX instances to DeepSeek V4.1-Flash, GLM-5.3 and Grok 4.6 sessions"
+    "description": "Endpoint security vendor; agreed to acquire Zscaler for $43.9B in stock"
   },
   "Crusoe": {
     "dates": [
@@ -6551,15 +6551,16 @@
   },
   "Z.ai": {
     "appearances": 2,
-    "count": 5,
+    "count": 6,
     "dates": [
       "2026-10-10"
     ],
     "first_seen": "2026-08-15",
-    "last_seen": "2026-11-08",
+    "last_seen": "2026-11-24",
     "mention_count": 4,
     "mentions": 2,
-    "trend": "stable"
+    "trend": "stable",
+    "description": "Zhipu AI, Hong Kong-listed Chinese lab; shipped GLM-5.4 on a Loop Transformer"
   },
   "Zama": {
     "count": 1,
@@ -8138,5 +8139,99 @@
     "count": 1,
     "description": "Multi-agent replication framework for auditing agentic security incidents with matched controls",
     "last_seen": "2026-11-23"
-  }
+  },
+  "GLM-5.4": {
+    "count": 1,
+    "description": "Z.ai flagship running 28 GLM-5 layers twice, about 750B parameters, vision, 1M context, no published benchmarks",
+    "last_seen": "2026-11-24"
+  },
+  "Loop Transformer": {
+    "count": 1,
+    "description": "Architecture that reuses existing layers for extra depth instead of adding parameters",
+    "last_seen": "2026-11-24"
+  },
+  "Zscaler": {
+    "count": 1,
+    "description": "Zero-trust network access vendor; being acquired by CrowdStrike",
+    "last_seen": "2026-11-24"
+  },
+  "Jay Chaudhry": {
+    "count": 1,
+    "description": "Zscaler founder; holds ~34% and will lead the Zscaler business on CrowdStrike's board",
+    "last_seen": "2026-11-24"
+  },
+  "United Nations": {
+    "count": 1,
+    "description": "Co-host of the Bridgetown Special Summit on AI Safety with Barbados",
+    "last_seen": "2026-11-24"
+  },
+  "Barbados": {
+    "count": 1,
+    "description": "Co-host of the Bridgetown summit; PM Mia Mottley convened with Guterres",
+    "last_seen": "2026-11-24"
+  },
+  "Mia Mottley": {
+    "count": 1,
+    "description": "Prime Minister of Barbados; co-convener of the Bridgetown AI safety summit",
+    "last_seen": "2026-11-24"
+  },
+  "António Guterres": {
+    "count": 1,
+    "description": "UN Secretary-General; proposed a multilateral AI risk-management framework at Bridgetown",
+    "last_seen": "2026-11-24"
+  },
+  "Amandeep Singh Gill": {
+    "count": 1,
+    "description": "UN under-secretary-general and special envoy for digital and emerging technologies",
+    "last_seen": "2026-11-24"
+  },
+  "Firmus Grid": {
+    "count": 1,
+    "description": "Nvidia-backed AI infrastructure developer; cut bond target from $7.5B to $1.5B",
+    "last_seen": "2026-11-24"
+  },
+  "DayOne Data Centers": {
+    "count": 1,
+    "description": "Indonesian data centre partner in Firmus Grid's AI factory build",
+    "last_seen": "2026-11-24"
+  },
+  "Applied Digital": {
+    "count": 1,
+    "description": "Data centre operator; signed an 18-year, $5.4B lease with an investment-grade hyperscaler",
+    "last_seen": "2026-11-24"
+  },
+  "Google Wallet": {
+    "count": 1,
+    "description": "Spending and card data source now connected to AI Mode personal intelligence",
+    "last_seen": "2026-11-24"
+  },
+  "AppSci-Bench": {
+    "count": 1,
+    "description": "Benchmark measuring whether LLMs can build and improve business agents; best model 59.1% MMS@3",
+    "last_seen": "2026-11-24"
+  },
+  "Claude-BugHunter": {
+    "count": 1,
+    "description": "Claude Code security skill bundle with 82 skills and 681 disclosed-report patterns",
+    "last_seen": "2026-11-24"
+  },
+  "2026-11-24": [
+    "Z.ai",
+    "GLM-5.4",
+    "Loop Transformer",
+    "CrowdStrike",
+    "Zscaler",
+    "Jay Chaudhry",
+    "United Nations",
+    "Barbados",
+    "Mia Mottley",
+    "António Guterres",
+    "Amandeep Singh Gill",
+    "Firmus Grid",
+    "DayOne Data Centers",
+    "Applied Digital",
+    "Google Wallet",
+    "AppSci-Bench",
+    "Claude-BugHunter"
+  ]
 }
