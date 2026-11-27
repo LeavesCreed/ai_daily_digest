@@ -2054,10 +2054,11 @@
     "strength": "critical"
   },
   "verification_capacity_as_bottleneck": {
-    "description": "The scarce input in frontier research is shifting from generation to checking: proof corpora, third-party evaluators and audit trails rather than raw model scores.",
-    "last_updated": "2026-11-15",
-    "strength": "high",
-    "status": "critical"
+    "description": "The scarce input in agentic engineering is evidence of equivalence, not generated code. Anthropic's Rust Messages API port passed about 98% of roughly 700 integration tests in April while only about 24% of production inputs matched Python behavior; turning the live API into an oracle and dispatching agents to close each divergence lifted the match rate to 99.6% by August, after months of work and over 100 weakened assertions found in ported tests.",
+    "last_updated": "2026-11-28",
+    "strength": "critical",
+    "status": "critical",
+    "first_seen": "2026-11-28"
   },
   "verification_instrumentation_gap": {
     "description": "Across governance, infrastructure and science the binding constraint is evidence rather than capability: Anthropic disclosed an equity structure without share source, baseline or payout terms, Microsoft lost an anchor tenant because no energisation date existed, and iNaturalist found its records rest on an unverified assumption about photographs. Instruments that let a third party trust a claim, not the claim itself, are now the scarce good.",
@@ -2673,11 +2674,11 @@
     "strength": "high"
   },
   "verified_artifacts_replace_scores": {
-    "description": "When a kernel can reject a candidate, the unit of comparison shifts from benchmark scores to machine-checked artifacts. Google's /teamwork results are evaluable without trusting the vendor, which is a different kind of claim than a vendor-reported win rate.",
+    "description": "Evidence artifacts keep substituting for headline scores: Anthropic publishes production match rates rather than a migration claim, Comcast's policy argument rests on a case study with system and line counts, and Cognition reports sandbox escapes caught by purpose-built canary evaluations rather than an assurance statement.",
     "first_seen": "2026-11-15",
-    "last_updated": "2026-11-15",
+    "last_updated": "2026-11-28",
     "status": "strong",
-    "strength": "high"
+    "strength": "strong"
   },
   "capability_freeze_as_litigation_remedy": {
     "description": "Four nonprofits are asking a state court, not a legislature, to cap frontier capability. The immediate product is discovery: safety eval records, red-team findings and oversight promises become litigable, which changes what labs write down.",
@@ -2939,16 +2940,16 @@
     "strength": "critical"
   },
   "export_control_moves_to_node_presumption": {
-    "description": "Export enforcement shifting from entity lists to process-node presumptions and burden-of-proof reversal: the Commerce remote-access rule effective November 19 led TSMC and Samsung to suspend previously permitted 16nm-and-below orders from Chinese designers, with licence queues becoming the binding constraint.",
+    "description": "The Nov 16 remote-access rule now transmits through capital and cadence rather than shipments: Asia-Pacific data-center lending stalls above $49B with DayOne pausing its U.S. listing and a BlackRock-led consortium re-pricing a portfolio, while Reuters reports Zhipu's GLM-5.5 slipped and Moonshot's K4 may slide to mid-2027.",
     "first_seen": "2026-11-22",
-    "last_updated": "2026-11-22",
+    "last_updated": "2026-11-28",
     "status": "strong",
     "strength": "strong"
   },
   "looped_depth_over_parameter_scale": {
-    "description": "Efficiency frontier defined by depth per token rather than parameter count: Thinking Machines' Inkling 2 Mini runs its middle layers three times per token to reach 26.4B total / 3.4B active with a 1M context in roughly 20GB, landing within a few questions of larger U.S. open-weight models on a third-party data-analysis exam.",
+    "description": "The looped-MoE rationale is now under controlled test. LoopTitan adds matched non-revisit controls and finds parameter revisit alone buys almost nothing, with a non-revisit control retaining the reported gain, most of it from network shape and the rest from residual scaling, landing directly on the Loop Transformer design GLM-5.4 shipped.",
     "first_seen": "2026-11-22",
-    "last_updated": "2026-11-22",
+    "last_updated": "2026-11-28",
     "status": "strong",
     "strength": "strong"
   },
@@ -3049,5 +3050,26 @@
     "strength": "medium",
     "first_seen": "2026-11-24",
     "last_updated": "2026-11-24"
+  },
+  "swarm_speed_not_swarm_quality": {
+    "description": "At matched token budgets, agent teams buy time and not capability. Vals AI measures four-agent teams reaching the same final score within 3 points but 1.2-1.3x sooner at about 3x tokens (33-34% efficiency); Paradigm reports eight-agent teams about 6x faster but about 7% lower, and a single agent that restarts with fresh context beating the best team 97.0% to 93.2%.",
+    "first_seen": "2026-11-28",
+    "last_updated": "2026-11-28",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "open_weights_as_training_substrate": {
+    "description": "Cognition's SWE-2.1 is pure RL on Kimi K3, so a U.S. coding lab's largest quarterly capability jump rests on Chinese open weights at the same time U.S. rules tighten around Chinese labs' own release schedules; restricting publication does not restrict training on already-published weights.",
+    "first_seen": "2026-11-28",
+    "last_updated": "2026-11-28",
+    "status": "strong",
+    "strength": "strong"
+  },
+  "remediation_queue_as_policy_constraint": {
+    "description": "Frontier cyber models are now generating more findings than enterprises can fix: Comcast found a critical authentication flaw across 258 systems but names repair as the bottleneck, and the proposed answer is published eligibility rules for early access plus a central deduplication venue rather than a longer voluntary pre-release window.",
+    "first_seen": "2026-11-28",
+    "last_updated": "2026-11-28",
+    "status": "strong",
+    "strength": "strong"
   }
 }

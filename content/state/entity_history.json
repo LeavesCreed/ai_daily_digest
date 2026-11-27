@@ -743,8 +743,8 @@
     "last_seen": "2026-07-31"
   },
   "BIS": {
-    "count": 2,
-    "last_seen": "2026-11-17"
+    "count": 3,
+    "last_seen": "2026-11-28"
   },
   "BNP Paribas": {
     "count": 1,
@@ -962,11 +962,11 @@
   },
   "ByteDance": {
     "appearances": 1,
-    "count": 1,
+    "count": 2,
     "dates": [
       "2026-10-10"
     ],
-    "last_seen": "2026-10-10",
+    "last_seen": "2026-11-28",
     "mention_count": 1,
     "mentions": 1
   },
@@ -1113,8 +1113,8 @@
     "last_seen": "2026-09-02"
   },
   "Cerebras": {
-    "count": 2,
-    "last_seen": "2026-10-27",
+    "count": 3,
+    "last_seen": "2026-11-28",
     "dates": [
       "2026-10-27"
     ],
@@ -1237,9 +1237,10 @@
     "dates": [
       "2026-10-05"
     ],
-    "last_seen": "2026-10-05",
+    "last_seen": "2026-11-28",
     "mention_count": 1,
-    "mentions": 1
+    "mentions": 1,
+    "count": 2
   },
   "Claude Mythos 5.1": {
     "count": 1,
@@ -1337,11 +1338,11 @@
   },
   "Cognition": {
     "appearances": 1,
-    "count": 1,
+    "count": 2,
     "dates": [
       "2026-09-26"
     ],
-    "last_seen": "2026-09-26",
+    "last_seen": "2026-11-28",
     "mention_count": 1,
     "mentions": 1
   },
@@ -2464,8 +2465,8 @@
   },
   "Gold Eagle": {
     "appearances": 1,
-    "count": 1,
-    "last_seen": "2026-07-31"
+    "count": 2,
+    "last_seen": "2026-11-28"
   },
   "Goldman Sachs": {
     "count": 1,
@@ -2808,7 +2809,7 @@
   },
   "Hugging Face": {
     "appearances": 6,
-    "count": 13,
+    "count": 14,
     "dates": [
       "2026-09-29",
       "2026-10-04",
@@ -2818,7 +2819,7 @@
       "2026-10-26"
     ],
     "first_seen": "2026-07-11",
-    "last_seen": "2026-11-18",
+    "last_seen": "2026-11-28",
     "mention_count": 10,
     "mentions": 10
   },
@@ -3173,9 +3174,9 @@
     "mentions": 1
   },
   "Kimi K3": {
-    "count": 8,
+    "count": 9,
     "description": "2.8T open-weight model, demand crush",
-    "last_seen": "2026-08-27",
+    "last_seen": "2026-11-28",
     "mention_count": 1
   },
   "Kimi K3.1 Pro": {
@@ -3957,14 +3958,14 @@
   },
   "Moonshot AI": {
     "appearances": 5,
-    "count": 13,
+    "count": 14,
     "dates": [
       "2026-10-01",
       "2026-10-17",
       "2026-10-24"
     ],
     "description": "Kimi K3 launched, 0B IPO",
-    "last_seen": "2026-11-21",
+    "last_seen": "2026-11-28",
     "mention_count": 3,
     "mentions": 3
   },
@@ -4084,13 +4085,13 @@
   },
   "NIST": {
     "appearances": 4,
-    "count": 2,
+    "count": 3,
     "dates": [
       "2026-09-29",
       "2026-10-18",
       "2026-10-21"
     ],
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-11-28",
     "mention_count": 4,
     "mentions": 1,
     "note": "ECDSA curve seeds for P-192 through P-521 traced to lrand48 output seeded with Unix timestamps"
@@ -5177,9 +5178,10 @@
       "2026-10-05",
       "2026-10-06"
     ],
-    "last_seen": "2026-10-06",
+    "last_seen": "2026-11-28",
     "mention_count": 2,
-    "mentions": 2
+    "mentions": 2,
+    "count": 2
   },
   "Reka": {
     "appearances": 1,
@@ -6568,8 +6570,8 @@
   },
   "Zhipu AI": {
     "appearances": 1,
-    "count": 2,
-    "last_seen": "2026-09-16"
+    "count": 3,
+    "last_seen": "2026-11-28"
   },
   "Zuckerberg": {
     "count": 1,
@@ -8191,9 +8193,9 @@
     "last_seen": "2026-11-24"
   },
   "DayOne Data Centers": {
-    "count": 1,
+    "count": 2,
     "description": "Indonesian data centre partner in Firmus Grid's AI factory build",
-    "last_seen": "2026-11-24"
+    "last_seen": "2026-11-28"
   },
   "Applied Digital": {
     "count": 1,
@@ -8233,5 +8235,92 @@
     "Google Wallet",
     "AppSci-Bench",
     "Claude-BugHunter"
-  ]
+  ],
+  "2026-11-28": [
+    "Anthropic Messages API",
+    "Rust",
+    "Comcast",
+    "Claude Mythos",
+    "Vals AI",
+    "Paradigm",
+    "Hugging Face",
+    "Cognition",
+    "SWE-2.1",
+    "Kimi K3",
+    "DayOne Data Centers",
+    "ByteDance",
+    "BlackRock",
+    "Citigroup",
+    "Standard Chartered",
+    "BIS",
+    "Zhipu AI",
+    "GLM-5.5",
+    "Moonshot AI",
+    "Kimi K4",
+    "Cerebras",
+    "NIST",
+    "Gold Eagle",
+    "Reflection AI",
+    "LoopTitan"
+  ],
+  "Anthropic Messages API": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-28"
+  },
+  "Rust": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-28"
+  },
+  "Comcast": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-28"
+  },
+  "Vals AI": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-28"
+  },
+  "Paradigm": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-28"
+  },
+  "SWE-2.1": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-28"
+  },
+  "BlackRock": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-28"
+  },
+  "Citigroup": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-28"
+  },
+  "Standard Chartered": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-28"
+  },
+  "GLM-5.5": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-28"
+  },
+  "Kimi K4": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-28"
+  },
+  "LoopTitan": {
+    "count": 1,
+    "description": "",
+    "last_seen": "2026-11-28"
+  }
 }

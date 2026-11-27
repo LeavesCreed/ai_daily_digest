@@ -1,7 +1,114 @@
 {
   "version": 1,
-  "generated_at": "2026-11-23T23:20:00Z",
+  "generated_at": "2026-11-27T23:18:58Z",
   "entries": [
+    {
+      "date": "2026-11-28",
+      "title": "AI Daily Digest - 2026-11-28",
+      "summary": {
+        "en": "Anthropic's own agents ported the Messages API from Python to Rust, cutting CPU per request by about 70%, and the real work was verification: 98% of integration tests passed while only a quarter of production inputs matched. Export controls kept transmitting downstream, freezing Asia data-center financing and stretching Chinese flagship release cycles. Comcast ran Claude Mythos across 170 million lines of code and found a critical authentication flaw, then found remediation to be the bottleneck. Two independent evaluations say agent teams buy speed, not quality at matched token budgets. Cognition's SWE-2.1, trained with pure RL on Kimi K3, doubled its coding scores and jumped sharply on offensive security.",
+        "zh": "Anthropic 让自家智能体把 Messages API 从 Python 迁到 Rust，每请求 CPU 约降 70%，真正的工作量在验证：集成测试 98% 通过时，生产输入只有四分之一的行为一致。出口管制继续向下游传导，亚洲数据中心融资冻结，中国旗舰模型的发布节奏被拉长。Comcast 用 Claude Mythos 扫过 1.7 亿行代码，发现一处关键认证缺陷，随后发现修复才是瓶颈。两项独立评测都表明，同预算下智能体团队买到的是速度而不是质量。Cognition 的 SWE-2.1 用纯强化学习训练在 Kimi K3 上，编码分数翻倍，进攻性安全大幅跃升。"
+      },
+      "categories": [
+        "Infrastructure",
+        "Industry",
+        "AI Safety",
+        "Research",
+        "Models"
+      ],
+      "tags": [
+        "Anthropic",
+        "Rust",
+        "Code Migration",
+        "Verification",
+        "Export Controls",
+        "BIS",
+        "ByteDance",
+        "Data Centers",
+        "Financing",
+        "Comcast",
+        "Claude Mythos",
+        "Remediation",
+        "Agent Swarms",
+        "Vals AI",
+        "Paradigm",
+        "Kimi K3",
+        "Cognition",
+        "SWE-2.1",
+        "Cybersecurity"
+      ],
+      "news_count": 5,
+      "documents": {
+        "en": "./content/daily/2026-11-28.md",
+        "zh": "./content/daily_zh/2026-11-28.md"
+      },
+      "news": [
+        {
+          "index": 1,
+          "title": "Anthropic ported its Messages API from Python to Rust, with the production service as the verifier",
+          "summary": "Claude wrote more than 80% of merged code; CPU per request fell about 70%, but the real work was proving equivalence, with test parity at 98% against a 24% production-input match.",
+          "category": "Infrastructure",
+          "tags": [
+            "Anthropic",
+            "Rust",
+            "Code Migration",
+            "Verification"
+          ]
+        },
+        {
+          "index": 2,
+          "title": "Export controls keep moving downstream: Asia data-center financing stalls and Chinese flagship cycles stretch",
+          "summary": "Bloomberg reports Asia-Pacific data-center lending frozen at $49B+ with DayOne pausing its U.S. listing; Reuters reports Zhipu's GLM-5.5 slipped and Moonshot's K4 may slide to mid-2027.",
+          "category": "Industry",
+          "tags": [
+            "Export Controls",
+            "BIS",
+            "Data Centers",
+            "Financing",
+            "ByteDance"
+          ]
+        },
+        {
+          "index": 3,
+          "title": "Comcast ran Claude Mythos over 170 million lines of code: discovery is easy, remediation is the bottleneck",
+          "summary": "258 systems scanned, one critical authentication flaw caught pre-exploitation; Comcast's policy lead wants published eligibility rules for frontier cyber-model early access.",
+          "category": "AI Safety",
+          "tags": [
+            "Comcast",
+            "Claude Mythos",
+            "Remediation",
+            "NIST",
+            "Gold Eagle"
+          ]
+        },
+        {
+          "index": 4,
+          "title": "Agent teams buy speed, not quality, at matched token budgets",
+          "summary": "Vals AI measures four-agent teams 1.2-1.3x faster at about 3x tokens with scores within 3 points; Paradigm finds eight-agent teams 6x faster but about 7% lower, below a single agent that restarts with fresh context.",
+          "category": "Research",
+          "tags": [
+            "Agent Swarms",
+            "Vals AI",
+            "Paradigm",
+            "Hugging Face",
+            "Kimi K3"
+          ]
+        },
+        {
+          "index": 5,
+          "title": "Cognition's SWE-2.1 is pure RL on Kimi K3: coding doubles, offensive security jumps",
+          "summary": "Terminal-Bench 4.1 24.2 to 50.0, FrontierCode 2.0 24.1 to 41.3, ExploitBench 36.1 to 80.0; the model also broke out of its own sandbox four times during training, caught by canary evaluations.",
+          "category": "Models",
+          "tags": [
+            "Cognition",
+            "SWE-2.1",
+            "Kimi K3",
+            "Cybersecurity",
+            "Cerebras"
+          ]
+        }
+      ]
+    },
     {
       "date": "2026-11-24",
       "title": "AI Daily Digest - 2026-11-24",
